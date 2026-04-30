@@ -1,87 +1,898 @@
 [
-  { "cardId": "istekler-yardim", "arasaacId": 12252 },
-  { "cardId": "istekler-mola", "arasaacId": 24503 },
-  { "cardId": "istekler-saril", "arasaacId": 6023 },
-  { "cardId": "istekler-bir-daha", "arasaacId": 37162 },
-  { "cardId": "istekler-bekle", "arasaacId": 36914 },
-  { "cardId": "yiyecek-elma", "arasaacId": 2462 },
-  { "cardId": "yiyecek-muz", "arasaacId": 2530 },
-  { "cardId": "yiyecek-ekmek", "arasaacId": 2494 },
-  { "cardId": "yiyecek-corba", "arasaacId": 2573 },
-  { "cardId": "yiyecek-pilav", "arasaacId": 6911 },
-  { "cardId": "yiyecek-peynir", "arasaacId": 2541 },
-  { "cardId": "icecek-su", "arasaacId": 32464 },
-  { "cardId": "icecek-sut", "arasaacId": 2445 },
-  { "cardId": "icecek-meyve-suyu", "arasaacId": 11461 },
-  { "cardId": "icecek-cay", "arasaacId": 29802 },
-  { "cardId": "icecek-ic", "arasaacId": 6061 },
-  { "cardId": "duygular-mutlu", "arasaacId": 9907 },
-  { "cardId": "duygular-uzgun", "arasaacId": 35545 },
-  { "cardId": "duygular-kizgin", "arasaacId": 35539 },
-  { "cardId": "duygular-korktum", "arasaacId": 35535 },
-  { "cardId": "duygular-sakin", "arasaacId": 31310 },
-  { "cardId": "duygular-heyecanli", "arasaacId": 39090 },
-  { "cardId": "beden-saglik-bas", "arasaacId": 2673 },
-  { "cardId": "beden-saglik-karin", "arasaacId": 2786 },
-  { "cardId": "beden-saglik-dis", "arasaacId": 10267 },
-  { "cardId": "beden-saglik-el", "arasaacId": 2928 },
-  { "cardId": "beden-saglik-yorgun", "arasaacId": 35537 },
-  { "cardId": "beden-saglik-aciktim", "arasaacId": 35559 },
-  { "cardId": "tuvalet-hijyen-tuvalet", "arasaacId": 6912 },
-  { "cardId": "tuvalet-hijyen-dis-fircala", "arasaacId": 2694 },
-  { "cardId": "tuvalet-hijyen-banyo", "arasaacId": 32426 },
-  { "cardId": "tuvalet-hijyen-sac-tara", "arasaacId": 26947 },
-  { "cardId": "eylemler-otur", "arasaacId": 25082 },
-  { "cardId": "eylemler-kos", "arasaacId": 6465 },
-  { "cardId": "eylemler-yuru", "arasaacId": 6044 },
-  { "cardId": "eylemler-oku", "arasaacId": 7141 },
-  { "cardId": "eylemler-uyu", "arasaacId": 6479 },
-  { "cardId": "kisiler-anne", "arasaacId": 31148 },
-  { "cardId": "kisiler-baba", "arasaacId": 2497 },
-  { "cardId": "kisiler-abla", "arasaacId": 2422 },
-  { "cardId": "kisiler-abi", "arasaacId": 2423 },
-  { "cardId": "kisiler-arkadas", "arasaacId": 25790 },
-  { "cardId": "kisiler-ogretmen", "arasaacId": 6556 },
-  { "cardId": "yerler-ev", "arasaacId": 6964 },
-  { "cardId": "yerler-okul", "arasaacId": 32446 },
-  { "cardId": "yerler-park", "arasaacId": 2859 },
-  { "cardId": "yerler-market", "arasaacId": 3389 },
-  { "cardId": "yerler-araba", "arasaacId": 2339 },
-  { "cardId": "yerler-bahce", "arasaacId": 2434 },
-  { "cardId": "ev-yatak", "arasaacId": 25900 },
-  { "cardId": "ev-masa", "arasaacId": 3129 },
-  { "cardId": "ev-koltuk", "arasaacId": 25479 },
-  { "cardId": "ev-mutfak", "arasaacId": 10752 },
-  { "cardId": "ev-kapi", "arasaacId": 3244 },
-  { "cardId": "ev-isik", "arasaacId": 8619 },
-  { "cardId": "okul-defter", "arasaacId": 2359 },
-  { "cardId": "okul-kalem", "arasaacId": 2282 },
-  { "cardId": "okul-sinif", "arasaacId": 9815 },
-  { "cardId": "okul-teneffus", "arasaacId": 33064 },
-  { "cardId": "okul-boya", "arasaacId": 4870 },
-  { "cardId": "okul-canta", "arasaacId": 2475 },
-  { "cardId": "oyun-oyuncak-top", "arasaacId": 3241 },
-  { "cardId": "oyun-oyuncak-bebek", "arasaacId": 2482 },
-  { "cardId": "oyun-oyuncak-araba", "arasaacId": 2340 },
-  { "cardId": "oyun-oyuncak-yapboz", "arasaacId": 26403 },
-  { "cardId": "oyun-oyuncak-lego", "arasaacId": 8508 },
-  { "cardId": "oyun-oyuncak-salincak", "arasaacId": 4608 },
-  { "cardId": "rutinler-uyan", "arasaacId": 8989 },
-  { "cardId": "rutinler-kahvalti", "arasaacId": 4626 },
-  { "cardId": "rutinler-aksam", "arasaacId": 26997 },
-  { "cardId": "sosyal-ifadeler-merhaba", "arasaacId": 6522 },
-  { "cardId": "sosyal-ifadeler-gule-gule", "arasaacId": 6028 },
-  { "cardId": "sosyal-ifadeler-lutfen", "arasaacId": 8195 },
-  { "cardId": "sosyal-ifadeler-tesekkurler", "arasaacId": 8129 },
-  { "cardId": "sosyal-ifadeler-ozur-dilerim", "arasaacId": 11625 },
-  { "cardId": "sosyal-ifadeler-evet", "arasaacId": 5584 },
-  { "cardId": "duyusal-ihtiyaclar-sessiz", "arasaacId": 5936 },
-  { "cardId": "duyusal-ihtiyaclar-kulaklik", "arasaacId": 5915 },
-  { "cardId": "duyusal-ihtiyaclar-zipla", "arasaacId": 39052 },
-  { "cardId": "duyusal-ihtiyaclar-karanlik", "arasaacId": 26993 },
-  { "cardId": "guvenlik-dur", "arasaacId": 7196 },
-  { "cardId": "guvenlik-yavas", "arasaacId": 4676 },
-  { "cardId": "guvenlik-bekle", "arasaacId": 36914 },
-  { "cardId": "guvenlik-tehlike", "arasaacId": 25315 },
-  { "cardId": "guvenlik-kemer", "arasaacId": 5962 }
+  {
+    "cardId": "banyo-kirli-sepeti",
+    "arasaacId": 6625
+  },
+  {
+    "cardId": "banyo-lavabo",
+    "arasaacId": 2441
+  },
+  {
+    "cardId": "banyo-tarak",
+    "arasaacId": 36380
+  },
+  {
+    "cardId": "beden-saglik-aciktim",
+    "arasaacId": 35559
+  },
+  {
+    "cardId": "beden-saglik-ayagim",
+    "arasaacId": 25327
+  },
+  {
+    "cardId": "beden-saglik-bas",
+    "arasaacId": 2673
+  },
+  {
+    "cardId": "beden-saglik-bogazim",
+    "arasaacId": 3332
+  },
+  {
+    "cardId": "beden-saglik-dis",
+    "arasaacId": 5584
+  },
+  {
+    "cardId": "beden-saglik-el",
+    "arasaacId": 38468
+  },
+  {
+    "cardId": "beden-saglik-gozum",
+    "arasaacId": 6573
+  },
+  {
+    "cardId": "beden-saglik-karin",
+    "arasaacId": 2786
+  },
+  {
+    "cardId": "beden-saglik-kulagim",
+    "arasaacId": 2871
+  },
+  {
+    "cardId": "beden-saglik-susadim",
+    "arasaacId": 32464
+  },
+  {
+    "cardId": "beden-saglik-usuyorum",
+    "arasaacId": 35557
+  },
+  {
+    "cardId": "beden-saglik-yorgun",
+    "arasaacId": 2314
+  },
+  {
+    "cardId": "disari-agac",
+    "arasaacId": 2256
+  },
+  {
+    "cardId": "disari-cicek",
+    "arasaacId": 6481
+  },
+  {
+    "cardId": "disari-deniz",
+    "arasaacId": 38286
+  },
+  {
+    "cardId": "disari-golge",
+    "arasaacId": 6007
+  },
+  {
+    "cardId": "disari-yuruyus",
+    "arasaacId": 39575
+  },
+  {
+    "cardId": "duygular-korktum",
+    "arasaacId": 6625
+  },
+  {
+    "cardId": "duygular-sikildim",
+    "arasaacId": 5584
+  },
+  {
+    "cardId": "duygular-uzgun",
+    "arasaacId": 35545
+  },
+  {
+    "cardId": "duyusal-ihtiyaclar-kalabalik",
+    "arasaacId": 38445
+  },
+  {
+    "cardId": "duyusal-ihtiyaclar-karanlik",
+    "arasaacId": 26266
+  },
+  {
+    "cardId": "duyusal-ihtiyaclar-kulaklik",
+    "arasaacId": 5915
+  },
+  {
+    "cardId": "duyusal-ihtiyaclar-parlak-isik",
+    "arasaacId": 8619
+  },
+  {
+    "cardId": "duyusal-ihtiyaclar-sallan",
+    "arasaacId": 7029
+  },
+  {
+    "cardId": "duyusal-ihtiyaclar-sarilmak-istemiyorum",
+    "arasaacId": 5526
+  },
+  {
+    "cardId": "duyusal-ihtiyaclar-sessiz",
+    "arasaacId": 5936
+  },
+  {
+    "cardId": "duyusal-ihtiyaclar-sik-sik",
+    "arasaacId": 5584
+  },
+  {
+    "cardId": "duyusal-ihtiyaclar-yuksek-ses",
+    "arasaacId": 6481
+  },
+  {
+    "cardId": "duyusal-ihtiyaclar-zipla",
+    "arasaacId": 39052
+  },
+  {
+    "cardId": "ev-dolap",
+    "arasaacId": 7029
+  },
+  {
+    "cardId": "ev-isik",
+    "arasaacId": 8619
+  },
+  {
+    "cardId": "ev-kapi",
+    "arasaacId": 3244
+  },
+  {
+    "cardId": "ev-koltuk",
+    "arasaacId": 6625
+  },
+  {
+    "cardId": "ev-masa",
+    "arasaacId": 32476
+  },
+  {
+    "cardId": "ev-mutfak",
+    "arasaacId": 33070
+  },
+  {
+    "cardId": "ev-pencere",
+    "arasaacId": 32918
+  },
+  {
+    "cardId": "ev-televizyon",
+    "arasaacId": 6625
+  },
+  {
+    "cardId": "eylemler-bak",
+    "arasaacId": 6564
+  },
+  {
+    "cardId": "eylemler-dinle",
+    "arasaacId": 6572
+  },
+  {
+    "cardId": "eylemler-kalk",
+    "arasaacId": 28877
+  },
+  {
+    "cardId": "eylemler-kos",
+    "arasaacId": 6465
+  },
+  {
+    "cardId": "eylemler-oku",
+    "arasaacId": 7141
+  },
+  {
+    "cardId": "eylemler-otur",
+    "arasaacId": 26861
+  },
+  {
+    "cardId": "eylemler-oyna",
+    "arasaacId": 23392
+  },
+  {
+    "cardId": "eylemler-uyu",
+    "arasaacId": 6479
+  },
+  {
+    "cardId": "eylemler-yaz",
+    "arasaacId": 21851
+  },
+  {
+    "cardId": "eylemler-yuru",
+    "arasaacId": 6044
+  },
+  {
+    "cardId": "guvenlik-bekle",
+    "arasaacId": 36914
+  },
+  {
+    "cardId": "guvenlik-dur",
+    "arasaacId": 8289
+  },
+  {
+    "cardId": "guvenlik-elimi-tut",
+    "arasaacId": 6625
+  },
+  {
+    "cardId": "guvenlik-kayboldum",
+    "arasaacId": 36295
+  },
+  {
+    "cardId": "guvenlik-sicak",
+    "arasaacId": 4583
+  },
+  {
+    "cardId": "guvenlik-soguk",
+    "arasaacId": 35557
+  },
+  {
+    "cardId": "guvenlik-tehlike",
+    "arasaacId": 6625
+  },
+  {
+    "cardId": "hava-durumu-firtina",
+    "arasaacId": 6625
+  },
+  {
+    "cardId": "hava-durumu-gok-gurultusu",
+    "arasaacId": 12272
+  },
+  {
+    "cardId": "hava-durumu-gunesli",
+    "arasaacId": 7252
+  },
+  {
+    "cardId": "hava-durumu-serin",
+    "arasaacId": 6481
+  },
+  {
+    "cardId": "hava-durumu-sisli",
+    "arasaacId": 5584
+  },
+  {
+    "cardId": "hava-durumu-yagmurlu",
+    "arasaacId": 3123
+  },
+  {
+    "cardId": "hayvanlar-at",
+    "arasaacId": 39363
+  },
+  {
+    "cardId": "hayvanlar-kedi",
+    "arasaacId": 8009
+  },
+  {
+    "cardId": "hayvanlar-kelebek",
+    "arasaacId": 6481
+  },
+  {
+    "cardId": "hayvanlar-kopek",
+    "arasaacId": 9016
+  },
+  {
+    "cardId": "hayvanlar-kus",
+    "arasaacId": 6163
+  },
+  {
+    "cardId": "hayvanlar-tavsan",
+    "arasaacId": 25624
+  },
+  {
+    "cardId": "icecek-cay",
+    "arasaacId": 6625
+  },
+  {
+    "cardId": "icecek-gazoz",
+    "arasaacId": 6510
+  },
+  {
+    "cardId": "icecek-ic",
+    "arasaacId": 6061
+  },
+  {
+    "cardId": "icecek-kakao",
+    "arasaacId": 2334
+  },
+  {
+    "cardId": "icecek-limonata",
+    "arasaacId": 6551
+  },
+  {
+    "cardId": "icecek-meyve-suyu",
+    "arasaacId": 11461
+  },
+  {
+    "cardId": "icecek-sicak-cikolata",
+    "arasaacId": 6545
+  },
+  {
+    "cardId": "icecek-su",
+    "arasaacId": 32464
+  },
+  {
+    "cardId": "icecek-sut",
+    "arasaacId": 2445
+  },
+  {
+    "cardId": "istekler-ac",
+    "arasaacId": 26370
+  },
+  {
+    "cardId": "istekler-bekle",
+    "arasaacId": 36914
+  },
+  {
+    "cardId": "istekler-bir-daha",
+    "arasaacId": 37162
+  },
+  {
+    "cardId": "istekler-bitti",
+    "arasaacId": 6625
+  },
+  {
+    "cardId": "istekler-istemiyorum",
+    "arasaacId": 5526
+  },
+  {
+    "cardId": "istekler-istiyorum",
+    "arasaacId": 5441
+  },
+  {
+    "cardId": "istekler-mola",
+    "arasaacId": 26370
+  },
+  {
+    "cardId": "istekler-saril",
+    "arasaacId": 6023
+  },
+  {
+    "cardId": "kisiler-abi",
+    "arasaacId": 5988
+  },
+  {
+    "cardId": "kisiler-abla",
+    "arasaacId": 7029
+  },
+  {
+    "cardId": "kisiler-amca",
+    "arasaacId": 30255
+  },
+  {
+    "cardId": "kisiler-anne",
+    "arasaacId": 31148
+  },
+  {
+    "cardId": "kisiler-baba",
+    "arasaacId": 2497
+  },
+  {
+    "cardId": "kisiler-buyukanne",
+    "arasaacId": 23710
+  },
+  {
+    "cardId": "kisiler-buyukbaba",
+    "arasaacId": 23718
+  },
+  {
+    "cardId": "kisiler-ogretmen",
+    "arasaacId": 6556
+  },
+  {
+    "cardId": "kisiler-teyze",
+    "arasaacId": 6625
+  },
+  {
+    "cardId": "kiyafetler-ayakkabi",
+    "arasaacId": 32923
+  },
+  {
+    "cardId": "kiyafetler-corap",
+    "arasaacId": 8339
+  },
+  {
+    "cardId": "kiyafetler-elbise",
+    "arasaacId": 2613
+  },
+  {
+    "cardId": "kiyafetler-etek",
+    "arasaacId": 6625
+  },
+  {
+    "cardId": "kiyafetler-mont",
+    "arasaacId": 8122
+  },
+  {
+    "cardId": "kiyafetler-pantolon",
+    "arasaacId": 2494
+  },
+  {
+    "cardId": "kiyafetler-pijama",
+    "arasaacId": 2522
+  },
+  {
+    "cardId": "kiyafetler-tisort",
+    "arasaacId": 6625
+  },
+  {
+    "cardId": "mutfak-bardak",
+    "arasaacId": 2610
+  },
+  {
+    "cardId": "mutfak-buzdolabi",
+    "arasaacId": 7029
+  },
+  {
+    "cardId": "mutfak-catal",
+    "arasaacId": 28721
+  },
+  {
+    "cardId": "mutfak-firin",
+    "arasaacId": 2426
+  },
+  {
+    "cardId": "mutfak-kasik",
+    "arasaacId": 5584
+  },
+  {
+    "cardId": "mutfak-tencere",
+    "arasaacId": 6625
+  },
+  {
+    "cardId": "okul-boya",
+    "arasaacId": 26696
+  },
+  {
+    "cardId": "okul-canta",
+    "arasaacId": 2475
+  },
+  {
+    "cardId": "okul-cetvel",
+    "arasaacId": 2815
+  },
+  {
+    "cardId": "okul-defter",
+    "arasaacId": 2359
+  },
+  {
+    "cardId": "okul-kalem",
+    "arasaacId": 2282
+  },
+  {
+    "cardId": "okul-kitap",
+    "arasaacId": 2450
+  },
+  {
+    "cardId": "okul-silgi",
+    "arasaacId": 2409
+  },
+  {
+    "cardId": "okul-sinif",
+    "arasaacId": 9815
+  },
+  {
+    "cardId": "okul-teneffus",
+    "arasaacId": 8681
+  },
+  {
+    "cardId": "oyun-oyuncak-araba",
+    "arasaacId": 2340
+  },
+  {
+    "cardId": "oyun-oyuncak-balon",
+    "arasaacId": 2408
+  },
+  {
+    "cardId": "oyun-oyuncak-bebek",
+    "arasaacId": 2275
+  },
+  {
+    "cardId": "oyun-oyuncak-bloklar",
+    "arasaacId": 6481
+  },
+  {
+    "cardId": "oyun-oyuncak-kukla",
+    "arasaacId": 26897
+  },
+  {
+    "cardId": "oyun-oyuncak-lego",
+    "arasaacId": 8508
+  },
+  {
+    "cardId": "oyun-oyuncak-salincak",
+    "arasaacId": 39566
+  },
+  {
+    "cardId": "oyun-oyuncak-top",
+    "arasaacId": 39702
+  },
+  {
+    "cardId": "oyun-oyuncak-tren",
+    "arasaacId": 5094
+  },
+  {
+    "cardId": "renkler-kahverengi",
+    "arasaacId": 6564
+  },
+  {
+    "cardId": "renkler-kirmizi",
+    "arasaacId": 6205
+  },
+  {
+    "cardId": "renkler-mavi",
+    "arasaacId": 4869
+  },
+  {
+    "cardId": "renkler-mor",
+    "arasaacId": 2907
+  },
+  {
+    "cardId": "renkler-sari",
+    "arasaacId": 2648
+  },
+  {
+    "cardId": "renkler-siyah",
+    "arasaacId": 5584
+  },
+  {
+    "cardId": "renkler-turuncu",
+    "arasaacId": 6625
+  },
+  {
+    "cardId": "renkler-yesil",
+    "arasaacId": 4887
+  },
+  {
+    "cardId": "rutinler-aksam",
+    "arasaacId": 35789
+  },
+  {
+    "cardId": "rutinler-ders",
+    "arasaacId": 6481
+  },
+  {
+    "cardId": "rutinler-dinlen",
+    "arasaacId": 6481
+  },
+  {
+    "cardId": "rutinler-kahvalti",
+    "arasaacId": 6625
+  },
+  {
+    "cardId": "rutinler-okula-git",
+    "arasaacId": 7029
+  },
+  {
+    "cardId": "rutinler-oyun-zamani",
+    "arasaacId": 8338
+  },
+  {
+    "cardId": "rutinler-uyan",
+    "arasaacId": 8989
+  },
+  {
+    "cardId": "rutinler-yat",
+    "arasaacId": 3172
+  },
+  {
+    "cardId": "sayilar-alti",
+    "arasaacId": 6625
+  },
+  {
+    "cardId": "sayilar-bes",
+    "arasaacId": 38341
+  },
+  {
+    "cardId": "sayilar-bir",
+    "arasaacId": 2627
+  },
+  {
+    "cardId": "sayilar-dort",
+    "arasaacId": 2630
+  },
+  {
+    "cardId": "sayilar-iki",
+    "arasaacId": 39740
+  },
+  {
+    "cardId": "sayilar-on",
+    "arasaacId": 39368
+  },
+  {
+    "cardId": "sayilar-sekiz",
+    "arasaacId": 6481
+  },
+  {
+    "cardId": "sayilar-sifir",
+    "arasaacId": 5584
+  },
+  {
+    "cardId": "sayilar-uc",
+    "arasaacId": 2629
+  },
+  {
+    "cardId": "sosyal-ifadeler-evet",
+    "arasaacId": 5584
+  },
+  {
+    "cardId": "sosyal-ifadeler-gule-gule",
+    "arasaacId": 6028
+  },
+  {
+    "cardId": "sosyal-ifadeler-hayir",
+    "arasaacId": 5526
+  },
+  {
+    "cardId": "sosyal-ifadeler-merhaba",
+    "arasaacId": 6522
+  },
+  {
+    "cardId": "sosyal-ifadeler-nasilsin",
+    "arasaacId": 5584
+  },
+  {
+    "cardId": "sosyal-ifadeler-ozur-dilerim",
+    "arasaacId": 11625
+  },
+  {
+    "cardId": "sosyal-ifadeler-tesekkurler",
+    "arasaacId": 8129
+  },
+  {
+    "cardId": "tasitlar-ambulans",
+    "arasaacId": 7029
+  },
+  {
+    "cardId": "tasitlar-araba",
+    "arasaacId": 2339
+  },
+  {
+    "cardId": "tasitlar-bisiklet",
+    "arasaacId": 5584
+  },
+  {
+    "cardId": "tasitlar-motosiklet",
+    "arasaacId": 2480
+  },
+  {
+    "cardId": "tasitlar-taksi",
+    "arasaacId": 5584
+  },
+  {
+    "cardId": "tasitlar-tren",
+    "arasaacId": 5094
+  },
+  {
+    "cardId": "tasitlar-ucak",
+    "arasaacId": 2264
+  },
+  {
+    "cardId": "teknoloji-bilgisayar",
+    "arasaacId": 2487
+  },
+  {
+    "cardId": "teknoloji-fare",
+    "arasaacId": 30975
+  },
+  {
+    "cardId": "teknoloji-hoparlor",
+    "arasaacId": 37438
+  },
+  {
+    "cardId": "teknoloji-klavye",
+    "arasaacId": 7029
+  },
+  {
+    "cardId": "teknoloji-tablet",
+    "arasaacId": 25940
+  },
+  {
+    "cardId": "teknoloji-telefon",
+    "arasaacId": 2791
+  },
+  {
+    "cardId": "teknoloji-uzaktan-kumanda",
+    "arasaacId": 6625
+  },
+  {
+    "cardId": "tuvalet-hijyen-banyo",
+    "arasaacId": 32426
+  },
+  {
+    "cardId": "tuvalet-hijyen-cis",
+    "arasaacId": 4762
+  },
+  {
+    "cardId": "tuvalet-hijyen-dis-fircala",
+    "arasaacId": 7029
+  },
+  {
+    "cardId": "tuvalet-hijyen-el-yika",
+    "arasaacId": 6481
+  },
+  {
+    "cardId": "tuvalet-hijyen-havlu",
+    "arasaacId": 2593
+  },
+  {
+    "cardId": "tuvalet-hijyen-kaka",
+    "arasaacId": 6481
+  },
+  {
+    "cardId": "tuvalet-hijyen-sabun",
+    "arasaacId": 8094
+  },
+  {
+    "cardId": "tuvalet-hijyen-sac-tara",
+    "arasaacId": 26947
+  },
+  {
+    "cardId": "tuvalet-hijyen-tuvalet",
+    "arasaacId": 27559
+  },
+  {
+    "cardId": "tuvalet-hijyen-tuvalet-kagidi",
+    "arasaacId": 2862
+  },
+  {
+    "cardId": "uyku-battaniye",
+    "arasaacId": 2459
+  },
+  {
+    "cardId": "uyku-dinlen",
+    "arasaacId": 8338
+  },
+  {
+    "cardId": "uyku-gece-lambasi",
+    "arasaacId": 5584
+  },
+  {
+    "cardId": "uyku-gozlerim-kapali",
+    "arasaacId": 6481
+  },
+  {
+    "cardId": "uyku-sessiz-oda",
+    "arasaacId": 5584
+  },
+  {
+    "cardId": "uyku-uyku-zamani",
+    "arasaacId": 8338
+  },
+  {
+    "cardId": "uyku-yastik",
+    "arasaacId": 2250
+  },
+  {
+    "cardId": "yerler-araba",
+    "arasaacId": 2339
+  },
+  {
+    "cardId": "yerler-bahce",
+    "arasaacId": 37986
+  },
+  {
+    "cardId": "yerler-ev",
+    "arasaacId": 2317
+  },
+  {
+    "cardId": "yerler-kutuphane",
+    "arasaacId": 3065
+  },
+  {
+    "cardId": "yerler-market",
+    "arasaacId": 32942
+  },
+  {
+    "cardId": "yerler-okul",
+    "arasaacId": 3082
+  },
+  {
+    "cardId": "yerler-oyun-alani",
+    "arasaacId": 7029
+  },
+  {
+    "cardId": "yerler-park",
+    "arasaacId": 2859
+  },
+  {
+    "cardId": "yerler-restoran",
+    "arasaacId": 11659
+  },
+  {
+    "cardId": "yerler-yol",
+    "arasaacId": 6955
+  },
+  {
+    "cardId": "yiyecek-biskuvi",
+    "arasaacId": 8312
+  },
+  {
+    "cardId": "yiyecek-cilek",
+    "arasaacId": 2400
+  },
+  {
+    "cardId": "yiyecek-corba",
+    "arasaacId": 2573
+  },
+  {
+    "cardId": "yiyecek-domates",
+    "arasaacId": 2594
+  },
+  {
+    "cardId": "yiyecek-ekmek",
+    "arasaacId": 10230
+  },
+  {
+    "cardId": "yiyecek-elma",
+    "arasaacId": 2462
+  },
+  {
+    "cardId": "yiyecek-kofte",
+    "arasaacId": 6625
+  },
+  {
+    "cardId": "yiyecek-makarna",
+    "arasaacId": 8652
+  },
+  {
+    "cardId": "yiyecek-muz",
+    "arasaacId": 10218
+  },
+  {
+    "cardId": "yiyecek-patates",
+    "arasaacId": 2503
+  },
+  {
+    "cardId": "yiyecek-peynir",
+    "arasaacId": 2541
+  },
+  {
+    "cardId": "yiyecek-pilav",
+    "arasaacId": 6911
+  },
+  {
+    "cardId": "yiyecek-portakal",
+    "arasaacId": 2888
+  },
+  {
+    "cardId": "yiyecek-salatalik",
+    "arasaacId": 2847
+  },
+  {
+    "cardId": "yiyecek-tavuk",
+    "arasaacId": 25632
+  },
+  {
+    "cardId": "yiyecek-yogurt",
+    "arasaacId": 36677
+  },
+  {
+    "cardId": "zaman-aksam",
+    "arasaacId": 35789
+  },
+  {
+    "cardId": "zaman-bugun",
+    "arasaacId": 7131
+  },
+  {
+    "cardId": "zaman-gece",
+    "arasaacId": 35789
+  },
+  {
+    "cardId": "zaman-ogle",
+    "arasaacId": 32708
+  },
+  {
+    "cardId": "zaman-sabah",
+    "arasaacId": 7152
+  },
+  {
+    "cardId": "zaman-simdi",
+    "arasaacId": 32747
+  },
+  {
+    "cardId": "zaman-sonra",
+    "arasaacId": 32749
+  }
 ]

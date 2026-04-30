@@ -1,0 +1,8664 @@
+[
+  {
+    "cardId": "istekler-yardim",
+    "label": "Yardım",
+    "category": "İstekler",
+    "query": [
+      "yardim"
+    ],
+    "candidates": []
+  },
+  {
+    "cardId": "istekler-mola",
+    "label": "Mola",
+    "category": "İstekler",
+    "query": [
+      "mola"
+    ],
+    "candidates": [
+      {
+        "arasaacId": 26370,
+        "keywords": [
+          "remolacha"
+        ],
+        "score": 0.2
+      },
+      {
+        "arasaacId": 26435,
+        "keywords": [
+          "semola"
+        ],
+        "score": 0.2
+      },
+      {
+        "arasaacId": 7029,
+        "keywords": [
+          "ella",
+          "la",
+          "lo",
+          "si",
+          "se",
+          "ella se"
+        ],
+        "score": 0.2
+      }
+    ]
+  },
+  {
+    "cardId": "istekler-saril",
+    "label": "Sarıl",
+    "category": "İstekler",
+    "query": [
+      "saril",
+      "hug",
+      "abrazar"
+    ],
+    "candidates": [
+      {
+        "arasaacId": 6023,
+        "keywords": [
+          "abrazar"
+        ],
+        "score": 0.33
+      },
+      {
+        "arasaacId": 34369,
+        "keywords": [
+          "abrazar"
+        ],
+        "score": 0.33
+      },
+      {
+        "arasaacId": 2446,
+        "keywords": [
+          "lechuga"
+        ],
+        "score": 0.07
+      }
+    ]
+  },
+  {
+    "cardId": "istekler-bir-daha",
+    "label": "Bir daha",
+    "category": "İstekler",
+    "query": [
+      "bir daha",
+      "again",
+      "otra vez"
+    ],
+    "candidates": [
+      {
+        "arasaacId": 37162,
+        "keywords": [
+          "otra vez",
+          "una vez mas"
+        ],
+        "score": 0.28
+      },
+      {
+        "arasaacId": 37163,
+        "keywords": [
+          "de nuevo",
+          "otra vez"
+        ],
+        "score": 0.28
+      },
+      {
+        "arasaacId": 39705,
+        "keywords": [
+          "inteligencia artificial",
+          "ai"
+        ],
+        "score": 0.07
+      }
+    ]
+  },
+  {
+    "cardId": "istekler-bitti",
+    "label": "Bitti",
+    "category": "İstekler",
+    "query": [
+      "bitti"
+    ],
+    "candidates": [
+      {
+        "arasaacId": 6625,
+        "keywords": [
+          "tu",
+          "te",
+          "ti",
+          "usted",
+          "tu te"
+        ],
+        "score": 0.2
+      },
+      {
+        "arasaacId": 7290,
+        "keywords": [
+          "tu",
+          "te",
+          "ti",
+          "usted",
+          "tu te"
+        ],
+        "score": 0.2
+      }
+    ]
+  },
+  {
+    "cardId": "istekler-bekle",
+    "label": "Bekle",
+    "category": "İstekler",
+    "query": [
+      "bekle",
+      "wait",
+      "esperar"
+    ],
+    "candidates": [
+      {
+        "arasaacId": 36914,
+        "keywords": [
+          "esperar"
+        ],
+        "score": 0.33
+      },
+      {
+        "arasaacId": 27547,
+        "keywords": [
+          "esperar"
+        ],
+        "score": 0.33
+      },
+      {
+        "arasaacId": 16697,
+        "keywords": [
+          "esperar"
+        ],
+        "score": 0.33
+      }
+    ]
+  },
+  {
+    "cardId": "istekler-ac",
+    "label": "Aç",
+    "category": "İstekler",
+    "query": [
+      "ac",
+      "open"
+    ],
+    "candidates": [
+      {
+        "arasaacId": 26370,
+        "keywords": [
+          "remolacha"
+        ],
+        "score": 0.1
+      },
+      {
+        "arasaacId": 32380,
+        "keywords": [
+          "arqueologia",
+          "yacimiento",
+          "excavacion"
+        ],
+        "score": 0.1
+      },
+      {
+        "arasaacId": 35009,
+        "keywords": [
+          "yacimiento paleontologico"
+        ],
+        "score": 0.1
+      }
+    ]
+  },
+  {
+    "cardId": "istekler-kapat",
+    "label": "Kapat",
+    "category": "İstekler",
+    "query": [
+      "kapat"
+    ],
+    "candidates": []
+  },
+  {
+    "cardId": "istekler-istiyorum",
+    "label": "İstiyorum",
+    "category": "İstekler",
+    "query": [
+      "istiyorum",
+      "want",
+      "quiero"
+    ],
+    "candidates": [
+      {
+        "arasaacId": 5441,
+        "keywords": [
+          "querer",
+          "desear",
+          "pedir",
+          "yo quiero"
+        ],
+        "score": 0.07
+      },
+      {
+        "arasaacId": 32753,
+        "keywords": [
+          "quiero mas",
+          "dame mas",
+          "querer mas"
+        ],
+        "score": 0.07
+      },
+      {
+        "arasaacId": 6156,
+        "keywords": [
+          "yo no quiero",
+          "no querer",
+          "no quiero"
+        ],
+        "score": 0.07
+      }
+    ]
+  },
+  {
+    "cardId": "istekler-istemiyorum",
+    "label": "İstemiyorum",
+    "category": "İstekler",
+    "query": [
+      "istemiyorum",
+      "hayir",
+      "no",
+      "dont want"
+    ],
+    "candidates": [
+      {
+        "arasaacId": 5526,
+        "keywords": [
+          "no"
+        ],
+        "score": 0.28
+      },
+      {
+        "arasaacId": 39149,
+        "keywords": [
+          "no",
+          "negar"
+        ],
+        "score": 0.22
+      },
+      {
+        "arasaacId": 39384,
+        "keywords": [
+          "siete menos cuarto",
+          "18 45h",
+          "las siete menos cuarto",
+          "las 7 menos cuarto"
+        ],
+        "score": 0.05
+      }
+    ]
+  },
+  {
+    "cardId": "yiyecek-elma",
+    "label": "Elma",
+    "category": "Yiyecek",
+    "query": [
+      "elma",
+      "apple",
+      "manzana"
+    ],
+    "candidates": [
+      {
+        "arasaacId": 2462,
+        "keywords": [
+          "manzana"
+        ],
+        "score": 0.33
+      },
+      {
+        "arasaacId": 13645,
+        "keywords": [
+          "manzana"
+        ],
+        "score": 0.33
+      },
+      {
+        "arasaacId": 13644,
+        "keywords": [
+          "manzana"
+        ],
+        "score": 0.33
+      }
+    ]
+  },
+  {
+    "cardId": "yiyecek-muz",
+    "label": "Muz",
+    "category": "Yiyecek",
+    "query": [
+      "muz",
+      "banana",
+      "platano"
+    ],
+    "candidates": [
+      {
+        "arasaacId": 10218,
+        "keywords": [
+          "banana"
+        ],
+        "score": 0.33
+      },
+      {
+        "arasaacId": 2530,
+        "keywords": [
+          "platano"
+        ],
+        "score": 0.33
+      },
+      {
+        "arasaacId": 9054,
+        "keywords": [
+          "platano"
+        ],
+        "score": 0.33
+      }
+    ]
+  },
+  {
+    "cardId": "yiyecek-ekmek",
+    "label": "Ekmek",
+    "category": "Yiyecek",
+    "query": [
+      "ekmek",
+      "bread",
+      "pan"
+    ],
+    "candidates": [
+      {
+        "arasaacId": 10230,
+        "keywords": [
+          "pan"
+        ],
+        "score": 0.33
+      },
+      {
+        "arasaacId": 38732,
+        "keywords": [
+          "pan"
+        ],
+        "score": 0.33
+      },
+      {
+        "arasaacId": 38965,
+        "keywords": [
+          "pan"
+        ],
+        "score": 0.33
+      }
+    ]
+  },
+  {
+    "cardId": "yiyecek-corba",
+    "label": "Çorba",
+    "category": "Yiyecek",
+    "query": [
+      "corba",
+      "soup",
+      "sopa"
+    ],
+    "candidates": [
+      {
+        "arasaacId": 2573,
+        "keywords": [
+          "sopa"
+        ],
+        "score": 0.33
+      },
+      {
+        "arasaacId": 2716,
+        "keywords": [
+          "corbata"
+        ],
+        "score": 0.07
+      },
+      {
+        "arasaacId": 4614,
+        "keywords": [
+          "corbata"
+        ],
+        "score": 0.07
+      }
+    ]
+  },
+  {
+    "cardId": "yiyecek-pilav",
+    "label": "Pilav",
+    "category": "Yiyecek",
+    "query": [
+      "pilav",
+      "rice",
+      "arroz"
+    ],
+    "candidates": [
+      {
+        "arasaacId": 6911,
+        "keywords": [
+          "arroz"
+        ],
+        "score": 0.33
+      },
+      {
+        "arasaacId": 25556,
+        "keywords": [
+          "arroz"
+        ],
+        "score": 0.33
+      },
+      {
+        "arasaacId": 39387,
+        "keywords": [
+          "arroz",
+          "arroz blanco"
+        ],
+        "score": 0.28
+      }
+    ]
+  },
+  {
+    "cardId": "yiyecek-peynir",
+    "label": "Peynir",
+    "category": "Yiyecek",
+    "query": [
+      "peynir",
+      "cheese",
+      "queso"
+    ],
+    "candidates": [
+      {
+        "arasaacId": 2541,
+        "keywords": [
+          "queso"
+        ],
+        "score": 0.33
+      },
+      {
+        "arasaacId": 4881,
+        "keywords": [
+          "queso",
+          "queso en lonchas"
+        ],
+        "score": 0.28
+      },
+      {
+        "arasaacId": 25363,
+        "keywords": [
+          "queso",
+          "porcion de queso"
+        ],
+        "score": 0.28
+      }
+    ]
+  },
+  {
+    "cardId": "yiyecek-yogurt",
+    "label": "Yoğurt",
+    "category": "Yiyecek",
+    "query": [
+      "yogurt"
+    ],
+    "candidates": [
+      {
+        "arasaacId": 36677,
+        "keywords": [
+          "yogurtera"
+        ],
+        "score": 0.2
+      }
+    ]
+  },
+  {
+    "cardId": "yiyecek-tavuk",
+    "label": "Tavuk",
+    "category": "Yiyecek",
+    "query": [
+      "tavuk",
+      "chicken",
+      "pollo"
+    ],
+    "candidates": [
+      {
+        "arasaacId": 25632,
+        "keywords": [
+          "pollo",
+          "pechuga"
+        ],
+        "score": 0.28
+      },
+      {
+        "arasaacId": 2533,
+        "keywords": [
+          "pollo",
+          "pollito"
+        ],
+        "score": 0.28
+      },
+      {
+        "arasaacId": 24815,
+        "keywords": [
+          "pollo",
+          "pollo asado"
+        ],
+        "score": 0.28
+      }
+    ]
+  },
+  {
+    "cardId": "yiyecek-kofte",
+    "label": "Köfte",
+    "category": "Yiyecek",
+    "query": [
+      "kofte",
+      "meatball"
+    ],
+    "candidates": [
+      {
+        "arasaacId": 6625,
+        "keywords": [
+          "tu",
+          "te",
+          "ti",
+          "usted",
+          "tu te"
+        ],
+        "score": 0.1
+      },
+      {
+        "arasaacId": 7290,
+        "keywords": [
+          "tu",
+          "te",
+          "ti",
+          "usted",
+          "tu te"
+        ],
+        "score": 0.1
+      },
+      {
+        "arasaacId": 29802,
+        "keywords": [
+          "te instantaneo",
+          "te"
+        ],
+        "score": 0.1
+      }
+    ]
+  },
+  {
+    "cardId": "yiyecek-makarna",
+    "label": "Makarna",
+    "category": "Yiyecek",
+    "query": [
+      "makarna",
+      "pasta"
+    ],
+    "candidates": [
+      {
+        "arasaacId": 8652,
+        "keywords": [
+          "pasta"
+        ],
+        "score": 0.45
+      },
+      {
+        "arasaacId": 39076,
+        "keywords": [
+          "galets",
+          "pasta tiburon",
+          "caracolas"
+        ],
+        "score": 0.1
+      },
+      {
+        "arasaacId": 30614,
+        "keywords": [
+          "cepillo y pasta de dientes"
+        ],
+        "score": 0.1
+      }
+    ]
+  },
+  {
+    "cardId": "yiyecek-patates",
+    "label": "Patates",
+    "category": "Yiyecek",
+    "query": [
+      "patates",
+      "potato",
+      "patata"
+    ],
+    "candidates": [
+      {
+        "arasaacId": 2503,
+        "keywords": [
+          "patata",
+          "papa"
+        ],
+        "score": 0.28
+      },
+      {
+        "arasaacId": 27154,
+        "keywords": [
+          "acelga con patatas",
+          "acelga con papas"
+        ],
+        "score": 0.07
+      },
+      {
+        "arasaacId": 29195,
+        "keywords": [
+          "pollo con patatas",
+          "pollo con papas"
+        ],
+        "score": 0.07
+      }
+    ]
+  },
+  {
+    "cardId": "yiyecek-domates",
+    "label": "Domates",
+    "category": "Yiyecek",
+    "query": [
+      "domates",
+      "tomato",
+      "tomate"
+    ],
+    "candidates": [
+      {
+        "arasaacId": 2594,
+        "keywords": [
+          "tomate"
+        ],
+        "score": 0.33
+      },
+      {
+        "arasaacId": 6625,
+        "keywords": [
+          "tu",
+          "te",
+          "ti",
+          "usted",
+          "tu te"
+        ],
+        "score": 0.13
+      },
+      {
+        "arasaacId": 7290,
+        "keywords": [
+          "tu",
+          "te",
+          "ti",
+          "usted",
+          "tu te"
+        ],
+        "score": 0.13
+      }
+    ]
+  },
+  {
+    "cardId": "yiyecek-salatalik",
+    "label": "Salatalık",
+    "category": "Yiyecek",
+    "query": [
+      "salatalik",
+      "cucumber",
+      "pepino"
+    ],
+    "candidates": [
+      {
+        "arasaacId": 2847,
+        "keywords": [
+          "pepino"
+        ],
+        "score": 0.33
+      },
+      {
+        "arasaacId": 5526,
+        "keywords": [
+          "no"
+        ],
+        "score": 0.07
+      },
+      {
+        "arasaacId": 39149,
+        "keywords": [
+          "no",
+          "negar"
+        ],
+        "score": 0.07
+      }
+    ]
+  },
+  {
+    "cardId": "yiyecek-portakal",
+    "label": "Portakal",
+    "category": "Yiyecek",
+    "query": [
+      "portakal",
+      "orange",
+      "naranja"
+    ],
+    "candidates": [
+      {
+        "arasaacId": 2888,
+        "keywords": [
+          "naranja"
+        ],
+        "score": 0.33
+      },
+      {
+        "arasaacId": 2483,
+        "keywords": [
+          "naranja"
+        ],
+        "score": 0.33
+      },
+      {
+        "arasaacId": 2624,
+        "keywords": [
+          "zumo de naranja"
+        ],
+        "score": 0.07
+      }
+    ]
+  },
+  {
+    "cardId": "yiyecek-cilek",
+    "label": "Çilek",
+    "category": "Yiyecek",
+    "query": [
+      "cilek",
+      "strawberry",
+      "fresa"
+    ],
+    "candidates": [
+      {
+        "arasaacId": 2400,
+        "keywords": [
+          "fresa",
+          "frutilla"
+        ],
+        "score": 0.28
+      },
+      {
+        "arasaacId": 6481,
+        "keywords": [
+          "el",
+          "le",
+          "lo",
+          "si",
+          "se",
+          "el se"
+        ],
+        "score": 0.07
+      },
+      {
+        "arasaacId": 31670,
+        "keywords": [
+          "el",
+          "le",
+          "lo",
+          "si",
+          "se",
+          "el se"
+        ],
+        "score": 0.07
+      }
+    ]
+  },
+  {
+    "cardId": "yiyecek-biskuvi",
+    "label": "Bisküvi",
+    "category": "Yiyecek",
+    "query": [
+      "biskuvi",
+      "cookie",
+      "biscuit",
+      "galleta"
+    ],
+    "candidates": [
+      {
+        "arasaacId": 8312,
+        "keywords": [
+          "galleta"
+        ],
+        "score": 0.28
+      },
+      {
+        "arasaacId": 39633,
+        "keywords": [
+          "galleta triturada"
+        ],
+        "score": 0.05
+      },
+      {
+        "arasaacId": 37883,
+        "keywords": [
+          "galleta salada"
+        ],
+        "score": 0.05
+      }
+    ]
+  },
+  {
+    "cardId": "icecek-su",
+    "label": "Su",
+    "category": "İçecek",
+    "query": [
+      "su",
+      "water",
+      "agua"
+    ],
+    "candidates": [
+      {
+        "arasaacId": 32464,
+        "keywords": [
+          "agua"
+        ],
+        "score": 0.33
+      },
+      {
+        "arasaacId": 2248,
+        "keywords": [
+          "agua"
+        ],
+        "score": 0.33
+      },
+      {
+        "arasaacId": 6889,
+        "keywords": [
+          "agua"
+        ],
+        "score": 0.33
+      }
+    ]
+  },
+  {
+    "cardId": "icecek-sut",
+    "label": "Süt",
+    "category": "İçecek",
+    "query": [
+      "sut",
+      "milk",
+      "leche"
+    ],
+    "candidates": [
+      {
+        "arasaacId": 2445,
+        "keywords": [
+          "leche"
+        ],
+        "score": 0.33
+      },
+      {
+        "arasaacId": 4940,
+        "keywords": [
+          "colacao",
+          "leche con cacao",
+          "cola-cao"
+        ],
+        "score": 0.07
+      },
+      {
+        "arasaacId": 7763,
+        "keywords": [
+          "crema de cacao",
+          "dulce de leche"
+        ],
+        "score": 0.07
+      }
+    ]
+  },
+  {
+    "cardId": "icecek-meyve-suyu",
+    "label": "Meyve suyu",
+    "category": "İçecek",
+    "query": [
+      "meyve suyu",
+      "juice",
+      "zumo"
+    ],
+    "candidates": [
+      {
+        "arasaacId": 11461,
+        "keywords": [
+          "zumo",
+          "jugo"
+        ],
+        "score": 0.28
+      },
+      {
+        "arasaacId": 11463,
+        "keywords": [
+          "zumo",
+          "jugo"
+        ],
+        "score": 0.28
+      },
+      {
+        "arasaacId": 11403,
+        "keywords": [
+          "zumo de manzana"
+        ],
+        "score": 0.07
+      }
+    ]
+  },
+  {
+    "cardId": "icecek-ayran",
+    "label": "Ayran",
+    "category": "İçecek",
+    "query": [
+      "ayran",
+      "drink"
+    ],
+    "candidates": []
+  },
+  {
+    "cardId": "icecek-cay",
+    "label": "Çay",
+    "category": "İçecek",
+    "query": [
+      "cay",
+      "tea",
+      "te"
+    ],
+    "candidates": [
+      {
+        "arasaacId": 6625,
+        "keywords": [
+          "tu",
+          "te",
+          "ti",
+          "usted",
+          "tu te"
+        ],
+        "score": 0.33
+      },
+      {
+        "arasaacId": 7290,
+        "keywords": [
+          "tu",
+          "te",
+          "ti",
+          "usted",
+          "tu te"
+        ],
+        "score": 0.33
+      },
+      {
+        "arasaacId": 30648,
+        "keywords": [
+          "teacch"
+        ],
+        "score": 0.13
+      }
+    ]
+  },
+  {
+    "cardId": "icecek-ic",
+    "label": "İçmek",
+    "category": "İçecek",
+    "query": [
+      "icmek",
+      "ic",
+      "drink",
+      "beber"
+    ],
+    "candidates": [
+      {
+        "arasaacId": 6061,
+        "keywords": [
+          "beber",
+          "tomar"
+        ],
+        "score": 0.22
+      },
+      {
+        "arasaacId": 2276,
+        "keywords": [
+          "beber",
+          "tomar"
+        ],
+        "score": 0.22
+      },
+      {
+        "arasaacId": 29716,
+        "keywords": [
+          "beber",
+          "tomar"
+        ],
+        "score": 0.22
+      }
+    ]
+  },
+  {
+    "cardId": "icecek-kakao",
+    "label": "Kakao",
+    "category": "İçecek",
+    "query": [
+      "kakao",
+      "cocoa",
+      "chocolate"
+    ],
+    "candidates": [
+      {
+        "arasaacId": 2334,
+        "keywords": [
+          "chocolate"
+        ],
+        "score": 0.33
+      },
+      {
+        "arasaacId": 6448,
+        "keywords": [
+          "chocolate"
+        ],
+        "score": 0.33
+      },
+      {
+        "arasaacId": 25940,
+        "keywords": [
+          "chocolate",
+          "tableta",
+          "tableta de chocolate"
+        ],
+        "score": 0.27
+      }
+    ]
+  },
+  {
+    "cardId": "icecek-limonata",
+    "label": "Limonata",
+    "category": "İçecek",
+    "query": [
+      "limonata",
+      "lemonade",
+      "limonada"
+    ],
+    "candidates": [
+      {
+        "arasaacId": 6551,
+        "keywords": [
+          "limonada"
+        ],
+        "score": 0.33
+      },
+      {
+        "arasaacId": 2477,
+        "keywords": [
+          "mono",
+          "mona"
+        ],
+        "score": 0.2
+      },
+      {
+        "arasaacId": 3022,
+        "keywords": [
+          "limon"
+        ],
+        "score": 0.13
+      }
+    ]
+  },
+  {
+    "cardId": "icecek-sicak-cikolata",
+    "label": "Sıcak çikolata",
+    "category": "İçecek",
+    "query": [
+      "sicak cikolata"
+    ],
+    "candidates": [
+      {
+        "arasaacId": 6545,
+        "keywords": [
+          "lata"
+        ],
+        "score": 0.2
+      },
+      {
+        "arasaacId": 5584,
+        "keywords": [
+          "si"
+        ],
+        "score": 0.2
+      },
+      {
+        "arasaacId": 6481,
+        "keywords": [
+          "el",
+          "le",
+          "lo",
+          "si",
+          "se",
+          "el se"
+        ],
+        "score": 0.2
+      }
+    ]
+  },
+  {
+    "cardId": "icecek-gazoz",
+    "label": "Gazoz",
+    "category": "İçecek",
+    "query": [
+      "gazoz",
+      "soda",
+      "bebida"
+    ],
+    "candidates": [
+      {
+        "arasaacId": 6510,
+        "keywords": [
+          "gaseosa",
+          "soda"
+        ],
+        "score": 0.28
+      },
+      {
+        "arasaacId": 4575,
+        "keywords": [
+          "bebida",
+          "bebidas"
+        ],
+        "score": 0.28
+      },
+      {
+        "arasaacId": 30403,
+        "keywords": [
+          "bebida",
+          "bebidas"
+        ],
+        "score": 0.28
+      }
+    ]
+  },
+  {
+    "cardId": "duygular-mutlu",
+    "label": "Mutlu",
+    "category": "Duygular",
+    "query": [
+      "mutlu"
+    ],
+    "candidates": []
+  },
+  {
+    "cardId": "duygular-uzgun",
+    "label": "Üzgün",
+    "category": "Duygular",
+    "query": [
+      "uzgun",
+      "sad",
+      "triste"
+    ],
+    "candidates": [
+      {
+        "arasaacId": 35545,
+        "keywords": [
+          "triste"
+        ],
+        "score": 0.33
+      },
+      {
+        "arasaacId": 2606,
+        "keywords": [
+          "triste"
+        ],
+        "score": 0.33
+      },
+      {
+        "arasaacId": 11959,
+        "keywords": [
+          "triste"
+        ],
+        "score": 0.33
+      }
+    ]
+  },
+  {
+    "cardId": "duygular-kizgin",
+    "label": "Kızgın",
+    "category": "Duygular",
+    "query": [
+      "kizgin"
+    ],
+    "candidates": []
+  },
+  {
+    "cardId": "duygular-korktum",
+    "label": "Korktum",
+    "category": "Duygular",
+    "query": [
+      "korktum"
+    ],
+    "candidates": [
+      {
+        "arasaacId": 6625,
+        "keywords": [
+          "tu",
+          "te",
+          "ti",
+          "usted",
+          "tu te"
+        ],
+        "score": 0.2
+      },
+      {
+        "arasaacId": 7290,
+        "keywords": [
+          "tu",
+          "te",
+          "ti",
+          "usted",
+          "tu te"
+        ],
+        "score": 0.2
+      },
+      {
+        "arasaacId": 2608,
+        "keywords": [
+          "tu",
+          "usted",
+          "tu te"
+        ],
+        "score": 0.2
+      }
+    ]
+  },
+  {
+    "cardId": "duygular-sakin",
+    "label": "Sakin",
+    "category": "Duygular",
+    "query": [
+      "sakin"
+    ],
+    "candidates": []
+  },
+  {
+    "cardId": "duygular-heyecanli",
+    "label": "Heyecanlı",
+    "category": "Duygular",
+    "query": [
+      "heyecanli"
+    ],
+    "candidates": []
+  },
+  {
+    "cardId": "duygular-saskin",
+    "label": "Şaşkın",
+    "category": "Duygular",
+    "query": [
+      "saskin"
+    ],
+    "candidates": []
+  },
+  {
+    "cardId": "duygular-sikildim",
+    "label": "Sıkıldım",
+    "category": "Duygular",
+    "query": [
+      "sikildim"
+    ],
+    "candidates": [
+      {
+        "arasaacId": 5584,
+        "keywords": [
+          "si"
+        ],
+        "score": 0.2
+      },
+      {
+        "arasaacId": 6481,
+        "keywords": [
+          "el",
+          "le",
+          "lo",
+          "si",
+          "se",
+          "el se"
+        ],
+        "score": 0.2
+      },
+      {
+        "arasaacId": 7029,
+        "keywords": [
+          "ella",
+          "la",
+          "lo",
+          "si",
+          "se",
+          "ella se"
+        ],
+        "score": 0.2
+      }
+    ]
+  },
+  {
+    "cardId": "duygular-utandim",
+    "label": "Utandım",
+    "category": "Duygular",
+    "query": [
+      "utandim"
+    ],
+    "candidates": []
+  },
+  {
+    "cardId": "duygular-merakli",
+    "label": "Meraklı",
+    "category": "Duygular",
+    "query": [
+      "merakli"
+    ],
+    "candidates": []
+  },
+  {
+    "cardId": "beden-saglik-bas",
+    "label": "Başım",
+    "category": "Beden / Sağlık",
+    "query": [
+      "basim",
+      "head",
+      "cabeza"
+    ],
+    "candidates": [
+      {
+        "arasaacId": 2673,
+        "keywords": [
+          "cabeza"
+        ],
+        "score": 0.33
+      },
+      {
+        "arasaacId": 10384,
+        "keywords": [
+          "educacion fisica",
+          "manos detras de la cabeza"
+        ],
+        "score": 0.07
+      },
+      {
+        "arasaacId": 10386,
+        "keywords": [
+          "educacion fisica",
+          "manos en la cabeza"
+        ],
+        "score": 0.07
+      }
+    ]
+  },
+  {
+    "cardId": "beden-saglik-karin",
+    "label": "Karnım",
+    "category": "Beden / Sağlık",
+    "query": [
+      "karnim",
+      "belly",
+      "stomach",
+      "barriga"
+    ],
+    "candidates": [
+      {
+        "arasaacId": 2786,
+        "keywords": [
+          "tripa",
+          "barriga",
+          "panza",
+          "vientre"
+        ],
+        "score": 0.2
+      },
+      {
+        "arasaacId": 11659,
+        "keywords": [
+          "sto",
+          "servicio de terapia ocupacional"
+        ],
+        "score": 0.05
+      },
+      {
+        "arasaacId": 4573,
+        "keywords": [
+          "bar"
+        ],
+        "score": 0.05
+      }
+    ]
+  },
+  {
+    "cardId": "beden-saglik-dis",
+    "label": "Dişim",
+    "category": "Beden / Sağlık",
+    "query": [
+      "disim"
+    ],
+    "candidates": [
+      {
+        "arasaacId": 5584,
+        "keywords": [
+          "si"
+        ],
+        "score": 0.2
+      },
+      {
+        "arasaacId": 6481,
+        "keywords": [
+          "el",
+          "le",
+          "lo",
+          "si",
+          "se",
+          "el se"
+        ],
+        "score": 0.2
+      },
+      {
+        "arasaacId": 7029,
+        "keywords": [
+          "ella",
+          "la",
+          "lo",
+          "si",
+          "se",
+          "ella se"
+        ],
+        "score": 0.2
+      }
+    ]
+  },
+  {
+    "cardId": "beden-saglik-el",
+    "label": "Elim",
+    "category": "Beden / Sağlık",
+    "query": [
+      "elim"
+    ],
+    "candidates": [
+      {
+        "arasaacId": 38468,
+        "keywords": [
+          "quitar durezas",
+          "limar durezas",
+          "quitar un callo",
+          "eliminacion de durezas"
+        ],
+        "score": 0.2
+      },
+      {
+        "arasaacId": 6481,
+        "keywords": [
+          "el",
+          "le",
+          "lo",
+          "si",
+          "se",
+          "el se"
+        ],
+        "score": 0.2
+      },
+      {
+        "arasaacId": 31670,
+        "keywords": [
+          "el",
+          "le",
+          "lo",
+          "si",
+          "se",
+          "el se"
+        ],
+        "score": 0.2
+      }
+    ]
+  },
+  {
+    "cardId": "beden-saglik-yorgun",
+    "label": "Yorgunum",
+    "category": "Beden / Sağlık",
+    "query": [
+      "yorgunum",
+      "tired",
+      "cansado"
+    ],
+    "candidates": [
+      {
+        "arasaacId": 2314,
+        "keywords": [
+          "cansado"
+        ],
+        "score": 0.33
+      },
+      {
+        "arasaacId": 31925,
+        "keywords": [
+          "cansado"
+        ],
+        "score": 0.33
+      },
+      {
+        "arasaacId": 35537,
+        "keywords": [
+          "cansado",
+          "cansada"
+        ],
+        "score": 0.28
+      }
+    ]
+  },
+  {
+    "cardId": "beden-saglik-aciktim",
+    "label": "Acıktım",
+    "category": "Beden / Sağlık",
+    "query": [
+      "aciktim",
+      "hungry",
+      "hambre"
+    ],
+    "candidates": [
+      {
+        "arasaacId": 35559,
+        "keywords": [
+          "hambre"
+        ],
+        "score": 0.33
+      },
+      {
+        "arasaacId": 6625,
+        "keywords": [
+          "tu",
+          "te",
+          "ti",
+          "usted",
+          "tu te"
+        ],
+        "score": 0.07
+      },
+      {
+        "arasaacId": 7290,
+        "keywords": [
+          "tu",
+          "te",
+          "ti",
+          "usted",
+          "tu te"
+        ],
+        "score": 0.07
+      }
+    ]
+  },
+  {
+    "cardId": "beden-saglik-susadim",
+    "label": "Susadım",
+    "category": "Beden / Sağlık",
+    "query": [
+      "susadim",
+      "thirsty",
+      "water",
+      "agua"
+    ],
+    "candidates": [
+      {
+        "arasaacId": 32464,
+        "keywords": [
+          "agua"
+        ],
+        "score": 0.28
+      },
+      {
+        "arasaacId": 2248,
+        "keywords": [
+          "agua"
+        ],
+        "score": 0.28
+      },
+      {
+        "arasaacId": 6889,
+        "keywords": [
+          "agua"
+        ],
+        "score": 0.28
+      }
+    ]
+  },
+  {
+    "cardId": "beden-saglik-ayagim",
+    "label": "Ayağım",
+    "category": "Beden / Sağlık",
+    "query": [
+      "ayagim",
+      "foot",
+      "pie"
+    ],
+    "candidates": [
+      {
+        "arasaacId": 25327,
+        "keywords": [
+          "pie"
+        ],
+        "score": 0.33
+      },
+      {
+        "arasaacId": 2841,
+        "keywords": [
+          "pie"
+        ],
+        "score": 0.33
+      },
+      {
+        "arasaacId": 10380,
+        "keywords": [
+          "educacion fisica",
+          "manos a los pies"
+        ],
+        "score": 0.07
+      }
+    ]
+  },
+  {
+    "cardId": "beden-saglik-bogazim",
+    "label": "Boğazım",
+    "category": "Beden / Sağlık",
+    "query": [
+      "bogazim",
+      "throat",
+      "garganta"
+    ],
+    "candidates": [
+      {
+        "arasaacId": 3332,
+        "keywords": [
+          "garganta"
+        ],
+        "score": 0.33
+      },
+      {
+        "arasaacId": 28761,
+        "keywords": [
+          "dolor de garganta"
+        ],
+        "score": 0.07
+      },
+      {
+        "arasaacId": 28762,
+        "keywords": [
+          "dolor de garganta"
+        ],
+        "score": 0.07
+      }
+    ]
+  },
+  {
+    "cardId": "beden-saglik-gozum",
+    "label": "Gözüm",
+    "category": "Beden / Sağlık",
+    "query": [
+      "gozum",
+      "eye",
+      "ojo"
+    ],
+    "candidates": [
+      {
+        "arasaacId": 6573,
+        "keywords": [
+          "ojo",
+          "vista"
+        ],
+        "score": 0.28
+      },
+      {
+        "arasaacId": 36333,
+        "keywords": [
+          "mirar a los ojos",
+          "contacto visual"
+        ],
+        "score": 0.07
+      },
+      {
+        "arasaacId": 37596,
+        "keywords": [
+          "cabracho",
+          "gallineta",
+          "escorpena",
+          "escorpion rojo",
+          "rascasote",
+          "cantarero"
+        ],
+        "score": 0.07
+      }
+    ]
+  },
+  {
+    "cardId": "beden-saglik-kulagim",
+    "label": "Kulağım",
+    "category": "Beden / Sağlık",
+    "query": [
+      "kulagim",
+      "ear",
+      "oreja"
+    ],
+    "candidates": [
+      {
+        "arasaacId": 2871,
+        "keywords": [
+          "oreja"
+        ],
+        "score": 0.33
+      },
+      {
+        "arasaacId": 6950,
+        "keywords": [
+          "cacarear"
+        ],
+        "score": 0.07
+      },
+      {
+        "arasaacId": 6949,
+        "keywords": [
+          "cacarear"
+        ],
+        "score": 0.07
+      }
+    ]
+  },
+  {
+    "cardId": "beden-saglik-usuyorum",
+    "label": "Üşüyorum",
+    "category": "Beden / Sağlık",
+    "query": [
+      "usuyorum",
+      "cold",
+      "frio"
+    ],
+    "candidates": [
+      {
+        "arasaacId": 35557,
+        "keywords": [
+          "frio"
+        ],
+        "score": 0.33
+      },
+      {
+        "arasaacId": 35589,
+        "keywords": [
+          "frio"
+        ],
+        "score": 0.33
+      },
+      {
+        "arasaacId": 4652,
+        "keywords": [
+          "frio",
+          "fria"
+        ],
+        "score": 0.28
+      }
+    ]
+  },
+  {
+    "cardId": "tuvalet-hijyen-tuvalet",
+    "label": "Tuvalet",
+    "category": "Tuvalet / Hijyen",
+    "query": [
+      "tuvalet",
+      "wc",
+      "toilet",
+      "bano",
+      "aseo"
+    ],
+    "candidates": [
+      {
+        "arasaacId": 27559,
+        "keywords": [
+          "servicio",
+          "aseo",
+          "bano"
+        ],
+        "score": 0.35
+      },
+      {
+        "arasaacId": 27561,
+        "keywords": [
+          "servicio",
+          "aseo",
+          "bano"
+        ],
+        "score": 0.35
+      },
+      {
+        "arasaacId": 37331,
+        "keywords": [
+          "retrete",
+          "servicio",
+          "aseo",
+          "bano"
+        ],
+        "score": 0.33
+      }
+    ]
+  },
+  {
+    "cardId": "tuvalet-hijyen-cis",
+    "label": "Çiş",
+    "category": "Tuvalet / Hijyen",
+    "query": [
+      "cis",
+      "pee",
+      "toilet"
+    ],
+    "candidates": [
+      {
+        "arasaacId": 4762,
+        "keywords": [
+          "trapecista",
+          "acrobata"
+        ],
+        "score": 0.07
+      },
+      {
+        "arasaacId": 11388,
+        "keywords": [
+          "trapecista",
+          "acrobata"
+        ],
+        "score": 0.07
+      },
+      {
+        "arasaacId": 37861,
+        "keywords": [
+          "acordar",
+          "decidir",
+          "decision"
+        ],
+        "score": 0.07
+      }
+    ]
+  },
+  {
+    "cardId": "tuvalet-hijyen-kaka",
+    "label": "Kaka",
+    "category": "Tuvalet / Hijyen",
+    "query": [
+      "kaka",
+      "poop",
+      "toilet"
+    ],
+    "candidates": [
+      {
+        "arasaacId": 6481,
+        "keywords": [
+          "el",
+          "le",
+          "lo",
+          "si",
+          "se",
+          "el se"
+        ],
+        "score": 0.07
+      },
+      {
+        "arasaacId": 31670,
+        "keywords": [
+          "el",
+          "le",
+          "lo",
+          "si",
+          "se",
+          "el se"
+        ],
+        "score": 0.07
+      }
+    ]
+  },
+  {
+    "cardId": "tuvalet-hijyen-el-yika",
+    "label": "El yıka",
+    "category": "Tuvalet / Hijyen",
+    "query": [
+      "el yika"
+    ],
+    "candidates": [
+      {
+        "arasaacId": 6481,
+        "keywords": [
+          "el",
+          "le",
+          "lo",
+          "si",
+          "se",
+          "el se"
+        ],
+        "score": 0.2
+      },
+      {
+        "arasaacId": 31670,
+        "keywords": [
+          "el",
+          "le",
+          "lo",
+          "si",
+          "se",
+          "el se"
+        ],
+        "score": 0.2
+      }
+    ]
+  },
+  {
+    "cardId": "tuvalet-hijyen-dis-fircala",
+    "label": "Diş fırçala",
+    "category": "Tuvalet / Hijyen",
+    "query": [
+      "dis fircala"
+    ],
+    "candidates": [
+      {
+        "arasaacId": 7029,
+        "keywords": [
+          "ella",
+          "la",
+          "lo",
+          "si",
+          "se",
+          "ella se"
+        ],
+        "score": 0.2
+      }
+    ]
+  },
+  {
+    "cardId": "tuvalet-hijyen-banyo",
+    "label": "Duş al",
+    "category": "Tuvalet / Hijyen",
+    "query": [
+      "dus al",
+      "banyo",
+      "shower",
+      "ducha",
+      "bathroom"
+    ],
+    "candidates": [
+      {
+        "arasaacId": 32426,
+        "keywords": [
+          "ducha"
+        ],
+        "score": 0.24
+      },
+      {
+        "arasaacId": 2370,
+        "keywords": [
+          "ducha"
+        ],
+        "score": 0.24
+      },
+      {
+        "arasaacId": 11244,
+        "keywords": [
+          "ducha"
+        ],
+        "score": 0.24
+      }
+    ]
+  },
+  {
+    "cardId": "tuvalet-hijyen-sac-tara",
+    "label": "Saç tara",
+    "category": "Tuvalet / Hijyen",
+    "query": [
+      "sac tara",
+      "comb hair",
+      "peinar"
+    ],
+    "candidates": [
+      {
+        "arasaacId": 26947,
+        "keywords": [
+          "peinar"
+        ],
+        "score": 0.33
+      },
+      {
+        "arasaacId": 2512,
+        "keywords": [
+          "peinar"
+        ],
+        "score": 0.33
+      },
+      {
+        "arasaacId": 22029,
+        "keywords": [
+          "peinar"
+        ],
+        "score": 0.33
+      }
+    ]
+  },
+  {
+    "cardId": "tuvalet-hijyen-sabun",
+    "label": "Sabun",
+    "category": "Tuvalet / Hijyen",
+    "query": [
+      "sabun",
+      "soap",
+      "jabon"
+    ],
+    "candidates": [
+      {
+        "arasaacId": 8094,
+        "keywords": [
+          "jabon"
+        ],
+        "score": 0.33
+      },
+      {
+        "arasaacId": 2964,
+        "keywords": [
+          "jabon"
+        ],
+        "score": 0.33
+      },
+      {
+        "arasaacId": 25171,
+        "keywords": [
+          "jabon"
+        ],
+        "score": 0.33
+      }
+    ]
+  },
+  {
+    "cardId": "tuvalet-hijyen-havlu",
+    "label": "Havlu",
+    "category": "Tuvalet / Hijyen",
+    "query": [
+      "havlu",
+      "towel",
+      "toalla"
+    ],
+    "candidates": [
+      {
+        "arasaacId": 2593,
+        "keywords": [
+          "toalla"
+        ],
+        "score": 0.33
+      },
+      {
+        "arasaacId": 4758,
+        "keywords": [
+          "toalla",
+          "toalla de playa"
+        ],
+        "score": 0.28
+      },
+      {
+        "arasaacId": 11745,
+        "keywords": [
+          "poner la toalla",
+          "colocar la toalla"
+        ],
+        "score": 0.07
+      }
+    ]
+  },
+  {
+    "cardId": "tuvalet-hijyen-tuvalet-kagidi",
+    "label": "Tuvalet kağıdı",
+    "category": "Tuvalet / Hijyen",
+    "query": [
+      "tuvalet kagidi",
+      "toilet paper",
+      "papel higienico"
+    ],
+    "candidates": [
+      {
+        "arasaacId": 2862,
+        "keywords": [
+          "papel higienico"
+        ],
+        "score": 0.33
+      },
+      {
+        "arasaacId": 6481,
+        "keywords": [
+          "el",
+          "le",
+          "lo",
+          "si",
+          "se",
+          "el se"
+        ],
+        "score": 0.2
+      },
+      {
+        "arasaacId": 31670,
+        "keywords": [
+          "el",
+          "le",
+          "lo",
+          "si",
+          "se",
+          "el se"
+        ],
+        "score": 0.2
+      }
+    ]
+  },
+  {
+    "cardId": "eylemler-otur",
+    "label": "Otur",
+    "category": "Eylemler",
+    "query": [
+      "otur"
+    ],
+    "candidates": [
+      {
+        "arasaacId": 26861,
+        "keywords": [
+          "fractura",
+          "rotura"
+        ],
+        "score": 0.2
+      },
+      {
+        "arasaacId": 6625,
+        "keywords": [
+          "tu",
+          "te",
+          "ti",
+          "usted",
+          "tu te"
+        ],
+        "score": 0.2
+      },
+      {
+        "arasaacId": 7290,
+        "keywords": [
+          "tu",
+          "te",
+          "ti",
+          "usted",
+          "tu te"
+        ],
+        "score": 0.2
+      }
+    ]
+  },
+  {
+    "cardId": "eylemler-kalk",
+    "label": "Kalk",
+    "category": "Eylemler",
+    "query": [
+      "kalk",
+      "stand",
+      "get up"
+    ],
+    "candidates": [
+      {
+        "arasaacId": 28877,
+        "keywords": [
+          "estand"
+        ],
+        "score": 0.07
+      },
+      {
+        "arasaacId": 36085,
+        "keywords": [
+          "portaestandarte"
+        ],
+        "score": 0.07
+      },
+      {
+        "arasaacId": 36067,
+        "keywords": [
+          "estandarte"
+        ],
+        "score": 0.07
+      }
+    ]
+  },
+  {
+    "cardId": "eylemler-kos",
+    "label": "Koş",
+    "category": "Eylemler",
+    "query": [
+      "kos",
+      "run",
+      "correr"
+    ],
+    "candidates": [
+      {
+        "arasaacId": 6465,
+        "keywords": [
+          "correr"
+        ],
+        "score": 0.33
+      },
+      {
+        "arasaacId": 2719,
+        "keywords": [
+          "correr"
+        ],
+        "score": 0.33
+      },
+      {
+        "arasaacId": 28439,
+        "keywords": [
+          "correr"
+        ],
+        "score": 0.33
+      }
+    ]
+  },
+  {
+    "cardId": "eylemler-yuru",
+    "label": "Yürü",
+    "category": "Eylemler",
+    "query": [
+      "yuru",
+      "walk",
+      "caminar"
+    ],
+    "candidates": [
+      {
+        "arasaacId": 6044,
+        "keywords": [
+          "caminar",
+          "andar"
+        ],
+        "score": 0.28
+      },
+      {
+        "arasaacId": 3251,
+        "keywords": [
+          "caminar",
+          "andar"
+        ],
+        "score": 0.28
+      },
+      {
+        "arasaacId": 31917,
+        "keywords": [
+          "caminar",
+          "andar"
+        ],
+        "score": 0.28
+      }
+    ]
+  },
+  {
+    "cardId": "eylemler-oku",
+    "label": "Oku",
+    "category": "Eylemler",
+    "query": [
+      "oku",
+      "read",
+      "leer"
+    ],
+    "candidates": [
+      {
+        "arasaacId": 7141,
+        "keywords": [
+          "leer"
+        ],
+        "score": 0.33
+      },
+      {
+        "arasaacId": 28643,
+        "keywords": [
+          "leer"
+        ],
+        "score": 0.33
+      },
+      {
+        "arasaacId": 31680,
+        "keywords": [
+          "leer"
+        ],
+        "score": 0.33
+      }
+    ]
+  },
+  {
+    "cardId": "eylemler-uyu",
+    "label": "Uyu",
+    "category": "Eylemler",
+    "query": [
+      "uyu",
+      "sleep",
+      "dormir"
+    ],
+    "candidates": [
+      {
+        "arasaacId": 6479,
+        "keywords": [
+          "dormir"
+        ],
+        "score": 0.33
+      },
+      {
+        "arasaacId": 2369,
+        "keywords": [
+          "dormir"
+        ],
+        "score": 0.33
+      },
+      {
+        "arasaacId": 28623,
+        "keywords": [
+          "dormir"
+        ],
+        "score": 0.33
+      }
+    ]
+  },
+  {
+    "cardId": "eylemler-yaz",
+    "label": "Yaz",
+    "category": "Eylemler",
+    "query": [
+      "yaz",
+      "write",
+      "escribir"
+    ],
+    "candidates": [
+      {
+        "arasaacId": 21851,
+        "keywords": [
+          "escribir",
+          "teclear"
+        ],
+        "score": 0.28
+      },
+      {
+        "arasaacId": 2380,
+        "keywords": [
+          "escribir",
+          "escritura"
+        ],
+        "score": 0.28
+      },
+      {
+        "arasaacId": 8107,
+        "keywords": [
+          "escribir",
+          "escritura"
+        ],
+        "score": 0.28
+      }
+    ]
+  },
+  {
+    "cardId": "eylemler-oyna",
+    "label": "Oyna",
+    "category": "Eylemler",
+    "query": [
+      "oyna",
+      "play",
+      "jugar"
+    ],
+    "candidates": [
+      {
+        "arasaacId": 23392,
+        "keywords": [
+          "jugar"
+        ],
+        "score": 0.33
+      },
+      {
+        "arasaacId": 6537,
+        "keywords": [
+          "jugar"
+        ],
+        "score": 0.33
+      },
+      {
+        "arasaacId": 2439,
+        "keywords": [
+          "jugar"
+        ],
+        "score": 0.33
+      }
+    ]
+  },
+  {
+    "cardId": "eylemler-dinle",
+    "label": "Dinle",
+    "category": "Eylemler",
+    "query": [
+      "dinle",
+      "listen",
+      "escuchar"
+    ],
+    "candidates": [
+      {
+        "arasaacId": 6572,
+        "keywords": [
+          "oir",
+          "escuchar"
+        ],
+        "score": 0.28
+      },
+      {
+        "arasaacId": 2381,
+        "keywords": [
+          "oir",
+          "escuchar"
+        ],
+        "score": 0.28
+      },
+      {
+        "arasaacId": 28659,
+        "keywords": [
+          "oir",
+          "escuchar"
+        ],
+        "score": 0.28
+      }
+    ]
+  },
+  {
+    "cardId": "eylemler-bak",
+    "label": "Bak",
+    "category": "Eylemler",
+    "query": [
+      "bak",
+      "look",
+      "mirar"
+    ],
+    "candidates": [
+      {
+        "arasaacId": 6564,
+        "keywords": [
+          "ver",
+          "mirar",
+          "observar"
+        ],
+        "score": 0.27
+      },
+      {
+        "arasaacId": 2474,
+        "keywords": [
+          "ver",
+          "mirar",
+          "observar"
+        ],
+        "score": 0.27
+      },
+      {
+        "arasaacId": 28673,
+        "keywords": [
+          "ver",
+          "mirar",
+          "observar"
+        ],
+        "score": 0.27
+      }
+    ]
+  },
+  {
+    "cardId": "kisiler-anne",
+    "label": "Anne",
+    "category": "Kişiler",
+    "query": [
+      "anne",
+      "mother",
+      "madre"
+    ],
+    "candidates": [
+      {
+        "arasaacId": 31148,
+        "keywords": [
+          "madre"
+        ],
+        "score": 0.33
+      },
+      {
+        "arasaacId": 32724,
+        "keywords": [
+          "asociacion de madres y padres de alumnos",
+          "ampa"
+        ],
+        "score": 0.07
+      },
+      {
+        "arasaacId": 3091,
+        "keywords": [
+          "dia de la madre"
+        ],
+        "score": 0.07
+      }
+    ]
+  },
+  {
+    "cardId": "kisiler-baba",
+    "label": "Baba",
+    "category": "Kişiler",
+    "query": [
+      "baba",
+      "father",
+      "padre"
+    ],
+    "candidates": [
+      {
+        "arasaacId": 2497,
+        "keywords": [
+          "padre"
+        ],
+        "score": 0.33
+      },
+      {
+        "arasaacId": 30850,
+        "keywords": [
+          "rezar",
+          "orar",
+          "oracion",
+          "padre nuestro"
+        ],
+        "score": 0.07
+      },
+      {
+        "arasaacId": 30889,
+        "keywords": [
+          "rezar",
+          "orar",
+          "oracion",
+          "padre nuestro"
+        ],
+        "score": 0.07
+      }
+    ]
+  },
+  {
+    "cardId": "kisiler-abla",
+    "label": "Abla",
+    "category": "Kişiler",
+    "query": [
+      "abla",
+      "sister"
+    ],
+    "candidates": [
+      {
+        "arasaacId": 7029,
+        "keywords": [
+          "ella",
+          "la",
+          "lo",
+          "si",
+          "se",
+          "ella se"
+        ],
+        "score": 0.2
+      },
+      {
+        "arasaacId": 15509,
+        "keywords": [
+          "tabla de natacion"
+        ],
+        "score": 0.1
+      },
+      {
+        "arasaacId": 4753,
+        "keywords": [
+          "tabla de windsurf",
+          "tabla",
+          "windsurf"
+        ],
+        "score": 0.1
+      }
+    ]
+  },
+  {
+    "cardId": "kisiler-abi",
+    "label": "Abi",
+    "category": "Kişiler",
+    "query": [
+      "abi",
+      "brother"
+    ],
+    "candidates": [
+      {
+        "arasaacId": 5988,
+        "keywords": [
+          "dormitorio",
+          "habitacion"
+        ],
+        "score": 0.1
+      },
+      {
+        "arasaacId": 14672,
+        "keywords": [
+          "rehabilitacion"
+        ],
+        "score": 0.1
+      },
+      {
+        "arasaacId": 16137,
+        "keywords": [
+          "sala de rehabilitacion"
+        ],
+        "score": 0.1
+      }
+    ]
+  },
+  {
+    "cardId": "kisiler-arkadas",
+    "label": "Arkadaş",
+    "category": "Kişiler",
+    "query": [
+      "arkadas"
+    ],
+    "candidates": []
+  },
+  {
+    "cardId": "kisiler-ogretmen",
+    "label": "Öğretmen",
+    "category": "Kişiler",
+    "query": [
+      "ogretmen",
+      "teacher",
+      "maestro"
+    ],
+    "candidates": [
+      {
+        "arasaacId": 2457,
+        "keywords": [
+          "maestro",
+          "profesor"
+        ],
+        "score": 0.28
+      },
+      {
+        "arasaacId": 28002,
+        "keywords": [
+          "maestro",
+          "profesor"
+        ],
+        "score": 0.28
+      },
+      {
+        "arasaacId": 6556,
+        "keywords": [
+          "maestro",
+          "profesor",
+          "maestra",
+          "profesora"
+        ],
+        "score": 0.27
+      }
+    ]
+  },
+  {
+    "cardId": "kisiler-teyze",
+    "label": "Teyze",
+    "category": "Kişiler",
+    "query": [
+      "teyze"
+    ],
+    "candidates": [
+      {
+        "arasaacId": 6625,
+        "keywords": [
+          "tu",
+          "te",
+          "ti",
+          "usted",
+          "tu te"
+        ],
+        "score": 0.2
+      },
+      {
+        "arasaacId": 7290,
+        "keywords": [
+          "tu",
+          "te",
+          "ti",
+          "usted",
+          "tu te"
+        ],
+        "score": 0.2
+      },
+      {
+        "arasaacId": 29802,
+        "keywords": [
+          "te instantaneo",
+          "te"
+        ],
+        "score": 0.2
+      }
+    ]
+  },
+  {
+    "cardId": "kisiler-amca",
+    "label": "Amca",
+    "category": "Kişiler",
+    "query": [
+      "amca",
+      "uncle",
+      "tio"
+    ],
+    "candidates": [
+      {
+        "arasaacId": 30255,
+        "keywords": [
+          "tio"
+        ],
+        "score": 0.33
+      },
+      {
+        "arasaacId": 30256,
+        "keywords": [
+          "tio"
+        ],
+        "score": 0.33
+      },
+      {
+        "arasaacId": 30259,
+        "keywords": [
+          "tio"
+        ],
+        "score": 0.33
+      }
+    ]
+  },
+  {
+    "cardId": "kisiler-buyukanne",
+    "label": "Büyükanne",
+    "category": "Kişiler",
+    "query": [
+      "buyukanne",
+      "grandmother",
+      "abuela"
+    ],
+    "candidates": [
+      {
+        "arasaacId": 23710,
+        "keywords": [
+          "abuela",
+          "yaya"
+        ],
+        "score": 0.28
+      },
+      {
+        "arasaacId": 2243,
+        "keywords": [
+          "abuela",
+          "yaya"
+        ],
+        "score": 0.28
+      },
+      {
+        "arasaacId": 10194,
+        "keywords": [
+          "abuela",
+          "yaya"
+        ],
+        "score": 0.28
+      }
+    ]
+  },
+  {
+    "cardId": "kisiler-buyukbaba",
+    "label": "Büyükbaba",
+    "category": "Kişiler",
+    "query": [
+      "buyukbaba",
+      "grandfather",
+      "abuelo"
+    ],
+    "candidates": [
+      {
+        "arasaacId": 23718,
+        "keywords": [
+          "abuelo",
+          "yayo"
+        ],
+        "score": 0.28
+      },
+      {
+        "arasaacId": 2244,
+        "keywords": [
+          "abuelo",
+          "yayo"
+        ],
+        "score": 0.28
+      },
+      {
+        "arasaacId": 4560,
+        "keywords": [
+          "abuelo",
+          "yayo"
+        ],
+        "score": 0.28
+      }
+    ]
+  },
+  {
+    "cardId": "yerler-ev",
+    "label": "Ev",
+    "category": "Yerler",
+    "query": [
+      "ev",
+      "house",
+      "home",
+      "casa"
+    ],
+    "candidates": [
+      {
+        "arasaacId": 2317,
+        "keywords": [
+          "casa"
+        ],
+        "score": 0.28
+      },
+      {
+        "arasaacId": 6964,
+        "keywords": [
+          "casa"
+        ],
+        "score": 0.28
+      },
+      {
+        "arasaacId": 39203,
+        "keywords": [
+          "casa cueva",
+          "casa-cueva"
+        ],
+        "score": 0.1
+      }
+    ]
+  },
+  {
+    "cardId": "yerler-okul",
+    "label": "Okul",
+    "category": "Yerler",
+    "query": [
+      "okul",
+      "school",
+      "escuela"
+    ],
+    "candidates": [
+      {
+        "arasaacId": 3082,
+        "keywords": [
+          "colegio",
+          "escuela"
+        ],
+        "score": 0.28
+      },
+      {
+        "arasaacId": 6454,
+        "keywords": [
+          "colegio",
+          "escuela"
+        ],
+        "score": 0.28
+      },
+      {
+        "arasaacId": 32446,
+        "keywords": [
+          "colegio",
+          "escuela",
+          "instituto"
+        ],
+        "score": 0.27
+      }
+    ]
+  },
+  {
+    "cardId": "yerler-park",
+    "label": "Park",
+    "category": "Yerler",
+    "query": [
+      "park",
+      "parque"
+    ],
+    "candidates": [
+      {
+        "arasaacId": 2859,
+        "keywords": [
+          "parque"
+        ],
+        "score": 0.45
+      },
+      {
+        "arasaacId": 6283,
+        "keywords": [
+          "aparcamiento",
+          "parking",
+          "parquing",
+          "aparcadero",
+          "estacionamiento"
+        ],
+        "score": 0.1
+      },
+      {
+        "arasaacId": 24755,
+        "keywords": [
+          "parking",
+          "parquing",
+          "estacionamiento",
+          "aparcadero"
+        ],
+        "score": 0.1
+      }
+    ]
+  },
+  {
+    "cardId": "yerler-market",
+    "label": "Market",
+    "category": "Yerler",
+    "query": [
+      "market",
+      "supermarket",
+      "mercado"
+    ],
+    "candidates": [
+      {
+        "arasaacId": 32942,
+        "keywords": [
+          "mercado"
+        ],
+        "score": 0.33
+      },
+      {
+        "arasaacId": 3389,
+        "keywords": [
+          "supermercado",
+          "super"
+        ],
+        "score": 0.13
+      },
+      {
+        "arasaacId": 12272,
+        "keywords": [
+          "su",
+          "suyo",
+          "suya"
+        ],
+        "score": 0.07
+      }
+    ]
+  },
+  {
+    "cardId": "yerler-araba",
+    "label": "Arabaya",
+    "category": "Yerler",
+    "query": [
+      "arabaya",
+      "araba",
+      "car",
+      "coche"
+    ],
+    "candidates": [
+      {
+        "arasaacId": 2339,
+        "keywords": [
+          "coche",
+          "automovil",
+          "auto",
+          "carro"
+        ],
+        "score": 0.25
+      },
+      {
+        "arasaacId": 6981,
+        "keywords": [
+          "coche",
+          "automovil",
+          "auto",
+          "carro"
+        ],
+        "score": 0.25
+      },
+      {
+        "arasaacId": 3301,
+        "keywords": [
+          "escarabajo"
+        ],
+        "score": 0.1
+      }
+    ]
+  },
+  {
+    "cardId": "yerler-bahce",
+    "label": "Bahçe",
+    "category": "Yerler",
+    "query": [
+      "bahce",
+      "garden",
+      "jardin"
+    ],
+    "candidates": [
+      {
+        "arasaacId": 37986,
+        "keywords": [
+          "jardin"
+        ],
+        "score": 0.33
+      },
+      {
+        "arasaacId": 2434,
+        "keywords": [
+          "jardin"
+        ],
+        "score": 0.33
+      },
+      {
+        "arasaacId": 30608,
+        "keywords": [
+          "jardin"
+        ],
+        "score": 0.33
+      }
+    ]
+  },
+  {
+    "cardId": "yerler-oyun-alani",
+    "label": "Oyun alanı",
+    "category": "Yerler",
+    "query": [
+      "oyun alani",
+      "playground"
+    ],
+    "candidates": [
+      {
+        "arasaacId": 7029,
+        "keywords": [
+          "ella",
+          "la",
+          "lo",
+          "si",
+          "se",
+          "ella se"
+        ],
+        "score": 0.2
+      }
+    ]
+  },
+  {
+    "cardId": "yerler-kutuphane",
+    "label": "Kütüphane",
+    "category": "Yerler",
+    "query": [
+      "kutuphane",
+      "library",
+      "biblioteca"
+    ],
+    "candidates": [
+      {
+        "arasaacId": 3065,
+        "keywords": [
+          "biblioteca"
+        ],
+        "score": 0.33
+      },
+      {
+        "arasaacId": 32450,
+        "keywords": [
+          "biblioteca"
+        ],
+        "score": 0.33
+      },
+      {
+        "arasaacId": 6063,
+        "keywords": [
+          "biblioteca"
+        ],
+        "score": 0.33
+      }
+    ]
+  },
+  {
+    "cardId": "yerler-yol",
+    "label": "Yol",
+    "category": "Yerler",
+    "query": [
+      "yol",
+      "road",
+      "camino"
+    ],
+    "candidates": [
+      {
+        "arasaacId": 6955,
+        "keywords": [
+          "camino",
+          "via"
+        ],
+        "score": 0.28
+      },
+      {
+        "arasaacId": 5526,
+        "keywords": [
+          "no"
+        ],
+        "score": 0.07
+      },
+      {
+        "arasaacId": 39149,
+        "keywords": [
+          "no",
+          "negar"
+        ],
+        "score": 0.07
+      }
+    ]
+  },
+  {
+    "cardId": "yerler-restoran",
+    "label": "Restoran",
+    "category": "Yerler",
+    "query": [
+      "restoran"
+    ],
+    "candidates": [
+      {
+        "arasaacId": 11659,
+        "keywords": [
+          "sto",
+          "servicio de terapia ocupacional"
+        ],
+        "score": 0.2
+      },
+      {
+        "arasaacId": 36393,
+        "keywords": [
+          "estor"
+        ],
+        "score": 0.2
+      }
+    ]
+  },
+  {
+    "cardId": "ev-yatak",
+    "label": "Yatak",
+    "category": "Ev",
+    "query": [
+      "yatak"
+    ],
+    "candidates": []
+  },
+  {
+    "cardId": "ev-masa",
+    "label": "Masa",
+    "category": "Ev",
+    "query": [
+      "masa",
+      "table",
+      "mesa"
+    ],
+    "candidates": [
+      {
+        "arasaacId": 32476,
+        "keywords": [
+          "masa"
+        ],
+        "score": 0.33
+      },
+      {
+        "arasaacId": 38442,
+        "keywords": [
+          "masa"
+        ],
+        "score": 0.33
+      },
+      {
+        "arasaacId": 3129,
+        "keywords": [
+          "mesa"
+        ],
+        "score": 0.33
+      }
+    ]
+  },
+  {
+    "cardId": "ev-koltuk",
+    "label": "Koltuk",
+    "category": "Ev",
+    "query": [
+      "koltuk"
+    ],
+    "candidates": [
+      {
+        "arasaacId": 6625,
+        "keywords": [
+          "tu",
+          "te",
+          "ti",
+          "usted",
+          "tu te"
+        ],
+        "score": 0.2
+      },
+      {
+        "arasaacId": 7290,
+        "keywords": [
+          "tu",
+          "te",
+          "ti",
+          "usted",
+          "tu te"
+        ],
+        "score": 0.2
+      },
+      {
+        "arasaacId": 2608,
+        "keywords": [
+          "tu",
+          "usted",
+          "tu te"
+        ],
+        "score": 0.2
+      }
+    ]
+  },
+  {
+    "cardId": "ev-mutfak",
+    "label": "Mutfak",
+    "category": "Ev",
+    "query": [
+      "mutfak",
+      "kitchen",
+      "cocina"
+    ],
+    "candidates": [
+      {
+        "arasaacId": 33070,
+        "keywords": [
+          "cocina"
+        ],
+        "score": 0.33
+      },
+      {
+        "arasaacId": 10753,
+        "keywords": [
+          "cocina"
+        ],
+        "score": 0.33
+      },
+      {
+        "arasaacId": 10752,
+        "keywords": [
+          "cocina"
+        ],
+        "score": 0.33
+      }
+    ]
+  },
+  {
+    "cardId": "ev-kapi",
+    "label": "Kapı",
+    "category": "Ev",
+    "query": [
+      "kapi",
+      "door",
+      "puerta"
+    ],
+    "candidates": [
+      {
+        "arasaacId": 3244,
+        "keywords": [
+          "puerta"
+        ],
+        "score": 0.33
+      },
+      {
+        "arasaacId": 37619,
+        "keywords": [
+          "puerta"
+        ],
+        "score": 0.33
+      },
+      {
+        "arasaacId": 37623,
+        "keywords": [
+          "puerta"
+        ],
+        "score": 0.33
+      }
+    ]
+  },
+  {
+    "cardId": "ev-isik",
+    "label": "Lamba",
+    "category": "Ev",
+    "query": [
+      "lamba",
+      "isik",
+      "light",
+      "lamp",
+      "luz"
+    ],
+    "candidates": [
+      {
+        "arasaacId": 8619,
+        "keywords": [
+          "luz"
+        ],
+        "score": 0.24
+      },
+      {
+        "arasaacId": 7029,
+        "keywords": [
+          "ella",
+          "la",
+          "lo",
+          "si",
+          "se",
+          "ella se"
+        ],
+        "score": 0.12
+      },
+      {
+        "arasaacId": 9178,
+        "keywords": [
+          "lampara",
+          "lampara de aceite",
+          "candil"
+        ],
+        "score": 0.04
+      }
+    ]
+  },
+  {
+    "cardId": "ev-hali",
+    "label": "Halı",
+    "category": "Ev",
+    "query": [
+      "hali"
+    ],
+    "candidates": []
+  },
+  {
+    "cardId": "ev-pencere",
+    "label": "Pencere",
+    "category": "Ev",
+    "query": [
+      "pencere",
+      "window",
+      "ventana"
+    ],
+    "candidates": [
+      {
+        "arasaacId": 32918,
+        "keywords": [
+          "ventana"
+        ],
+        "score": 0.33
+      },
+      {
+        "arasaacId": 24465,
+        "keywords": [
+          "ventana",
+          "ventana oscilobatiente"
+        ],
+        "score": 0.28
+      },
+      {
+        "arasaacId": 2611,
+        "keywords": [
+          "ventana",
+          "ventanal"
+        ],
+        "score": 0.28
+      }
+    ]
+  },
+  {
+    "cardId": "ev-televizyon",
+    "label": "Televizyon",
+    "category": "Ev",
+    "query": [
+      "televizyon"
+    ],
+    "candidates": [
+      {
+        "arasaacId": 6625,
+        "keywords": [
+          "tu",
+          "te",
+          "ti",
+          "usted",
+          "tu te"
+        ],
+        "score": 0.2
+      },
+      {
+        "arasaacId": 7290,
+        "keywords": [
+          "tu",
+          "te",
+          "ti",
+          "usted",
+          "tu te"
+        ],
+        "score": 0.2
+      },
+      {
+        "arasaacId": 29802,
+        "keywords": [
+          "te instantaneo",
+          "te"
+        ],
+        "score": 0.2
+      }
+    ]
+  },
+  {
+    "cardId": "ev-dolap",
+    "label": "Dolap",
+    "category": "Ev",
+    "query": [
+      "dolap"
+    ],
+    "candidates": [
+      {
+        "arasaacId": 7029,
+        "keywords": [
+          "ella",
+          "la",
+          "lo",
+          "si",
+          "se",
+          "ella se"
+        ],
+        "score": 0.2
+      }
+    ]
+  },
+  {
+    "cardId": "okul-defter",
+    "label": "Defter",
+    "category": "Okul",
+    "query": [
+      "defter",
+      "notebook",
+      "cuaderno"
+    ],
+    "candidates": [
+      {
+        "arasaacId": 2359,
+        "keywords": [
+          "cuaderno"
+        ],
+        "score": 0.33
+      },
+      {
+        "arasaacId": 5526,
+        "keywords": [
+          "no"
+        ],
+        "score": 0.13
+      },
+      {
+        "arasaacId": 39149,
+        "keywords": [
+          "no",
+          "negar"
+        ],
+        "score": 0.13
+      }
+    ]
+  },
+  {
+    "cardId": "okul-kalem",
+    "label": "Kalem",
+    "category": "Okul",
+    "query": [
+      "kalem",
+      "pencil",
+      "lapiz"
+    ],
+    "candidates": [
+      {
+        "arasaacId": 2440,
+        "keywords": [
+          "lapiz",
+          "lapicero"
+        ],
+        "score": 0.28
+      },
+      {
+        "arasaacId": 9800,
+        "keywords": [
+          "memoria flash",
+          "pen",
+          "memoria usb",
+          "pendrive",
+          "lapiz de memoria"
+        ],
+        "score": 0.13
+      },
+      {
+        "arasaacId": 2992,
+        "keywords": [
+          "pintalabios",
+          "lapiz de labios",
+          "barra de labios"
+        ],
+        "score": 0.07
+      }
+    ]
+  },
+  {
+    "cardId": "okul-sinif",
+    "label": "Sınıf",
+    "category": "Okul",
+    "query": [
+      "sinif",
+      "classroom",
+      "class",
+      "aula"
+    ],
+    "candidates": [
+      {
+        "arasaacId": 9815,
+        "keywords": [
+          "aula",
+          "clase"
+        ],
+        "score": 0.22
+      },
+      {
+        "arasaacId": 5913,
+        "keywords": [
+          "aula",
+          "clase"
+        ],
+        "score": 0.22
+      },
+      {
+        "arasaacId": 9814,
+        "keywords": [
+          "aula",
+          "clase"
+        ],
+        "score": 0.22
+      }
+    ]
+  },
+  {
+    "cardId": "okul-teneffus",
+    "label": "Teneffüs",
+    "category": "Okul",
+    "query": [
+      "teneffus",
+      "break",
+      "recess",
+      "recreo"
+    ],
+    "candidates": [
+      {
+        "arasaacId": 8681,
+        "keywords": [
+          "recreo"
+        ],
+        "score": 0.28
+      },
+      {
+        "arasaacId": 27339,
+        "keywords": [
+          "recreo"
+        ],
+        "score": 0.28
+      },
+      {
+        "arasaacId": 33064,
+        "keywords": [
+          "recreo",
+          "patio"
+        ],
+        "score": 0.22
+      }
+    ]
+  },
+  {
+    "cardId": "okul-boya",
+    "label": "Boya",
+    "category": "Okul",
+    "query": [
+      "boya",
+      "paint",
+      "pintura"
+    ],
+    "candidates": [
+      {
+        "arasaacId": 26696,
+        "keywords": [
+          "boya"
+        ],
+        "score": 0.33
+      },
+      {
+        "arasaacId": 4870,
+        "keywords": [
+          "pintura",
+          "bote de pintura"
+        ],
+        "score": 0.28
+      },
+      {
+        "arasaacId": 4950,
+        "keywords": [
+          "pintura",
+          "pintura de dedos"
+        ],
+        "score": 0.28
+      }
+    ]
+  },
+  {
+    "cardId": "okul-canta",
+    "label": "Çanta",
+    "category": "Okul",
+    "query": [
+      "canta",
+      "bag",
+      "backpack",
+      "mochila"
+    ],
+    "candidates": [
+      {
+        "arasaacId": 2475,
+        "keywords": [
+          "mochila"
+        ],
+        "score": 0.28
+      },
+      {
+        "arasaacId": 4696,
+        "keywords": [
+          "mochila"
+        ],
+        "score": 0.28
+      },
+      {
+        "arasaacId": 34743,
+        "keywords": [
+          "mochila"
+        ],
+        "score": 0.28
+      }
+    ]
+  },
+  {
+    "cardId": "okul-silgi",
+    "label": "Silgi",
+    "category": "Okul",
+    "query": [
+      "silgi",
+      "eraser",
+      "goma"
+    ],
+    "candidates": [
+      {
+        "arasaacId": 2409,
+        "keywords": [
+          "goma",
+          "borrador"
+        ],
+        "score": 0.28
+      },
+      {
+        "arasaacId": 6481,
+        "keywords": [
+          "el",
+          "le",
+          "lo",
+          "si",
+          "se",
+          "el se"
+        ],
+        "score": 0.13
+      },
+      {
+        "arasaacId": 7029,
+        "keywords": [
+          "ella",
+          "la",
+          "lo",
+          "si",
+          "se",
+          "ella se"
+        ],
+        "score": 0.13
+      }
+    ]
+  },
+  {
+    "cardId": "okul-kitap",
+    "label": "Kitap",
+    "category": "Okul",
+    "query": [
+      "kitap",
+      "book",
+      "libro"
+    ],
+    "candidates": [
+      {
+        "arasaacId": 2450,
+        "keywords": [
+          "libro"
+        ],
+        "score": 0.33
+      },
+      {
+        "arasaacId": 25191,
+        "keywords": [
+          "libro"
+        ],
+        "score": 0.33
+      },
+      {
+        "arasaacId": 33963,
+        "keywords": [
+          "clasificacion decimal universal",
+          "cdu",
+          "libros para jovenes"
+        ],
+        "score": 0.07
+      }
+    ]
+  },
+  {
+    "cardId": "okul-makas",
+    "label": "Makas",
+    "category": "Okul",
+    "query": [
+      "makas"
+    ],
+    "candidates": []
+  },
+  {
+    "cardId": "okul-cetvel",
+    "label": "Cetvel",
+    "category": "Okul",
+    "query": [
+      "cetvel",
+      "ruler",
+      "regla"
+    ],
+    "candidates": [
+      {
+        "arasaacId": 2815,
+        "keywords": [
+          "regla"
+        ],
+        "score": 0.33
+      },
+      {
+        "arasaacId": 8165,
+        "keywords": [
+          "menstruacion",
+          "regla"
+        ],
+        "score": 0.28
+      },
+      {
+        "arasaacId": 32490,
+        "keywords": [
+          "menstruacion",
+          "regla"
+        ],
+        "score": 0.28
+      }
+    ]
+  },
+  {
+    "cardId": "oyun-oyuncak-top",
+    "label": "Top",
+    "category": "Oyun / Oyuncak",
+    "query": [
+      "top",
+      "ball",
+      "pelota"
+    ],
+    "candidates": [
+      {
+        "arasaacId": 39702,
+        "keywords": [
+          "top"
+        ],
+        "score": 0.33
+      },
+      {
+        "arasaacId": 3241,
+        "keywords": [
+          "pelota",
+          "pelota de playa"
+        ],
+        "score": 0.28
+      },
+      {
+        "arasaacId": 27627,
+        "keywords": [
+          "equitacion",
+          "montar a caballo"
+        ],
+        "score": 0.07
+      }
+    ]
+  },
+  {
+    "cardId": "oyun-oyuncak-bebek",
+    "label": "Bebek",
+    "category": "Oyun / Oyuncak",
+    "query": [
+      "bebek",
+      "doll",
+      "baby",
+      "muneca",
+      "bebe"
+    ],
+    "candidates": [
+      {
+        "arasaacId": 2275,
+        "keywords": [
+          "bebe"
+        ],
+        "score": 0.28
+      },
+      {
+        "arasaacId": 6060,
+        "keywords": [
+          "bebe"
+        ],
+        "score": 0.28
+      },
+      {
+        "arasaacId": 36887,
+        "keywords": [
+          "bebe"
+        ],
+        "score": 0.28
+      }
+    ]
+  },
+  {
+    "cardId": "oyun-oyuncak-araba",
+    "label": "Oyuncak araba",
+    "category": "Oyun / Oyuncak",
+    "query": [
+      "oyuncak araba",
+      "toy car",
+      "coche de juguete"
+    ],
+    "candidates": [
+      {
+        "arasaacId": 2340,
+        "keywords": [
+          "coche de juguete"
+        ],
+        "score": 0.33
+      },
+      {
+        "arasaacId": 6625,
+        "keywords": [
+          "tu",
+          "te",
+          "ti",
+          "usted",
+          "tu te"
+        ],
+        "score": 0.07
+      },
+      {
+        "arasaacId": 7290,
+        "keywords": [
+          "tu",
+          "te",
+          "ti",
+          "usted",
+          "tu te"
+        ],
+        "score": 0.07
+      }
+    ]
+  },
+  {
+    "cardId": "oyun-oyuncak-yapboz",
+    "label": "Yapboz",
+    "category": "Oyun / Oyuncak",
+    "query": [
+      "yapboz"
+    ],
+    "candidates": []
+  },
+  {
+    "cardId": "oyun-oyuncak-lego",
+    "label": "Lego",
+    "category": "Oyun / Oyuncak",
+    "query": [
+      "lego",
+      "blocks",
+      "bloques"
+    ],
+    "candidates": [
+      {
+        "arasaacId": 8508,
+        "keywords": [
+          "bloques",
+          "bloques de lego"
+        ],
+        "score": 0.35
+      },
+      {
+        "arasaacId": 4921,
+        "keywords": [
+          "bloques",
+          "bloques de psicomotricidad"
+        ],
+        "score": 0.28
+      },
+      {
+        "arasaacId": 6481,
+        "keywords": [
+          "el",
+          "le",
+          "lo",
+          "si",
+          "se",
+          "el se"
+        ],
+        "score": 0.2
+      }
+    ]
+  },
+  {
+    "cardId": "oyun-oyuncak-salincak",
+    "label": "Salıncak",
+    "category": "Oyun / Oyuncak",
+    "query": [
+      "salincak",
+      "swing",
+      "columpio"
+    ],
+    "candidates": [
+      {
+        "arasaacId": 39566,
+        "keywords": [
+          "columpio"
+        ],
+        "score": 0.33
+      },
+      {
+        "arasaacId": 36101,
+        "keywords": [
+          "columpio"
+        ],
+        "score": 0.33
+      },
+      {
+        "arasaacId": 4608,
+        "keywords": [
+          "columpio"
+        ],
+        "score": 0.33
+      }
+    ]
+  },
+  {
+    "cardId": "oyun-oyuncak-bloklar",
+    "label": "Bloklar",
+    "category": "Oyun / Oyuncak",
+    "query": [
+      "bloklar"
+    ],
+    "candidates": [
+      {
+        "arasaacId": 6481,
+        "keywords": [
+          "el",
+          "le",
+          "lo",
+          "si",
+          "se",
+          "el se"
+        ],
+        "score": 0.2
+      },
+      {
+        "arasaacId": 7029,
+        "keywords": [
+          "ella",
+          "la",
+          "lo",
+          "si",
+          "se",
+          "ella se"
+        ],
+        "score": 0.2
+      },
+      {
+        "arasaacId": 31670,
+        "keywords": [
+          "el",
+          "le",
+          "lo",
+          "si",
+          "se",
+          "el se"
+        ],
+        "score": 0.2
+      }
+    ]
+  },
+  {
+    "cardId": "oyun-oyuncak-tren",
+    "label": "Oyuncak tren",
+    "category": "Oyun / Oyuncak",
+    "query": [
+      "oyuncak tren"
+    ],
+    "candidates": [
+      {
+        "arasaacId": 5094,
+        "keywords": [
+          "tren",
+          "tren de juguete"
+        ],
+        "score": 0.2
+      },
+      {
+        "arasaacId": 21399,
+        "keywords": [
+          "tren de alta velocidad",
+          "tren",
+          "ave"
+        ],
+        "score": 0.2
+      },
+      {
+        "arasaacId": 7282,
+        "keywords": [
+          "tren"
+        ],
+        "score": 0.2
+      }
+    ]
+  },
+  {
+    "cardId": "oyun-oyuncak-kukla",
+    "label": "Kukla",
+    "category": "Oyun / Oyuncak",
+    "query": [
+      "kukla",
+      "puppet",
+      "marioneta"
+    ],
+    "candidates": [
+      {
+        "arasaacId": 26897,
+        "keywords": [
+          "titere",
+          "marioneta"
+        ],
+        "score": 0.28
+      },
+      {
+        "arasaacId": 3282,
+        "keywords": [
+          "titere",
+          "marioneta"
+        ],
+        "score": 0.28
+      },
+      {
+        "arasaacId": 4754,
+        "keywords": [
+          "teatro de marionetas"
+        ],
+        "score": 0.07
+      }
+    ]
+  },
+  {
+    "cardId": "oyun-oyuncak-balon",
+    "label": "Balon",
+    "category": "Oyun / Oyuncak",
+    "query": [
+      "balon",
+      "balloon",
+      "globo"
+    ],
+    "candidates": [
+      {
+        "arasaacId": 2408,
+        "keywords": [
+          "globo"
+        ],
+        "score": 0.33
+      },
+      {
+        "arasaacId": 8313,
+        "keywords": [
+          "globo"
+        ],
+        "score": 0.33
+      },
+      {
+        "arasaacId": 2269,
+        "keywords": [
+          "balon"
+        ],
+        "score": 0.33
+      }
+    ]
+  },
+  {
+    "cardId": "rutinler-uyan",
+    "label": "Uyan",
+    "category": "Rutinler",
+    "query": [
+      "uyan",
+      "wake up",
+      "despertar"
+    ],
+    "candidates": [
+      {
+        "arasaacId": 8989,
+        "keywords": [
+          "despertar",
+          "despertarse",
+          "desperezar",
+          "desperezarse"
+        ],
+        "score": 0.27
+      },
+      {
+        "arasaacId": 8988,
+        "keywords": [
+          "despertar",
+          "despertarse",
+          "desperezar",
+          "desperezarse"
+        ],
+        "score": 0.27
+      },
+      {
+        "arasaacId": 28625,
+        "keywords": [
+          "despertar",
+          "despertarse",
+          "desperezar",
+          "desperezarse"
+        ],
+        "score": 0.27
+      }
+    ]
+  },
+  {
+    "cardId": "rutinler-giyin",
+    "label": "Giyin",
+    "category": "Rutinler",
+    "query": [
+      "giyin"
+    ],
+    "candidates": []
+  },
+  {
+    "cardId": "rutinler-kahvalti",
+    "label": "Kahvaltı",
+    "category": "Rutinler",
+    "query": [
+      "kahvalti"
+    ],
+    "candidates": [
+      {
+        "arasaacId": 6625,
+        "keywords": [
+          "tu",
+          "te",
+          "ti",
+          "usted",
+          "tu te"
+        ],
+        "score": 0.2
+      },
+      {
+        "arasaacId": 7290,
+        "keywords": [
+          "tu",
+          "te",
+          "ti",
+          "usted",
+          "tu te"
+        ],
+        "score": 0.2
+      }
+    ]
+  },
+  {
+    "cardId": "rutinler-okula-git",
+    "label": "Okula git",
+    "category": "Rutinler",
+    "query": [
+      "okula git",
+      "school"
+    ],
+    "candidates": [
+      {
+        "arasaacId": 7029,
+        "keywords": [
+          "ella",
+          "la",
+          "lo",
+          "si",
+          "se",
+          "ella se"
+        ],
+        "score": 0.1
+      }
+    ]
+  },
+  {
+    "cardId": "rutinler-eve-don",
+    "label": "Eve dön",
+    "category": "Rutinler",
+    "query": [
+      "eve don"
+    ],
+    "candidates": []
+  },
+  {
+    "cardId": "rutinler-ders",
+    "label": "Ders",
+    "category": "Rutinler",
+    "query": [
+      "ders",
+      "lesson",
+      "class",
+      "leccion"
+    ],
+    "candidates": [
+      {
+        "arasaacId": 6481,
+        "keywords": [
+          "el",
+          "le",
+          "lo",
+          "si",
+          "se",
+          "el se"
+        ],
+        "score": 0.1
+      },
+      {
+        "arasaacId": 7031,
+        "keywords": [
+          "ellas",
+          "si",
+          "les",
+          "las",
+          "se",
+          "ellas se"
+        ],
+        "score": 0.1
+      },
+      {
+        "arasaacId": 31670,
+        "keywords": [
+          "el",
+          "le",
+          "lo",
+          "si",
+          "se",
+          "el se"
+        ],
+        "score": 0.1
+      }
+    ]
+  },
+  {
+    "cardId": "rutinler-oyun-zamani",
+    "label": "Oyun zamanı",
+    "category": "Rutinler",
+    "query": [
+      "oyun zamani"
+    ],
+    "candidates": [
+      {
+        "arasaacId": 8338,
+        "keywords": [
+          "cacahuete",
+          "mani"
+        ],
+        "score": 0.2
+      }
+    ]
+  },
+  {
+    "cardId": "rutinler-aksam",
+    "label": "Akşam rutini",
+    "category": "Rutinler",
+    "query": [
+      "aksam rutini",
+      "aksam",
+      "evening",
+      "noche"
+    ],
+    "candidates": [
+      {
+        "arasaacId": 35789,
+        "keywords": [
+          "noche"
+        ],
+        "score": 0.28
+      },
+      {
+        "arasaacId": 7181,
+        "keywords": [
+          "noche"
+        ],
+        "score": 0.28
+      },
+      {
+        "arasaacId": 26997,
+        "keywords": [
+          "noche"
+        ],
+        "score": 0.28
+      }
+    ]
+  },
+  {
+    "cardId": "rutinler-dinlen",
+    "label": "Dinlen",
+    "category": "Rutinler",
+    "query": [
+      "dinlen"
+    ],
+    "candidates": [
+      {
+        "arasaacId": 6481,
+        "keywords": [
+          "el",
+          "le",
+          "lo",
+          "si",
+          "se",
+          "el se"
+        ],
+        "score": 0.2
+      },
+      {
+        "arasaacId": 31670,
+        "keywords": [
+          "el",
+          "le",
+          "lo",
+          "si",
+          "se",
+          "el se"
+        ],
+        "score": 0.2
+      }
+    ]
+  },
+  {
+    "cardId": "rutinler-yat",
+    "label": "Yat",
+    "category": "Rutinler",
+    "query": [
+      "yat",
+      "go to bed",
+      "bed"
+    ],
+    "candidates": [
+      {
+        "arasaacId": 3172,
+        "keywords": [
+          "yate"
+        ],
+        "score": 0.07
+      },
+      {
+        "arasaacId": 2744,
+        "keywords": [
+          "escarpia",
+          "alcayata"
+        ],
+        "score": 0.07
+      },
+      {
+        "arasaacId": 22007,
+        "keywords": [
+          "obedecer",
+          "obediente"
+        ],
+        "score": 0.07
+      }
+    ]
+  },
+  {
+    "cardId": "sosyal-ifadeler-merhaba",
+    "label": "Merhaba",
+    "category": "Sosyal İfadeler",
+    "query": [
+      "merhaba",
+      "hello",
+      "hola"
+    ],
+    "candidates": [
+      {
+        "arasaacId": 6522,
+        "keywords": [
+          "hola"
+        ],
+        "score": 0.33
+      },
+      {
+        "arasaacId": 6009,
+        "keywords": [
+          "hola"
+        ],
+        "score": 0.33
+      },
+      {
+        "arasaacId": 34567,
+        "keywords": [
+          "hola"
+        ],
+        "score": 0.33
+      }
+    ]
+  },
+  {
+    "cardId": "sosyal-ifadeler-gule-gule",
+    "label": "Hoşça kal",
+    "category": "Sosyal İfadeler",
+    "query": [
+      "hosca kal",
+      "gule gule",
+      "goodbye",
+      "adios"
+    ],
+    "candidates": [
+      {
+        "arasaacId": 6028,
+        "keywords": [
+          "adios",
+          "hasta luego",
+          "hasta la vista"
+        ],
+        "score": 0.21
+      },
+      {
+        "arasaacId": 5896,
+        "keywords": [
+          "adios",
+          "hasta luego",
+          "hasta la vista"
+        ],
+        "score": 0.21
+      },
+      {
+        "arasaacId": 34467,
+        "keywords": [
+          "adios",
+          "hasta luego",
+          "hasta la vista"
+        ],
+        "score": 0.21
+      }
+    ]
+  },
+  {
+    "cardId": "sosyal-ifadeler-lutfen",
+    "label": "Lütfen",
+    "category": "Sosyal İfadeler",
+    "query": [
+      "lutfen"
+    ],
+    "candidates": []
+  },
+  {
+    "cardId": "sosyal-ifadeler-tesekkurler",
+    "label": "Teşekkür ederim",
+    "category": "Sosyal İfadeler",
+    "query": [
+      "tesekkur ederim",
+      "tesekkurler",
+      "thanks",
+      "gracias"
+    ],
+    "candidates": [
+      {
+        "arasaacId": 8129,
+        "keywords": [
+          "gracias"
+        ],
+        "score": 0.28
+      },
+      {
+        "arasaacId": 8128,
+        "keywords": [
+          "gracias"
+        ],
+        "score": 0.28
+      },
+      {
+        "arasaacId": 31206,
+        "keywords": [
+          "gracias"
+        ],
+        "score": 0.28
+      }
+    ]
+  },
+  {
+    "cardId": "sosyal-ifadeler-ozur-dilerim",
+    "label": "Özür dilerim",
+    "category": "Sosyal İfadeler",
+    "query": [
+      "ozur dilerim",
+      "sorry",
+      "lo siento"
+    ],
+    "candidates": [
+      {
+        "arasaacId": 11625,
+        "keywords": [
+          "lo siento",
+          "perdonar",
+          "perdon",
+          "pedir perdon"
+        ],
+        "score": 0.27
+      },
+      {
+        "arasaacId": 38360,
+        "keywords": [
+          "lo siento",
+          "perdonar",
+          "pedir perdon",
+          "perdon"
+        ],
+        "score": 0.27
+      },
+      {
+        "arasaacId": 38361,
+        "keywords": [
+          "lo siento",
+          "perdonar",
+          "pedir perdon",
+          "perdon"
+        ],
+        "score": 0.27
+      }
+    ]
+  },
+  {
+    "cardId": "sosyal-ifadeler-evet",
+    "label": "Evet",
+    "category": "Sosyal İfadeler",
+    "query": [
+      "evet",
+      "yes",
+      "si"
+    ],
+    "candidates": [
+      {
+        "arasaacId": 5584,
+        "keywords": [
+          "si"
+        ],
+        "score": 0.33
+      },
+      {
+        "arasaacId": 28359,
+        "keywords": [
+          "si"
+        ],
+        "score": 0.33
+      },
+      {
+        "arasaacId": 6481,
+        "keywords": [
+          "el",
+          "le",
+          "lo",
+          "si",
+          "se",
+          "el se"
+        ],
+        "score": 0.27
+      }
+    ]
+  },
+  {
+    "cardId": "sosyal-ifadeler-hayir",
+    "label": "Hayır",
+    "category": "Sosyal İfadeler",
+    "query": [
+      "hayir",
+      "no"
+    ],
+    "candidates": [
+      {
+        "arasaacId": 5526,
+        "keywords": [
+          "no"
+        ],
+        "score": 0.45
+      },
+      {
+        "arasaacId": 39149,
+        "keywords": [
+          "no",
+          "negar"
+        ],
+        "score": 0.4
+      },
+      {
+        "arasaacId": 39384,
+        "keywords": [
+          "siete menos cuarto",
+          "18 45h",
+          "las siete menos cuarto",
+          "las 7 menos cuarto"
+        ],
+        "score": 0.1
+      }
+    ]
+  },
+  {
+    "cardId": "sosyal-ifadeler-tamam",
+    "label": "Tamam",
+    "category": "Sosyal İfadeler",
+    "query": [
+      "tamam"
+    ],
+    "candidates": []
+  },
+  {
+    "cardId": "sosyal-ifadeler-bilmiyorum",
+    "label": "Bilmiyorum",
+    "category": "Sosyal İfadeler",
+    "query": [
+      "bilmiyorum"
+    ],
+    "candidates": []
+  },
+  {
+    "cardId": "sosyal-ifadeler-nasilsin",
+    "label": "Nasılsın?",
+    "category": "Sosyal İfadeler",
+    "query": [
+      "nasilsin"
+    ],
+    "candidates": [
+      {
+        "arasaacId": 5584,
+        "keywords": [
+          "si"
+        ],
+        "score": 0.2
+      },
+      {
+        "arasaacId": 6481,
+        "keywords": [
+          "el",
+          "le",
+          "lo",
+          "si",
+          "se",
+          "el se"
+        ],
+        "score": 0.2
+      },
+      {
+        "arasaacId": 7029,
+        "keywords": [
+          "ella",
+          "la",
+          "lo",
+          "si",
+          "se",
+          "ella se"
+        ],
+        "score": 0.2
+      }
+    ]
+  },
+  {
+    "cardId": "duyusal-ihtiyaclar-sessiz",
+    "label": "Sessiz",
+    "category": "Duyusal İhtiyaçlar",
+    "query": [
+      "sessiz",
+      "quiet",
+      "silencio"
+    ],
+    "candidates": [
+      {
+        "arasaacId": 5936,
+        "keywords": [
+          "silencio",
+          "callar",
+          "silenciar",
+          "pedir silencio"
+        ],
+        "score": 0.27
+      },
+      {
+        "arasaacId": 6071,
+        "keywords": [
+          "silencio",
+          "callar",
+          "silenciar",
+          "pedir silencio"
+        ],
+        "score": 0.27
+      },
+      {
+        "arasaacId": 5584,
+        "keywords": [
+          "si"
+        ],
+        "score": 0.13
+      }
+    ]
+  },
+  {
+    "cardId": "duyusal-ihtiyaclar-kulaklik",
+    "label": "Kulaklık",
+    "category": "Duyusal İhtiyaçlar",
+    "query": [
+      "kulaklik",
+      "headphones",
+      "auriculares"
+    ],
+    "candidates": [
+      {
+        "arasaacId": 5915,
+        "keywords": [
+          "auriculares"
+        ],
+        "score": 0.33
+      },
+      {
+        "arasaacId": 39238,
+        "keywords": [
+          "auriculares"
+        ],
+        "score": 0.33
+      },
+      {
+        "arasaacId": 11208,
+        "keywords": [
+          "auriculares",
+          "cascos"
+        ],
+        "score": 0.28
+      }
+    ]
+  },
+  {
+    "cardId": "duyusal-ihtiyaclar-sik-sik",
+    "label": "Sıkı sarıl",
+    "category": "Duyusal İhtiyaçlar",
+    "query": [
+      "siki saril"
+    ],
+    "candidates": [
+      {
+        "arasaacId": 5584,
+        "keywords": [
+          "si"
+        ],
+        "score": 0.2
+      },
+      {
+        "arasaacId": 6481,
+        "keywords": [
+          "el",
+          "le",
+          "lo",
+          "si",
+          "se",
+          "el se"
+        ],
+        "score": 0.2
+      },
+      {
+        "arasaacId": 7029,
+        "keywords": [
+          "ella",
+          "la",
+          "lo",
+          "si",
+          "se",
+          "ella se"
+        ],
+        "score": 0.2
+      }
+    ]
+  },
+  {
+    "cardId": "duyusal-ihtiyaclar-zipla",
+    "label": "Zıpla",
+    "category": "Duyusal İhtiyaçlar",
+    "query": [
+      "zipla",
+      "jump",
+      "saltar"
+    ],
+    "candidates": [
+      {
+        "arasaacId": 39052,
+        "keywords": [
+          "saltar"
+        ],
+        "score": 0.33
+      },
+      {
+        "arasaacId": 6607,
+        "keywords": [
+          "saltar"
+        ],
+        "score": 0.33
+      },
+      {
+        "arasaacId": 2804,
+        "keywords": [
+          "saltar"
+        ],
+        "score": 0.33
+      }
+    ]
+  },
+  {
+    "cardId": "duyusal-ihtiyaclar-sallan",
+    "label": "Sallan",
+    "category": "Duyusal İhtiyaçlar",
+    "query": [
+      "sallan",
+      "swing",
+      "balance"
+    ],
+    "candidates": [
+      {
+        "arasaacId": 7029,
+        "keywords": [
+          "ella",
+          "la",
+          "lo",
+          "si",
+          "se",
+          "ella se"
+        ],
+        "score": 0.13
+      },
+      {
+        "arasaacId": 36881,
+        "keywords": [
+          "balancear"
+        ],
+        "score": 0.07
+      },
+      {
+        "arasaacId": 36882,
+        "keywords": [
+          "balancear"
+        ],
+        "score": 0.07
+      }
+    ]
+  },
+  {
+    "cardId": "duyusal-ihtiyaclar-karanlik",
+    "label": "Karanlık",
+    "category": "Duyusal İhtiyaçlar",
+    "query": [
+      "karanlik",
+      "dark",
+      "oscuro"
+    ],
+    "candidates": [
+      {
+        "arasaacId": 26266,
+        "keywords": [
+          "oscuro"
+        ],
+        "score": 0.33
+      },
+      {
+        "arasaacId": 4710,
+        "keywords": [
+          "oscuro",
+          "oscura"
+        ],
+        "score": 0.28
+      },
+      {
+        "arasaacId": 26993,
+        "keywords": [
+          "apagado",
+          "oscuro",
+          "apagada",
+          "oscura"
+        ],
+        "score": 0.27
+      }
+    ]
+  },
+  {
+    "cardId": "duyusal-ihtiyaclar-yuksek-ses",
+    "label": "Yüksek ses",
+    "category": "Duyusal İhtiyaçlar",
+    "query": [
+      "yuksek ses",
+      "loud sound",
+      "noise"
+    ],
+    "candidates": [
+      {
+        "arasaacId": 6481,
+        "keywords": [
+          "el",
+          "le",
+          "lo",
+          "si",
+          "se",
+          "el se"
+        ],
+        "score": 0.2
+      },
+      {
+        "arasaacId": 7029,
+        "keywords": [
+          "ella",
+          "la",
+          "lo",
+          "si",
+          "se",
+          "ella se"
+        ],
+        "score": 0.2
+      },
+      {
+        "arasaacId": 31670,
+        "keywords": [
+          "el",
+          "le",
+          "lo",
+          "si",
+          "se",
+          "el se"
+        ],
+        "score": 0.2
+      }
+    ]
+  },
+  {
+    "cardId": "duyusal-ihtiyaclar-parlak-isik",
+    "label": "Parlak ışık",
+    "category": "Duyusal İhtiyaçlar",
+    "query": [
+      "parlak isik",
+      "isik",
+      "bright light",
+      "light",
+      "luz"
+    ],
+    "candidates": [
+      {
+        "arasaacId": 8619,
+        "keywords": [
+          "luz"
+        ],
+        "score": 0.24
+      },
+      {
+        "arasaacId": 5584,
+        "keywords": [
+          "si"
+        ],
+        "score": 0.08
+      },
+      {
+        "arasaacId": 6481,
+        "keywords": [
+          "el",
+          "le",
+          "lo",
+          "si",
+          "se",
+          "el se"
+        ],
+        "score": 0.08
+      }
+    ]
+  },
+  {
+    "cardId": "duyusal-ihtiyaclar-kalabalik",
+    "label": "Kalabalık",
+    "category": "Duyusal İhtiyaçlar",
+    "query": [
+      "kalabalik",
+      "crowd",
+      "crowded",
+      "multitud"
+    ],
+    "candidates": [
+      {
+        "arasaacId": 38445,
+        "keywords": [
+          "multitud",
+          "aglomeracion",
+          "muchedumbre"
+        ],
+        "score": 0.21
+      },
+      {
+        "arasaacId": 6625,
+        "keywords": [
+          "tu",
+          "te",
+          "ti",
+          "usted",
+          "tu te"
+        ],
+        "score": 0.05
+      },
+      {
+        "arasaacId": 7290,
+        "keywords": [
+          "tu",
+          "te",
+          "ti",
+          "usted",
+          "tu te"
+        ],
+        "score": 0.05
+      }
+    ]
+  },
+  {
+    "cardId": "duyusal-ihtiyaclar-sarilmak-istemiyorum",
+    "label": "Sarılmak istemiyorum",
+    "category": "Duyusal İhtiyaçlar",
+    "query": [
+      "sarilmak istemiyorum",
+      "no hug"
+    ],
+    "candidates": [
+      {
+        "arasaacId": 5526,
+        "keywords": [
+          "no"
+        ],
+        "score": 0.1
+      },
+      {
+        "arasaacId": 39149,
+        "keywords": [
+          "no",
+          "negar"
+        ],
+        "score": 0.1
+      },
+      {
+        "arasaacId": 6625,
+        "keywords": [
+          "tu",
+          "te",
+          "ti",
+          "usted",
+          "tu te"
+        ],
+        "score": 0.1
+      }
+    ]
+  },
+  {
+    "cardId": "guvenlik-dur",
+    "label": "Dur",
+    "category": "Güvenlik",
+    "query": [
+      "dur",
+      "stop",
+      "parar"
+    ],
+    "candidates": [
+      {
+        "arasaacId": 8289,
+        "keywords": [
+          "stop"
+        ],
+        "score": 0.33
+      },
+      {
+        "arasaacId": 7195,
+        "keywords": [
+          "parar",
+          "detener"
+        ],
+        "score": 0.28
+      },
+      {
+        "arasaacId": 7196,
+        "keywords": [
+          "parar",
+          "detener"
+        ],
+        "score": 0.28
+      }
+    ]
+  },
+  {
+    "cardId": "guvenlik-yavas",
+    "label": "Yavaş",
+    "category": "Güvenlik",
+    "query": [
+      "yavas"
+    ],
+    "candidates": []
+  },
+  {
+    "cardId": "guvenlik-elimi-tut",
+    "label": "Elimi tut",
+    "category": "Güvenlik",
+    "query": [
+      "elimi tut"
+    ],
+    "candidates": [
+      {
+        "arasaacId": 6625,
+        "keywords": [
+          "tu",
+          "te",
+          "ti",
+          "usted",
+          "tu te"
+        ],
+        "score": 0.2
+      },
+      {
+        "arasaacId": 7290,
+        "keywords": [
+          "tu",
+          "te",
+          "ti",
+          "usted",
+          "tu te"
+        ],
+        "score": 0.2
+      },
+      {
+        "arasaacId": 2608,
+        "keywords": [
+          "tu",
+          "usted",
+          "tu te"
+        ],
+        "score": 0.2
+      }
+    ]
+  },
+  {
+    "cardId": "guvenlik-bekle",
+    "label": "Geri dur",
+    "category": "Güvenlik",
+    "query": [
+      "geri dur",
+      "bekle",
+      "stop",
+      "back",
+      "wait",
+      "esperar"
+    ],
+    "candidates": [
+      {
+        "arasaacId": 36914,
+        "keywords": [
+          "esperar"
+        ],
+        "score": 0.22
+      },
+      {
+        "arasaacId": 27547,
+        "keywords": [
+          "esperar"
+        ],
+        "score": 0.22
+      },
+      {
+        "arasaacId": 16697,
+        "keywords": [
+          "esperar"
+        ],
+        "score": 0.22
+      }
+    ]
+  },
+  {
+    "cardId": "guvenlik-tehlike",
+    "label": "Tehlike",
+    "category": "Güvenlik",
+    "query": [
+      "tehlike"
+    ],
+    "candidates": [
+      {
+        "arasaacId": 6625,
+        "keywords": [
+          "tu",
+          "te",
+          "ti",
+          "usted",
+          "tu te"
+        ],
+        "score": 0.2
+      },
+      {
+        "arasaacId": 7290,
+        "keywords": [
+          "tu",
+          "te",
+          "ti",
+          "usted",
+          "tu te"
+        ],
+        "score": 0.2
+      },
+      {
+        "arasaacId": 29802,
+        "keywords": [
+          "te instantaneo",
+          "te"
+        ],
+        "score": 0.2
+      }
+    ]
+  },
+  {
+    "cardId": "guvenlik-kemer",
+    "label": "Kemer tak",
+    "category": "Güvenlik",
+    "query": [
+      "kemer tak"
+    ],
+    "candidates": []
+  },
+  {
+    "cardId": "guvenlik-acil-yardim",
+    "label": "Acil yardım",
+    "category": "Güvenlik",
+    "query": [
+      "acil yardim",
+      "yardim"
+    ],
+    "candidates": []
+  },
+  {
+    "cardId": "guvenlik-sicak",
+    "label": "Sıcak",
+    "category": "Güvenlik",
+    "query": [
+      "sicak",
+      "hot",
+      "caliente"
+    ],
+    "candidates": [
+      {
+        "arasaacId": 4583,
+        "keywords": [
+          "caliente"
+        ],
+        "score": 0.33
+      },
+      {
+        "arasaacId": 26716,
+        "keywords": [
+          "caliente",
+          "ardiente"
+        ],
+        "score": 0.28
+      },
+      {
+        "arasaacId": 38618,
+        "keywords": [
+          "frankfurteria",
+          "perritos calientes",
+          "hot dogs"
+        ],
+        "score": 0.13
+      }
+    ]
+  },
+  {
+    "cardId": "guvenlik-soguk",
+    "label": "Soğuk",
+    "category": "Güvenlik",
+    "query": [
+      "soguk",
+      "cold",
+      "frio"
+    ],
+    "candidates": [
+      {
+        "arasaacId": 35557,
+        "keywords": [
+          "frio"
+        ],
+        "score": 0.33
+      },
+      {
+        "arasaacId": 35589,
+        "keywords": [
+          "frio"
+        ],
+        "score": 0.33
+      },
+      {
+        "arasaacId": 4652,
+        "keywords": [
+          "frio",
+          "fria"
+        ],
+        "score": 0.28
+      }
+    ]
+  },
+  {
+    "cardId": "guvenlik-kayboldum",
+    "label": "Kayboldum",
+    "category": "Güvenlik",
+    "query": [
+      "kayboldum",
+      "lost",
+      "perdido"
+    ],
+    "candidates": [
+      {
+        "arasaacId": 36295,
+        "keywords": [
+          "perdido",
+          "perdida",
+          "desorientado",
+          "desorientada",
+          "extraviado",
+          "extraviada"
+        ],
+        "score": 0.27
+      },
+      {
+        "arasaacId": 3257,
+        "keywords": [
+          "bol"
+        ],
+        "score": 0.07
+      },
+      {
+        "arasaacId": 6481,
+        "keywords": [
+          "el",
+          "le",
+          "lo",
+          "si",
+          "se",
+          "el se"
+        ],
+        "score": 0.07
+      }
+    ]
+  },
+  {
+    "cardId": "zaman-simdi",
+    "label": "Şimdi",
+    "category": "Zaman",
+    "query": [
+      "simdi",
+      "now",
+      "ahora"
+    ],
+    "candidates": [
+      {
+        "arasaacId": 32747,
+        "keywords": [
+          "ahora"
+        ],
+        "score": 0.33
+      },
+      {
+        "arasaacId": 13026,
+        "keywords": [
+          "ahora"
+        ],
+        "score": 0.33
+      },
+      {
+        "arasaacId": 29810,
+        "keywords": [
+          "snowboarding",
+          "snowboard",
+          "hacer snowboard"
+        ],
+        "score": 0.07
+      }
+    ]
+  },
+  {
+    "cardId": "zaman-sonra",
+    "label": "Sonra",
+    "category": "Zaman",
+    "query": [
+      "sonra",
+      "later",
+      "despues"
+    ],
+    "candidates": [
+      {
+        "arasaacId": 32749,
+        "keywords": [
+          "despues",
+          "luego",
+          "despues de",
+          "despues del"
+        ],
+        "score": 0.27
+      },
+      {
+        "arasaacId": 13080,
+        "keywords": [
+          "despues",
+          "luego",
+          "despues de",
+          "despues del"
+        ],
+        "score": 0.27
+      },
+      {
+        "arasaacId": 32850,
+        "keywords": [
+          "despues del mediodia",
+          "p m",
+          "post meridiem"
+        ],
+        "score": 0.07
+      }
+    ]
+  },
+  {
+    "cardId": "zaman-bugun",
+    "label": "Bugün",
+    "category": "Zaman",
+    "query": [
+      "bugun",
+      "today",
+      "hoy"
+    ],
+    "candidates": [
+      {
+        "arasaacId": 7131,
+        "keywords": [
+          "hoy"
+        ],
+        "score": 0.33
+      },
+      {
+        "arasaacId": 38276,
+        "keywords": [
+          "hoy"
+        ],
+        "score": 0.33
+      }
+    ]
+  },
+  {
+    "cardId": "zaman-yarin",
+    "label": "Yarın",
+    "category": "Zaman",
+    "query": [
+      "yarin"
+    ],
+    "candidates": []
+  },
+  {
+    "cardId": "zaman-sabah",
+    "label": "Sabah",
+    "category": "Zaman",
+    "query": [
+      "sabah",
+      "morning",
+      "manana"
+    ],
+    "candidates": [
+      {
+        "arasaacId": 7152,
+        "keywords": [
+          "manana"
+        ],
+        "score": 0.33
+      },
+      {
+        "arasaacId": 25704,
+        "keywords": [
+          "manana",
+          "temprano"
+        ],
+        "score": 0.28
+      },
+      {
+        "arasaacId": 38278,
+        "keywords": [
+          "manana",
+          "siguiente dia",
+          "dia siguiente",
+          "proximo dia"
+        ],
+        "score": 0.27
+      }
+    ]
+  },
+  {
+    "cardId": "zaman-ogle",
+    "label": "Öğle",
+    "category": "Zaman",
+    "query": [
+      "ogle",
+      "noon",
+      "mediodia"
+    ],
+    "candidates": [
+      {
+        "arasaacId": 32708,
+        "keywords": [
+          "mediodia"
+        ],
+        "score": 0.33
+      },
+      {
+        "arasaacId": 32709,
+        "keywords": [
+          "mediodia"
+        ],
+        "score": 0.33
+      },
+      {
+        "arasaacId": 32848,
+        "keywords": [
+          "antes del mediodia",
+          "a m",
+          "ante meridiem"
+        ],
+        "score": 0.07
+      }
+    ]
+  },
+  {
+    "cardId": "zaman-aksam",
+    "label": "Akşam",
+    "category": "Zaman",
+    "query": [
+      "aksam",
+      "evening",
+      "noche"
+    ],
+    "candidates": [
+      {
+        "arasaacId": 35789,
+        "keywords": [
+          "noche"
+        ],
+        "score": 0.33
+      },
+      {
+        "arasaacId": 7181,
+        "keywords": [
+          "noche"
+        ],
+        "score": 0.33
+      },
+      {
+        "arasaacId": 26997,
+        "keywords": [
+          "noche"
+        ],
+        "score": 0.33
+      }
+    ]
+  },
+  {
+    "cardId": "zaman-gece",
+    "label": "Gece",
+    "category": "Zaman",
+    "query": [
+      "gece",
+      "night",
+      "noche"
+    ],
+    "candidates": [
+      {
+        "arasaacId": 35789,
+        "keywords": [
+          "noche"
+        ],
+        "score": 0.33
+      },
+      {
+        "arasaacId": 7181,
+        "keywords": [
+          "noche"
+        ],
+        "score": 0.33
+      },
+      {
+        "arasaacId": 26997,
+        "keywords": [
+          "noche"
+        ],
+        "score": 0.33
+      }
+    ]
+  },
+  {
+    "cardId": "zaman-dun",
+    "label": "Dün",
+    "category": "Zaman",
+    "query": [
+      "dun"
+    ],
+    "candidates": []
+  },
+  {
+    "cardId": "zaman-hemen",
+    "label": "Hemen",
+    "category": "Zaman",
+    "query": [
+      "hemen"
+    ],
+    "candidates": []
+  },
+  {
+    "cardId": "sayilar-sifir",
+    "label": "Sıfır",
+    "category": "Sayılar",
+    "query": [
+      "sifir"
+    ],
+    "candidates": [
+      {
+        "arasaacId": 5584,
+        "keywords": [
+          "si"
+        ],
+        "score": 0.2
+      },
+      {
+        "arasaacId": 6481,
+        "keywords": [
+          "el",
+          "le",
+          "lo",
+          "si",
+          "se",
+          "el se"
+        ],
+        "score": 0.2
+      },
+      {
+        "arasaacId": 7029,
+        "keywords": [
+          "ella",
+          "la",
+          "lo",
+          "si",
+          "se",
+          "ella se"
+        ],
+        "score": 0.2
+      }
+    ]
+  },
+  {
+    "cardId": "sayilar-bir",
+    "label": "Bir",
+    "category": "Sayılar",
+    "query": [
+      "bir",
+      "one",
+      "uno"
+    ],
+    "candidates": [
+      {
+        "arasaacId": 2627,
+        "keywords": [
+          "uno",
+          "1"
+        ],
+        "score": 0.28
+      },
+      {
+        "arasaacId": 4889,
+        "keywords": [
+          "uno",
+          "1"
+        ],
+        "score": 0.28
+      },
+      {
+        "arasaacId": 7291,
+        "keywords": [
+          "uno",
+          "1"
+        ],
+        "score": 0.28
+      }
+    ]
+  },
+  {
+    "cardId": "sayilar-iki",
+    "label": "İki",
+    "category": "Sayılar",
+    "query": [
+      "iki"
+    ],
+    "candidates": [
+      {
+        "arasaacId": 39740,
+        "keywords": [
+          "acordeon diatonico",
+          "trikitixa"
+        ],
+        "score": 0.2
+      },
+      {
+        "arasaacId": 2279,
+        "keywords": [
+          "bikini",
+          "biquini"
+        ],
+        "score": 0.2
+      },
+      {
+        "arasaacId": 10354,
+        "keywords": [
+          "casco vikingo",
+          "casco"
+        ],
+        "score": 0.2
+      }
+    ]
+  },
+  {
+    "cardId": "sayilar-uc",
+    "label": "Üç",
+    "category": "Sayılar",
+    "query": [
+      "uc",
+      "three",
+      "tres"
+    ],
+    "candidates": [
+      {
+        "arasaacId": 2629,
+        "keywords": [
+          "3",
+          "tres"
+        ],
+        "score": 0.28
+      },
+      {
+        "arasaacId": 4891,
+        "keywords": [
+          "3",
+          "tres"
+        ],
+        "score": 0.28
+      },
+      {
+        "arasaacId": 7283,
+        "keywords": [
+          "3",
+          "tres"
+        ],
+        "score": 0.28
+      }
+    ]
+  },
+  {
+    "cardId": "sayilar-dort",
+    "label": "Dört",
+    "category": "Sayılar",
+    "query": [
+      "dort",
+      "four",
+      "cuatro"
+    ],
+    "candidates": [
+      {
+        "arasaacId": 2630,
+        "keywords": [
+          "4",
+          "cuatro"
+        ],
+        "score": 0.28
+      },
+      {
+        "arasaacId": 4892,
+        "keywords": [
+          "4",
+          "cuatro"
+        ],
+        "score": 0.28
+      },
+      {
+        "arasaacId": 7005,
+        "keywords": [
+          "4",
+          "cuatro"
+        ],
+        "score": 0.28
+      }
+    ]
+  },
+  {
+    "cardId": "sayilar-bes",
+    "label": "Beş",
+    "category": "Sayılar",
+    "query": [
+      "bes"
+    ],
+    "candidates": [
+      {
+        "arasaacId": 38341,
+        "keywords": [
+          "pez besucon",
+          "gurami besador"
+        ],
+        "score": 0.2
+      },
+      {
+        "arasaacId": 10238,
+        "keywords": [
+          "buey",
+          "cabestro"
+        ],
+        "score": 0.2
+      },
+      {
+        "arasaacId": 4576,
+        "keywords": [
+          "beso"
+        ],
+        "score": 0.2
+      }
+    ]
+  },
+  {
+    "cardId": "sayilar-alti",
+    "label": "Altı",
+    "category": "Sayılar",
+    "query": [
+      "alti"
+    ],
+    "candidates": [
+      {
+        "arasaacId": 6625,
+        "keywords": [
+          "tu",
+          "te",
+          "ti",
+          "usted",
+          "tu te"
+        ],
+        "score": 0.2
+      },
+      {
+        "arasaacId": 7290,
+        "keywords": [
+          "tu",
+          "te",
+          "ti",
+          "usted",
+          "tu te"
+        ],
+        "score": 0.2
+      },
+      {
+        "arasaacId": 27021,
+        "keywords": [
+          "penalti"
+        ],
+        "score": 0.2
+      }
+    ]
+  },
+  {
+    "cardId": "sayilar-yedi",
+    "label": "Yedi",
+    "category": "Sayılar",
+    "query": [
+      "yedi"
+    ],
+    "candidates": []
+  },
+  {
+    "cardId": "sayilar-sekiz",
+    "label": "Sekiz",
+    "category": "Sayılar",
+    "query": [
+      "sekiz"
+    ],
+    "candidates": [
+      {
+        "arasaacId": 6481,
+        "keywords": [
+          "el",
+          "le",
+          "lo",
+          "si",
+          "se",
+          "el se"
+        ],
+        "score": 0.2
+      },
+      {
+        "arasaacId": 7029,
+        "keywords": [
+          "ella",
+          "la",
+          "lo",
+          "si",
+          "se",
+          "ella se"
+        ],
+        "score": 0.2
+      },
+      {
+        "arasaacId": 7031,
+        "keywords": [
+          "ellas",
+          "si",
+          "les",
+          "las",
+          "se",
+          "ellas se"
+        ],
+        "score": 0.2
+      }
+    ]
+  },
+  {
+    "cardId": "sayilar-dokuz",
+    "label": "Dokuz",
+    "category": "Sayılar",
+    "query": [
+      "dokuz"
+    ],
+    "candidates": []
+  },
+  {
+    "cardId": "sayilar-on",
+    "label": "On",
+    "category": "Sayılar",
+    "query": [
+      "on"
+    ],
+    "candidates": [
+      {
+        "arasaacId": 39368,
+        "keywords": [
+          "once menos cuarto",
+          "22 45h",
+          "las once menos cuarto",
+          "las 11 menos cuarto"
+        ],
+        "score": 0.2
+      },
+      {
+        "arasaacId": 39367,
+        "keywords": [
+          "23 00h",
+          "las once",
+          "las 11",
+          "las once en punto",
+          "las 11 en punto"
+        ],
+        "score": 0.2
+      },
+      {
+        "arasaacId": 39366,
+        "keywords": [
+          "once y media",
+          "23 30h",
+          "las once y media",
+          "las 11 y media"
+        ],
+        "score": 0.2
+      }
+    ]
+  },
+  {
+    "cardId": "renkler-kirmizi",
+    "label": "Kırmızı",
+    "category": "Renkler",
+    "query": [
+      "kirmizi",
+      "red",
+      "rojo"
+    ],
+    "candidates": [
+      {
+        "arasaacId": 6205,
+        "keywords": [
+          "red"
+        ],
+        "score": 0.33
+      },
+      {
+        "arasaacId": 2548,
+        "keywords": [
+          "red"
+        ],
+        "score": 0.33
+      },
+      {
+        "arasaacId": 2808,
+        "keywords": [
+          "rojo",
+          "roja"
+        ],
+        "score": 0.28
+      }
+    ]
+  },
+  {
+    "cardId": "renkler-mavi",
+    "label": "Mavi",
+    "category": "Renkler",
+    "query": [
+      "mavi",
+      "blue",
+      "azul"
+    ],
+    "candidates": [
+      {
+        "arasaacId": 4869,
+        "keywords": [
+          "azul"
+        ],
+        "score": 0.33
+      },
+      {
+        "arasaacId": 3355,
+        "keywords": [
+          "azul"
+        ],
+        "score": 0.33
+      },
+      {
+        "arasaacId": 28018,
+        "keywords": [
+          "queso azul"
+        ],
+        "score": 0.07
+      }
+    ]
+  },
+  {
+    "cardId": "renkler-sari",
+    "label": "Sarı",
+    "category": "Renkler",
+    "query": [
+      "sari",
+      "yellow",
+      "amarillo"
+    ],
+    "candidates": [
+      {
+        "arasaacId": 2648,
+        "keywords": [
+          "amarillo",
+          "amarilla"
+        ],
+        "score": 0.28
+      },
+      {
+        "arasaacId": 6481,
+        "keywords": [
+          "el",
+          "le",
+          "lo",
+          "si",
+          "se",
+          "el se"
+        ],
+        "score": 0.13
+      },
+      {
+        "arasaacId": 7029,
+        "keywords": [
+          "ella",
+          "la",
+          "lo",
+          "si",
+          "se",
+          "ella se"
+        ],
+        "score": 0.13
+      }
+    ]
+  },
+  {
+    "cardId": "renkler-yesil",
+    "label": "Yeşil",
+    "category": "Renkler",
+    "query": [
+      "yesil",
+      "green",
+      "verde"
+    ],
+    "candidates": [
+      {
+        "arasaacId": 4887,
+        "keywords": [
+          "verde",
+          "verde oscuro"
+        ],
+        "score": 0.28
+      },
+      {
+        "arasaacId": 4886,
+        "keywords": [
+          "verde",
+          "verde claro"
+        ],
+        "score": 0.28
+      },
+      {
+        "arasaacId": 2874,
+        "keywords": [
+          "aceitunas",
+          "olivas",
+          "olivas verdes",
+          "aceitunas verdes"
+        ],
+        "score": 0.07
+      }
+    ]
+  },
+  {
+    "cardId": "renkler-turuncu",
+    "label": "Turuncu",
+    "category": "Renkler",
+    "query": [
+      "turuncu",
+      "orange"
+    ],
+    "candidates": [
+      {
+        "arasaacId": 6625,
+        "keywords": [
+          "tu",
+          "te",
+          "ti",
+          "usted",
+          "tu te"
+        ],
+        "score": 0.1
+      },
+      {
+        "arasaacId": 7290,
+        "keywords": [
+          "tu",
+          "te",
+          "ti",
+          "usted",
+          "tu te"
+        ],
+        "score": 0.1
+      },
+      {
+        "arasaacId": 2608,
+        "keywords": [
+          "tu",
+          "usted",
+          "tu te"
+        ],
+        "score": 0.1
+      }
+    ]
+  },
+  {
+    "cardId": "renkler-mor",
+    "label": "Mor",
+    "category": "Renkler",
+    "query": [
+      "mor",
+      "purple",
+      "morado"
+    ],
+    "candidates": [
+      {
+        "arasaacId": 2907,
+        "keywords": [
+          "morado",
+          "morada"
+        ],
+        "score": 0.35
+      },
+      {
+        "arasaacId": 7232,
+        "keywords": [
+          "romantico",
+          "enamorado",
+          "romantica",
+          "enamorada"
+        ],
+        "score": 0.13
+      },
+      {
+        "arasaacId": 31995,
+        "keywords": [
+          "romantico",
+          "enamorado"
+        ],
+        "score": 0.13
+      }
+    ]
+  },
+  {
+    "cardId": "renkler-pembe",
+    "label": "Pembe",
+    "category": "Renkler",
+    "query": [
+      "pembe"
+    ],
+    "candidates": []
+  },
+  {
+    "cardId": "renkler-siyah",
+    "label": "Siyah",
+    "category": "Renkler",
+    "query": [
+      "siyah"
+    ],
+    "candidates": [
+      {
+        "arasaacId": 5584,
+        "keywords": [
+          "si"
+        ],
+        "score": 0.2
+      },
+      {
+        "arasaacId": 6481,
+        "keywords": [
+          "el",
+          "le",
+          "lo",
+          "si",
+          "se",
+          "el se"
+        ],
+        "score": 0.2
+      },
+      {
+        "arasaacId": 7029,
+        "keywords": [
+          "ella",
+          "la",
+          "lo",
+          "si",
+          "se",
+          "ella se"
+        ],
+        "score": 0.2
+      }
+    ]
+  },
+  {
+    "cardId": "renkler-beyaz",
+    "label": "Beyaz",
+    "category": "Renkler",
+    "query": [
+      "beyaz"
+    ],
+    "candidates": []
+  },
+  {
+    "cardId": "renkler-kahverengi",
+    "label": "Kahverengi",
+    "category": "Renkler",
+    "query": [
+      "kahverengi"
+    ],
+    "candidates": [
+      {
+        "arasaacId": 6564,
+        "keywords": [
+          "ver",
+          "mirar",
+          "observar"
+        ],
+        "score": 0.2
+      },
+      {
+        "arasaacId": 2474,
+        "keywords": [
+          "ver",
+          "mirar",
+          "observar"
+        ],
+        "score": 0.2
+      },
+      {
+        "arasaacId": 28673,
+        "keywords": [
+          "ver",
+          "mirar",
+          "observar"
+        ],
+        "score": 0.2
+      }
+    ]
+  },
+  {
+    "cardId": "kiyafetler-tisort",
+    "label": "Tişört",
+    "category": "Kıyafetler",
+    "query": [
+      "tisort"
+    ],
+    "candidates": [
+      {
+        "arasaacId": 6625,
+        "keywords": [
+          "tu",
+          "te",
+          "ti",
+          "usted",
+          "tu te"
+        ],
+        "score": 0.2
+      },
+      {
+        "arasaacId": 7290,
+        "keywords": [
+          "tu",
+          "te",
+          "ti",
+          "usted",
+          "tu te"
+        ],
+        "score": 0.2
+      }
+    ]
+  },
+  {
+    "cardId": "kiyafetler-pantolon",
+    "label": "Pantolon",
+    "category": "Kıyafetler",
+    "query": [
+      "pantolon"
+    ],
+    "candidates": [
+      {
+        "arasaacId": 2494,
+        "keywords": [
+          "pan",
+          "barra de pan"
+        ],
+        "score": 0.2
+      },
+      {
+        "arasaacId": 10230,
+        "keywords": [
+          "pan"
+        ],
+        "score": 0.2
+      },
+      {
+        "arasaacId": 38732,
+        "keywords": [
+          "pan"
+        ],
+        "score": 0.2
+      }
+    ]
+  },
+  {
+    "cardId": "kiyafetler-corap",
+    "label": "Çorap",
+    "category": "Kıyafetler",
+    "query": [
+      "corap",
+      "sock",
+      "calcetin"
+    ],
+    "candidates": [
+      {
+        "arasaacId": 8339,
+        "keywords": [
+          "calcetin"
+        ],
+        "score": 0.33
+      },
+      {
+        "arasaacId": 6625,
+        "keywords": [
+          "tu",
+          "te",
+          "ti",
+          "usted",
+          "tu te"
+        ],
+        "score": 0.07
+      },
+      {
+        "arasaacId": 7290,
+        "keywords": [
+          "tu",
+          "te",
+          "ti",
+          "usted",
+          "tu te"
+        ],
+        "score": 0.07
+      }
+    ]
+  },
+  {
+    "cardId": "kiyafetler-ayakkabi",
+    "label": "Ayakkabı",
+    "category": "Kıyafetler",
+    "query": [
+      "ayakkabi",
+      "shoe",
+      "zapato"
+    ],
+    "candidates": [
+      {
+        "arasaacId": 32923,
+        "keywords": [
+          "zapato"
+        ],
+        "score": 0.33
+      },
+      {
+        "arasaacId": 32922,
+        "keywords": [
+          "zapato"
+        ],
+        "score": 0.33
+      },
+      {
+        "arasaacId": 17026,
+        "keywords": [
+          "atarse las zapatillas",
+          "atarse los zapatos",
+          "hacer una lazada",
+          "atar las zapatillas",
+          "atar los zapatos"
+        ],
+        "score": 0.07
+      }
+    ]
+  },
+  {
+    "cardId": "kiyafetler-mont",
+    "label": "Mont",
+    "category": "Kıyafetler",
+    "query": [
+      "mont",
+      "coat",
+      "jacket",
+      "abrigo"
+    ],
+    "candidates": [
+      {
+        "arasaacId": 8122,
+        "keywords": [
+          "abrigo"
+        ],
+        "score": 0.28
+      },
+      {
+        "arasaacId": 2242,
+        "keywords": [
+          "abrigo"
+        ],
+        "score": 0.28
+      },
+      {
+        "arasaacId": 15826,
+        "keywords": [
+          "ascensor",
+          "ascensor montacamillas"
+        ],
+        "score": 0.05
+      }
+    ]
+  },
+  {
+    "cardId": "kiyafetler-sapka",
+    "label": "Şapka",
+    "category": "Kıyafetler",
+    "query": [
+      "sapka"
+    ],
+    "candidates": []
+  },
+  {
+    "cardId": "kiyafetler-kazak",
+    "label": "Kazak",
+    "category": "Kıyafetler",
+    "query": [
+      "kazak"
+    ],
+    "candidates": []
+  },
+  {
+    "cardId": "kiyafetler-elbise",
+    "label": "Elbise",
+    "category": "Kıyafetler",
+    "query": [
+      "elbise",
+      "dress",
+      "vestido"
+    ],
+    "candidates": [
+      {
+        "arasaacId": 2613,
+        "keywords": [
+          "vestido"
+        ],
+        "score": 0.33
+      },
+      {
+        "arasaacId": 34737,
+        "keywords": [
+          "vestido"
+        ],
+        "score": 0.33
+      },
+      {
+        "arasaacId": 34739,
+        "keywords": [
+          "vestido",
+          "vestidos"
+        ],
+        "score": 0.28
+      }
+    ]
+  },
+  {
+    "cardId": "kiyafetler-etek",
+    "label": "Etek",
+    "category": "Kıyafetler",
+    "query": [
+      "etek"
+    ],
+    "candidates": [
+      {
+        "arasaacId": 6625,
+        "keywords": [
+          "tu",
+          "te",
+          "ti",
+          "usted",
+          "tu te"
+        ],
+        "score": 0.2
+      },
+      {
+        "arasaacId": 7290,
+        "keywords": [
+          "tu",
+          "te",
+          "ti",
+          "usted",
+          "tu te"
+        ],
+        "score": 0.2
+      },
+      {
+        "arasaacId": 29802,
+        "keywords": [
+          "te instantaneo",
+          "te"
+        ],
+        "score": 0.2
+      }
+    ]
+  },
+  {
+    "cardId": "kiyafetler-pijama",
+    "label": "Pijama",
+    "category": "Kıyafetler",
+    "query": [
+      "pijama",
+      "pajama"
+    ],
+    "candidates": [
+      {
+        "arasaacId": 2522,
+        "keywords": [
+          "pijama"
+        ],
+        "score": 0.45
+      },
+      {
+        "arasaacId": 6163,
+        "keywords": [
+          "paja",
+          "paca"
+        ],
+        "score": 0.1
+      },
+      {
+        "arasaacId": 6164,
+        "keywords": [
+          "pajita",
+          "paja"
+        ],
+        "score": 0.1
+      }
+    ]
+  },
+  {
+    "cardId": "hava-durumu-gunesli",
+    "label": "Güneşli",
+    "category": "Hava Durumu",
+    "query": [
+      "gunesli",
+      "sunny",
+      "sol"
+    ],
+    "candidates": [
+      {
+        "arasaacId": 7252,
+        "keywords": [
+          "sol"
+        ],
+        "score": 0.33
+      },
+      {
+        "arasaacId": 2798,
+        "keywords": [
+          "sol"
+        ],
+        "score": 0.33
+      },
+      {
+        "arasaacId": 8481,
+        "keywords": [
+          "aceite",
+          "aceite de girasol"
+        ],
+        "score": 0.07
+      }
+    ]
+  },
+  {
+    "cardId": "hava-durumu-bulutlu",
+    "label": "Bulutlu",
+    "category": "Hava Durumu",
+    "query": [
+      "bulutlu"
+    ],
+    "candidates": []
+  },
+  {
+    "cardId": "hava-durumu-yagmurlu",
+    "label": "Yağmurlu",
+    "category": "Hava Durumu",
+    "query": [
+      "yagmurlu",
+      "rainy",
+      "lluvia"
+    ],
+    "candidates": [
+      {
+        "arasaacId": 3123,
+        "keywords": [
+          "lluvia"
+        ],
+        "score": 0.33
+      },
+      {
+        "arasaacId": 7148,
+        "keywords": [
+          "llover",
+          "lluvia"
+        ],
+        "score": 0.28
+      },
+      {
+        "arasaacId": 39704,
+        "keywords": [
+          "inteligencia artificial",
+          "ia"
+        ],
+        "score": 0.07
+      }
+    ]
+  },
+  {
+    "cardId": "hava-durumu-karli",
+    "label": "Karlı",
+    "category": "Hava Durumu",
+    "query": [
+      "karli"
+    ],
+    "candidates": []
+  },
+  {
+    "cardId": "hava-durumu-ruzgarli",
+    "label": "Rüzgarlı",
+    "category": "Hava Durumu",
+    "query": [
+      "ruzgarli"
+    ],
+    "candidates": []
+  },
+  {
+    "cardId": "hava-durumu-firtina",
+    "label": "Fırtına",
+    "category": "Hava Durumu",
+    "query": [
+      "firtina"
+    ],
+    "candidates": [
+      {
+        "arasaacId": 6625,
+        "keywords": [
+          "tu",
+          "te",
+          "ti",
+          "usted",
+          "tu te"
+        ],
+        "score": 0.2
+      },
+      {
+        "arasaacId": 7290,
+        "keywords": [
+          "tu",
+          "te",
+          "ti",
+          "usted",
+          "tu te"
+        ],
+        "score": 0.2
+      }
+    ]
+  },
+  {
+    "cardId": "hava-durumu-sisli",
+    "label": "Sisli",
+    "category": "Hava Durumu",
+    "query": [
+      "sisli"
+    ],
+    "candidates": [
+      {
+        "arasaacId": 5584,
+        "keywords": [
+          "si"
+        ],
+        "score": 0.2
+      },
+      {
+        "arasaacId": 6481,
+        "keywords": [
+          "el",
+          "le",
+          "lo",
+          "si",
+          "se",
+          "el se"
+        ],
+        "score": 0.2
+      },
+      {
+        "arasaacId": 7029,
+        "keywords": [
+          "ella",
+          "la",
+          "lo",
+          "si",
+          "se",
+          "ella se"
+        ],
+        "score": 0.2
+      }
+    ]
+  },
+  {
+    "cardId": "hava-durumu-gok-gurultusu",
+    "label": "Gök gürültüsü",
+    "category": "Hava Durumu",
+    "query": [
+      "gok gurultusu"
+    ],
+    "candidates": [
+      {
+        "arasaacId": 12272,
+        "keywords": [
+          "su",
+          "suyo",
+          "suya"
+        ],
+        "score": 0.2
+      },
+      {
+        "arasaacId": 12274,
+        "keywords": [
+          "su",
+          "suyo",
+          "suya"
+        ],
+        "score": 0.2
+      },
+      {
+        "arasaacId": 6625,
+        "keywords": [
+          "tu",
+          "te",
+          "ti",
+          "usted",
+          "tu te"
+        ],
+        "score": 0.2
+      }
+    ]
+  },
+  {
+    "cardId": "hava-durumu-gokkusagi",
+    "label": "Gökkuşağı",
+    "category": "Hava Durumu",
+    "query": [
+      "gokkusagi"
+    ],
+    "candidates": []
+  },
+  {
+    "cardId": "hava-durumu-serin",
+    "label": "Serin",
+    "category": "Hava Durumu",
+    "query": [
+      "serin"
+    ],
+    "candidates": [
+      {
+        "arasaacId": 6481,
+        "keywords": [
+          "el",
+          "le",
+          "lo",
+          "si",
+          "se",
+          "el se"
+        ],
+        "score": 0.2
+      },
+      {
+        "arasaacId": 7029,
+        "keywords": [
+          "ella",
+          "la",
+          "lo",
+          "si",
+          "se",
+          "ella se"
+        ],
+        "score": 0.2
+      },
+      {
+        "arasaacId": 7031,
+        "keywords": [
+          "ellas",
+          "si",
+          "les",
+          "las",
+          "se",
+          "ellas se"
+        ],
+        "score": 0.2
+      }
+    ]
+  },
+  {
+    "cardId": "tasitlar-araba",
+    "label": "Araba",
+    "category": "Taşıtlar",
+    "query": [
+      "araba",
+      "car",
+      "coche"
+    ],
+    "candidates": [
+      {
+        "arasaacId": 2339,
+        "keywords": [
+          "coche",
+          "automovil",
+          "auto",
+          "carro"
+        ],
+        "score": 0.33
+      },
+      {
+        "arasaacId": 6981,
+        "keywords": [
+          "coche",
+          "automovil",
+          "auto",
+          "carro"
+        ],
+        "score": 0.33
+      },
+      {
+        "arasaacId": 3301,
+        "keywords": [
+          "escarabajo"
+        ],
+        "score": 0.13
+      }
+    ]
+  },
+  {
+    "cardId": "tasitlar-otobus",
+    "label": "Otobüs",
+    "category": "Taşıtlar",
+    "query": [
+      "otobus"
+    ],
+    "candidates": []
+  },
+  {
+    "cardId": "tasitlar-tren",
+    "label": "Tren",
+    "category": "Taşıtlar",
+    "query": [
+      "tren"
+    ],
+    "candidates": [
+      {
+        "arasaacId": 5094,
+        "keywords": [
+          "tren",
+          "tren de juguete"
+        ],
+        "score": 0.8
+      },
+      {
+        "arasaacId": 7282,
+        "keywords": [
+          "tren"
+        ],
+        "score": 0.8
+      },
+      {
+        "arasaacId": 2603,
+        "keywords": [
+          "tren"
+        ],
+        "score": 0.8
+      }
+    ]
+  },
+  {
+    "cardId": "tasitlar-ucak",
+    "label": "Uçak",
+    "category": "Taşıtlar",
+    "query": [
+      "ucak",
+      "plane",
+      "avion"
+    ],
+    "candidates": [
+      {
+        "arasaacId": 2264,
+        "keywords": [
+          "avion"
+        ],
+        "score": 0.33
+      },
+      {
+        "arasaacId": 6924,
+        "keywords": [
+          "avion"
+        ],
+        "score": 0.33
+      },
+      {
+        "arasaacId": 21409,
+        "keywords": [
+          "avion",
+          "caza"
+        ],
+        "score": 0.28
+      }
+    ]
+  },
+  {
+    "cardId": "tasitlar-bisiklet",
+    "label": "Bisiklet",
+    "category": "Taşıtlar",
+    "query": [
+      "bisiklet"
+    ],
+    "candidates": [
+      {
+        "arasaacId": 5584,
+        "keywords": [
+          "si"
+        ],
+        "score": 0.2
+      },
+      {
+        "arasaacId": 6481,
+        "keywords": [
+          "el",
+          "le",
+          "lo",
+          "si",
+          "se",
+          "el se"
+        ],
+        "score": 0.2
+      },
+      {
+        "arasaacId": 7029,
+        "keywords": [
+          "ella",
+          "la",
+          "lo",
+          "si",
+          "se",
+          "ella se"
+        ],
+        "score": 0.2
+      }
+    ]
+  },
+  {
+    "cardId": "tasitlar-gemi",
+    "label": "Gemi",
+    "category": "Taşıtlar",
+    "query": [
+      "gemi"
+    ],
+    "candidates": []
+  },
+  {
+    "cardId": "tasitlar-motosiklet",
+    "label": "Motosiklet",
+    "category": "Taşıtlar",
+    "query": [
+      "motosiklet"
+    ],
+    "candidates": [
+      {
+        "arasaacId": 2480,
+        "keywords": [
+          "motocicleta",
+          "moto"
+        ],
+        "score": 0.2
+      },
+      {
+        "arasaacId": 7166,
+        "keywords": [
+          "motocicleta",
+          "moto"
+        ],
+        "score": 0.2
+      },
+      {
+        "arasaacId": 5084,
+        "keywords": [
+          "moto",
+          "moto de carreras"
+        ],
+        "score": 0.2
+      }
+    ]
+  },
+  {
+    "cardId": "tasitlar-taksi",
+    "label": "Taksi",
+    "category": "Taşıtlar",
+    "query": [
+      "taksi"
+    ],
+    "candidates": [
+      {
+        "arasaacId": 5584,
+        "keywords": [
+          "si"
+        ],
+        "score": 0.2
+      },
+      {
+        "arasaacId": 6481,
+        "keywords": [
+          "el",
+          "le",
+          "lo",
+          "si",
+          "se",
+          "el se"
+        ],
+        "score": 0.2
+      },
+      {
+        "arasaacId": 7029,
+        "keywords": [
+          "ella",
+          "la",
+          "lo",
+          "si",
+          "se",
+          "ella se"
+        ],
+        "score": 0.2
+      }
+    ]
+  },
+  {
+    "cardId": "tasitlar-ambulans",
+    "label": "Ambulans",
+    "category": "Taşıtlar",
+    "query": [
+      "ambulans"
+    ],
+    "candidates": [
+      {
+        "arasaacId": 7029,
+        "keywords": [
+          "ella",
+          "la",
+          "lo",
+          "si",
+          "se",
+          "ella se"
+        ],
+        "score": 0.2
+      }
+    ]
+  },
+  {
+    "cardId": "tasitlar-traktor",
+    "label": "Traktör",
+    "category": "Taşıtlar",
+    "query": [
+      "traktor"
+    ],
+    "candidates": []
+  },
+  {
+    "cardId": "hayvanlar-kedi",
+    "label": "Kedi",
+    "category": "Hayvanlar",
+    "query": [
+      "kedi",
+      "cat",
+      "gato"
+    ],
+    "candidates": [
+      {
+        "arasaacId": 8009,
+        "keywords": [
+          "aguacate",
+          "palta"
+        ],
+        "score": 0.07
+      },
+      {
+        "arasaacId": 23741,
+        "keywords": [
+          "andador",
+          "tacata"
+        ],
+        "score": 0.07
+      },
+      {
+        "arasaacId": 27640,
+        "keywords": [
+          "cacatua"
+        ],
+        "score": 0.07
+      }
+    ]
+  },
+  {
+    "cardId": "hayvanlar-kopek",
+    "label": "Köpek",
+    "category": "Hayvanlar",
+    "query": [
+      "kopek",
+      "dog",
+      "perro"
+    ],
+    "candidates": [
+      {
+        "arasaacId": 9016,
+        "keywords": [
+          "pasear al perro"
+        ],
+        "score": 0.07
+      },
+      {
+        "arasaacId": 26302,
+        "keywords": [
+          "pasear al perro"
+        ],
+        "score": 0.07
+      },
+      {
+        "arasaacId": 29738,
+        "keywords": [
+          "pasear al perro"
+        ],
+        "score": 0.07
+      }
+    ]
+  },
+  {
+    "cardId": "hayvanlar-kus",
+    "label": "Kuş",
+    "category": "Hayvanlar",
+    "query": [
+      "kus",
+      "bird",
+      "pajaro"
+    ],
+    "candidates": [
+      {
+        "arasaacId": 6163,
+        "keywords": [
+          "paja",
+          "paca"
+        ],
+        "score": 0.07
+      },
+      {
+        "arasaacId": 6164,
+        "keywords": [
+          "pajita",
+          "paja"
+        ],
+        "score": 0.07
+      },
+      {
+        "arasaacId": 39265,
+        "keywords": [
+          "casa para pajaros",
+          "casa de pajaros",
+          "caja nido",
+          "pajarera"
+        ],
+        "score": 0.07
+      }
+    ]
+  },
+  {
+    "cardId": "hayvanlar-balik",
+    "label": "Balık",
+    "category": "Hayvanlar",
+    "query": [
+      "balik"
+    ],
+    "candidates": []
+  },
+  {
+    "cardId": "hayvanlar-tavsan",
+    "label": "Tavşan",
+    "category": "Hayvanlar",
+    "query": [
+      "tavsan",
+      "rabbit",
+      "conejo"
+    ],
+    "candidates": [
+      {
+        "arasaacId": 25624,
+        "keywords": [
+          "conejo"
+        ],
+        "score": 0.33
+      },
+      {
+        "arasaacId": 26547,
+        "keywords": [
+          "conejo"
+        ],
+        "score": 0.33
+      },
+      {
+        "arasaacId": 2351,
+        "keywords": [
+          "conejo",
+          "coneja"
+        ],
+        "score": 0.28
+      }
+    ]
+  },
+  {
+    "cardId": "hayvanlar-at",
+    "label": "At",
+    "category": "Hayvanlar",
+    "query": [
+      "at"
+    ],
+    "candidates": [
+      {
+        "arasaacId": 39363,
+        "keywords": [
+          "cuatro y cuarto",
+          "04 15h",
+          "las cuatro y cuarto",
+          "las 4 y cuarto"
+        ],
+        "score": 0.2
+      },
+      {
+        "arasaacId": 39362,
+        "keywords": [
+          "cuatro y media",
+          "04 30h",
+          "las cuatro y media",
+          "las 4 y media"
+        ],
+        "score": 0.2
+      },
+      {
+        "arasaacId": 39317,
+        "keywords": [
+          "cuatro menos cuarto",
+          "15 45h",
+          "las cuatro menos cuarto",
+          "las 4 menos cuarto"
+        ],
+        "score": 0.2
+      }
+    ]
+  },
+  {
+    "cardId": "hayvanlar-inek",
+    "label": "İnek",
+    "category": "Hayvanlar",
+    "query": [
+      "inek"
+    ],
+    "candidates": []
+  },
+  {
+    "cardId": "hayvanlar-koyun",
+    "label": "Koyun",
+    "category": "Hayvanlar",
+    "query": [
+      "koyun"
+    ],
+    "candidates": []
+  },
+  {
+    "cardId": "hayvanlar-kaplumbaga",
+    "label": "Kaplumbağa",
+    "category": "Hayvanlar",
+    "query": [
+      "kaplumbaga"
+    ],
+    "candidates": []
+  },
+  {
+    "cardId": "hayvanlar-kelebek",
+    "label": "Kelebek",
+    "category": "Hayvanlar",
+    "query": [
+      "kelebek"
+    ],
+    "candidates": [
+      {
+        "arasaacId": 6481,
+        "keywords": [
+          "el",
+          "le",
+          "lo",
+          "si",
+          "se",
+          "el se"
+        ],
+        "score": 0.2
+      },
+      {
+        "arasaacId": 31670,
+        "keywords": [
+          "el",
+          "le",
+          "lo",
+          "si",
+          "se",
+          "el se"
+        ],
+        "score": 0.2
+      }
+    ]
+  },
+  {
+    "cardId": "mutfak-tabak",
+    "label": "Tabak",
+    "category": "Mutfak",
+    "query": [
+      "tabak"
+    ],
+    "candidates": []
+  },
+  {
+    "cardId": "mutfak-kasik",
+    "label": "Kaşık",
+    "category": "Mutfak",
+    "query": [
+      "kasik"
+    ],
+    "candidates": [
+      {
+        "arasaacId": 5584,
+        "keywords": [
+          "si"
+        ],
+        "score": 0.2
+      },
+      {
+        "arasaacId": 6481,
+        "keywords": [
+          "el",
+          "le",
+          "lo",
+          "si",
+          "se",
+          "el se"
+        ],
+        "score": 0.2
+      },
+      {
+        "arasaacId": 7029,
+        "keywords": [
+          "ella",
+          "la",
+          "lo",
+          "si",
+          "se",
+          "ella se"
+        ],
+        "score": 0.2
+      }
+    ]
+  },
+  {
+    "cardId": "mutfak-catal",
+    "label": "Çatal",
+    "category": "Mutfak",
+    "query": [
+      "catal"
+    ],
+    "candidates": [
+      {
+        "arasaacId": 28721,
+        "keywords": [
+          "catalogo de juguetes"
+        ],
+        "score": 0.2
+      }
+    ]
+  },
+  {
+    "cardId": "mutfak-bicak",
+    "label": "Bıçak",
+    "category": "Mutfak",
+    "query": [
+      "bicak"
+    ],
+    "candidates": []
+  },
+  {
+    "cardId": "mutfak-bardak",
+    "label": "Bardak",
+    "category": "Mutfak",
+    "query": [
+      "bardak",
+      "glass",
+      "cup",
+      "vaso"
+    ],
+    "candidates": [
+      {
+        "arasaacId": 2610,
+        "keywords": [
+          "vaso"
+        ],
+        "score": 0.28
+      },
+      {
+        "arasaacId": 11657,
+        "keywords": [
+          "soi",
+          "servicio ocupacional de insercion"
+        ],
+        "score": 0.05
+      },
+      {
+        "arasaacId": 11659,
+        "keywords": [
+          "sto",
+          "servicio de terapia ocupacional"
+        ],
+        "score": 0.05
+      }
+    ]
+  },
+  {
+    "cardId": "mutfak-tencere",
+    "label": "Tencere",
+    "category": "Mutfak",
+    "query": [
+      "tencere"
+    ],
+    "candidates": [
+      {
+        "arasaacId": 6625,
+        "keywords": [
+          "tu",
+          "te",
+          "ti",
+          "usted",
+          "tu te"
+        ],
+        "score": 0.2
+      },
+      {
+        "arasaacId": 7290,
+        "keywords": [
+          "tu",
+          "te",
+          "ti",
+          "usted",
+          "tu te"
+        ],
+        "score": 0.2
+      },
+      {
+        "arasaacId": 29802,
+        "keywords": [
+          "te instantaneo",
+          "te"
+        ],
+        "score": 0.2
+      }
+    ]
+  },
+  {
+    "cardId": "mutfak-tava",
+    "label": "Tava",
+    "category": "Mutfak",
+    "query": [
+      "tava"
+    ],
+    "candidates": []
+  },
+  {
+    "cardId": "mutfak-buzdolabi",
+    "label": "Buzdolabı",
+    "category": "Mutfak",
+    "query": [
+      "buzdolabi"
+    ],
+    "candidates": [
+      {
+        "arasaacId": 7029,
+        "keywords": [
+          "ella",
+          "la",
+          "lo",
+          "si",
+          "se",
+          "ella se"
+        ],
+        "score": 0.2
+      }
+    ]
+  },
+  {
+    "cardId": "mutfak-firin",
+    "label": "Fırın",
+    "category": "Mutfak",
+    "query": [
+      "firin",
+      "oven",
+      "horno"
+    ],
+    "candidates": [
+      {
+        "arasaacId": 2426,
+        "keywords": [
+          "horno"
+        ],
+        "score": 0.33
+      },
+      {
+        "arasaacId": 10135,
+        "keywords": [
+          "horno"
+        ],
+        "score": 0.33
+      },
+      {
+        "arasaacId": 4673,
+        "keywords": [
+          "joven",
+          "adolescente",
+          "chico",
+          "muchacho"
+        ],
+        "score": 0.07
+      }
+    ]
+  },
+  {
+    "cardId": "mutfak-ocak",
+    "label": "Ocak",
+    "category": "Mutfak",
+    "query": [
+      "ocak"
+    ],
+    "candidates": []
+  },
+  {
+    "cardId": "banyo-kuvet",
+    "label": "Küvet",
+    "category": "Banyo",
+    "query": [
+      "kuvet"
+    ],
+    "candidates": []
+  },
+  {
+    "cardId": "banyo-dus-basligi",
+    "label": "Duş başlığı",
+    "category": "Banyo",
+    "query": [
+      "dus basligi"
+    ],
+    "candidates": []
+  },
+  {
+    "cardId": "banyo-lavabo",
+    "label": "Lavabo",
+    "category": "Banyo",
+    "query": [
+      "lavabo"
+    ],
+    "candidates": [
+      {
+        "arasaacId": 2441,
+        "keywords": [
+          "lavabo",
+          "lavatorio"
+        ],
+        "score": 0.8
+      },
+      {
+        "arasaacId": 15919,
+        "keywords": [
+          "lavabo",
+          "lavabo adaptado",
+          "lavatorio"
+        ],
+        "score": 0.8
+      },
+      {
+        "arasaacId": 7029,
+        "keywords": [
+          "ella",
+          "la",
+          "lo",
+          "si",
+          "se",
+          "ella se"
+        ],
+        "score": 0.2
+      }
+    ]
+  },
+  {
+    "cardId": "banyo-ayna",
+    "label": "Ayna",
+    "category": "Banyo",
+    "query": [
+      "ayna"
+    ],
+    "candidates": []
+  },
+  {
+    "cardId": "banyo-dis-macunu",
+    "label": "Diş macunu",
+    "category": "Banyo",
+    "query": [
+      "dis macunu"
+    ],
+    "candidates": []
+  },
+  {
+    "cardId": "banyo-sampuan",
+    "label": "Şampuan",
+    "category": "Banyo",
+    "query": [
+      "sampuan"
+    ],
+    "candidates": []
+  },
+  {
+    "cardId": "banyo-sabunluk",
+    "label": "Sabunluk",
+    "category": "Banyo",
+    "query": [
+      "sabunluk"
+    ],
+    "candidates": []
+  },
+  {
+    "cardId": "banyo-tarak",
+    "label": "Tarak",
+    "category": "Banyo",
+    "query": [
+      "tarak",
+      "comb",
+      "peine"
+    ],
+    "candidates": [
+      {
+        "arasaacId": 36380,
+        "keywords": [
+          "hacer la peineta",
+          "sacar el dedo",
+          "corte de mangas",
+          "hacer un corte de mangas"
+        ],
+        "score": 0.07
+      },
+      {
+        "arasaacId": 36590,
+        "keywords": [
+          "sacar el peine"
+        ],
+        "score": 0.07
+      },
+      {
+        "arasaacId": 4876,
+        "keywords": [
+          "nevera",
+          "frigorifico",
+          "frigorifico combi"
+        ],
+        "score": 0.07
+      }
+    ]
+  },
+  {
+    "cardId": "banyo-kirli-sepeti",
+    "label": "Kirli sepeti",
+    "category": "Banyo",
+    "query": [
+      "kirli sepeti"
+    ],
+    "candidates": [
+      {
+        "arasaacId": 6625,
+        "keywords": [
+          "tu",
+          "te",
+          "ti",
+          "usted",
+          "tu te"
+        ],
+        "score": 0.2
+      },
+      {
+        "arasaacId": 7290,
+        "keywords": [
+          "tu",
+          "te",
+          "ti",
+          "usted",
+          "tu te"
+        ],
+        "score": 0.2
+      },
+      {
+        "arasaacId": 6481,
+        "keywords": [
+          "el",
+          "le",
+          "lo",
+          "si",
+          "se",
+          "el se"
+        ],
+        "score": 0.2
+      }
+    ]
+  },
+  {
+    "cardId": "banyo-musluk",
+    "label": "Musluk",
+    "category": "Banyo",
+    "query": [
+      "musluk"
+    ],
+    "candidates": []
+  },
+  {
+    "cardId": "uyku-uyku-zamani",
+    "label": "Uyku zamanı",
+    "category": "Uyku",
+    "query": [
+      "uyku zamani"
+    ],
+    "candidates": [
+      {
+        "arasaacId": 8338,
+        "keywords": [
+          "cacahuete",
+          "mani"
+        ],
+        "score": 0.2
+      }
+    ]
+  },
+  {
+    "cardId": "uyku-yastik",
+    "label": "Yastık",
+    "category": "Uyku",
+    "query": [
+      "yastik",
+      "pillow",
+      "almohada"
+    ],
+    "candidates": [
+      {
+        "arasaacId": 2250,
+        "keywords": [
+          "almohada"
+        ],
+        "score": 0.33
+      },
+      {
+        "arasaacId": 6625,
+        "keywords": [
+          "tu",
+          "te",
+          "ti",
+          "usted",
+          "tu te"
+        ],
+        "score": 0.07
+      },
+      {
+        "arasaacId": 7290,
+        "keywords": [
+          "tu",
+          "te",
+          "ti",
+          "usted",
+          "tu te"
+        ],
+        "score": 0.07
+      }
+    ]
+  },
+  {
+    "cardId": "uyku-battaniye",
+    "label": "Battaniye",
+    "category": "Uyku",
+    "query": [
+      "battaniye",
+      "blanket",
+      "manta"
+    ],
+    "candidates": [
+      {
+        "arasaacId": 2459,
+        "keywords": [
+          "manta",
+          "frazada"
+        ],
+        "score": 0.28
+      },
+      {
+        "arasaacId": 37608,
+        "keywords": [
+          "amamantar",
+          "dar el pecho",
+          "lactancia"
+        ],
+        "score": 0.07
+      },
+      {
+        "arasaacId": 7029,
+        "keywords": [
+          "ella",
+          "la",
+          "lo",
+          "si",
+          "se",
+          "ella se"
+        ],
+        "score": 0.07
+      }
+    ]
+  },
+  {
+    "cardId": "uyku-gece-lambasi",
+    "label": "Gece lambası",
+    "category": "Uyku",
+    "query": [
+      "gece lambasi"
+    ],
+    "candidates": [
+      {
+        "arasaacId": 5584,
+        "keywords": [
+          "si"
+        ],
+        "score": 0.2
+      },
+      {
+        "arasaacId": 6481,
+        "keywords": [
+          "el",
+          "le",
+          "lo",
+          "si",
+          "se",
+          "el se"
+        ],
+        "score": 0.2
+      },
+      {
+        "arasaacId": 7029,
+        "keywords": [
+          "ella",
+          "la",
+          "lo",
+          "si",
+          "se",
+          "ella se"
+        ],
+        "score": 0.2
+      }
+    ]
+  },
+  {
+    "cardId": "uyku-ninni",
+    "label": "Ninni",
+    "category": "Uyku",
+    "query": [
+      "ninni"
+    ],
+    "candidates": []
+  },
+  {
+    "cardId": "uyku-ruya",
+    "label": "Rüya",
+    "category": "Uyku",
+    "query": [
+      "ruya"
+    ],
+    "candidates": []
+  },
+  {
+    "cardId": "uyku-uykum-var",
+    "label": "Uykum var",
+    "category": "Uyku",
+    "query": [
+      "uykum var"
+    ],
+    "candidates": []
+  },
+  {
+    "cardId": "uyku-gozlerim-kapali",
+    "label": "Gözlerim kapalı",
+    "category": "Uyku",
+    "query": [
+      "gozlerim kapali"
+    ],
+    "candidates": [
+      {
+        "arasaacId": 6481,
+        "keywords": [
+          "el",
+          "le",
+          "lo",
+          "si",
+          "se",
+          "el se"
+        ],
+        "score": 0.2
+      },
+      {
+        "arasaacId": 31670,
+        "keywords": [
+          "el",
+          "le",
+          "lo",
+          "si",
+          "se",
+          "el se"
+        ],
+        "score": 0.2
+      }
+    ]
+  },
+  {
+    "cardId": "uyku-sessiz-oda",
+    "label": "Sessiz oda",
+    "category": "Uyku",
+    "query": [
+      "sessiz oda"
+    ],
+    "candidates": [
+      {
+        "arasaacId": 5584,
+        "keywords": [
+          "si"
+        ],
+        "score": 0.2
+      },
+      {
+        "arasaacId": 6481,
+        "keywords": [
+          "el",
+          "le",
+          "lo",
+          "si",
+          "se",
+          "el se"
+        ],
+        "score": 0.2
+      },
+      {
+        "arasaacId": 7029,
+        "keywords": [
+          "ella",
+          "la",
+          "lo",
+          "si",
+          "se",
+          "ella se"
+        ],
+        "score": 0.2
+      }
+    ]
+  },
+  {
+    "cardId": "uyku-dinlen",
+    "label": "Dinlenme zamanı",
+    "category": "Uyku",
+    "query": [
+      "dinlenme zamani"
+    ],
+    "candidates": [
+      {
+        "arasaacId": 8338,
+        "keywords": [
+          "cacahuete",
+          "mani"
+        ],
+        "score": 0.2
+      },
+      {
+        "arasaacId": 6481,
+        "keywords": [
+          "el",
+          "le",
+          "lo",
+          "si",
+          "se",
+          "el se"
+        ],
+        "score": 0.2
+      },
+      {
+        "arasaacId": 31670,
+        "keywords": [
+          "el",
+          "le",
+          "lo",
+          "si",
+          "se",
+          "el se"
+        ],
+        "score": 0.2
+      }
+    ]
+  },
+  {
+    "cardId": "disari-yuruyus",
+    "label": "Yürüyüş",
+    "category": "Dışarı",
+    "query": [
+      "yuruyus",
+      "walk",
+      "paseo"
+    ],
+    "candidates": [
+      {
+        "arasaacId": 39575,
+        "keywords": [
+          "tren de la granja",
+          "paseo en tractor",
+          "atraccion"
+        ],
+        "score": 0.07
+      },
+      {
+        "arasaacId": 15810,
+        "keywords": [
+          "servicio",
+          "aseo",
+          "cuarto de aseo",
+          "aseo adaptado"
+        ],
+        "score": 0.07
+      },
+      {
+        "arasaacId": 15814,
+        "keywords": [
+          "bano de mujeres",
+          "servicio",
+          "aseo",
+          "cuarto de aseo",
+          "aseo adaptado"
+        ],
+        "score": 0.07
+      }
+    ]
+  },
+  {
+    "cardId": "disari-kaydirak",
+    "label": "Kaydırak",
+    "category": "Dışarı",
+    "query": [
+      "kaydirak",
+      "slide"
+    ],
+    "candidates": []
+  },
+  {
+    "cardId": "disari-kum-havuzu",
+    "label": "Kum havuzu",
+    "category": "Dışarı",
+    "query": [
+      "kum havuzu"
+    ],
+    "candidates": []
+  },
+  {
+    "cardId": "disari-cimen",
+    "label": "Çimen",
+    "category": "Dışarı",
+    "query": [
+      "cimen"
+    ],
+    "candidates": []
+  },
+  {
+    "cardId": "disari-cicek",
+    "label": "Çiçek",
+    "category": "Dışarı",
+    "query": [
+      "cicek",
+      "flower",
+      "flor"
+    ],
+    "candidates": [
+      {
+        "arasaacId": 6481,
+        "keywords": [
+          "el",
+          "le",
+          "lo",
+          "si",
+          "se",
+          "el se"
+        ],
+        "score": 0.13
+      },
+      {
+        "arasaacId": 7029,
+        "keywords": [
+          "ella",
+          "la",
+          "lo",
+          "si",
+          "se",
+          "ella se"
+        ],
+        "score": 0.13
+      },
+      {
+        "arasaacId": 31670,
+        "keywords": [
+          "el",
+          "le",
+          "lo",
+          "si",
+          "se",
+          "el se"
+        ],
+        "score": 0.13
+      }
+    ]
+  },
+  {
+    "cardId": "disari-agac",
+    "label": "Ağaç",
+    "category": "Dışarı",
+    "query": [
+      "agac",
+      "tree",
+      "arbol"
+    ],
+    "candidates": [
+      {
+        "arasaacId": 2256,
+        "keywords": [
+          "arbol"
+        ],
+        "score": 0.33
+      },
+      {
+        "arasaacId": 6033,
+        "keywords": [
+          "agachado"
+        ],
+        "score": 0.07
+      },
+      {
+        "arasaacId": 16437,
+        "keywords": [
+          "agachar"
+        ],
+        "score": 0.07
+      }
+    ]
+  },
+  {
+    "cardId": "disari-bank",
+    "label": "Bank",
+    "category": "Dışarı",
+    "query": [
+      "bank"
+    ],
+    "candidates": []
+  },
+  {
+    "cardId": "disari-piknik",
+    "label": "Piknik",
+    "category": "Dışarı",
+    "query": [
+      "piknik"
+    ],
+    "candidates": []
+  },
+  {
+    "cardId": "disari-deniz",
+    "label": "Deniz",
+    "category": "Dışarı",
+    "query": [
+      "deniz",
+      "sea",
+      "mar"
+    ],
+    "candidates": [
+      {
+        "arasaacId": 38286,
+        "keywords": [
+          "pasear por el campo",
+          "caminar por el campo",
+          "tomar el aire"
+        ],
+        "score": 0.13
+      },
+      {
+        "arasaacId": 39586,
+        "keywords": [
+          "taller de carpinteria",
+          "taller de marqueteria"
+        ],
+        "score": 0.07
+      },
+      {
+        "arasaacId": 2463,
+        "keywords": [
+          "maracas"
+        ],
+        "score": 0.07
+      }
+    ]
+  },
+  {
+    "cardId": "disari-golge",
+    "label": "Gölge",
+    "category": "Dışarı",
+    "query": [
+      "golge",
+      "shadow",
+      "shade",
+      "sombra"
+    ],
+    "candidates": [
+      {
+        "arasaacId": 6007,
+        "keywords": [
+          "gol",
+          "marcar gol",
+          "marcar"
+        ],
+        "score": 0.05
+      }
+    ]
+  },
+  {
+    "cardId": "teknoloji-tablet",
+    "label": "Tablet",
+    "category": "Teknoloji",
+    "query": [
+      "tablet"
+    ],
+    "candidates": [
+      {
+        "arasaacId": 25940,
+        "keywords": [
+          "chocolate",
+          "tableta",
+          "tableta de chocolate"
+        ],
+        "score": 0.2
+      },
+      {
+        "arasaacId": 30223,
+        "keywords": [
+          "pulsador para tableta"
+        ],
+        "score": 0.2
+      },
+      {
+        "arasaacId": 29151,
+        "keywords": [
+          "jugar con el tablet",
+          "jugar con la tableta"
+        ],
+        "score": 0.2
+      }
+    ]
+  },
+  {
+    "cardId": "teknoloji-telefon",
+    "label": "Telefon",
+    "category": "Teknoloji",
+    "query": [
+      "telefon",
+      "phone",
+      "telefono"
+    ],
+    "candidates": [
+      {
+        "arasaacId": 2791,
+        "keywords": [
+          "telefono"
+        ],
+        "score": 0.4
+      },
+      {
+        "arasaacId": 26479,
+        "keywords": [
+          "telefono"
+        ],
+        "score": 0.4
+      },
+      {
+        "arasaacId": 2586,
+        "keywords": [
+          "telefono",
+          "movil",
+          "telefono movil",
+          "celular"
+        ],
+        "score": 0.33
+      }
+    ]
+  },
+  {
+    "cardId": "teknoloji-bilgisayar",
+    "label": "Bilgisayar",
+    "category": "Teknoloji",
+    "query": [
+      "bilgisayar",
+      "computer",
+      "ordenador"
+    ],
+    "candidates": [
+      {
+        "arasaacId": 2487,
+        "keywords": [
+          "ordenador",
+          "computador",
+          "computadora"
+        ],
+        "score": 0.27
+      },
+      {
+        "arasaacId": 7190,
+        "keywords": [
+          "ordenador",
+          "computador",
+          "computadora"
+        ],
+        "score": 0.27
+      },
+      {
+        "arasaacId": 7214,
+        "keywords": [
+          "ordenador",
+          "ordenador portatil",
+          "portatil",
+          "computador",
+          "computadora"
+        ],
+        "score": 0.27
+      }
+    ]
+  },
+  {
+    "cardId": "teknoloji-ekran",
+    "label": "Ekran",
+    "category": "Teknoloji",
+    "query": [
+      "ekran"
+    ],
+    "candidates": []
+  },
+  {
+    "cardId": "teknoloji-klavye",
+    "label": "Klavye",
+    "category": "Teknoloji",
+    "query": [
+      "klavye"
+    ],
+    "candidates": [
+      {
+        "arasaacId": 7029,
+        "keywords": [
+          "ella",
+          "la",
+          "lo",
+          "si",
+          "se",
+          "ella se"
+        ],
+        "score": 0.2
+      }
+    ]
+  },
+  {
+    "cardId": "teknoloji-fare",
+    "label": "Fare aygıtı",
+    "category": "Teknoloji",
+    "query": [
+      "fare aygiti",
+      "fare",
+      "mouse"
+    ],
+    "candidates": [
+      {
+        "arasaacId": 30975,
+        "keywords": [
+          "taller de ceramica",
+          "taller de alfareria"
+        ],
+        "score": 0.07
+      },
+      {
+        "arasaacId": 6625,
+        "keywords": [
+          "tu",
+          "te",
+          "ti",
+          "usted",
+          "tu te"
+        ],
+        "score": 0.07
+      },
+      {
+        "arasaacId": 7290,
+        "keywords": [
+          "tu",
+          "te",
+          "ti",
+          "usted",
+          "tu te"
+        ],
+        "score": 0.07
+      }
+    ]
+  },
+  {
+    "cardId": "teknoloji-sarj-cihazi",
+    "label": "Şarj cihazı",
+    "category": "Teknoloji",
+    "query": [
+      "sarj cihazi"
+    ],
+    "candidates": []
+  },
+  {
+    "cardId": "teknoloji-hoparlor",
+    "label": "Hoparlör",
+    "category": "Teknoloji",
+    "query": [
+      "hoparlor",
+      "speaker",
+      "altavoz"
+    ],
+    "candidates": [
+      {
+        "arasaacId": 37438,
+        "keywords": [
+          "altavoz inalambrico"
+        ],
+        "score": 0.07
+      },
+      {
+        "arasaacId": 6481,
+        "keywords": [
+          "el",
+          "le",
+          "lo",
+          "si",
+          "se",
+          "el se"
+        ],
+        "score": 0.07
+      },
+      {
+        "arasaacId": 7029,
+        "keywords": [
+          "ella",
+          "la",
+          "lo",
+          "si",
+          "se",
+          "ella se"
+        ],
+        "score": 0.07
+      }
+    ]
+  },
+  {
+    "cardId": "teknoloji-uzaktan-kumanda",
+    "label": "Uzaktan kumanda",
+    "category": "Teknoloji",
+    "query": [
+      "uzaktan kumanda",
+      "remote control"
+    ],
+    "candidates": [
+      {
+        "arasaacId": 6625,
+        "keywords": [
+          "tu",
+          "te",
+          "ti",
+          "usted",
+          "tu te"
+        ],
+        "score": 0.1
+      },
+      {
+        "arasaacId": 7290,
+        "keywords": [
+          "tu",
+          "te",
+          "ti",
+          "usted",
+          "tu te"
+        ],
+        "score": 0.1
+      },
+      {
+        "arasaacId": 29802,
+        "keywords": [
+          "te instantaneo",
+          "te"
+        ],
+        "score": 0.1
+      }
+    ]
+  },
+  {
+    "cardId": "teknoloji-kamera",
+    "label": "Kamera",
+    "category": "Teknoloji",
+    "query": [
+      "kamera"
+    ],
+    "candidates": []
+  }
+]

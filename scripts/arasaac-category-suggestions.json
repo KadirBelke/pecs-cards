@@ -1,0 +1,849 @@
+[
+  {
+    "categoryId": "tumu",
+    "label": "Tümü",
+    "query": [
+      "tumu"
+    ],
+    "candidates": [
+      {
+        "arasaacId": 6625,
+        "keywords": [
+          "tu",
+          "te",
+          "ti",
+          "usted",
+          "tu te"
+        ],
+        "score": 0.2
+      },
+      {
+        "arasaacId": 7290,
+        "keywords": [
+          "tu",
+          "te",
+          "ti",
+          "usted",
+          "tu te"
+        ],
+        "score": 0.2
+      },
+      {
+        "arasaacId": 2608,
+        "keywords": [
+          "tu",
+          "usted",
+          "tu te"
+        ],
+        "score": 0.2
+      }
+    ]
+  },
+  {
+    "categoryId": "istekler",
+    "label": "İstekler",
+    "query": [
+      "istekler"
+    ],
+    "candidates": [
+      {
+        "arasaacId": 6625,
+        "keywords": [
+          "tu",
+          "te",
+          "ti",
+          "usted",
+          "tu te"
+        ],
+        "score": 0.2
+      },
+      {
+        "arasaacId": 7290,
+        "keywords": [
+          "tu",
+          "te",
+          "ti",
+          "usted",
+          "tu te"
+        ],
+        "score": 0.2
+      },
+      {
+        "arasaacId": 29802,
+        "keywords": [
+          "te instantaneo",
+          "te"
+        ],
+        "score": 0.2
+      }
+    ]
+  },
+  {
+    "categoryId": "yiyecek",
+    "label": "Yiyecek",
+    "query": [
+      "yiyecek"
+    ],
+    "candidates": []
+  },
+  {
+    "categoryId": "icecek",
+    "label": "İçecek",
+    "query": [
+      "icecek",
+      "drink",
+      "bebida"
+    ],
+    "candidates": [
+      {
+        "arasaacId": 4575,
+        "keywords": [
+          "bebida",
+          "bebidas"
+        ],
+        "score": 0.28
+      },
+      {
+        "arasaacId": 30403,
+        "keywords": [
+          "bebida",
+          "bebidas"
+        ],
+        "score": 0.28
+      },
+      {
+        "arasaacId": 32830,
+        "keywords": [
+          "bebida isotonica"
+        ],
+        "score": 0.07
+      }
+    ]
+  },
+  {
+    "categoryId": "duygular",
+    "label": "Duygular",
+    "query": [
+      "duygular"
+    ],
+    "candidates": [
+      {
+        "arasaacId": 7029,
+        "keywords": [
+          "ella",
+          "la",
+          "lo",
+          "si",
+          "se",
+          "ella se"
+        ],
+        "score": 0.2
+      }
+    ]
+  },
+  {
+    "categoryId": "beden-saglik",
+    "label": "Beden / Sağlık",
+    "query": [
+      "beden saglik"
+    ],
+    "candidates": []
+  },
+  {
+    "categoryId": "tuvalet-hijyen",
+    "label": "Tuvalet / Hijyen",
+    "query": [
+      "tuvalet hijyen"
+    ],
+    "candidates": [
+      {
+        "arasaacId": 3247,
+        "keywords": [
+          "uvas",
+          "racimo de uvas",
+          "uva"
+        ],
+        "score": 0.2
+      },
+      {
+        "arasaacId": 6625,
+        "keywords": [
+          "tu",
+          "te",
+          "ti",
+          "usted",
+          "tu te"
+        ],
+        "score": 0.2
+      },
+      {
+        "arasaacId": 7290,
+        "keywords": [
+          "tu",
+          "te",
+          "ti",
+          "usted",
+          "tu te"
+        ],
+        "score": 0.2
+      }
+    ]
+  },
+  {
+    "categoryId": "eylemler",
+    "label": "Eylemler",
+    "query": [
+      "eylemler"
+    ],
+    "candidates": [
+      {
+        "arasaacId": 6481,
+        "keywords": [
+          "el",
+          "le",
+          "lo",
+          "si",
+          "se",
+          "el se"
+        ],
+        "score": 0.2
+      },
+      {
+        "arasaacId": 31670,
+        "keywords": [
+          "el",
+          "le",
+          "lo",
+          "si",
+          "se",
+          "el se"
+        ],
+        "score": 0.2
+      }
+    ]
+  },
+  {
+    "categoryId": "kisiler",
+    "label": "Kişiler",
+    "query": [
+      "kisiler"
+    ],
+    "candidates": [
+      {
+        "arasaacId": 5584,
+        "keywords": [
+          "si"
+        ],
+        "score": 0.2
+      },
+      {
+        "arasaacId": 6481,
+        "keywords": [
+          "el",
+          "le",
+          "lo",
+          "si",
+          "se",
+          "el se"
+        ],
+        "score": 0.2
+      },
+      {
+        "arasaacId": 7029,
+        "keywords": [
+          "ella",
+          "la",
+          "lo",
+          "si",
+          "se",
+          "ella se"
+        ],
+        "score": 0.2
+      }
+    ]
+  },
+  {
+    "categoryId": "yerler",
+    "label": "Yerler",
+    "query": [
+      "yerler"
+    ],
+    "candidates": [
+      {
+        "arasaacId": 6481,
+        "keywords": [
+          "el",
+          "le",
+          "lo",
+          "si",
+          "se",
+          "el se"
+        ],
+        "score": 0.2
+      },
+      {
+        "arasaacId": 31670,
+        "keywords": [
+          "el",
+          "le",
+          "lo",
+          "si",
+          "se",
+          "el se"
+        ],
+        "score": 0.2
+      }
+    ]
+  },
+  {
+    "categoryId": "ev",
+    "label": "Ev",
+    "query": [
+      "ev",
+      "house",
+      "home",
+      "casa"
+    ],
+    "candidates": [
+      {
+        "arasaacId": 2317,
+        "keywords": [
+          "casa"
+        ],
+        "score": 0.28
+      },
+      {
+        "arasaacId": 6964,
+        "keywords": [
+          "casa"
+        ],
+        "score": 0.28
+      },
+      {
+        "arasaacId": 39203,
+        "keywords": [
+          "casa cueva",
+          "casa-cueva"
+        ],
+        "score": 0.1
+      }
+    ]
+  },
+  {
+    "categoryId": "okul",
+    "label": "Okul",
+    "query": [
+      "okul",
+      "school",
+      "escuela"
+    ],
+    "candidates": [
+      {
+        "arasaacId": 3082,
+        "keywords": [
+          "colegio",
+          "escuela"
+        ],
+        "score": 0.28
+      },
+      {
+        "arasaacId": 6454,
+        "keywords": [
+          "colegio",
+          "escuela"
+        ],
+        "score": 0.28
+      },
+      {
+        "arasaacId": 32446,
+        "keywords": [
+          "colegio",
+          "escuela",
+          "instituto"
+        ],
+        "score": 0.27
+      }
+    ]
+  },
+  {
+    "categoryId": "oyun-oyuncak",
+    "label": "Oyun / Oyuncak",
+    "query": [
+      "oyun oyuncak"
+    ],
+    "candidates": []
+  },
+  {
+    "categoryId": "rutinler",
+    "label": "Rutinler",
+    "query": [
+      "rutinler"
+    ],
+    "candidates": [
+      {
+        "arasaacId": 6625,
+        "keywords": [
+          "tu",
+          "te",
+          "ti",
+          "usted",
+          "tu te"
+        ],
+        "score": 0.2
+      },
+      {
+        "arasaacId": 7290,
+        "keywords": [
+          "tu",
+          "te",
+          "ti",
+          "usted",
+          "tu te"
+        ],
+        "score": 0.2
+      },
+      {
+        "arasaacId": 6481,
+        "keywords": [
+          "el",
+          "le",
+          "lo",
+          "si",
+          "se",
+          "el se"
+        ],
+        "score": 0.2
+      }
+    ]
+  },
+  {
+    "categoryId": "sosyal-ifadeler",
+    "label": "Sosyal İfadeler",
+    "query": [
+      "sosyal ifadeler"
+    ],
+    "candidates": [
+      {
+        "arasaacId": 6481,
+        "keywords": [
+          "el",
+          "le",
+          "lo",
+          "si",
+          "se",
+          "el se"
+        ],
+        "score": 0.2
+      },
+      {
+        "arasaacId": 31670,
+        "keywords": [
+          "el",
+          "le",
+          "lo",
+          "si",
+          "se",
+          "el se"
+        ],
+        "score": 0.2
+      }
+    ]
+  },
+  {
+    "categoryId": "duyusal-ihtiyaclar",
+    "label": "Duyusal İhtiyaçlar",
+    "query": [
+      "duyusal ihtiyaclar"
+    ],
+    "candidates": [
+      {
+        "arasaacId": 6625,
+        "keywords": [
+          "tu",
+          "te",
+          "ti",
+          "usted",
+          "tu te"
+        ],
+        "score": 0.2
+      },
+      {
+        "arasaacId": 7290,
+        "keywords": [
+          "tu",
+          "te",
+          "ti",
+          "usted",
+          "tu te"
+        ],
+        "score": 0.2
+      },
+      {
+        "arasaacId": 25576,
+        "keywords": [
+          "sal"
+        ],
+        "score": 0.2
+      }
+    ]
+  },
+  {
+    "categoryId": "guvenlik",
+    "label": "Güvenlik",
+    "query": [
+      "guvenlik"
+    ],
+    "candidates": []
+  },
+  {
+    "categoryId": "zaman",
+    "label": "Zaman",
+    "query": [
+      "zaman"
+    ],
+    "candidates": []
+  },
+  {
+    "categoryId": "sayilar",
+    "label": "Sayılar",
+    "query": [
+      "sayilar",
+      "numbers",
+      "numeros"
+    ],
+    "candidates": [
+      {
+        "arasaacId": 7029,
+        "keywords": [
+          "ella",
+          "la",
+          "lo",
+          "si",
+          "se",
+          "ella se"
+        ],
+        "score": 0.07
+      }
+    ]
+  },
+  {
+    "categoryId": "renkler",
+    "label": "Renkler",
+    "query": [
+      "renkler"
+    ],
+    "candidates": [
+      {
+        "arasaacId": 6481,
+        "keywords": [
+          "el",
+          "le",
+          "lo",
+          "si",
+          "se",
+          "el se"
+        ],
+        "score": 0.2
+      },
+      {
+        "arasaacId": 31670,
+        "keywords": [
+          "el",
+          "le",
+          "lo",
+          "si",
+          "se",
+          "el se"
+        ],
+        "score": 0.2
+      }
+    ]
+  },
+  {
+    "categoryId": "kiyafetler",
+    "label": "Kıyafetler",
+    "query": [
+      "kiyafetler",
+      "clothes",
+      "ropa"
+    ],
+    "candidates": [
+      {
+        "arasaacId": 6481,
+        "keywords": [
+          "el",
+          "le",
+          "lo",
+          "si",
+          "se",
+          "el se"
+        ],
+        "score": 0.13
+      },
+      {
+        "arasaacId": 31670,
+        "keywords": [
+          "el",
+          "le",
+          "lo",
+          "si",
+          "se",
+          "el se"
+        ],
+        "score": 0.13
+      },
+      {
+        "arasaacId": 15842,
+        "keywords": [
+          "almacen de ropa"
+        ],
+        "score": 0.07
+      }
+    ]
+  },
+  {
+    "categoryId": "hava-durumu",
+    "label": "Hava Durumu",
+    "query": [
+      "hava durumu"
+    ],
+    "candidates": []
+  },
+  {
+    "categoryId": "tasitlar",
+    "label": "Taşıtlar",
+    "query": [
+      "tasitlar"
+    ],
+    "candidates": [
+      {
+        "arasaacId": 5584,
+        "keywords": [
+          "si"
+        ],
+        "score": 0.2
+      },
+      {
+        "arasaacId": 6481,
+        "keywords": [
+          "el",
+          "le",
+          "lo",
+          "si",
+          "se",
+          "el se"
+        ],
+        "score": 0.2
+      },
+      {
+        "arasaacId": 7029,
+        "keywords": [
+          "ella",
+          "la",
+          "lo",
+          "si",
+          "se",
+          "ella se"
+        ],
+        "score": 0.2
+      }
+    ]
+  },
+  {
+    "categoryId": "hayvanlar",
+    "label": "Hayvanlar",
+    "query": [
+      "hayvanlar"
+    ],
+    "candidates": [
+      {
+        "arasaacId": 7029,
+        "keywords": [
+          "ella",
+          "la",
+          "lo",
+          "si",
+          "se",
+          "ella se"
+        ],
+        "score": 0.2
+      }
+    ]
+  },
+  {
+    "categoryId": "mutfak",
+    "label": "Mutfak",
+    "query": [
+      "mutfak",
+      "kitchen",
+      "cocina"
+    ],
+    "candidates": [
+      {
+        "arasaacId": 33070,
+        "keywords": [
+          "cocina"
+        ],
+        "score": 0.33
+      },
+      {
+        "arasaacId": 10753,
+        "keywords": [
+          "cocina"
+        ],
+        "score": 0.33
+      },
+      {
+        "arasaacId": 10752,
+        "keywords": [
+          "cocina"
+        ],
+        "score": 0.33
+      }
+    ]
+  },
+  {
+    "categoryId": "banyo",
+    "label": "Banyo",
+    "query": [
+      "banyo",
+      "bathroom",
+      "shower",
+      "ducha"
+    ],
+    "candidates": [
+      {
+        "arasaacId": 32426,
+        "keywords": [
+          "ducha"
+        ],
+        "score": 0.28
+      },
+      {
+        "arasaacId": 2370,
+        "keywords": [
+          "ducha"
+        ],
+        "score": 0.28
+      },
+      {
+        "arasaacId": 11244,
+        "keywords": [
+          "ducha"
+        ],
+        "score": 0.28
+      }
+    ]
+  },
+  {
+    "categoryId": "uyku",
+    "label": "Uyku",
+    "query": [
+      "uyku",
+      "sleep",
+      "dormir"
+    ],
+    "candidates": [
+      {
+        "arasaacId": 6479,
+        "keywords": [
+          "dormir"
+        ],
+        "score": 0.33
+      },
+      {
+        "arasaacId": 2369,
+        "keywords": [
+          "dormir"
+        ],
+        "score": 0.33
+      },
+      {
+        "arasaacId": 28623,
+        "keywords": [
+          "dormir"
+        ],
+        "score": 0.33
+      }
+    ]
+  },
+  {
+    "categoryId": "disari",
+    "label": "Dışarı",
+    "query": [
+      "disari",
+      "outside",
+      "afuera"
+    ],
+    "candidates": [
+      {
+        "arasaacId": 5584,
+        "keywords": [
+          "si"
+        ],
+        "score": 0.07
+      },
+      {
+        "arasaacId": 6481,
+        "keywords": [
+          "el",
+          "le",
+          "lo",
+          "si",
+          "se",
+          "el se"
+        ],
+        "score": 0.07
+      },
+      {
+        "arasaacId": 7029,
+        "keywords": [
+          "ella",
+          "la",
+          "lo",
+          "si",
+          "se",
+          "ella se"
+        ],
+        "score": 0.07
+      }
+    ]
+  },
+  {
+    "categoryId": "teknoloji",
+    "label": "Teknoloji",
+    "query": [
+      "teknoloji",
+      "technology",
+      "tecnologia"
+    ],
+    "candidates": [
+      {
+        "arasaacId": 5526,
+        "keywords": [
+          "no"
+        ],
+        "score": 0.2
+      },
+      {
+        "arasaacId": 39149,
+        "keywords": [
+          "no",
+          "negar"
+        ],
+        "score": 0.2
+      },
+      {
+        "arasaacId": 6625,
+        "keywords": [
+          "tu",
+          "te",
+          "ti",
+          "usted",
+          "tu te"
+        ],
+        "score": 0.2
+      }
+    ]
+  }
+]

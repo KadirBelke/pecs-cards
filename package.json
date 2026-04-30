@@ -6,7 +6,11 @@
   "scripts": {
     "dev": "vite",
     "build": "tsc -b && vite build",
+    "fetch:symbol-catalog": "node scripts/fetch-arasaac-catalog.mjs",
+    "suggest:symbols": "node scripts/suggest-arasaac-mappings.mjs",
+    "apply:symbols:first": "node scripts/apply-first-arasaac-suggestions.mjs",
     "download:symbols": "node scripts/download-arasaac-symbols.mjs",
+    "review:symbols": "node scripts/review-symbol-missing.mjs",
     "lint": "eslint .",
     "preview": "vite preview"
   },

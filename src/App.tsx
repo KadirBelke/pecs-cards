@@ -1,3 +1,5 @@
+import CardGrid from './components/CardGrid'
+
 function App() {
   return (
     <div className="min-h-screen bg-stone-100 text-slate-900">
@@ -20,8 +22,8 @@ function App() {
 
           <section className="rounded-3xl border border-dashed border-stone-300 bg-white px-5 py-6 shadow-sm sm:px-6">
             <h2 className="text-lg font-medium text-slate-900">Kart Alanı</h2>
-            <div className="mt-3 grid min-h-64 place-items-center rounded-2xl bg-stone-50 p-6 text-center text-sm text-slate-600">
-              Kart ızgarası bu alanda görünecek.
+            <div className="mt-3 rounded-2xl bg-stone-50 p-3 sm:p-4">
+              <CardGrid />
             </div>
           </section>
 

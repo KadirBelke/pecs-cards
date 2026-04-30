@@ -1,0 +1,19 @@
+[
+  { "categoryId": "tumu", "arasaacId": 5596 },
+  { "categoryId": "istekler", "arasaacId": 11251 },
+  { "categoryId": "yiyecek", "arasaacId": 4610 },
+  { "categoryId": "icecek", "arasaacId": 4575 },
+  { "categoryId": "duygular", "arasaacId": 11476 },
+  { "categoryId": "beden-saglik", "arasaacId": 6473 },
+  { "categoryId": "tuvalet-hijyen", "arasaacId": 23406 },
+  { "categoryId": "eylemler", "arasaacId": 7297 },
+  { "categoryId": "kisiler", "arasaacId": 34560 },
+  { "categoryId": "yerler", "arasaacId": 9819 },
+  { "categoryId": "ev", "arasaacId": 6964 },
+  { "categoryId": "okul", "arasaacId": 32446 },
+  { "categoryId": "oyun-oyuncak", "arasaacId": 9813 },
+  { "categoryId": "rutinler", "arasaacId": 5898 },
+  { "categoryId": "sosyal-ifadeler", "arasaacId": 6610 },
+  { "categoryId": "duyusal-ihtiyaclar", "arasaacId": 31204 },
+  { "categoryId": "guvenlik", "arasaacId": 12261 }
+]

@@ -1,4 +1,5 @@
 import type { VisualCard as VisualCardType } from '../types'
+import CardSymbol from './CardSymbol'
 
 type VisualCardProps = {
   card: VisualCardType
@@ -13,9 +14,11 @@ function VisualCard({ card, onSelect }: VisualCardProps) {
       aria-label={card.textToSpeak}
       onClick={() => onSelect(card)}
     >
-      <span className="text-5xl leading-none sm:text-6xl" aria-hidden="true">
-        {card.emoji}
-      </span>
+      <CardSymbol
+        symbol={card}
+        imageClassName="h-24 w-24 object-contain sm:h-28 sm:w-28"
+        emojiClassName="text-5xl leading-none sm:text-6xl"
+      />
       <span className="mt-4 text-lg font-semibold text-slate-900 sm:text-xl">
         {card.label}
       </span>

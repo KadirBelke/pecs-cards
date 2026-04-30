@@ -65,12 +65,12 @@ function App() {
           </h1>
         </header>
 
-        <main className="mt-6 flex flex-1 flex-col gap-4 pb-64 sm:pb-72 lg:pb-52">
+        <main className="mt-6 flex flex-1 flex-col gap-5 pb-72 sm:pb-80 lg:pb-56">
           <section className="rounded-3xl border border-stone-200 bg-white px-5 py-6 shadow-sm sm:px-6">
             <h2 className="text-lg font-medium text-slate-900">
               Kategori Filtreleri
             </h2>
-            <div className="mt-4 flex flex-col gap-4">
+            <div className="mt-5 flex flex-col gap-5">
               <SearchBox value={searchQuery} onChange={setSearchQuery} />
               <CategoryTabs
                 categories={categories}
@@ -82,7 +82,7 @@ function App() {
 
           <section className="rounded-3xl border border-stone-200 bg-white px-5 py-6 shadow-sm sm:px-6">
             <h2 className="text-lg font-medium text-slate-900">Kart Alanı</h2>
-            <div className="mt-3 rounded-2xl bg-stone-50 p-3 sm:p-4">
+            <div className="mt-4 rounded-2xl bg-stone-50 p-3 sm:p-4">
               <CardGrid cards={filteredCards} onSelect={handleSelectCard} />
             </div>
           </section>

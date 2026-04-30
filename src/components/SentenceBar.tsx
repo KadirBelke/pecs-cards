@@ -30,7 +30,7 @@ function SentenceBar({
                 type="button"
                 onClick={onReadAloud}
                 disabled={isEmpty}
-                className="min-h-14 rounded-2xl bg-teal-600 px-4 py-3 text-base font-semibold text-white transition hover:bg-teal-700 disabled:cursor-not-allowed disabled:bg-teal-300 focus-visible:outline-none focus-visible:ring-4 focus-visible:ring-teal-300 focus-visible:ring-offset-2"
+                className="min-h-14 rounded-2xl bg-teal-600 px-4 py-3 text-base font-semibold text-white transition hover:bg-teal-700 active:scale-[0.99] disabled:cursor-not-allowed disabled:bg-teal-200 disabled:text-teal-700 focus-visible:outline-none focus-visible:ring-4 focus-visible:ring-teal-300 focus-visible:ring-offset-2"
               >
                 Oku
               </button>
@@ -38,7 +38,7 @@ function SentenceBar({
                 type="button"
                 onClick={onRemoveLast}
                 disabled={isEmpty}
-                className="min-h-14 rounded-2xl bg-amber-500 px-4 py-3 text-base font-semibold text-slate-950 transition hover:bg-amber-400 disabled:cursor-not-allowed disabled:bg-amber-200 disabled:text-slate-500 focus-visible:outline-none focus-visible:ring-4 focus-visible:ring-amber-300 focus-visible:ring-offset-2"
+                className="min-h-14 rounded-2xl bg-amber-500 px-4 py-3 text-base font-semibold text-slate-950 transition hover:bg-amber-400 active:scale-[0.99] disabled:cursor-not-allowed disabled:bg-amber-200 disabled:text-amber-900/70 focus-visible:outline-none focus-visible:ring-4 focus-visible:ring-amber-300 focus-visible:ring-offset-2"
               >
                 Son Kartı Sil
               </button>
@@ -46,7 +46,7 @@ function SentenceBar({
                 type="button"
                 onClick={onClear}
                 disabled={isEmpty}
-                className="min-h-14 rounded-2xl bg-slate-900 px-4 py-3 text-base font-semibold text-white transition hover:bg-slate-800 disabled:cursor-not-allowed disabled:bg-slate-300 focus-visible:outline-none focus-visible:ring-4 focus-visible:ring-slate-300 focus-visible:ring-offset-2"
+                className="min-h-14 rounded-2xl bg-slate-900 px-4 py-3 text-base font-semibold text-white transition hover:bg-slate-800 active:scale-[0.99] disabled:cursor-not-allowed disabled:bg-slate-300 disabled:text-slate-600 focus-visible:outline-none focus-visible:ring-4 focus-visible:ring-slate-300 focus-visible:ring-offset-2"
               >
                 Temizle
               </button>
@@ -59,10 +59,10 @@ function SentenceBar({
             </p>
           </div>
 
-          <div className="min-h-24 rounded-3xl bg-stone-50 p-3 sm:p-4 lg:min-h-20">
+          <div className="min-h-24 rounded-3xl bg-stone-50 p-3.5 sm:p-4 lg:min-h-20">
             {isEmpty ? (
-              <p className="text-sm text-slate-500 sm:text-base">
-                Cümle oluşturmak için bir kart seçin.
+              <p className="text-sm font-medium text-slate-500 sm:text-base">
+                Kartlara dokunarak cümle oluşturun.
               </p>
             ) : (
               <div className="flex flex-wrap gap-3">

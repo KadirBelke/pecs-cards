@@ -1,121 +1,39 @@
-import { useState } from 'react'
-import reactLogo from './assets/react.svg'
-import viteLogo from './assets/vite.svg'
-import heroImg from './assets/hero.png'
-import './App.css'
-
 function App() {
-  const [count, setCount] = useState(0)
-
   return (
-    <>
-      <section id="center">
-        <div className="hero">
-          <img src={heroImg} className="base" width="170" height="179" alt="" />
-          <img src={reactLogo} className="framework" alt="React logo" />
-          <img src={viteLogo} className="vite" alt="Vite logo" />
-        </div>
-        <div>
-          <h1>Get started</h1>
-          <p>
-            Edit <code>src/App.tsx</code> and save to test <code>HMR</code>
-          </p>
-        </div>
-        <button
-          type="button"
-          className="counter"
-          onClick={() => setCount((count) => count + 1)}
-        >
-          Count is {count}
-        </button>
-      </section>
+    <div className="min-h-screen bg-stone-100 text-slate-900">
+      <div className="mx-auto flex min-h-screen w-full max-w-6xl flex-col px-4 py-6 sm:px-6 lg:px-8">
+        <header className="rounded-3xl border border-stone-200 bg-white px-5 py-5 shadow-sm sm:px-6">
+          <h1 className="text-2xl font-semibold tracking-tight text-slate-900 sm:text-3xl">
+            Görsel İletişim Kartları
+          </h1>
+        </header>
 
-      <div className="ticks"></div>
+        <main className="mt-6 flex flex-1 flex-col gap-4">
+          <section className="rounded-3xl border border-dashed border-stone-300 bg-white px-5 py-6 shadow-sm sm:px-6">
+            <h2 className="text-lg font-medium text-slate-900">
+              Kategori Filtreleri
+            </h2>
+            <p className="mt-2 text-sm text-slate-600">
+              Kategori filtreleri bu alanda yer alacak.
+            </p>
+          </section>
 
-      <section id="next-steps">
-        <div id="docs">
-          <svg className="icon" role="presentation" aria-hidden="true">
-            <use href="/icons.svg#documentation-icon"></use>
-          </svg>
-          <h2>Documentation</h2>
-          <p>Your questions, answered</p>
-          <ul>
-            <li>
-              <a href="https://vite.dev/" target="_blank">
-                <img className="logo" src={viteLogo} alt="" />
-                Explore Vite
-              </a>
-            </li>
-            <li>
-              <a href="https://react.dev/" target="_blank">
-                <img className="button-icon" src={reactLogo} alt="" />
-                Learn more
-              </a>
-            </li>
-          </ul>
-        </div>
-        <div id="social">
-          <svg className="icon" role="presentation" aria-hidden="true">
-            <use href="/icons.svg#social-icon"></use>
-          </svg>
-          <h2>Connect with us</h2>
-          <p>Join the Vite community</p>
-          <ul>
-            <li>
-              <a href="https://github.com/vitejs/vite" target="_blank">
-                <svg
-                  className="button-icon"
-                  role="presentation"
-                  aria-hidden="true"
-                >
-                  <use href="/icons.svg#github-icon"></use>
-                </svg>
-                GitHub
-              </a>
-            </li>
-            <li>
-              <a href="https://chat.vite.dev/" target="_blank">
-                <svg
-                  className="button-icon"
-                  role="presentation"
-                  aria-hidden="true"
-                >
-                  <use href="/icons.svg#discord-icon"></use>
-                </svg>
-                Discord
-              </a>
-            </li>
-            <li>
-              <a href="https://x.com/vite_js" target="_blank">
-                <svg
-                  className="button-icon"
-                  role="presentation"
-                  aria-hidden="true"
-                >
-                  <use href="/icons.svg#x-icon"></use>
-                </svg>
-                X.com
-              </a>
-            </li>
-            <li>
-              <a href="https://bsky.app/profile/vite.dev" target="_blank">
-                <svg
-                  className="button-icon"
-                  role="presentation"
-                  aria-hidden="true"
-                >
-                  <use href="/icons.svg#bluesky-icon"></use>
-                </svg>
-                Bluesky
-              </a>
-            </li>
-          </ul>
-        </div>
-      </section>
+          <section className="rounded-3xl border border-dashed border-stone-300 bg-white px-5 py-6 shadow-sm sm:px-6">
+            <h2 className="text-lg font-medium text-slate-900">Kart Alanı</h2>
+            <div className="mt-3 grid min-h-64 place-items-center rounded-2xl bg-stone-50 p-6 text-center text-sm text-slate-600">
+              Kart ızgarası bu alanda görünecek.
+            </div>
+          </section>
 
-      <div className="ticks"></div>
-      <section id="spacer"></section>
-    </>
+          <section className="rounded-3xl border border-dashed border-stone-300 bg-white px-5 py-6 shadow-sm sm:px-6">
+            <h2 className="text-lg font-medium text-slate-900">Cümle Çubuğu</h2>
+            <p className="mt-2 text-sm text-slate-600">
+              Seçilen kartlardan oluşturulan cümle çubuğu bu alanda yer alacak.
+            </p>
+          </section>
+        </main>
+      </div>
+    </div>
   )
 }
 

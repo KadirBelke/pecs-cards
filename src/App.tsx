@@ -1,4 +1,4 @@
-import { useEffect, useState } from 'react'
+import { useEffect, useRef, useState } from 'react'
 import CategoryTabs from './components/CategoryTabs'
 import CardGrid from './components/CardGrid'
 import SearchBox from './components/SearchBox'
@@ -18,11 +18,48 @@ function App() {
   const [selectedCategoryId, setSelectedCategoryId] = useState(DEFAULT_CATEGORY_ID)
   const [searchQuery, setSearchQuery] = useState('')
   const [isUpdateAvailable, setIsUpdateAvailable] = useState(false)
+  const [showBackToCategories, setShowBackToCategories] = useState(false)
+  const categorySectionRef = useRef<HTMLElement | null>(null)
+  const cardGridSectionRef = useRef<HTMLElement | null>(null)
 
   useEffect(() => {
     return subscribeToServiceWorkerUpdate(() => {
       setIsUpdateAvailable(true)
     })
+  }, [])
+
+  useEffect(() => {
+    if (typeof window === 'undefined') {
+      return
+    }
+
+    const handleScroll = () => {
+      const categorySection = categorySectionRef.current
+      const cardGridSection = cardGridSectionRef.current
+
+      if (!categorySection || !cardGridSection) {
+        setShowBackToCategories(false)
+        return
+      }
+
+      const categoryBottom =
+        categorySection.offsetTop + categorySection.offsetHeight - 80
+      const cardGridTop = cardGridSection.offsetTop - 120
+      const cardGridBottom =
+        cardGridSection.offsetTop + cardGridSection.offsetHeight
+      const passedCategorySection = window.scrollY > categoryBottom
+      const nearCardGrid =
+        window.scrollY >= cardGridTop && window.scrollY <= cardGridBottom
+
+      setShowBackToCategories(passedCategorySection || nearCardGrid)
+    }
+
+    handleScroll()
+    window.addEventListener('scroll', handleScroll, { passive: true })
+
+    return () => {
+      window.removeEventListener('scroll', handleScroll)
+    }
   }, [])
 
   const normalizedSearchQuery = searchQuery.trim().toLocaleLowerCase('tr-TR')
@@ -73,6 +110,26 @@ function App() {
     window.speechSynthesis.speak(utterance)
   }
 
+  const scrollToSection = (section: HTMLElement | null) => {
+    if (!section) {
+      return
+    }
+
+    section.scrollIntoView({ behavior: 'smooth', block: 'start' })
+  }
+
+  const handleBackToCategories = () => {
+    scrollToSection(categorySectionRef.current)
+  }
+
+  const handleSelectCategory = (categoryId: string) => {
+    setSelectedCategoryId(categoryId)
+
+    window.requestAnimationFrame(() => {
+      scrollToSection(cardGridSectionRef.current)
+    })
+  }
+
   return (
     <div className="min-h-screen overflow-x-hidden bg-stone-100 text-slate-900">
       <div className="mx-auto flex min-h-screen w-full max-w-6xl min-w-0 flex-col px-4 py-6 sm:px-6 lg:px-8">
@@ -96,7 +153,10 @@ function App() {
             </h1>
           </header>
 
-          <section className="mt-6 rounded-3xl border border-stone-200 bg-white px-5 py-6 shadow-sm sm:px-6">
+          <section
+            ref={categorySectionRef}
+            className="mt-6 rounded-3xl border border-stone-200 bg-white px-5 py-6 shadow-sm sm:px-6"
+          >
             <h2 className="text-lg font-medium text-slate-900">
               Kategori Filtreleri
             </h2>
@@ -105,12 +165,15 @@ function App() {
               <CategoryTabs
                 categories={categories}
                 selectedCategoryId={selectedCategoryId}
-                onSelectCategory={setSelectedCategoryId}
+                onSelectCategory={handleSelectCategory}
               />
             </div>
           </section>
 
-          <section className="mt-5 rounded-3xl border border-stone-200 bg-white px-5 py-6 shadow-sm sm:px-6">
+          <section
+            ref={cardGridSectionRef}
+            className="mt-5 rounded-3xl border border-stone-200 bg-white px-5 py-6 shadow-sm sm:px-6"
+          >
             <h2 className="text-lg font-medium text-slate-900">Kart Alanı</h2>
             <div className="mt-4 min-w-0 rounded-2xl bg-stone-50 p-3 sm:p-4">
               <CardGrid cards={filteredCards} onSelect={handleSelectCard} />
@@ -125,6 +188,21 @@ function App() {
         onRemoveLast={handleRemoveLastCard}
         onClear={handleClearCards}
       />
+
+      {showBackToCategories ? (
+        <button
+          type="button"
+          onClick={handleBackToCategories}
+          className="fixed bottom-56 right-4 z-40 flex min-h-14 max-w-[calc(100vw-2rem)] items-center gap-2 rounded-full bg-slate-900 px-4 py-3 text-sm font-semibold text-white shadow-lg shadow-slate-300/70 transition hover:bg-slate-800 active:scale-[0.99] focus-visible:outline-none focus-visible:ring-4 focus-visible:ring-teal-300 sm:bottom-36 sm:right-6"
+          aria-label="Kategorilere dön"
+        >
+          <span className="text-lg leading-none" aria-hidden="true">
+            ↑
+          </span>
+          <span className="sm:hidden">Kategoriler</span>
+          <span className="hidden sm:inline">Kategorilere dön</span>
+        </button>
+      ) : null}
     </div>
   )
 }

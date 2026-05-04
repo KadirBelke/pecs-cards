@@ -1,31 +1,60 @@
-# Gorsel Iletisim Kartlari
+# Visual Communication Cards
 
-Turkce odakli, statik ve tablet dostu gorsel iletisim kartlari uygulamasi.
+## What it is
 
-## Gelistirme
+Visual Communication Cards is a static, Turkish-first visual communication card app for children and caregivers who benefit from visual communication support.
 
-- `npm install`
-- `npm run dev`
-- `npm run build`
-- `npm run lint`
-- `npm run fetch:symbol-catalog`
-- `npm run suggest:symbols`
-- `npm run apply:symbols:first`
-- `npm run download:symbols`
-- `npm run review:symbols`
+## Who it is for
 
-## Sembol Kaynagi
+- Children who use or benefit from visual supports
+- Parents and caregivers
+- Teachers and special education professionals
 
-ARASAAC pictogramlari birincil sembol kaynagidir. Indirme scripti `scripts/arasaac-card-symbol-map.json` ve `scripts/arasaac-category-symbol-map.json` dosyalarindaki sabit `arasaacId` eslemelerini okuyup kart gorsellerini `public/symbols/arasaac/cards/{cardId}.png`, kategori gorsellerini ise `public/symbols/arasaac/categories/{categoryId}.png` altina indirir. Eslesmeyen veya indirilemeyen girdiler terminalde acik sekilde raporlanir.
+## What it helps with
 
-ARASAAC onerileri otomatik uretilir. Yanlis gorseller beklenmelidir. Her onerinin yayina alinmadan once insan tarafindan gozden gecirilmesi gerekir.
+- Expressing needs
+- Choosing food and drinks
+- Communicating feelings
+- Daily routines
+- School and home communication
+- Simple sentence building
 
-ARASAAC pictogramlari icin atif zorunludur ve CC BY-NC-SA kosullarina uyulmalidir.
+## Key features
 
-Pictograms from ARASAAC are property of the Government of Aragón and created by Sergio Palao for ARASAAC, distributed under CC BY-NC-SA.
+- Turkish card labels
+- Category filtering
+- Search
+- Sentence bar
+- Text-to-speech
+- Mobile and tablet friendly design
+- Installable PWA
+- Offline support after first visit
 
-Emoji yalnizca fallback olarak tutulur. MyPECS, PECS veya Pics for PECS gorselleri kullanilmaz.
+## Important note
 
-## PWA Guncelleme
+- This is a supportive communication tool.
+- It is not medical advice, therapy, diagnosis, or an official PECS product.
+- Content should be reviewed by caregivers or professionals before use.
 
-Yeni deploylardan sonra uygulama normalde bir yenilemeden sonra guncellenmelidir. Eger mobil cihazda eski surum gorunuyorsa site verisini temizleyin veya PWA uygulamasini kaldirip yeniden yukleyin.
+## Licensing and pictograms
+
+- Do not use copyrighted PECS or Pics for PECS materials.
+- Pictograms from ARASAAC are property of the Government of Aragón and created by Sergio Palao for ARASAAC, distributed under CC BY-NC-SA.
+- Emoji fallback may be used where pictograms are not available.
+- ARASAAC suggestions in this project may be automatically generated and should be reviewed by a person before public use.
+
+## Tech stack
+
+React, Vite, TypeScript, Tailwind CSS, PWA, Vercel.
+
+## Development
+
+```bash
+npm install
+npm run dev
+npm run build
+```
+
+## Deployment
+
+Vercel static deployment.

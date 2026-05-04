@@ -25,3 +25,7 @@ ARASAAC pictogramlari icin atif zorunludur ve CC BY-NC-SA kosullarina uyulmalidi
 Pictograms from ARASAAC are property of the Government of Aragón and created by Sergio Palao for ARASAAC, distributed under CC BY-NC-SA.
 
 Emoji yalnizca fallback olarak tutulur. MyPECS, PECS veya Pics for PECS gorselleri kullanilmaz.
+
+## PWA Guncelleme
+
+Yeni deploylardan sonra uygulama normalde bir yenilemeden sonra guncellenmelidir. Eger mobil cihazda eski surum gorunuyorsa site verisini temizleyin veya PWA uygulamasini kaldirip yeniden yukleyin.

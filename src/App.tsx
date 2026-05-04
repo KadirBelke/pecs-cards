@@ -1,10 +1,14 @@
-import { useState } from 'react'
+import { useEffect, useState } from 'react'
 import CategoryTabs from './components/CategoryTabs'
 import CardGrid from './components/CardGrid'
 import SearchBox from './components/SearchBox'
 import SentenceBar from './components/SentenceBar'
 import { cards } from './data/cards'
 import { categories } from './data/categories'
+import {
+  applyServiceWorkerUpdate,
+  subscribeToServiceWorkerUpdate,
+} from './pwa'
 import type { VisualCard } from './types'
 
 const DEFAULT_CATEGORY_ID = 'tumu'
@@ -13,6 +17,13 @@ function App() {
   const [selectedCards, setSelectedCards] = useState<VisualCard[]>([])
   const [selectedCategoryId, setSelectedCategoryId] = useState(DEFAULT_CATEGORY_ID)
   const [searchQuery, setSearchQuery] = useState('')
+  const [isUpdateAvailable, setIsUpdateAvailable] = useState(false)
+
+  useEffect(() => {
+    return subscribeToServiceWorkerUpdate(() => {
+      setIsUpdateAvailable(true)
+    })
+  }, [])
 
   const normalizedSearchQuery = searchQuery.trim().toLocaleLowerCase('tr-TR')
   const selectedCategory = categories.find(
@@ -66,6 +77,19 @@ function App() {
     <div className="min-h-screen overflow-x-hidden bg-stone-100 text-slate-900">
       <div className="mx-auto flex min-h-screen w-full max-w-6xl min-w-0 flex-col px-4 py-6 sm:px-6 lg:px-8">
         <main className="flex min-w-0 flex-1 flex-col pb-72 sm:pb-80 lg:pb-56">
+          {isUpdateAvailable ? (
+            <div className="mb-4 flex items-center justify-between gap-3 rounded-3xl border border-teal-200 bg-teal-50 px-4 py-3 text-sm text-slate-900 shadow-sm sm:px-5">
+              <p className="font-medium">Yeni sürüm var.</p>
+              <button
+                type="button"
+                className="min-h-11 rounded-2xl bg-teal-600 px-4 py-2 text-sm font-semibold text-white transition hover:bg-teal-700 active:scale-[0.99] focus-visible:outline-none focus-visible:ring-4 focus-visible:ring-teal-300"
+                onClick={applyServiceWorkerUpdate}
+              >
+                Yenile
+              </button>
+            </div>
+          ) : null}
+
           <header className="rounded-3xl border border-stone-200 bg-white px-5 py-5 shadow-sm sm:px-6">
             <h1 className="text-2xl font-semibold tracking-tight text-slate-900 sm:text-3xl">
               Görsel İletişim Kartları

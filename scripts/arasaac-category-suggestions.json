@@ -504,6 +504,39 @@
     "candidates": []
   },
   {
+    "categoryId": "gunler",
+    "label": "Günler",
+    "query": [
+      "gunler",
+      "days",
+      "dias"
+    ],
+    "candidates": [
+      {
+        "arasaacId": 7022,
+        "keywords": [
+          "dia"
+        ],
+        "score": 0.07
+      },
+      {
+        "arasaacId": 26799,
+        "keywords": [
+          "dia"
+        ],
+        "score": 0.07
+      },
+      {
+        "arasaacId": 39704,
+        "keywords": [
+          "inteligencia artificial",
+          "ia"
+        ],
+        "score": 0.07
+      }
+    ]
+  },
+  {
     "categoryId": "sayilar",
     "label": "Sayılar",
     "query": [
@@ -646,6 +679,49 @@
           "ella se"
         ],
         "score": 0.2
+      }
+    ]
+  },
+  {
+    "categoryId": "spor-ilgi",
+    "label": "Spor / İlgi",
+    "query": [
+      "spor ilgi",
+      "sports",
+      "interests",
+      "deporte",
+      "intereses"
+    ],
+    "candidates": [
+      {
+        "arasaacId": 6625,
+        "keywords": [
+          "tu",
+          "te",
+          "ti",
+          "usted",
+          "tu te"
+        ],
+        "score": 0.12
+      },
+      {
+        "arasaacId": 7290,
+        "keywords": [
+          "tu",
+          "te",
+          "ti",
+          "usted",
+          "tu te"
+        ],
+        "score": 0.12
+      },
+      {
+        "arasaacId": 29802,
+        "keywords": [
+          "te instantaneo",
+          "te"
+        ],
+        "score": 0.12
       }
     ]
   },

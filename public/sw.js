@@ -1,4 +1,4 @@
-const CACHE_NAME = 'visual-cards-v2'
+const CACHE_NAME = 'visual-cards-v2.1'
 const APP_SHELL = [
   '/',
   '/manifest.webmanifest',

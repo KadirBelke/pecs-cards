@@ -41,7 +41,22 @@ Visual Communication Cards is a static, Turkish-first visual communication card 
 - Do not use copyrighted PECS or Pics for PECS materials.
 - Pictograms from ARASAAC are property of the Government of Aragón and created by Sergio Palao for ARASAAC, distributed under CC BY-NC-SA.
 - Emoji fallback may be used where pictograms are not available.
-- ARASAAC suggestions in this project may be automatically generated and should be reviewed by a person before public use.
+- Candidate pictograms are not automatically shown in the app.
+- Only entries listed in `scripts/verified-card-symbol-map.json` are shown as real pictograms in the app.
+- Wrong or unclear visuals must be rejected manually during review.
+- ARASAAC attribution and license notes must be kept when using approved pictograms.
+
+## Pictogram review workflow
+
+```bash
+npm run candidates:symbols
+npm run review:symbols
+npm run apply:verified-symbols
+```
+
+- `npm run candidates:symbols` downloads top candidate pictograms for each card into `public/symbol-candidates/cards/...`.
+- `npm run review:symbols` builds `scripts/pictogram-review/cards-review.json` and `scripts/pictogram-review/index.html`.
+- `npm run apply:verified-symbols` copies only manually approved candidate files into `public/symbols/arasaac/cards/...`.
 
 ## Tech stack
 

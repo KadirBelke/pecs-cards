@@ -1,0 +1,1310 @@
+[
+  {
+    "cardId": "istekler-saril",
+    "source": "arasaac",
+    "symbolId": 6023,
+    "image": "/symbols/arasaac/cards/istekler-saril.png"
+  },
+  {
+    "cardId": "istekler-bir-daha",
+    "source": "arasaac",
+    "symbolId": 37163,
+    "image": "/symbols/arasaac/cards/istekler-bir-daha.png"
+  },
+  {
+    "cardId": "istekler-bekle",
+    "source": "arasaac",
+    "symbolId": 28677,
+    "image": "/symbols/arasaac/cards/istekler-bekle.png"
+  },
+  {
+    "cardId": "yiyecek-elma",
+    "source": "arasaac",
+    "symbolId": 2462,
+    "image": "/symbols/arasaac/cards/yiyecek-elma.png"
+  },
+  {
+    "cardId": "yiyecek-muz",
+    "source": "arasaac",
+    "symbolId": 10218,
+    "image": "/symbols/arasaac/cards/yiyecek-muz.png"
+  },
+  {
+    "cardId": "yiyecek-ekmek",
+    "source": "arasaac",
+    "symbolId": 38965,
+    "image": "/symbols/arasaac/cards/yiyecek-ekmek.png"
+  },
+  {
+    "cardId": "yiyecek-corba",
+    "source": "arasaac",
+    "symbolId": 2573,
+    "image": "/symbols/arasaac/cards/yiyecek-corba.png"
+  },
+  {
+    "cardId": "yiyecek-pilav",
+    "source": "arasaac",
+    "symbolId": 39387,
+    "image": "/symbols/arasaac/cards/yiyecek-pilav.png"
+  },
+  {
+    "cardId": "yiyecek-peynir",
+    "source": "arasaac",
+    "symbolId": 2541,
+    "image": "/symbols/arasaac/cards/yiyecek-peynir.png"
+  },
+  {
+    "cardId": "yiyecek-tavuk",
+    "source": "arasaac",
+    "symbolId": 24815,
+    "image": "/symbols/arasaac/cards/yiyecek-tavuk.png"
+  },
+  {
+    "cardId": "yiyecek-makarna",
+    "source": "arasaac",
+    "symbolId": 25572,
+    "image": "/symbols/arasaac/cards/yiyecek-makarna.png"
+  },
+  {
+    "cardId": "yiyecek-patates",
+    "source": "arasaac",
+    "symbolId": 2503,
+    "image": "/symbols/arasaac/cards/yiyecek-patates.png"
+  },
+  {
+    "cardId": "yiyecek-domates",
+    "source": "arasaac",
+    "symbolId": 2594,
+    "image": "/symbols/arasaac/cards/yiyecek-domates.png"
+  },
+  {
+    "cardId": "yiyecek-salatalik",
+    "source": "arasaac",
+    "symbolId": 2847,
+    "image": "/symbols/arasaac/cards/yiyecek-salatalik.png"
+  },
+  {
+    "cardId": "yiyecek-portakal",
+    "source": "arasaac",
+    "symbolId": 2483,
+    "image": "/symbols/arasaac/cards/yiyecek-portakal.png"
+  },
+  {
+    "cardId": "yiyecek-cilek",
+    "source": "arasaac",
+    "symbolId": 2400,
+    "image": "/symbols/arasaac/cards/yiyecek-cilek.png"
+  },
+  {
+    "cardId": "yiyecek-biskuvi",
+    "source": "arasaac",
+    "symbolId": 8312,
+    "image": "/symbols/arasaac/cards/yiyecek-biskuvi.png"
+  },
+  {
+    "cardId": "icecek-su",
+    "source": "arasaac",
+    "symbolId": 2248,
+    "image": "/symbols/arasaac/cards/icecek-su.png"
+  },
+  {
+    "cardId": "icecek-sut",
+    "source": "arasaac",
+    "symbolId": 2445,
+    "image": "/symbols/arasaac/cards/icecek-sut.png"
+  },
+  {
+    "cardId": "icecek-meyve-suyu",
+    "source": "arasaac",
+    "symbolId": 11461,
+    "image": "/symbols/arasaac/cards/icecek-meyve-suyu.png"
+  },
+  {
+    "cardId": "icecek-cay",
+    "source": "arasaac",
+    "symbolId": 2429,
+    "image": "/symbols/arasaac/cards/icecek-cay.png"
+  },
+  {
+    "cardId": "icecek-ic",
+    "source": "arasaac",
+    "symbolId": 2276,
+    "image": "/symbols/arasaac/cards/icecek-ic.png"
+  },
+  {
+    "cardId": "icecek-kakao",
+    "source": "arasaac",
+    "symbolId": 25891,
+    "image": "/symbols/arasaac/cards/icecek-kakao.png"
+  },
+  {
+    "cardId": "icecek-limonata",
+    "source": "arasaac",
+    "symbolId": 6551,
+    "image": "/symbols/arasaac/cards/icecek-limonata.png"
+  },
+  {
+    "cardId": "icecek-gazoz",
+    "source": "arasaac",
+    "symbolId": 4732,
+    "image": "/symbols/arasaac/cards/icecek-gazoz.png"
+  },
+  {
+    "cardId": "duygular-mutlu",
+    "source": "arasaac",
+    "symbolId": 32123,
+    "image": "/symbols/arasaac/cards/duygular-mutlu.png"
+  },
+  {
+    "cardId": "duygular-uzgun",
+    "source": "arasaac",
+    "symbolId": 31939,
+    "image": "/symbols/arasaac/cards/duygular-uzgun.png"
+  },
+  {
+    "cardId": "duygular-heyecanli",
+    "source": "arasaac",
+    "symbolId": 39090,
+    "image": "/symbols/arasaac/cards/duygular-heyecanli.png"
+  },
+  {
+    "cardId": "duygular-saskin",
+    "source": "arasaac",
+    "symbolId": 32170,
+    "image": "/symbols/arasaac/cards/duygular-saskin.png"
+  },
+  {
+    "cardId": "duygular-utandim",
+    "source": "arasaac",
+    "symbolId": 31919,
+    "image": "/symbols/arasaac/cards/duygular-utandim.png"
+  },
+  {
+    "cardId": "duygular-merakli",
+    "source": "arasaac",
+    "symbolId": 27705,
+    "image": "/symbols/arasaac/cards/duygular-merakli.png"
+  },
+  {
+    "cardId": "beden-saglik-bas",
+    "source": "arasaac",
+    "symbolId": 32160,
+    "image": "/symbols/arasaac/cards/beden-saglik-bas.png"
+  },
+  {
+    "cardId": "beden-saglik-karin",
+    "source": "arasaac",
+    "symbolId": 2786,
+    "image": "/symbols/arasaac/cards/beden-saglik-karin.png"
+  },
+  {
+    "cardId": "beden-saglik-yorgun",
+    "source": "arasaac",
+    "symbolId": 31925,
+    "image": "/symbols/arasaac/cards/beden-saglik-yorgun.png"
+  },
+  {
+    "cardId": "beden-saglik-aciktim",
+    "source": "arasaac",
+    "symbolId": 35559,
+    "image": "/symbols/arasaac/cards/beden-saglik-aciktim.png"
+  },
+  {
+    "cardId": "beden-saglik-ayagim",
+    "source": "arasaac",
+    "symbolId": 25327,
+    "image": "/symbols/arasaac/cards/beden-saglik-ayagim.png"
+  },
+  {
+    "cardId": "beden-saglik-bogazim",
+    "source": "arasaac",
+    "symbolId": 28761,
+    "image": "/symbols/arasaac/cards/beden-saglik-bogazim.png"
+  },
+  {
+    "cardId": "beden-saglik-gozum",
+    "source": "arasaac",
+    "symbolId": 6573,
+    "image": "/symbols/arasaac/cards/beden-saglik-gozum.png"
+  },
+  {
+    "cardId": "beden-saglik-kulagim",
+    "source": "arasaac",
+    "symbolId": 2871,
+    "image": "/symbols/arasaac/cards/beden-saglik-kulagim.png"
+  },
+  {
+    "cardId": "beden-saglik-usuyorum",
+    "source": "arasaac",
+    "symbolId": 35557,
+    "image": "/symbols/arasaac/cards/beden-saglik-usuyorum.png"
+  },
+  {
+    "cardId": "tuvalet-hijyen-tuvalet",
+    "source": "arasaac",
+    "symbolId": 37710,
+    "image": "/symbols/arasaac/cards/tuvalet-hijyen-tuvalet.png"
+  },
+  {
+    "cardId": "tuvalet-hijyen-sac-tara",
+    "source": "arasaac",
+    "symbolId": 26947,
+    "image": "/symbols/arasaac/cards/tuvalet-hijyen-sac-tara.png"
+  },
+  {
+    "cardId": "tuvalet-hijyen-sabun",
+    "source": "arasaac",
+    "symbolId": 8094,
+    "image": "/symbols/arasaac/cards/tuvalet-hijyen-sabun.png"
+  },
+  {
+    "cardId": "tuvalet-hijyen-havlu",
+    "source": "arasaac",
+    "symbolId": 29052,
+    "image": "/symbols/arasaac/cards/tuvalet-hijyen-havlu.png"
+  },
+  {
+    "cardId": "tuvalet-hijyen-tuvalet-kagidi",
+    "source": "arasaac",
+    "symbolId": 2862,
+    "image": "/symbols/arasaac/cards/tuvalet-hijyen-tuvalet-kagidi.png"
+  },
+  {
+    "cardId": "eylemler-kalk",
+    "source": "arasaac",
+    "symbolId": 6549,
+    "image": "/symbols/arasaac/cards/eylemler-kalk.png"
+  },
+  {
+    "cardId": "eylemler-kos",
+    "source": "arasaac",
+    "symbolId": 6465,
+    "image": "/symbols/arasaac/cards/eylemler-kos.png"
+  },
+  {
+    "cardId": "eylemler-yuru",
+    "source": "arasaac",
+    "symbolId": 6044,
+    "image": "/symbols/arasaac/cards/eylemler-yuru.png"
+  },
+  {
+    "cardId": "eylemler-oku",
+    "source": "arasaac",
+    "symbolId": 31680,
+    "image": "/symbols/arasaac/cards/eylemler-oku.png"
+  },
+  {
+    "cardId": "eylemler-uyu",
+    "source": "arasaac",
+    "symbolId": 2369,
+    "image": "/symbols/arasaac/cards/eylemler-uyu.png"
+  },
+  {
+    "cardId": "eylemler-yaz",
+    "source": "arasaac",
+    "symbolId": 8107,
+    "image": "/symbols/arasaac/cards/eylemler-yaz.png"
+  },
+  {
+    "cardId": "eylemler-oyna",
+    "source": "arasaac",
+    "symbolId": 6537,
+    "image": "/symbols/arasaac/cards/eylemler-oyna.png"
+  },
+  {
+    "cardId": "eylemler-dinle",
+    "source": "arasaac",
+    "symbolId": 2381,
+    "image": "/symbols/arasaac/cards/eylemler-dinle.png"
+  },
+  {
+    "cardId": "eylemler-bak",
+    "source": "arasaac",
+    "symbolId": 2474,
+    "image": "/symbols/arasaac/cards/eylemler-bak.png"
+  },
+  {
+    "cardId": "kisiler-anne",
+    "source": "arasaac",
+    "symbolId": 31148,
+    "image": "/symbols/arasaac/cards/kisiler-anne.png"
+  },
+  {
+    "cardId": "kisiler-baba",
+    "source": "arasaac",
+    "symbolId": 2497,
+    "image": "/symbols/arasaac/cards/kisiler-baba.png"
+  },
+  {
+    "cardId": "kisiler-ogretmen",
+    "source": "arasaac",
+    "symbolId": 2457,
+    "image": "/symbols/arasaac/cards/kisiler-ogretmen.png"
+  },
+  {
+    "cardId": "kisiler-buyukanne",
+    "source": "arasaac",
+    "symbolId": 23710,
+    "image": "/symbols/arasaac/cards/kisiler-buyukanne.png"
+  },
+  {
+    "cardId": "kisiler-buyukbaba",
+    "source": "arasaac",
+    "symbolId": 23718,
+    "image": "/symbols/arasaac/cards/kisiler-buyukbaba.png"
+  },
+  {
+    "cardId": "yerler-ev",
+    "source": "arasaac",
+    "symbolId": 2317,
+    "image": "/symbols/arasaac/cards/yerler-ev.png"
+  },
+  {
+    "cardId": "yerler-okul",
+    "source": "arasaac",
+    "symbolId": 3082,
+    "image": "/symbols/arasaac/cards/yerler-okul.png"
+  },
+  {
+    "cardId": "yerler-park",
+    "source": "arasaac",
+    "symbolId": 2859,
+    "image": "/symbols/arasaac/cards/yerler-park.png"
+  },
+  {
+    "cardId": "yerler-market",
+    "source": "arasaac",
+    "symbolId": 3389,
+    "image": "/symbols/arasaac/cards/yerler-market.png"
+  },
+  {
+    "cardId": "yerler-araba",
+    "source": "arasaac",
+    "symbolId": 2339,
+    "image": "/symbols/arasaac/cards/yerler-araba.png"
+  },
+  {
+    "cardId": "yerler-bahce",
+    "source": "arasaac",
+    "symbolId": 37986,
+    "image": "/symbols/arasaac/cards/yerler-bahce.png"
+  },
+  {
+    "cardId": "yerler-oyun-alani",
+    "source": "arasaac",
+    "symbolId": 36145,
+    "image": "/symbols/arasaac/cards/yerler-oyun-alani.png"
+  },
+  {
+    "cardId": "yerler-kutuphane",
+    "source": "arasaac",
+    "symbolId": 3065,
+    "image": "/symbols/arasaac/cards/yerler-kutuphane.png"
+  },
+  {
+    "cardId": "yerler-yol",
+    "source": "arasaac",
+    "symbolId": 5946,
+    "image": "/symbols/arasaac/cards/yerler-yol.png"
+  },
+  {
+    "cardId": "yerler-restoran",
+    "source": "arasaac",
+    "symbolId": 38235,
+    "image": "/symbols/arasaac/cards/yerler-restoran.png"
+  },
+  {
+    "cardId": "ev-yatak",
+    "source": "arasaac",
+    "symbolId": 5481,
+    "image": "/symbols/arasaac/cards/ev-yatak.png"
+  },
+  {
+    "cardId": "ev-masa",
+    "source": "arasaac",
+    "symbolId": 3129,
+    "image": "/symbols/arasaac/cards/ev-masa.png"
+  },
+  {
+    "cardId": "ev-koltuk",
+    "source": "arasaac",
+    "symbolId": 2570,
+    "image": "/symbols/arasaac/cards/ev-koltuk.png"
+  },
+  {
+    "cardId": "ev-mutfak",
+    "source": "arasaac",
+    "symbolId": 23753,
+    "image": "/symbols/arasaac/cards/ev-mutfak.png"
+  },
+  {
+    "cardId": "ev-kapi",
+    "source": "arasaac",
+    "symbolId": 3244,
+    "image": "/symbols/arasaac/cards/ev-kapi.png"
+  },
+  {
+    "cardId": "ev-isik",
+    "source": "arasaac",
+    "symbolId": 4938,
+    "image": "/symbols/arasaac/cards/ev-isik.png"
+  },
+  {
+    "cardId": "ev-hali",
+    "source": "arasaac",
+    "symbolId": 2249,
+    "image": "/symbols/arasaac/cards/ev-hali.png"
+  },
+  {
+    "cardId": "ev-pencere",
+    "source": "arasaac",
+    "symbolId": 24465,
+    "image": "/symbols/arasaac/cards/ev-pencere.png"
+  },
+  {
+    "cardId": "ev-televizyon",
+    "source": "arasaac",
+    "symbolId": 25498,
+    "image": "/symbols/arasaac/cards/ev-televizyon.png"
+  },
+  {
+    "cardId": "ev-dolap",
+    "source": "arasaac",
+    "symbolId": 36767,
+    "image": "/symbols/arasaac/cards/ev-dolap.png"
+  },
+  {
+    "cardId": "okul-defter",
+    "source": "arasaac",
+    "symbolId": 2359,
+    "image": "/symbols/arasaac/cards/okul-defter.png"
+  },
+  {
+    "cardId": "okul-kalem",
+    "source": "arasaac",
+    "symbolId": 2440,
+    "image": "/symbols/arasaac/cards/okul-kalem.png"
+  },
+  {
+    "cardId": "okul-sinif",
+    "source": "arasaac",
+    "symbolId": 9815,
+    "image": "/symbols/arasaac/cards/okul-sinif.png"
+  },
+  {
+    "cardId": "okul-teneffus",
+    "source": "arasaac",
+    "symbolId": 33064,
+    "image": "/symbols/arasaac/cards/okul-teneffus.png"
+  },
+  {
+    "cardId": "okul-boya",
+    "source": "arasaac",
+    "symbolId": 4870,
+    "image": "/symbols/arasaac/cards/okul-boya.png"
+  },
+  {
+    "cardId": "okul-canta",
+    "source": "arasaac",
+    "symbolId": 2475,
+    "image": "/symbols/arasaac/cards/okul-canta.png"
+  },
+  {
+    "cardId": "okul-silgi",
+    "source": "arasaac",
+    "symbolId": 2409,
+    "image": "/symbols/arasaac/cards/okul-silgi.png"
+  },
+  {
+    "cardId": "okul-kitap",
+    "source": "arasaac",
+    "symbolId": 2450,
+    "image": "/symbols/arasaac/cards/okul-kitap.png"
+  },
+  {
+    "cardId": "okul-makas",
+    "source": "arasaac",
+    "symbolId": 2591,
+    "image": "/symbols/arasaac/cards/okul-makas.png"
+  },
+  {
+    "cardId": "okul-cetvel",
+    "source": "arasaac",
+    "symbolId": 2815,
+    "image": "/symbols/arasaac/cards/okul-cetvel.png"
+  },
+  {
+    "cardId": "oyun-oyuncak-top",
+    "source": "arasaac",
+    "symbolId": 3241,
+    "image": "/symbols/arasaac/cards/oyun-oyuncak-top.png"
+  },
+  {
+    "cardId": "oyun-oyuncak-bebek",
+    "source": "arasaac",
+    "symbolId": 2275,
+    "image": "/symbols/arasaac/cards/oyun-oyuncak-bebek.png"
+  },
+  {
+    "cardId": "oyun-oyuncak-araba",
+    "source": "arasaac",
+    "symbolId": 2340,
+    "image": "/symbols/arasaac/cards/oyun-oyuncak-araba.png"
+  },
+  {
+    "cardId": "oyun-oyuncak-yapboz",
+    "source": "arasaac",
+    "symbolId": 2540,
+    "image": "/symbols/arasaac/cards/oyun-oyuncak-yapboz.png"
+  },
+  {
+    "cardId": "oyun-oyuncak-lego",
+    "source": "arasaac",
+    "symbolId": 8508,
+    "image": "/symbols/arasaac/cards/oyun-oyuncak-lego.png"
+  },
+  {
+    "cardId": "oyun-oyuncak-salincak",
+    "source": "arasaac",
+    "symbolId": 4608,
+    "image": "/symbols/arasaac/cards/oyun-oyuncak-salincak.png"
+  },
+  {
+    "cardId": "oyun-oyuncak-bloklar",
+    "source": "arasaac",
+    "symbolId": 8508,
+    "image": "/symbols/arasaac/cards/oyun-oyuncak-bloklar.png"
+  },
+  {
+    "cardId": "oyun-oyuncak-kukla",
+    "source": "arasaac",
+    "symbolId": 26897,
+    "image": "/symbols/arasaac/cards/oyun-oyuncak-kukla.png"
+  },
+  {
+    "cardId": "oyun-oyuncak-balon",
+    "source": "arasaac",
+    "symbolId": 2408,
+    "image": "/symbols/arasaac/cards/oyun-oyuncak-balon.png"
+  },
+  {
+    "cardId": "rutinler-uyan",
+    "source": "arasaac",
+    "symbolId": 8989,
+    "image": "/symbols/arasaac/cards/rutinler-uyan.png"
+  },
+  {
+    "cardId": "rutinler-okula-git",
+    "source": "arasaac",
+    "symbolId": 3082,
+    "image": "/symbols/arasaac/cards/rutinler-okula-git.png"
+  },
+  {
+    "cardId": "rutinler-ders",
+    "source": "arasaac",
+    "symbolId": 5913,
+    "image": "/symbols/arasaac/cards/rutinler-ders.png"
+  },
+  {
+    "cardId": "rutinler-oyun-zamani",
+    "source": "arasaac",
+    "symbolId": 23392,
+    "image": "/symbols/arasaac/cards/rutinler-oyun-zamani.png"
+  },
+  {
+    "cardId": "rutinler-aksam",
+    "source": "arasaac",
+    "symbolId": 26997,
+    "image": "/symbols/arasaac/cards/rutinler-aksam.png"
+  },
+  {
+    "cardId": "rutinler-yat",
+    "source": "arasaac",
+    "symbolId": 4553,
+    "image": "/symbols/arasaac/cards/rutinler-yat.png"
+  },
+  {
+    "cardId": "sosyal-ifadeler-merhaba",
+    "source": "arasaac",
+    "symbolId": 6009,
+    "image": "/symbols/arasaac/cards/sosyal-ifadeler-merhaba.png"
+  },
+  {
+    "cardId": "sosyal-ifadeler-gule-gule",
+    "source": "arasaac",
+    "symbolId": 5896,
+    "image": "/symbols/arasaac/cards/sosyal-ifadeler-gule-gule.png"
+  },
+  {
+    "cardId": "sosyal-ifadeler-tesekkurler",
+    "source": "arasaac",
+    "symbolId": 8128,
+    "image": "/symbols/arasaac/cards/sosyal-ifadeler-tesekkurler.png"
+  },
+  {
+    "cardId": "sosyal-ifadeler-ozur-dilerim",
+    "source": "arasaac",
+    "symbolId": 38361,
+    "image": "/symbols/arasaac/cards/sosyal-ifadeler-ozur-dilerim.png"
+  },
+  {
+    "cardId": "sosyal-ifadeler-evet",
+    "source": "arasaac",
+    "symbolId": 5584,
+    "image": "/symbols/arasaac/cards/sosyal-ifadeler-evet.png"
+  },
+  {
+    "cardId": "sosyal-ifadeler-hayir",
+    "source": "arasaac",
+    "symbolId": 5526,
+    "image": "/symbols/arasaac/cards/sosyal-ifadeler-hayir.png"
+  },
+  {
+    "cardId": "sosyal-ifadeler-bilmiyorum",
+    "source": "arasaac",
+    "symbolId": 7180,
+    "image": "/symbols/arasaac/cards/sosyal-ifadeler-bilmiyorum.png"
+  },
+  {
+    "cardId": "sosyal-ifadeler-gunaydin",
+    "source": "arasaac",
+    "symbolId": 26799,
+    "image": "/symbols/arasaac/cards/sosyal-ifadeler-gunaydin.png"
+  },
+  {
+    "cardId": "sosyal-ifadeler-iyi-geceler",
+    "source": "arasaac",
+    "symbolId": 26997,
+    "image": "/symbols/arasaac/cards/sosyal-ifadeler-iyi-geceler.png"
+  },
+  {
+    "cardId": "duyusal-ihtiyaclar-sessiz",
+    "source": "arasaac",
+    "symbolId": 5936,
+    "image": "/symbols/arasaac/cards/duyusal-ihtiyaclar-sessiz.png"
+  },
+  {
+    "cardId": "duyusal-ihtiyaclar-kulaklik",
+    "source": "arasaac",
+    "symbolId": 11208,
+    "image": "/symbols/arasaac/cards/duyusal-ihtiyaclar-kulaklik.png"
+  },
+  {
+    "cardId": "duyusal-ihtiyaclar-zipla",
+    "source": "arasaac",
+    "symbolId": 28447,
+    "image": "/symbols/arasaac/cards/duyusal-ihtiyaclar-zipla.png"
+  },
+  {
+    "cardId": "duyusal-ihtiyaclar-sallan",
+    "source": "arasaac",
+    "symbolId": 5430,
+    "image": "/symbols/arasaac/cards/duyusal-ihtiyaclar-sallan.png"
+  },
+  {
+    "cardId": "duyusal-ihtiyaclar-parlak-isik",
+    "source": "arasaac",
+    "symbolId": 8619,
+    "image": "/symbols/arasaac/cards/duyusal-ihtiyaclar-parlak-isik.png"
+  },
+  {
+    "cardId": "duyusal-ihtiyaclar-kalabalik",
+    "source": "arasaac",
+    "symbolId": 38445,
+    "image": "/symbols/arasaac/cards/duyusal-ihtiyaclar-kalabalik.png"
+  },
+  {
+    "cardId": "guvenlik-dur",
+    "source": "arasaac",
+    "symbolId": 8289,
+    "image": "/symbols/arasaac/cards/guvenlik-dur.png"
+  },
+  {
+    "cardId": "guvenlik-yavas",
+    "source": "arasaac",
+    "symbolId": 4676,
+    "image": "/symbols/arasaac/cards/guvenlik-yavas.png"
+  },
+  {
+    "cardId": "guvenlik-tehlike",
+    "source": "arasaac",
+    "symbolId": 25315,
+    "image": "/symbols/arasaac/cards/guvenlik-tehlike.png"
+  },
+  {
+    "cardId": "guvenlik-kemer",
+    "source": "arasaac",
+    "symbolId": 5962,
+    "image": "/symbols/arasaac/cards/guvenlik-kemer.png"
+  },
+  {
+    "cardId": "guvenlik-sicak",
+    "source": "arasaac",
+    "symbolId": 4583,
+    "image": "/symbols/arasaac/cards/guvenlik-sicak.png"
+  },
+  {
+    "cardId": "guvenlik-soguk",
+    "source": "arasaac",
+    "symbolId": 35557,
+    "image": "/symbols/arasaac/cards/guvenlik-soguk.png"
+  },
+  {
+    "cardId": "guvenlik-kayboldum",
+    "source": "arasaac",
+    "symbolId": 36295,
+    "image": "/symbols/arasaac/cards/guvenlik-kayboldum.png"
+  },
+  {
+    "cardId": "zaman-simdi",
+    "source": "arasaac",
+    "symbolId": 32747,
+    "image": "/symbols/arasaac/cards/zaman-simdi.png"
+  },
+  {
+    "cardId": "zaman-sonra",
+    "source": "arasaac",
+    "symbolId": 32749,
+    "image": "/symbols/arasaac/cards/zaman-sonra.png"
+  },
+  {
+    "cardId": "zaman-sabah",
+    "source": "arasaac",
+    "symbolId": 25704,
+    "image": "/symbols/arasaac/cards/zaman-sabah.png"
+  },
+  {
+    "cardId": "zaman-ogle",
+    "source": "arasaac",
+    "symbolId": 32708,
+    "image": "/symbols/arasaac/cards/zaman-ogle.png"
+  },
+  {
+    "cardId": "zaman-aksam",
+    "source": "arasaac",
+    "symbolId": 35789,
+    "image": "/symbols/arasaac/cards/zaman-aksam.png"
+  },
+  {
+    "cardId": "zaman-gece",
+    "source": "arasaac",
+    "symbolId": 26997,
+    "image": "/symbols/arasaac/cards/zaman-gece.png"
+  },
+  {
+    "cardId": "zaman-bugun",
+    "source": "arasaac",
+    "symbolId": 38276,
+    "image": "/symbols/arasaac/cards/zaman-bugun.png"
+  },
+  {
+    "cardId": "zaman-dun",
+    "source": "arasaac",
+    "symbolId": 38272,
+    "image": "/symbols/arasaac/cards/zaman-dun.png"
+  },
+  {
+    "cardId": "zaman-yarin",
+    "source": "arasaac",
+    "symbolId": 38278,
+    "image": "/symbols/arasaac/cards/zaman-yarin.png"
+  },
+  {
+    "cardId": "gunler-pazartesi",
+    "source": "arasaac",
+    "symbolId": 39729,
+    "image": "/symbols/arasaac/cards/gunler-pazartesi.png"
+  },
+  {
+    "cardId": "gunler-carsamba",
+    "source": "arasaac",
+    "symbolId": 39726,
+    "image": "/symbols/arasaac/cards/gunler-carsamba.png"
+  },
+  {
+    "cardId": "gunler-persembe",
+    "source": "arasaac",
+    "symbolId": 37728,
+    "image": "/symbols/arasaac/cards/gunler-persembe.png"
+  },
+  {
+    "cardId": "gunler-cuma",
+    "source": "arasaac",
+    "symbolId": 39721,
+    "image": "/symbols/arasaac/cards/gunler-cuma.png"
+  },
+  {
+    "cardId": "gunler-pazar",
+    "source": "arasaac",
+    "symbolId": 39718,
+    "image": "/symbols/arasaac/cards/gunler-pazar.png"
+  },
+  {
+    "cardId": "sayilar-bir",
+    "source": "arasaac",
+    "symbolId": 2627,
+    "image": "/symbols/arasaac/cards/sayilar-bir.png"
+  },
+  {
+    "cardId": "sayilar-uc",
+    "source": "arasaac",
+    "symbolId": 2629,
+    "image": "/symbols/arasaac/cards/sayilar-uc.png"
+  },
+  {
+    "cardId": "sayilar-dort",
+    "source": "arasaac",
+    "symbolId": 2630,
+    "image": "/symbols/arasaac/cards/sayilar-dort.png"
+  },
+  {
+    "cardId": "sayilar-dokuz",
+    "source": "arasaac",
+    "symbolId": 2635,
+    "image": "/symbols/arasaac/cards/sayilar-dokuz.png"
+  },
+  {
+    "cardId": "renkler-kirmizi",
+    "source": "arasaac",
+    "symbolId": 2808,
+    "image": "/symbols/arasaac/cards/renkler-kirmizi.png"
+  },
+  {
+    "cardId": "renkler-mavi",
+    "source": "arasaac",
+    "symbolId": 4869,
+    "image": "/symbols/arasaac/cards/renkler-mavi.png"
+  },
+  {
+    "cardId": "renkler-sari",
+    "source": "arasaac",
+    "symbolId": 2648,
+    "image": "/symbols/arasaac/cards/renkler-sari.png"
+  },
+  {
+    "cardId": "renkler-yesil",
+    "source": "arasaac",
+    "symbolId": 4887,
+    "image": "/symbols/arasaac/cards/renkler-yesil.png"
+  },
+  {
+    "cardId": "renkler-turuncu",
+    "source": "arasaac",
+    "symbolId": 2888,
+    "image": "/symbols/arasaac/cards/renkler-turuncu.png"
+  },
+  {
+    "cardId": "renkler-mor",
+    "source": "arasaac",
+    "symbolId": 2907,
+    "image": "/symbols/arasaac/cards/renkler-mor.png"
+  },
+  {
+    "cardId": "renkler-kahverengi",
+    "source": "arasaac",
+    "symbolId": 2923,
+    "image": "/symbols/arasaac/cards/renkler-kahverengi.png"
+  },
+  {
+    "cardId": "kiyafetler-pantolon",
+    "source": "arasaac",
+    "symbolId": 2565,
+    "image": "/symbols/arasaac/cards/kiyafetler-pantolon.png"
+  },
+  {
+    "cardId": "kiyafetler-corap",
+    "source": "arasaac",
+    "symbolId": 8339,
+    "image": "/symbols/arasaac/cards/kiyafetler-corap.png"
+  },
+  {
+    "cardId": "kiyafetler-ayakkabi",
+    "source": "arasaac",
+    "symbolId": 32923,
+    "image": "/symbols/arasaac/cards/kiyafetler-ayakkabi.png"
+  },
+  {
+    "cardId": "kiyafetler-mont",
+    "source": "arasaac",
+    "symbolId": 8122,
+    "image": "/symbols/arasaac/cards/kiyafetler-mont.png"
+  },
+  {
+    "cardId": "kiyafetler-elbise",
+    "source": "arasaac",
+    "symbolId": 2613,
+    "image": "/symbols/arasaac/cards/kiyafetler-elbise.png"
+  },
+  {
+    "cardId": "kiyafetler-pijama",
+    "source": "arasaac",
+    "symbolId": 2522,
+    "image": "/symbols/arasaac/cards/kiyafetler-pijama.png"
+  },
+  {
+    "cardId": "hava-durumu-gunesli",
+    "source": "arasaac",
+    "symbolId": 2798,
+    "image": "/symbols/arasaac/cards/hava-durumu-gunesli.png"
+  },
+  {
+    "cardId": "hava-durumu-bulutlu",
+    "source": "arasaac",
+    "symbolId": 2883,
+    "image": "/symbols/arasaac/cards/hava-durumu-bulutlu.png"
+  },
+  {
+    "cardId": "hava-durumu-yagmurlu",
+    "source": "arasaac",
+    "symbolId": 3123,
+    "image": "/symbols/arasaac/cards/hava-durumu-yagmurlu.png"
+  },
+  {
+    "cardId": "hava-durumu-karli",
+    "source": "arasaac",
+    "symbolId": 3135,
+    "image": "/symbols/arasaac/cards/hava-durumu-karli.png"
+  },
+  {
+    "cardId": "hava-durumu-ruzgarli",
+    "source": "arasaac",
+    "symbolId": 10726,
+    "image": "/symbols/arasaac/cards/hava-durumu-ruzgarli.png"
+  },
+  {
+    "cardId": "hava-durumu-gok-gurultusu",
+    "source": "arasaac",
+    "symbolId": 11389,
+    "image": "/symbols/arasaac/cards/hava-durumu-gok-gurultusu.png"
+  },
+  {
+    "cardId": "tasitlar-araba",
+    "source": "arasaac",
+    "symbolId": 2339,
+    "image": "/symbols/arasaac/cards/tasitlar-araba.png"
+  },
+  {
+    "cardId": "tasitlar-otobus",
+    "source": "arasaac",
+    "symbolId": 2262,
+    "image": "/symbols/arasaac/cards/tasitlar-otobus.png"
+  },
+  {
+    "cardId": "tasitlar-tren",
+    "source": "arasaac",
+    "symbolId": 7282,
+    "image": "/symbols/arasaac/cards/tasitlar-tren.png"
+  },
+  {
+    "cardId": "tasitlar-ucak",
+    "source": "arasaac",
+    "symbolId": 2264,
+    "image": "/symbols/arasaac/cards/tasitlar-ucak.png"
+  },
+  {
+    "cardId": "tasitlar-bisiklet",
+    "source": "arasaac",
+    "symbolId": 2277,
+    "image": "/symbols/arasaac/cards/tasitlar-bisiklet.png"
+  },
+  {
+    "cardId": "tasitlar-gemi",
+    "source": "arasaac",
+    "symbolId": 2273,
+    "image": "/symbols/arasaac/cards/tasitlar-gemi.png"
+  },
+  {
+    "cardId": "tasitlar-motosiklet",
+    "source": "arasaac",
+    "symbolId": 5084,
+    "image": "/symbols/arasaac/cards/tasitlar-motosiklet.png"
+  },
+  {
+    "cardId": "tasitlar-taksi",
+    "source": "arasaac",
+    "symbolId": 2580,
+    "image": "/symbols/arasaac/cards/tasitlar-taksi.png"
+  },
+  {
+    "cardId": "tasitlar-traktor",
+    "source": "arasaac",
+    "symbolId": 2600,
+    "image": "/symbols/arasaac/cards/tasitlar-traktor.png"
+  },
+  {
+    "cardId": "spor-ilgi-futbol",
+    "source": "arasaac",
+    "symbolId": 16743,
+    "image": "/symbols/arasaac/cards/spor-ilgi-futbol.png"
+  },
+  {
+    "cardId": "spor-ilgi-top",
+    "source": "arasaac",
+    "symbolId": 3241,
+    "image": "/symbols/arasaac/cards/spor-ilgi-top.png"
+  },
+  {
+    "cardId": "spor-ilgi-gol",
+    "source": "arasaac",
+    "symbolId": 6007,
+    "image": "/symbols/arasaac/cards/spor-ilgi-gol.png"
+  },
+  {
+    "cardId": "spor-ilgi-aslan",
+    "source": "arasaac",
+    "symbolId": 2449,
+    "image": "/symbols/arasaac/cards/spor-ilgi-aslan.png"
+  },
+  {
+    "cardId": "spor-ilgi-galatasaray",
+    "source": "arasaac",
+    "symbolId": 25187,
+    "image": "/symbols/arasaac/cards/spor-ilgi-galatasaray.png"
+  },
+  {
+    "cardId": "hayvanlar-kopek",
+    "source": "arasaac",
+    "symbolId": 26302,
+    "image": "/symbols/arasaac/cards/hayvanlar-kopek.png"
+  },
+  {
+    "cardId": "hayvanlar-balik",
+    "source": "arasaac",
+    "symbolId": 37588,
+    "image": "/symbols/arasaac/cards/hayvanlar-balik.png"
+  },
+  {
+    "cardId": "hayvanlar-tavsan",
+    "source": "arasaac",
+    "symbolId": 2351,
+    "image": "/symbols/arasaac/cards/hayvanlar-tavsan.png"
+  },
+  {
+    "cardId": "hayvanlar-at",
+    "source": "arasaac",
+    "symbolId": 9200,
+    "image": "/symbols/arasaac/cards/hayvanlar-at.png"
+  },
+  {
+    "cardId": "hayvanlar-inek",
+    "source": "arasaac",
+    "symbolId": 2609,
+    "image": "/symbols/arasaac/cards/hayvanlar-inek.png"
+  },
+  {
+    "cardId": "mutfak-tabak",
+    "source": "arasaac",
+    "symbolId": 2532,
+    "image": "/symbols/arasaac/cards/mutfak-tabak.png"
+  },
+  {
+    "cardId": "mutfak-kasik",
+    "source": "arasaac",
+    "symbolId": 2362,
+    "image": "/symbols/arasaac/cards/mutfak-kasik.png"
+  },
+  {
+    "cardId": "mutfak-catal",
+    "source": "arasaac",
+    "symbolId": 2588,
+    "image": "/symbols/arasaac/cards/mutfak-catal.png"
+  },
+  {
+    "cardId": "mutfak-bicak",
+    "source": "arasaac",
+    "symbolId": 3237,
+    "image": "/symbols/arasaac/cards/mutfak-bicak.png"
+  },
+  {
+    "cardId": "mutfak-bardak",
+    "source": "arasaac",
+    "symbolId": 2610,
+    "image": "/symbols/arasaac/cards/mutfak-bardak.png"
+  },
+  {
+    "cardId": "mutfak-tencere",
+    "source": "arasaac",
+    "symbolId": 3231,
+    "image": "/symbols/arasaac/cards/mutfak-tencere.png"
+  },
+  {
+    "cardId": "mutfak-tava",
+    "source": "arasaac",
+    "symbolId": 2558,
+    "image": "/symbols/arasaac/cards/mutfak-tava.png"
+  },
+  {
+    "cardId": "mutfak-buzdolabi",
+    "source": "arasaac",
+    "symbolId": 3272,
+    "image": "/symbols/arasaac/cards/mutfak-buzdolabi.png"
+  },
+  {
+    "cardId": "mutfak-firin",
+    "source": "arasaac",
+    "symbolId": 10135,
+    "image": "/symbols/arasaac/cards/mutfak-firin.png"
+  },
+  {
+    "cardId": "mutfak-ocak",
+    "source": "arasaac",
+    "symbolId": 10753,
+    "image": "/symbols/arasaac/cards/mutfak-ocak.png"
+  },
+  {
+    "cardId": "banyo-kuvet",
+    "source": "arasaac",
+    "symbolId": 2272,
+    "image": "/symbols/arasaac/cards/banyo-kuvet.png"
+  },
+  {
+    "cardId": "banyo-dus-basligi",
+    "source": "arasaac",
+    "symbolId": 32426,
+    "image": "/symbols/arasaac/cards/banyo-dus-basligi.png"
+  },
+  {
+    "cardId": "banyo-lavabo",
+    "source": "arasaac",
+    "symbolId": 15919,
+    "image": "/symbols/arasaac/cards/banyo-lavabo.png"
+  },
+  {
+    "cardId": "banyo-ayna",
+    "source": "arasaac",
+    "symbolId": 37922,
+    "image": "/symbols/arasaac/cards/banyo-ayna.png"
+  },
+  {
+    "cardId": "banyo-dis-macunu",
+    "source": "arasaac",
+    "symbolId": 30614,
+    "image": "/symbols/arasaac/cards/banyo-dis-macunu.png"
+  },
+  {
+    "cardId": "banyo-sabunluk",
+    "source": "arasaac",
+    "symbolId": 8094,
+    "image": "/symbols/arasaac/cards/banyo-sabunluk.png"
+  },
+  {
+    "cardId": "banyo-kirli-sepeti",
+    "source": "arasaac",
+    "symbolId": 3012,
+    "image": "/symbols/arasaac/cards/banyo-kirli-sepeti.png"
+  },
+  {
+    "cardId": "banyo-musluk",
+    "source": "arasaac",
+    "symbolId": 3339,
+    "image": "/symbols/arasaac/cards/banyo-musluk.png"
+  },
+  {
+    "cardId": "uyku-uyku-zamani",
+    "source": "arasaac",
+    "symbolId": 6479,
+    "image": "/symbols/arasaac/cards/uyku-uyku-zamani.png"
+  },
+  {
+    "cardId": "uyku-yastik",
+    "source": "arasaac",
+    "symbolId": 2250,
+    "image": "/symbols/arasaac/cards/uyku-yastik.png"
+  },
+  {
+    "cardId": "uyku-battaniye",
+    "source": "arasaac",
+    "symbolId": 2459,
+    "image": "/symbols/arasaac/cards/uyku-battaniye.png"
+  },
+  {
+    "cardId": "uyku-gece-lambasi",
+    "source": "arasaac",
+    "symbolId": 4936,
+    "image": "/symbols/arasaac/cards/uyku-gece-lambasi.png"
+  },
+  {
+    "cardId": "disari-yuruyus",
+    "source": "arasaac",
+    "symbolId": 6044,
+    "image": "/symbols/arasaac/cards/disari-yuruyus.png"
+  },
+  {
+    "cardId": "disari-kaydirak",
+    "source": "arasaac",
+    "symbolId": 26495,
+    "image": "/symbols/arasaac/cards/disari-kaydirak.png"
+  },
+  {
+    "cardId": "disari-kum-havuzu",
+    "source": "arasaac",
+    "symbolId": 6049,
+    "image": "/symbols/arasaac/cards/disari-kum-havuzu.png"
+  },
+  {
+    "cardId": "disari-agac",
+    "source": "arasaac",
+    "symbolId": 2256,
+    "image": "/symbols/arasaac/cards/disari-agac.png"
+  },
+  {
+    "cardId": "disari-bank",
+    "source": "arasaac",
+    "symbolId": 3255,
+    "image": "/symbols/arasaac/cards/disari-bank.png"
+  },
+  {
+    "cardId": "disari-piknik",
+    "source": "arasaac",
+    "symbolId": 10236,
+    "image": "/symbols/arasaac/cards/disari-piknik.png"
+  },
+  {
+    "cardId": "teknoloji-tablet",
+    "source": "arasaac",
+    "symbolId": 9165,
+    "image": "/symbols/arasaac/cards/teknoloji-tablet.png"
+  },
+  {
+    "cardId": "teknoloji-telefon",
+    "source": "arasaac",
+    "symbolId": 2586,
+    "image": "/symbols/arasaac/cards/teknoloji-telefon.png"
+  },
+  {
+    "cardId": "teknoloji-bilgisayar",
+    "source": "arasaac",
+    "symbolId": 2487,
+    "image": "/symbols/arasaac/cards/teknoloji-bilgisayar.png"
+  },
+  {
+    "cardId": "teknoloji-ekran",
+    "source": "arasaac",
+    "symbolId": 25498,
+    "image": "/symbols/arasaac/cards/teknoloji-ekran.png"
+  },
+  {
+    "cardId": "teknoloji-klavye",
+    "source": "arasaac",
+    "symbolId": 38209,
+    "image": "/symbols/arasaac/cards/teknoloji-klavye.png"
+  },
+  {
+    "cardId": "teknoloji-fare",
+    "source": "arasaac",
+    "symbolId": 2820,
+    "image": "/symbols/arasaac/cards/teknoloji-fare.png"
+  },
+  {
+    "cardId": "teknoloji-sarj-cihazi",
+    "source": "arasaac",
+    "symbolId": 27651,
+    "image": "/symbols/arasaac/cards/teknoloji-sarj-cihazi.png"
+  },
+  {
+    "cardId": "teknoloji-hoparlor",
+    "source": "arasaac",
+    "symbolId": 37438,
+    "image": "/symbols/arasaac/cards/teknoloji-hoparlor.png"
+  }
+]

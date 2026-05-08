@@ -10,7 +10,9 @@
     "suggest:symbols": "node scripts/suggest-arasaac-mappings.mjs",
     "apply:symbols:first": "node scripts/apply-first-arasaac-suggestions.mjs",
     "download:symbols": "node scripts/download-arasaac-symbols.mjs",
-    "review:symbols": "node scripts/review-symbol-missing.mjs",
+    "candidates:symbols": "node scripts/download-symbol-candidates.mjs",
+    "review:symbols": "node scripts/pictogram-review/build-review-page.mjs",
+    "apply:verified-symbols": "node scripts/apply-verified-symbols.mjs",
     "lint": "eslint .",
     "preview": "vite preview"
   },

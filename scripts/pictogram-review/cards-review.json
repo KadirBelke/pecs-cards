@@ -1,0 +1,6484 @@
+[
+  {
+    "cardId": "istekler-yardim",
+    "label": "Yardım",
+    "category": "İstekler",
+    "emoji": "🆘",
+    "queryTerms": [
+      "help",
+      "ayuda",
+      "need help",
+      "emergency"
+    ],
+    "usedImprovedSearchTerms": true,
+    "topCandidateScore": 0.22,
+    "candidateImagePaths": [
+      "/symbol-candidates/cards/istekler-yardim/33998.png",
+      "/symbol-candidates/cards/istekler-yardim/19524.png",
+      "/symbol-candidates/cards/istekler-yardim/12252.png",
+      "/symbol-candidates/cards/istekler-yardim/6481.png",
+      "/symbol-candidates/cards/istekler-yardim/31670.png"
+    ],
+    "candidateArasaacIds": [
+      33998,
+      19524,
+      12252,
+      6481,
+      31670
+    ],
+    "candidates": [
+      {
+        "arasaacId": 33998,
+        "imagePath": "/symbol-candidates/cards/istekler-yardim/33998.png",
+        "reviewImagePath": "../../public/symbol-candidates/cards/istekler-yardim/33998.png",
+        "keywords": [
+          "ayuda",
+          "subvencion"
+        ],
+        "score": 0.22
+      },
+      {
+        "arasaacId": 19524,
+        "imagePath": "/symbol-candidates/cards/istekler-yardim/19524.png",
+        "reviewImagePath": "../../public/symbol-candidates/cards/istekler-yardim/19524.png",
+        "keywords": [
+          "ayuda",
+          "colaboracion",
+          "cooperacion"
+        ],
+        "score": 0.21
+      },
+      {
+        "arasaacId": 12252,
+        "imagePath": "/symbol-candidates/cards/istekler-yardim/12252.png",
+        "reviewImagePath": "../../public/symbol-candidates/cards/istekler-yardim/12252.png",
+        "keywords": [
+          "apoyo",
+          "ayuda",
+          "colaboracion",
+          "cooperacion"
+        ],
+        "score": 0.2
+      },
+      {
+        "arasaacId": 6481,
+        "imagePath": "/symbol-candidates/cards/istekler-yardim/6481.png",
+        "reviewImagePath": "../../public/symbol-candidates/cards/istekler-yardim/6481.png",
+        "keywords": [
+          "el",
+          "le",
+          "lo",
+          "si",
+          "se",
+          "el se"
+        ],
+        "score": 0.1
+      },
+      {
+        "arasaacId": 31670,
+        "imagePath": "/symbol-candidates/cards/istekler-yardim/31670.png",
+        "reviewImagePath": "../../public/symbol-candidates/cards/istekler-yardim/31670.png",
+        "keywords": [
+          "el",
+          "le",
+          "lo",
+          "si",
+          "se",
+          "el se"
+        ],
+        "score": 0.1
+      }
+    ]
+  },
+  {
+    "cardId": "istekler-mola",
+    "label": "Mola",
+    "category": "İstekler",
+    "emoji": "⏸️",
+    "queryTerms": [
+      "break",
+      "rest",
+      "descanso",
+      "pausa"
+    ],
+    "usedImprovedSearchTerms": true,
+    "topCandidateScore": 0.05,
+    "candidateImagePaths": [
+      "/symbol-candidates/cards/istekler-mola/27369.png",
+      "/symbol-candidates/cards/istekler-mola/38205.png",
+      "/symbol-candidates/cards/istekler-mola/38377.png",
+      "/symbol-candidates/cards/istekler-mola/38652.png",
+      "/symbol-candidates/cards/istekler-mola/38020.png"
+    ],
+    "candidateArasaacIds": [
+      27369,
+      38205,
+      38377,
+      38652,
+      38020
+    ],
+    "candidates": [
+      {
+        "arasaacId": 27369,
+        "imagePath": "/symbol-candidates/cards/istekler-mola/27369.png",
+        "reviewImagePath": "../../public/symbol-candidates/cards/istekler-mola/27369.png",
+        "keywords": [
+          "prestacion municipal"
+        ],
+        "score": 0.05
+      },
+      {
+        "arasaacId": 38205,
+        "imagePath": "/symbol-candidates/cards/istekler-mola/38205.png",
+        "reviewImagePath": "../../public/symbol-candidates/cards/istekler-mola/38205.png",
+        "keywords": [
+          "contenedor",
+          "contenedor de restos",
+          "contenedor de fraccion resto"
+        ],
+        "score": 0.05
+      },
+      {
+        "arasaacId": 38377,
+        "imagePath": "/symbol-candidates/cards/istekler-mola/38377.png",
+        "reviewImagePath": "../../public/symbol-candidates/cards/istekler-mola/38377.png",
+        "keywords": [
+          "sala de relajacion",
+          "sala de descanso"
+        ],
+        "score": 0.05
+      },
+      {
+        "arasaacId": 38652,
+        "imagePath": "/symbol-candidates/cards/istekler-mola/38652.png",
+        "reviewImagePath": "../../public/symbol-candidates/cards/istekler-mola/38652.png",
+        "keywords": [
+          "restaurar",
+          "restauracion"
+        ],
+        "score": 0.05
+      },
+      {
+        "arasaacId": 38020,
+        "imagePath": "/symbol-candidates/cards/istekler-mola/38020.png",
+        "reviewImagePath": "../../public/symbol-candidates/cards/istekler-mola/38020.png",
+        "keywords": [
+          "restriccion"
+        ],
+        "score": 0.05
+      }
+    ]
+  },
+  {
+    "cardId": "istekler-bitti",
+    "label": "Bitti",
+    "category": "İstekler",
+    "emoji": "✅",
+    "queryTerms": [
+      "finished",
+      "all done",
+      "terminado",
+      "fin"
+    ],
+    "usedImprovedSearchTerms": true,
+    "topCandidateScore": 0.25,
+    "candidateImagePaths": [
+      "/symbol-candidates/cards/istekler-bitti/5358.png",
+      "/symbol-candidates/cards/istekler-bitti/8630.png",
+      "/symbol-candidates/cards/istekler-bitti/26220.png",
+      "/symbol-candidates/cards/istekler-bitti/28429.png",
+      "/symbol-candidates/cards/istekler-bitti/6625.png"
+    ],
+    "candidateArasaacIds": [
+      5358,
+      8630,
+      26220,
+      28429,
+      6625
+    ],
+    "candidates": [
+      {
+        "arasaacId": 5358,
+        "imagePath": "/symbol-candidates/cards/istekler-bitti/5358.png",
+        "reviewImagePath": "../../public/symbol-candidates/cards/istekler-bitti/5358.png",
+        "keywords": [
+          "terminar",
+          "fin",
+          "acabar",
+          "finalizar",
+          "final"
+        ],
+        "score": 0.25
+      },
+      {
+        "arasaacId": 8630,
+        "imagePath": "/symbol-candidates/cards/istekler-bitti/8630.png",
+        "reviewImagePath": "../../public/symbol-candidates/cards/istekler-bitti/8630.png",
+        "keywords": [
+          "mina"
+        ],
+        "score": 0.05
+      },
+      {
+        "arasaacId": 26220,
+        "imagePath": "/symbol-candidates/cards/istekler-bitti/26220.png",
+        "reviewImagePath": "../../public/symbol-candidates/cards/istekler-bitti/26220.png",
+        "keywords": [
+          "mina"
+        ],
+        "score": 0.05
+      },
+      {
+        "arasaacId": 28429,
+        "imagePath": "/symbol-candidates/cards/istekler-bitti/28429.png",
+        "reviewImagePath": "../../public/symbol-candidates/cards/istekler-bitti/28429.png",
+        "keywords": [
+          "terminar",
+          "acabar",
+          "finalizar",
+          "se acabo",
+          "basta ya",
+          "ya esta"
+        ],
+        "score": 0.05
+      },
+      {
+        "arasaacId": 6625,
+        "imagePath": "/symbol-candidates/cards/istekler-bitti/6625.png",
+        "reviewImagePath": "../../public/symbol-candidates/cards/istekler-bitti/6625.png",
+        "keywords": [
+          "tu",
+          "te",
+          "ti",
+          "usted",
+          "tu te"
+        ],
+        "score": 0.05
+      }
+    ]
+  },
+  {
+    "cardId": "istekler-ac",
+    "label": "Aç",
+    "category": "İstekler",
+    "emoji": "🔓",
+    "queryTerms": [
+      "open",
+      "abrir"
+    ],
+    "usedImprovedSearchTerms": true,
+    "topCandidateScore": 0.1,
+    "candidateImagePaths": [
+      "/symbol-candidates/cards/istekler-ac/39396.png",
+      "/symbol-candidates/cards/istekler-ac/9800.png",
+      "/symbol-candidates/cards/istekler-ac/21339.png",
+      "/symbol-candidates/cards/istekler-ac/23707.png",
+      "/symbol-candidates/cards/istekler-ac/21336.png"
+    ],
+    "candidateArasaacIds": [
+      39396,
+      9800,
+      21339,
+      23707,
+      21336
+    ],
+    "candidates": [
+      {
+        "arasaacId": 39396,
+        "imagePath": "/symbol-candidates/cards/istekler-ac/39396.png",
+        "reviewImagePath": "../../public/symbol-candidates/cards/istekler-ac/39396.png",
+        "keywords": [
+          "abrir las piernas",
+          "hacer el espagat"
+        ],
+        "score": 0.1
+      },
+      {
+        "arasaacId": 9800,
+        "imagePath": "/symbol-candidates/cards/istekler-ac/9800.png",
+        "reviewImagePath": "../../public/symbol-candidates/cards/istekler-ac/9800.png",
+        "keywords": [
+          "memoria flash",
+          "pen",
+          "memoria usb",
+          "pendrive",
+          "lapiz de memoria"
+        ],
+        "score": 0.1
+      },
+      {
+        "arasaacId": 21339,
+        "imagePath": "/symbol-candidates/cards/istekler-ac/21339.png",
+        "reviewImagePath": "../../public/symbol-candidates/cards/istekler-ac/21339.png",
+        "keywords": [
+          "abrir la nevera"
+        ],
+        "score": 0.1
+      },
+      {
+        "arasaacId": 23707,
+        "imagePath": "/symbol-candidates/cards/istekler-ac/23707.png",
+        "reviewImagePath": "../../public/symbol-candidates/cards/istekler-ac/23707.png",
+        "keywords": [
+          "abrir la nevera"
+        ],
+        "score": 0.1
+      },
+      {
+        "arasaacId": 21336,
+        "imagePath": "/symbol-candidates/cards/istekler-ac/21336.png",
+        "reviewImagePath": "../../public/symbol-candidates/cards/istekler-ac/21336.png",
+        "keywords": [
+          "abrir el cajetin de la lavadora",
+          "abrir el cajetin del lavarropas"
+        ],
+        "score": 0.1
+      }
+    ]
+  },
+  {
+    "cardId": "istekler-kapat",
+    "label": "Kapat",
+    "category": "İstekler",
+    "emoji": "🔒",
+    "queryTerms": [
+      "close",
+      "cerrar"
+    ],
+    "usedImprovedSearchTerms": true,
+    "topCandidateScore": 0.45,
+    "candidateImagePaths": [
+      "/symbol-candidates/cards/istekler-kapat/6973.png",
+      "/symbol-candidates/cards/istekler-kapat/28457.png",
+      "/symbol-candidates/cards/istekler-kapat/24022.png",
+      "/symbol-candidates/cards/istekler-kapat/24021.png",
+      "/symbol-candidates/cards/istekler-kapat/11212.png"
+    ],
+    "candidateArasaacIds": [
+      6973,
+      28457,
+      24022,
+      24021,
+      11212
+    ],
+    "candidates": [
+      {
+        "arasaacId": 6973,
+        "imagePath": "/symbol-candidates/cards/istekler-kapat/6973.png",
+        "reviewImagePath": "../../public/symbol-candidates/cards/istekler-kapat/6973.png",
+        "keywords": [
+          "cerrar"
+        ],
+        "score": 0.45
+      },
+      {
+        "arasaacId": 28457,
+        "imagePath": "/symbol-candidates/cards/istekler-kapat/28457.png",
+        "reviewImagePath": "../../public/symbol-candidates/cards/istekler-kapat/28457.png",
+        "keywords": [
+          "cerrar la puerta"
+        ],
+        "score": 0.1
+      },
+      {
+        "arasaacId": 24022,
+        "imagePath": "/symbol-candidates/cards/istekler-kapat/24022.png",
+        "reviewImagePath": "../../public/symbol-candidates/cards/istekler-kapat/24022.png",
+        "keywords": [
+          "cerrar la puerta"
+        ],
+        "score": 0.1
+      },
+      {
+        "arasaacId": 24021,
+        "imagePath": "/symbol-candidates/cards/istekler-kapat/24021.png",
+        "reviewImagePath": "../../public/symbol-candidates/cards/istekler-kapat/24021.png",
+        "keywords": [
+          "cerrar la puerta"
+        ],
+        "score": 0.1
+      },
+      {
+        "arasaacId": 11212,
+        "imagePath": "/symbol-candidates/cards/istekler-kapat/11212.png",
+        "reviewImagePath": "../../public/symbol-candidates/cards/istekler-kapat/11212.png",
+        "keywords": [
+          "cerrar la ventana"
+        ],
+        "score": 0.1
+      }
+    ]
+  },
+  {
+    "cardId": "istekler-istiyorum",
+    "label": "İstiyorum",
+    "category": "İstekler",
+    "emoji": "🙋",
+    "queryTerms": [
+      "want",
+      "i want",
+      "quiero",
+      "pedir"
+    ],
+    "usedImprovedSearchTerms": true,
+    "topCandidateScore": 0.25,
+    "candidateImagePaths": [
+      "/symbol-candidates/cards/istekler-istiyorum/5441.png",
+      "/symbol-candidates/cards/istekler-istiyorum/31141.png",
+      "/symbol-candidates/cards/istekler-istiyorum/11251.png",
+      "/symbol-candidates/cards/istekler-istiyorum/37822.png",
+      "/symbol-candidates/cards/istekler-istiyorum/32753.png"
+    ],
+    "candidateArasaacIds": [
+      5441,
+      31141,
+      11251,
+      37822,
+      32753
+    ],
+    "candidates": [
+      {
+        "arasaacId": 5441,
+        "imagePath": "/symbol-candidates/cards/istekler-istiyorum/5441.png",
+        "reviewImagePath": "../../public/symbol-candidates/cards/istekler-istiyorum/5441.png",
+        "keywords": [
+          "querer",
+          "desear",
+          "pedir",
+          "yo quiero"
+        ],
+        "score": 0.25
+      },
+      {
+        "arasaacId": 31141,
+        "imagePath": "/symbol-candidates/cards/istekler-istiyorum/31141.png",
+        "reviewImagePath": "../../public/symbol-candidates/cards/istekler-istiyorum/31141.png",
+        "keywords": [
+          "querer",
+          "desear",
+          "pedir"
+        ],
+        "score": 0.21
+      },
+      {
+        "arasaacId": 11251,
+        "imagePath": "/symbol-candidates/cards/istekler-istiyorum/11251.png",
+        "reviewImagePath": "../../public/symbol-candidates/cards/istekler-istiyorum/11251.png",
+        "keywords": [
+          "pedir",
+          "encargo",
+          "encargar",
+          "mandar"
+        ],
+        "score": 0.2
+      },
+      {
+        "arasaacId": 37822,
+        "imagePath": "/symbol-candidates/cards/istekler-istiyorum/37822.png",
+        "reviewImagePath": "../../public/symbol-candidates/cards/istekler-istiyorum/37822.png",
+        "keywords": [
+          "pedir",
+          "encargar",
+          "mandar",
+          "encargo"
+        ],
+        "score": 0.2
+      },
+      {
+        "arasaacId": 32753,
+        "imagePath": "/symbol-candidates/cards/istekler-istiyorum/32753.png",
+        "reviewImagePath": "../../public/symbol-candidates/cards/istekler-istiyorum/32753.png",
+        "keywords": [
+          "quiero mas",
+          "dame mas",
+          "querer mas"
+        ],
+        "score": 0.05
+      }
+    ]
+  },
+  {
+    "cardId": "istekler-istemiyorum",
+    "label": "İstemiyorum",
+    "category": "İstekler",
+    "emoji": "🙅",
+    "queryTerms": [
+      "don t want",
+      "no quiero",
+      "no",
+      "reject"
+    ],
+    "usedImprovedSearchTerms": true,
+    "topCandidateScore": 0.32,
+    "candidateImagePaths": [
+      "/symbol-candidates/cards/istekler-istemiyorum/5526.png",
+      "/symbol-candidates/cards/istekler-istemiyorum/39149.png",
+      "/symbol-candidates/cards/istekler-istemiyorum/6156.png",
+      "/symbol-candidates/cards/istekler-istemiyorum/39384.png",
+      "/symbol-candidates/cards/istekler-istemiyorum/39380.png"
+    ],
+    "candidateArasaacIds": [
+      5526,
+      39149,
+      6156,
+      39384,
+      39380
+    ],
+    "candidates": [
+      {
+        "arasaacId": 5526,
+        "imagePath": "/symbol-candidates/cards/istekler-istemiyorum/5526.png",
+        "reviewImagePath": "../../public/symbol-candidates/cards/istekler-istemiyorum/5526.png",
+        "keywords": [
+          "no"
+        ],
+        "score": 0.32
+      },
+      {
+        "arasaacId": 39149,
+        "imagePath": "/symbol-candidates/cards/istekler-istemiyorum/39149.png",
+        "reviewImagePath": "../../public/symbol-candidates/cards/istekler-istemiyorum/39149.png",
+        "keywords": [
+          "no",
+          "negar"
+        ],
+        "score": 0.27
+      },
+      {
+        "arasaacId": 6156,
+        "imagePath": "/symbol-candidates/cards/istekler-istemiyorum/6156.png",
+        "reviewImagePath": "../../public/symbol-candidates/cards/istekler-istemiyorum/6156.png",
+        "keywords": [
+          "yo no quiero",
+          "no querer",
+          "no quiero"
+        ],
+        "score": 0.1
+      },
+      {
+        "arasaacId": 39384,
+        "imagePath": "/symbol-candidates/cards/istekler-istemiyorum/39384.png",
+        "reviewImagePath": "../../public/symbol-candidates/cards/istekler-istemiyorum/39384.png",
+        "keywords": [
+          "siete menos cuarto",
+          "18 45h",
+          "las siete menos cuarto",
+          "las 7 menos cuarto"
+        ],
+        "score": 0.05
+      },
+      {
+        "arasaacId": 39380,
+        "imagePath": "/symbol-candidates/cards/istekler-istemiyorum/39380.png",
+        "reviewImagePath": "../../public/symbol-candidates/cards/istekler-istemiyorum/39380.png",
+        "keywords": [
+          "ocho menos cuarto",
+          "19 45h",
+          "las ocho menos cuarto",
+          "las 8 menos cuarto"
+        ],
+        "score": 0.05
+      }
+    ]
+  },
+  {
+    "cardId": "yiyecek-yogurt",
+    "label": "Yoğurt",
+    "category": "Yiyecek",
+    "emoji": "🥣",
+    "queryTerms": [
+      "yogurt",
+      "yogur"
+    ],
+    "usedImprovedSearchTerms": true,
+    "topCandidateScore": 0.2,
+    "candidateImagePaths": [
+      "/symbol-candidates/cards/yiyecek-yogurt/36677.png"
+    ],
+    "candidateArasaacIds": [
+      36677
+    ],
+    "candidates": [
+      {
+        "arasaacId": 36677,
+        "imagePath": "/symbol-candidates/cards/yiyecek-yogurt/36677.png",
+        "reviewImagePath": "../../public/symbol-candidates/cards/yiyecek-yogurt/36677.png",
+        "keywords": [
+          "yogurtera"
+        ],
+        "score": 0.2
+      }
+    ]
+  },
+  {
+    "cardId": "yiyecek-kofte",
+    "label": "Köfte",
+    "category": "Yiyecek",
+    "emoji": "🍖",
+    "queryTerms": [
+      "meatball",
+      "albondiga"
+    ],
+    "usedImprovedSearchTerms": true,
+    "topCandidateScore": 0,
+    "candidateImagePaths": [],
+    "candidateArasaacIds": [],
+    "candidates": []
+  },
+  {
+    "cardId": "icecek-ayran",
+    "label": "Ayran",
+    "category": "İçecek",
+    "emoji": "🥤",
+    "queryTerms": [
+      "yogurt drink",
+      "drink",
+      "bebida",
+      "yogur"
+    ],
+    "usedImprovedSearchTerms": true,
+    "topCandidateScore": 0.22,
+    "candidateImagePaths": [
+      "/symbol-candidates/cards/icecek-ayran/4575.png",
+      "/symbol-candidates/cards/icecek-ayran/30403.png",
+      "/symbol-candidates/cards/icecek-ayran/32830.png",
+      "/symbol-candidates/cards/icecek-ayran/38488.png",
+      "/symbol-candidates/cards/icecek-ayran/37918.png"
+    ],
+    "candidateArasaacIds": [
+      4575,
+      30403,
+      32830,
+      38488,
+      37918
+    ],
+    "candidates": [
+      {
+        "arasaacId": 4575,
+        "imagePath": "/symbol-candidates/cards/icecek-ayran/4575.png",
+        "reviewImagePath": "../../public/symbol-candidates/cards/icecek-ayran/4575.png",
+        "keywords": [
+          "bebida",
+          "bebidas"
+        ],
+        "score": 0.22
+      },
+      {
+        "arasaacId": 30403,
+        "imagePath": "/symbol-candidates/cards/icecek-ayran/30403.png",
+        "reviewImagePath": "../../public/symbol-candidates/cards/icecek-ayran/30403.png",
+        "keywords": [
+          "bebida",
+          "bebidas"
+        ],
+        "score": 0.22
+      },
+      {
+        "arasaacId": 32830,
+        "imagePath": "/symbol-candidates/cards/icecek-ayran/32830.png",
+        "reviewImagePath": "../../public/symbol-candidates/cards/icecek-ayran/32830.png",
+        "keywords": [
+          "bebida isotonica"
+        ],
+        "score": 0.05
+      },
+      {
+        "arasaacId": 38488,
+        "imagePath": "/symbol-candidates/cards/icecek-ayran/38488.png",
+        "reviewImagePath": "../../public/symbol-candidates/cards/icecek-ayran/38488.png",
+        "keywords": [
+          "bebida de almendras"
+        ],
+        "score": 0.05
+      },
+      {
+        "arasaacId": 37918,
+        "imagePath": "/symbol-candidates/cards/icecek-ayran/37918.png",
+        "reviewImagePath": "../../public/symbol-candidates/cards/icecek-ayran/37918.png",
+        "keywords": [
+          "bebida vegetal"
+        ],
+        "score": 0.05
+      }
+    ]
+  },
+  {
+    "cardId": "icecek-sicak-cikolata",
+    "label": "Sıcak çikolata",
+    "category": "İçecek",
+    "emoji": "☕",
+    "queryTerms": [
+      "hot chocolate",
+      "chocolate caliente",
+      "cacao"
+    ],
+    "usedImprovedSearchTerms": true,
+    "topCandidateScore": 0.33,
+    "candidateImagePaths": [
+      "/symbol-candidates/cards/icecek-sicak-cikolata/25891.png",
+      "/symbol-candidates/cards/icecek-sicak-cikolata/38737.png",
+      "/symbol-candidates/cards/icecek-sicak-cikolata/6625.png",
+      "/symbol-candidates/cards/icecek-sicak-cikolata/7290.png",
+      "/symbol-candidates/cards/icecek-sicak-cikolata/29802.png"
+    ],
+    "candidateArasaacIds": [
+      25891,
+      38737,
+      6625,
+      7290,
+      29802
+    ],
+    "candidates": [
+      {
+        "arasaacId": 25891,
+        "imagePath": "/symbol-candidates/cards/icecek-sicak-cikolata/25891.png",
+        "reviewImagePath": "../../public/symbol-candidates/cards/icecek-sicak-cikolata/25891.png",
+        "keywords": [
+          "cacao"
+        ],
+        "score": 0.33
+      },
+      {
+        "arasaacId": 38737,
+        "imagePath": "/symbol-candidates/cards/icecek-sicak-cikolata/38737.png",
+        "reviewImagePath": "../../public/symbol-candidates/cards/icecek-sicak-cikolata/38737.png",
+        "keywords": [
+          "protector labial",
+          "cacao"
+        ],
+        "score": 0.28
+      },
+      {
+        "arasaacId": 6625,
+        "imagePath": "/symbol-candidates/cards/icecek-sicak-cikolata/6625.png",
+        "reviewImagePath": "../../public/symbol-candidates/cards/icecek-sicak-cikolata/6625.png",
+        "keywords": [
+          "tu",
+          "te",
+          "ti",
+          "usted",
+          "tu te"
+        ],
+        "score": 0.13
+      },
+      {
+        "arasaacId": 7290,
+        "imagePath": "/symbol-candidates/cards/icecek-sicak-cikolata/7290.png",
+        "reviewImagePath": "../../public/symbol-candidates/cards/icecek-sicak-cikolata/7290.png",
+        "keywords": [
+          "tu",
+          "te",
+          "ti",
+          "usted",
+          "tu te"
+        ],
+        "score": 0.13
+      },
+      {
+        "arasaacId": 29802,
+        "imagePath": "/symbol-candidates/cards/icecek-sicak-cikolata/29802.png",
+        "reviewImagePath": "../../public/symbol-candidates/cards/icecek-sicak-cikolata/29802.png",
+        "keywords": [
+          "te instantaneo",
+          "te"
+        ],
+        "score": 0.13
+      }
+    ]
+  },
+  {
+    "cardId": "duygular-kizgin",
+    "label": "Kızgın",
+    "category": "Duygular",
+    "emoji": "😠",
+    "queryTerms": [
+      "angry",
+      "enfadado",
+      "enojado"
+    ],
+    "usedImprovedSearchTerms": true,
+    "topCandidateScore": 0.07,
+    "candidateImagePaths": [
+      "/symbol-candidates/cards/duygular-kizgin/5526.png",
+      "/symbol-candidates/cards/duygular-kizgin/39149.png"
+    ],
+    "candidateArasaacIds": [
+      5526,
+      39149
+    ],
+    "candidates": [
+      {
+        "arasaacId": 5526,
+        "imagePath": "/symbol-candidates/cards/duygular-kizgin/5526.png",
+        "reviewImagePath": "../../public/symbol-candidates/cards/duygular-kizgin/5526.png",
+        "keywords": [
+          "no"
+        ],
+        "score": 0.07
+      },
+      {
+        "arasaacId": 39149,
+        "imagePath": "/symbol-candidates/cards/duygular-kizgin/39149.png",
+        "reviewImagePath": "../../public/symbol-candidates/cards/duygular-kizgin/39149.png",
+        "keywords": [
+          "no",
+          "negar"
+        ],
+        "score": 0.07
+      }
+    ]
+  },
+  {
+    "cardId": "duygular-korktum",
+    "label": "Korktum",
+    "category": "Duygular",
+    "emoji": "😨",
+    "queryTerms": [
+      "afraid",
+      "scared",
+      "miedo",
+      "asustado"
+    ],
+    "usedImprovedSearchTerms": true,
+    "topCandidateScore": 0.22,
+    "candidateImagePaths": [
+      "/symbol-candidates/cards/duygular-korktum/10261.png",
+      "/symbol-candidates/cards/duygular-korktum/12272.png",
+      "/symbol-candidates/cards/duygular-korktum/12274.png",
+      "/symbol-candidates/cards/duygular-korktum/6205.png",
+      "/symbol-candidates/cards/duygular-korktum/39705.png"
+    ],
+    "candidateArasaacIds": [
+      10261,
+      12272,
+      12274,
+      6205,
+      39705
+    ],
+    "candidates": [
+      {
+        "arasaacId": 10261,
+        "imagePath": "/symbol-candidates/cards/duygular-korktum/10261.png",
+        "reviewImagePath": "../../public/symbol-candidates/cards/duygular-korktum/10261.png",
+        "keywords": [
+          "miedo",
+          "temor"
+        ],
+        "score": 0.22
+      },
+      {
+        "arasaacId": 12272,
+        "imagePath": "/symbol-candidates/cards/duygular-korktum/12272.png",
+        "reviewImagePath": "../../public/symbol-candidates/cards/duygular-korktum/12272.png",
+        "keywords": [
+          "su",
+          "suyo",
+          "suya"
+        ],
+        "score": 0.05
+      },
+      {
+        "arasaacId": 12274,
+        "imagePath": "/symbol-candidates/cards/duygular-korktum/12274.png",
+        "reviewImagePath": "../../public/symbol-candidates/cards/duygular-korktum/12274.png",
+        "keywords": [
+          "su",
+          "suyo",
+          "suya"
+        ],
+        "score": 0.05
+      },
+      {
+        "arasaacId": 6205,
+        "imagePath": "/symbol-candidates/cards/duygular-korktum/6205.png",
+        "reviewImagePath": "../../public/symbol-candidates/cards/duygular-korktum/6205.png",
+        "keywords": [
+          "red"
+        ],
+        "score": 0.05
+      },
+      {
+        "arasaacId": 39705,
+        "imagePath": "/symbol-candidates/cards/duygular-korktum/39705.png",
+        "reviewImagePath": "../../public/symbol-candidates/cards/duygular-korktum/39705.png",
+        "keywords": [
+          "inteligencia artificial",
+          "ai"
+        ],
+        "score": 0.05
+      }
+    ]
+  },
+  {
+    "cardId": "duygular-sakin",
+    "label": "Sakin",
+    "category": "Duygular",
+    "emoji": "😌",
+    "queryTerms": [
+      "calm",
+      "quiet",
+      "tranquilo"
+    ],
+    "usedImprovedSearchTerms": true,
+    "topCandidateScore": 0.07,
+    "candidateImagePaths": [
+      "/symbol-candidates/cards/duygular-sakin/39269.png",
+      "/symbol-candidates/cards/duygular-sakin/6481.png",
+      "/symbol-candidates/cards/duygular-sakin/7029.png",
+      "/symbol-candidates/cards/duygular-sakin/31670.png",
+      "/symbol-candidates/cards/duygular-sakin/37312.png"
+    ],
+    "candidateArasaacIds": [
+      39269,
+      6481,
+      7029,
+      31670,
+      37312
+    ],
+    "candidates": [
+      {
+        "arasaacId": 39269,
+        "imagePath": "/symbol-candidates/cards/duygular-sakin/39269.png",
+        "reviewImagePath": "../../public/symbol-candidates/cards/duygular-sakin/39269.png",
+        "keywords": [
+          "espacio amigable",
+          "espacio de relajacion",
+          "espacio tranquilo"
+        ],
+        "score": 0.07
+      },
+      {
+        "arasaacId": 6481,
+        "imagePath": "/symbol-candidates/cards/duygular-sakin/6481.png",
+        "reviewImagePath": "../../public/symbol-candidates/cards/duygular-sakin/6481.png",
+        "keywords": [
+          "el",
+          "le",
+          "lo",
+          "si",
+          "se",
+          "el se"
+        ],
+        "score": 0.07
+      },
+      {
+        "arasaacId": 7029,
+        "imagePath": "/symbol-candidates/cards/duygular-sakin/7029.png",
+        "reviewImagePath": "../../public/symbol-candidates/cards/duygular-sakin/7029.png",
+        "keywords": [
+          "ella",
+          "la",
+          "lo",
+          "si",
+          "se",
+          "ella se"
+        ],
+        "score": 0.07
+      },
+      {
+        "arasaacId": 31670,
+        "imagePath": "/symbol-candidates/cards/duygular-sakin/31670.png",
+        "reviewImagePath": "../../public/symbol-candidates/cards/duygular-sakin/31670.png",
+        "keywords": [
+          "el",
+          "le",
+          "lo",
+          "si",
+          "se",
+          "el se"
+        ],
+        "score": 0.07
+      },
+      {
+        "arasaacId": 37312,
+        "imagePath": "/symbol-candidates/cards/duygular-sakin/37312.png",
+        "reviewImagePath": "../../public/symbol-candidates/cards/duygular-sakin/37312.png",
+        "keywords": [
+          "manos quietas"
+        ],
+        "score": 0.07
+      }
+    ]
+  },
+  {
+    "cardId": "duygular-sikildim",
+    "label": "Sıkıldım",
+    "category": "Duygular",
+    "emoji": "🥱",
+    "queryTerms": [
+      "bored",
+      "aburrido"
+    ],
+    "usedImprovedSearchTerms": true,
+    "topCandidateScore": 0.1,
+    "candidateImagePaths": [
+      "/symbol-candidates/cards/duygular-sikildim/6205.png",
+      "/symbol-candidates/cards/duygular-sikildim/2548.png"
+    ],
+    "candidateArasaacIds": [
+      6205,
+      2548
+    ],
+    "candidates": [
+      {
+        "arasaacId": 6205,
+        "imagePath": "/symbol-candidates/cards/duygular-sikildim/6205.png",
+        "reviewImagePath": "../../public/symbol-candidates/cards/duygular-sikildim/6205.png",
+        "keywords": [
+          "red"
+        ],
+        "score": 0.1
+      },
+      {
+        "arasaacId": 2548,
+        "imagePath": "/symbol-candidates/cards/duygular-sikildim/2548.png",
+        "reviewImagePath": "../../public/symbol-candidates/cards/duygular-sikildim/2548.png",
+        "keywords": [
+          "red"
+        ],
+        "score": 0.1
+      }
+    ]
+  },
+  {
+    "cardId": "beden-saglik-dis",
+    "label": "Dişim",
+    "category": "Beden / Sağlık",
+    "emoji": "🦷",
+    "queryTerms": [
+      "tooth",
+      "teeth",
+      "diente",
+      "dolor de muelas"
+    ],
+    "usedImprovedSearchTerms": true,
+    "topCandidateScore": 0.1,
+    "candidateImagePaths": [
+      "/symbol-candidates/cards/beden-saglik-dis/6625.png",
+      "/symbol-candidates/cards/beden-saglik-dis/7290.png",
+      "/symbol-candidates/cards/beden-saglik-dis/29802.png",
+      "/symbol-candidates/cards/beden-saglik-dis/37803.png",
+      "/symbol-candidates/cards/beden-saglik-dis/37946.png"
+    ],
+    "candidateArasaacIds": [
+      6625,
+      7290,
+      29802,
+      37803,
+      37946
+    ],
+    "candidates": [
+      {
+        "arasaacId": 6625,
+        "imagePath": "/symbol-candidates/cards/beden-saglik-dis/6625.png",
+        "reviewImagePath": "../../public/symbol-candidates/cards/beden-saglik-dis/6625.png",
+        "keywords": [
+          "tu",
+          "te",
+          "ti",
+          "usted",
+          "tu te"
+        ],
+        "score": 0.1
+      },
+      {
+        "arasaacId": 7290,
+        "imagePath": "/symbol-candidates/cards/beden-saglik-dis/7290.png",
+        "reviewImagePath": "../../public/symbol-candidates/cards/beden-saglik-dis/7290.png",
+        "keywords": [
+          "tu",
+          "te",
+          "ti",
+          "usted",
+          "tu te"
+        ],
+        "score": 0.1
+      },
+      {
+        "arasaacId": 29802,
+        "imagePath": "/symbol-candidates/cards/beden-saglik-dis/29802.png",
+        "reviewImagePath": "../../public/symbol-candidates/cards/beden-saglik-dis/29802.png",
+        "keywords": [
+          "te instantaneo",
+          "te"
+        ],
+        "score": 0.1
+      },
+      {
+        "arasaacId": 37803,
+        "imagePath": "/symbol-candidates/cards/beden-saglik-dis/37803.png",
+        "reviewImagePath": "../../public/symbol-candidates/cards/beden-saglik-dis/37803.png",
+        "keywords": [
+          "rico",
+          "millonario",
+          "adinerado",
+          "rica",
+          "millonaria",
+          "adinerada",
+          "pudiente",
+          "acaudalado"
+        ],
+        "score": 0.05
+      },
+      {
+        "arasaacId": 37946,
+        "imagePath": "/symbol-candidates/cards/beden-saglik-dis/37946.png",
+        "reviewImagePath": "../../public/symbol-candidates/cards/beden-saglik-dis/37946.png",
+        "keywords": [
+          "portacepillo de dientes"
+        ],
+        "score": 0.05
+      }
+    ]
+  },
+  {
+    "cardId": "beden-saglik-el",
+    "label": "Elim",
+    "category": "Beden / Sağlık",
+    "emoji": "✋",
+    "queryTerms": [
+      "hand",
+      "mano"
+    ],
+    "usedImprovedSearchTerms": true,
+    "topCandidateScore": 0.1,
+    "candidateImagePaths": [
+      "/symbol-candidates/cards/beden-saglik-el/10372.png",
+      "/symbol-candidates/cards/beden-saglik-el/10373.png",
+      "/symbol-candidates/cards/beden-saglik-el/10374.png",
+      "/symbol-candidates/cards/beden-saglik-el/10375.png",
+      "/symbol-candidates/cards/beden-saglik-el/10376.png"
+    ],
+    "candidateArasaacIds": [
+      10372,
+      10373,
+      10374,
+      10375,
+      10376
+    ],
+    "candidates": [
+      {
+        "arasaacId": 10372,
+        "imagePath": "/symbol-candidates/cards/beden-saglik-el/10372.png",
+        "reviewImagePath": "../../public/symbol-candidates/cards/beden-saglik-el/10372.png",
+        "keywords": [
+          "educacion fisica",
+          "manos a la cintura"
+        ],
+        "score": 0.1
+      },
+      {
+        "arasaacId": 10373,
+        "imagePath": "/symbol-candidates/cards/beden-saglik-el/10373.png",
+        "reviewImagePath": "../../public/symbol-candidates/cards/beden-saglik-el/10373.png",
+        "keywords": [
+          "educacion fisica",
+          "manos a la cintura"
+        ],
+        "score": 0.1
+      },
+      {
+        "arasaacId": 10374,
+        "imagePath": "/symbol-candidates/cards/beden-saglik-el/10374.png",
+        "reviewImagePath": "../../public/symbol-candidates/cards/beden-saglik-el/10374.png",
+        "keywords": [
+          "educacion fisica",
+          "manos en la tripa"
+        ],
+        "score": 0.1
+      },
+      {
+        "arasaacId": 10375,
+        "imagePath": "/symbol-candidates/cards/beden-saglik-el/10375.png",
+        "reviewImagePath": "../../public/symbol-candidates/cards/beden-saglik-el/10375.png",
+        "keywords": [
+          "educacion fisica",
+          "manos en la tripa"
+        ],
+        "score": 0.1
+      },
+      {
+        "arasaacId": 10376,
+        "imagePath": "/symbol-candidates/cards/beden-saglik-el/10376.png",
+        "reviewImagePath": "../../public/symbol-candidates/cards/beden-saglik-el/10376.png",
+        "keywords": [
+          "educacion fisica",
+          "manos a los hombros"
+        ],
+        "score": 0.1
+      }
+    ]
+  },
+  {
+    "cardId": "beden-saglik-susadim",
+    "label": "Susadım",
+    "category": "Beden / Sağlık",
+    "emoji": "🥵",
+    "queryTerms": [
+      "thirsty",
+      "sed",
+      "drink water"
+    ],
+    "usedImprovedSearchTerms": true,
+    "topCandidateScore": 0.07,
+    "candidateImagePaths": [
+      "/symbol-candidates/cards/beden-saglik-susadim/35989.png",
+      "/symbol-candidates/cards/beden-saglik-susadim/35990.png",
+      "/symbol-candidates/cards/beden-saglik-susadim/2430.png",
+      "/symbol-candidates/cards/beden-saglik-susadim/38603.png",
+      "/symbol-candidates/cards/beden-saglik-susadim/6625.png"
+    ],
+    "candidateArasaacIds": [
+      35989,
+      35990,
+      2430,
+      38603,
+      6625
+    ],
+    "candidates": [
+      {
+        "arasaacId": 35989,
+        "imagePath": "/symbol-candidates/cards/beden-saglik-susadim/35989.png",
+        "reviewImagePath": "../../public/symbol-candidates/cards/beden-saglik-susadim/35989.png",
+        "keywords": [
+          "sedestacion"
+        ],
+        "score": 0.07
+      },
+      {
+        "arasaacId": 35990,
+        "imagePath": "/symbol-candidates/cards/beden-saglik-susadim/35990.png",
+        "reviewImagePath": "../../public/symbol-candidates/cards/beden-saglik-susadim/35990.png",
+        "keywords": [
+          "sedestacion"
+        ],
+        "score": 0.07
+      },
+      {
+        "arasaacId": 2430,
+        "imagePath": "/symbol-candidates/cards/beden-saglik-susadim/2430.png",
+        "reviewImagePath": "../../public/symbol-candidates/cards/beden-saglik-susadim/2430.png",
+        "keywords": [
+          "vater",
+          "inodoro",
+          "water",
+          "retrete"
+        ],
+        "score": 0.07
+      },
+      {
+        "arasaacId": 38603,
+        "imagePath": "/symbol-candidates/cards/beden-saglik-susadim/38603.png",
+        "reviewImagePath": "../../public/symbol-candidates/cards/beden-saglik-susadim/38603.png",
+        "keywords": [
+          "vater",
+          "inodoro",
+          "water",
+          "retrete"
+        ],
+        "score": 0.07
+      },
+      {
+        "arasaacId": 6625,
+        "imagePath": "/symbol-candidates/cards/beden-saglik-susadim/6625.png",
+        "reviewImagePath": "../../public/symbol-candidates/cards/beden-saglik-susadim/6625.png",
+        "keywords": [
+          "tu",
+          "te",
+          "ti",
+          "usted",
+          "tu te"
+        ],
+        "score": 0.07
+      }
+    ]
+  },
+  {
+    "cardId": "tuvalet-hijyen-cis",
+    "label": "Çiş",
+    "category": "Tuvalet / Hijyen",
+    "emoji": "🚽",
+    "queryTerms": [
+      "pee",
+      "urinate",
+      "orinar",
+      "pis"
+    ],
+    "usedImprovedSearchTerms": true,
+    "topCandidateScore": 0.27,
+    "candidateImagePaths": [
+      "/symbol-candidates/cards/tuvalet-hijyen-cis/31927.png",
+      "/symbol-candidates/cards/tuvalet-hijyen-cis/32264.png",
+      "/symbol-candidates/cards/tuvalet-hijyen-cis/34141.png",
+      "/symbol-candidates/cards/tuvalet-hijyen-cis/36640.png",
+      "/symbol-candidates/cards/tuvalet-hijyen-cis/37458.png"
+    ],
+    "candidateArasaacIds": [
+      31927,
+      32264,
+      34141,
+      36640,
+      37458
+    ],
+    "candidates": [
+      {
+        "arasaacId": 31927,
+        "imagePath": "/symbol-candidates/cards/tuvalet-hijyen-cis/31927.png",
+        "reviewImagePath": "../../public/symbol-candidates/cards/tuvalet-hijyen-cis/31927.png",
+        "keywords": [
+          "hacer pis",
+          "orinar"
+        ],
+        "score": 0.27
+      },
+      {
+        "arasaacId": 32264,
+        "imagePath": "/symbol-candidates/cards/tuvalet-hijyen-cis/32264.png",
+        "reviewImagePath": "../../public/symbol-candidates/cards/tuvalet-hijyen-cis/32264.png",
+        "keywords": [
+          "hacer pis",
+          "orinar"
+        ],
+        "score": 0.27
+      },
+      {
+        "arasaacId": 34141,
+        "imagePath": "/symbol-candidates/cards/tuvalet-hijyen-cis/34141.png",
+        "reviewImagePath": "../../public/symbol-candidates/cards/tuvalet-hijyen-cis/34141.png",
+        "keywords": [
+          "hacer pis",
+          "orinar"
+        ],
+        "score": 0.27
+      },
+      {
+        "arasaacId": 36640,
+        "imagePath": "/symbol-candidates/cards/tuvalet-hijyen-cis/36640.png",
+        "reviewImagePath": "../../public/symbol-candidates/cards/tuvalet-hijyen-cis/36640.png",
+        "keywords": [
+          "hacer pis",
+          "orinar"
+        ],
+        "score": 0.27
+      },
+      {
+        "arasaacId": 37458,
+        "imagePath": "/symbol-candidates/cards/tuvalet-hijyen-cis/37458.png",
+        "reviewImagePath": "../../public/symbol-candidates/cards/tuvalet-hijyen-cis/37458.png",
+        "keywords": [
+          "hacer pis",
+          "orinar"
+        ],
+        "score": 0.27
+      }
+    ]
+  },
+  {
+    "cardId": "tuvalet-hijyen-kaka",
+    "label": "Kaka",
+    "category": "Tuvalet / Hijyen",
+    "emoji": "🧻",
+    "queryTerms": [
+      "poop",
+      "feces",
+      "caca",
+      "hacer caca"
+    ],
+    "usedImprovedSearchTerms": true,
+    "topCandidateScore": 0.32,
+    "candidateImagePaths": [
+      "/symbol-candidates/cards/tuvalet-hijyen-kaka/21919.png",
+      "/symbol-candidates/cards/tuvalet-hijyen-kaka/21921.png",
+      "/symbol-candidates/cards/tuvalet-hijyen-kaka/3428.png",
+      "/symbol-candidates/cards/tuvalet-hijyen-kaka/8050.png",
+      "/symbol-candidates/cards/tuvalet-hijyen-kaka/16709.png"
+    ],
+    "candidateArasaacIds": [
+      21919,
+      21921,
+      3428,
+      8050,
+      16709
+    ],
+    "candidates": [
+      {
+        "arasaacId": 21919,
+        "imagePath": "/symbol-candidates/cards/tuvalet-hijyen-kaka/21919.png",
+        "reviewImagePath": "../../public/symbol-candidates/cards/tuvalet-hijyen-kaka/21919.png",
+        "keywords": [
+          "hacer caca"
+        ],
+        "score": 0.32
+      },
+      {
+        "arasaacId": 21921,
+        "imagePath": "/symbol-candidates/cards/tuvalet-hijyen-kaka/21921.png",
+        "reviewImagePath": "../../public/symbol-candidates/cards/tuvalet-hijyen-kaka/21921.png",
+        "keywords": [
+          "hacer caca"
+        ],
+        "score": 0.32
+      },
+      {
+        "arasaacId": 3428,
+        "imagePath": "/symbol-candidates/cards/tuvalet-hijyen-kaka/3428.png",
+        "reviewImagePath": "../../public/symbol-candidates/cards/tuvalet-hijyen-kaka/3428.png",
+        "keywords": [
+          "hacer caca",
+          "cagar"
+        ],
+        "score": 0.27
+      },
+      {
+        "arasaacId": 8050,
+        "imagePath": "/symbol-candidates/cards/tuvalet-hijyen-kaka/8050.png",
+        "reviewImagePath": "../../public/symbol-candidates/cards/tuvalet-hijyen-kaka/8050.png",
+        "keywords": [
+          "caca",
+          "excremento"
+        ],
+        "score": 0.27
+      },
+      {
+        "arasaacId": 16709,
+        "imagePath": "/symbol-candidates/cards/tuvalet-hijyen-kaka/16709.png",
+        "reviewImagePath": "../../public/symbol-candidates/cards/tuvalet-hijyen-kaka/16709.png",
+        "keywords": [
+          "hacer caca",
+          "cagar"
+        ],
+        "score": 0.27
+      }
+    ]
+  },
+  {
+    "cardId": "tuvalet-hijyen-el-yika",
+    "label": "El yıka",
+    "category": "Tuvalet / Hijyen",
+    "emoji": "🧼",
+    "queryTerms": [
+      "wash hands",
+      "lavar manos",
+      "lavarse las manos"
+    ],
+    "usedImprovedSearchTerms": true,
+    "topCandidateScore": 0.13,
+    "candidateImagePaths": [
+      "/symbol-candidates/cards/tuvalet-hijyen-el-yika/5526.png",
+      "/symbol-candidates/cards/tuvalet-hijyen-el-yika/39149.png",
+      "/symbol-candidates/cards/tuvalet-hijyen-el-yika/5496.png",
+      "/symbol-candidates/cards/tuvalet-hijyen-el-yika/7029.png",
+      "/symbol-candidates/cards/tuvalet-hijyen-el-yika/6481.png"
+    ],
+    "candidateArasaacIds": [
+      5526,
+      39149,
+      5496,
+      7029,
+      6481
+    ],
+    "candidates": [
+      {
+        "arasaacId": 5526,
+        "imagePath": "/symbol-candidates/cards/tuvalet-hijyen-el-yika/5526.png",
+        "reviewImagePath": "../../public/symbol-candidates/cards/tuvalet-hijyen-el-yika/5526.png",
+        "keywords": [
+          "no"
+        ],
+        "score": 0.13
+      },
+      {
+        "arasaacId": 39149,
+        "imagePath": "/symbol-candidates/cards/tuvalet-hijyen-el-yika/39149.png",
+        "reviewImagePath": "../../public/symbol-candidates/cards/tuvalet-hijyen-el-yika/39149.png",
+        "keywords": [
+          "no",
+          "negar"
+        ],
+        "score": 0.13
+      },
+      {
+        "arasaacId": 5496,
+        "imagePath": "/symbol-candidates/cards/tuvalet-hijyen-el-yika/5496.png",
+        "reviewImagePath": "../../public/symbol-candidates/cards/tuvalet-hijyen-el-yika/5496.png",
+        "keywords": [
+          "lavar la ropa",
+          "lavar"
+        ],
+        "score": 0.13
+      },
+      {
+        "arasaacId": 7029,
+        "imagePath": "/symbol-candidates/cards/tuvalet-hijyen-el-yika/7029.png",
+        "reviewImagePath": "../../public/symbol-candidates/cards/tuvalet-hijyen-el-yika/7029.png",
+        "keywords": [
+          "ella",
+          "la",
+          "lo",
+          "si",
+          "se",
+          "ella se"
+        ],
+        "score": 0.13
+      },
+      {
+        "arasaacId": 6481,
+        "imagePath": "/symbol-candidates/cards/tuvalet-hijyen-el-yika/6481.png",
+        "reviewImagePath": "../../public/symbol-candidates/cards/tuvalet-hijyen-el-yika/6481.png",
+        "keywords": [
+          "el",
+          "le",
+          "lo",
+          "si",
+          "se",
+          "el se"
+        ],
+        "score": 0.07
+      }
+    ]
+  },
+  {
+    "cardId": "tuvalet-hijyen-dis-fircala",
+    "label": "Diş fırçala",
+    "category": "Tuvalet / Hijyen",
+    "emoji": "🪥",
+    "queryTerms": [
+      "brush teeth",
+      "cepillar dientes",
+      "lavarse los dientes"
+    ],
+    "usedImprovedSearchTerms": true,
+    "topCandidateScore": 0.2,
+    "candidateImagePaths": [
+      "/symbol-candidates/cards/tuvalet-hijyen-dis-fircala/6625.png",
+      "/symbol-candidates/cards/tuvalet-hijyen-dis-fircala/7290.png",
+      "/symbol-candidates/cards/tuvalet-hijyen-dis-fircala/29802.png",
+      "/symbol-candidates/cards/tuvalet-hijyen-dis-fircala/7029.png",
+      "/symbol-candidates/cards/tuvalet-hijyen-dis-fircala/2737.png"
+    ],
+    "candidateArasaacIds": [
+      6625,
+      7290,
+      29802,
+      7029,
+      2737
+    ],
+    "candidates": [
+      {
+        "arasaacId": 6625,
+        "imagePath": "/symbol-candidates/cards/tuvalet-hijyen-dis-fircala/6625.png",
+        "reviewImagePath": "../../public/symbol-candidates/cards/tuvalet-hijyen-dis-fircala/6625.png",
+        "keywords": [
+          "tu",
+          "te",
+          "ti",
+          "usted",
+          "tu te"
+        ],
+        "score": 0.2
+      },
+      {
+        "arasaacId": 7290,
+        "imagePath": "/symbol-candidates/cards/tuvalet-hijyen-dis-fircala/7290.png",
+        "reviewImagePath": "../../public/symbol-candidates/cards/tuvalet-hijyen-dis-fircala/7290.png",
+        "keywords": [
+          "tu",
+          "te",
+          "ti",
+          "usted",
+          "tu te"
+        ],
+        "score": 0.2
+      },
+      {
+        "arasaacId": 29802,
+        "imagePath": "/symbol-candidates/cards/tuvalet-hijyen-dis-fircala/29802.png",
+        "reviewImagePath": "../../public/symbol-candidates/cards/tuvalet-hijyen-dis-fircala/29802.png",
+        "keywords": [
+          "te instantaneo",
+          "te"
+        ],
+        "score": 0.2
+      },
+      {
+        "arasaacId": 7029,
+        "imagePath": "/symbol-candidates/cards/tuvalet-hijyen-dis-fircala/7029.png",
+        "reviewImagePath": "../../public/symbol-candidates/cards/tuvalet-hijyen-dis-fircala/7029.png",
+        "keywords": [
+          "ella",
+          "la",
+          "lo",
+          "si",
+          "se",
+          "ella se"
+        ],
+        "score": 0.13
+      },
+      {
+        "arasaacId": 2737,
+        "imagePath": "/symbol-candidates/cards/tuvalet-hijyen-dis-fircala/2737.png",
+        "reviewImagePath": "../../public/symbol-candidates/cards/tuvalet-hijyen-dis-fircala/2737.png",
+        "keywords": [
+          "dientes",
+          "dentadura"
+        ],
+        "score": 0.13
+      }
+    ]
+  },
+  {
+    "cardId": "tuvalet-hijyen-banyo",
+    "label": "Duş al",
+    "category": "Tuvalet / Hijyen",
+    "emoji": "🚿",
+    "queryTerms": [
+      "shower",
+      "ducha",
+      "bath",
+      "bano"
+    ],
+    "usedImprovedSearchTerms": true,
+    "topCandidateScore": 0.28,
+    "candidateImagePaths": [
+      "/symbol-candidates/cards/tuvalet-hijyen-banyo/32426.png",
+      "/symbol-candidates/cards/tuvalet-hijyen-banyo/2370.png",
+      "/symbol-candidates/cards/tuvalet-hijyen-banyo/11244.png",
+      "/symbol-candidates/cards/tuvalet-hijyen-banyo/15904.png",
+      "/symbol-candidates/cards/tuvalet-hijyen-banyo/38582.png"
+    ],
+    "candidateArasaacIds": [
+      32426,
+      2370,
+      11244,
+      15904,
+      38582
+    ],
+    "candidates": [
+      {
+        "arasaacId": 32426,
+        "imagePath": "/symbol-candidates/cards/tuvalet-hijyen-banyo/32426.png",
+        "reviewImagePath": "../../public/symbol-candidates/cards/tuvalet-hijyen-banyo/32426.png",
+        "keywords": [
+          "ducha"
+        ],
+        "score": 0.28
+      },
+      {
+        "arasaacId": 2370,
+        "imagePath": "/symbol-candidates/cards/tuvalet-hijyen-banyo/2370.png",
+        "reviewImagePath": "../../public/symbol-candidates/cards/tuvalet-hijyen-banyo/2370.png",
+        "keywords": [
+          "ducha"
+        ],
+        "score": 0.28
+      },
+      {
+        "arasaacId": 11244,
+        "imagePath": "/symbol-candidates/cards/tuvalet-hijyen-banyo/11244.png",
+        "reviewImagePath": "../../public/symbol-candidates/cards/tuvalet-hijyen-banyo/11244.png",
+        "keywords": [
+          "ducha"
+        ],
+        "score": 0.28
+      },
+      {
+        "arasaacId": 15904,
+        "imagePath": "/symbol-candidates/cards/tuvalet-hijyen-banyo/15904.png",
+        "reviewImagePath": "../../public/symbol-candidates/cards/tuvalet-hijyen-banyo/15904.png",
+        "keywords": [
+          "ducha"
+        ],
+        "score": 0.28
+      },
+      {
+        "arasaacId": 38582,
+        "imagePath": "/symbol-candidates/cards/tuvalet-hijyen-banyo/38582.png",
+        "reviewImagePath": "../../public/symbol-candidates/cards/tuvalet-hijyen-banyo/38582.png",
+        "keywords": [
+          "ducha"
+        ],
+        "score": 0.28
+      }
+    ]
+  },
+  {
+    "cardId": "eylemler-otur",
+    "label": "Otur",
+    "category": "Eylemler",
+    "emoji": "🪑",
+    "queryTerms": [
+      "sit",
+      "sit down",
+      "sentar",
+      "sentarse"
+    ],
+    "usedImprovedSearchTerms": true,
+    "topCandidateScore": 0.2,
+    "candidateImagePaths": [
+      "/symbol-candidates/cards/eylemler-otur/6481.png",
+      "/symbol-candidates/cards/eylemler-otur/7029.png",
+      "/symbol-candidates/cards/eylemler-otur/7031.png",
+      "/symbol-candidates/cards/eylemler-otur/7033.png",
+      "/symbol-candidates/cards/eylemler-otur/31670.png"
+    ],
+    "candidateArasaacIds": [
+      6481,
+      7029,
+      7031,
+      7033,
+      31670
+    ],
+    "candidates": [
+      {
+        "arasaacId": 6481,
+        "imagePath": "/symbol-candidates/cards/eylemler-otur/6481.png",
+        "reviewImagePath": "../../public/symbol-candidates/cards/eylemler-otur/6481.png",
+        "keywords": [
+          "el",
+          "le",
+          "lo",
+          "si",
+          "se",
+          "el se"
+        ],
+        "score": 0.2
+      },
+      {
+        "arasaacId": 7029,
+        "imagePath": "/symbol-candidates/cards/eylemler-otur/7029.png",
+        "reviewImagePath": "../../public/symbol-candidates/cards/eylemler-otur/7029.png",
+        "keywords": [
+          "ella",
+          "la",
+          "lo",
+          "si",
+          "se",
+          "ella se"
+        ],
+        "score": 0.2
+      },
+      {
+        "arasaacId": 7031,
+        "imagePath": "/symbol-candidates/cards/eylemler-otur/7031.png",
+        "reviewImagePath": "../../public/symbol-candidates/cards/eylemler-otur/7031.png",
+        "keywords": [
+          "ellas",
+          "si",
+          "les",
+          "las",
+          "se",
+          "ellas se"
+        ],
+        "score": 0.2
+      },
+      {
+        "arasaacId": 7033,
+        "imagePath": "/symbol-candidates/cards/eylemler-otur/7033.png",
+        "reviewImagePath": "../../public/symbol-candidates/cards/eylemler-otur/7033.png",
+        "keywords": [
+          "ellos",
+          "si",
+          "les",
+          "los",
+          "se",
+          "ellos se"
+        ],
+        "score": 0.2
+      },
+      {
+        "arasaacId": 31670,
+        "imagePath": "/symbol-candidates/cards/eylemler-otur/31670.png",
+        "reviewImagePath": "../../public/symbol-candidates/cards/eylemler-otur/31670.png",
+        "keywords": [
+          "el",
+          "le",
+          "lo",
+          "si",
+          "se",
+          "el se"
+        ],
+        "score": 0.2
+      }
+    ]
+  },
+  {
+    "cardId": "kisiler-abla",
+    "label": "Abla",
+    "category": "Kişiler",
+    "emoji": "👧",
+    "queryTerms": [
+      "sister",
+      "hermana",
+      "big sister"
+    ],
+    "usedImprovedSearchTerms": true,
+    "topCandidateScore": 0.13,
+    "candidateImagePaths": [
+      "/symbol-candidates/cards/kisiler-abla/6625.png",
+      "/symbol-candidates/cards/kisiler-abla/7290.png",
+      "/symbol-candidates/cards/kisiler-abla/29802.png",
+      "/symbol-candidates/cards/kisiler-abla/5584.png",
+      "/symbol-candidates/cards/kisiler-abla/6481.png"
+    ],
+    "candidateArasaacIds": [
+      6625,
+      7290,
+      29802,
+      5584,
+      6481
+    ],
+    "candidates": [
+      {
+        "arasaacId": 6625,
+        "imagePath": "/symbol-candidates/cards/kisiler-abla/6625.png",
+        "reviewImagePath": "../../public/symbol-candidates/cards/kisiler-abla/6625.png",
+        "keywords": [
+          "tu",
+          "te",
+          "ti",
+          "usted",
+          "tu te"
+        ],
+        "score": 0.13
+      },
+      {
+        "arasaacId": 7290,
+        "imagePath": "/symbol-candidates/cards/kisiler-abla/7290.png",
+        "reviewImagePath": "../../public/symbol-candidates/cards/kisiler-abla/7290.png",
+        "keywords": [
+          "tu",
+          "te",
+          "ti",
+          "usted",
+          "tu te"
+        ],
+        "score": 0.13
+      },
+      {
+        "arasaacId": 29802,
+        "imagePath": "/symbol-candidates/cards/kisiler-abla/29802.png",
+        "reviewImagePath": "../../public/symbol-candidates/cards/kisiler-abla/29802.png",
+        "keywords": [
+          "te instantaneo",
+          "te"
+        ],
+        "score": 0.13
+      },
+      {
+        "arasaacId": 5584,
+        "imagePath": "/symbol-candidates/cards/kisiler-abla/5584.png",
+        "reviewImagePath": "../../public/symbol-candidates/cards/kisiler-abla/5584.png",
+        "keywords": [
+          "si"
+        ],
+        "score": 0.13
+      },
+      {
+        "arasaacId": 6481,
+        "imagePath": "/symbol-candidates/cards/kisiler-abla/6481.png",
+        "reviewImagePath": "../../public/symbol-candidates/cards/kisiler-abla/6481.png",
+        "keywords": [
+          "el",
+          "le",
+          "lo",
+          "si",
+          "se",
+          "el se"
+        ],
+        "score": 0.13
+      }
+    ]
+  },
+  {
+    "cardId": "kisiler-abi",
+    "label": "Abi",
+    "category": "Kişiler",
+    "emoji": "👦",
+    "queryTerms": [
+      "brother",
+      "hermano",
+      "big brother"
+    ],
+    "usedImprovedSearchTerms": true,
+    "topCandidateScore": 0.07,
+    "candidateImagePaths": [
+      "/symbol-candidates/cards/kisiler-abi/5526.png",
+      "/symbol-candidates/cards/kisiler-abi/39149.png"
+    ],
+    "candidateArasaacIds": [
+      5526,
+      39149
+    ],
+    "candidates": [
+      {
+        "arasaacId": 5526,
+        "imagePath": "/symbol-candidates/cards/kisiler-abi/5526.png",
+        "reviewImagePath": "../../public/symbol-candidates/cards/kisiler-abi/5526.png",
+        "keywords": [
+          "no"
+        ],
+        "score": 0.07
+      },
+      {
+        "arasaacId": 39149,
+        "imagePath": "/symbol-candidates/cards/kisiler-abi/39149.png",
+        "reviewImagePath": "../../public/symbol-candidates/cards/kisiler-abi/39149.png",
+        "keywords": [
+          "no",
+          "negar"
+        ],
+        "score": 0.07
+      }
+    ]
+  },
+  {
+    "cardId": "kisiler-arkadas",
+    "label": "Arkadaş",
+    "category": "Kişiler",
+    "emoji": "🧒",
+    "queryTerms": [
+      "friend",
+      "amigo",
+      "amiga"
+    ],
+    "usedImprovedSearchTerms": true,
+    "topCandidateScore": 0.07,
+    "candidateImagePaths": [
+      "/symbol-candidates/cards/kisiler-arkadas/39269.png"
+    ],
+    "candidateArasaacIds": [
+      39269
+    ],
+    "candidates": [
+      {
+        "arasaacId": 39269,
+        "imagePath": "/symbol-candidates/cards/kisiler-arkadas/39269.png",
+        "reviewImagePath": "../../public/symbol-candidates/cards/kisiler-arkadas/39269.png",
+        "keywords": [
+          "espacio amigable",
+          "espacio de relajacion",
+          "espacio tranquilo"
+        ],
+        "score": 0.07
+      }
+    ]
+  },
+  {
+    "cardId": "kisiler-teyze",
+    "label": "Teyze",
+    "category": "Kişiler",
+    "emoji": "👩‍🦰",
+    "queryTerms": [
+      "aunt",
+      "tia"
+    ],
+    "usedImprovedSearchTerms": true,
+    "topCandidateScore": 0.1,
+    "candidateImagePaths": [
+      "/symbol-candidates/cards/kisiler-teyze/30004.png",
+      "/symbol-candidates/cards/kisiler-teyze/6625.png",
+      "/symbol-candidates/cards/kisiler-teyze/7290.png",
+      "/symbol-candidates/cards/kisiler-teyze/39704.png",
+      "/symbol-candidates/cards/kisiler-teyze/35835.png"
+    ],
+    "candidateArasaacIds": [
+      30004,
+      6625,
+      7290,
+      39704,
+      35835
+    ],
+    "candidates": [
+      {
+        "arasaacId": 30004,
+        "imagePath": "/symbol-candidates/cards/kisiler-teyze/30004.png",
+        "reviewImagePath": "../../public/symbol-candidates/cards/kisiler-teyze/30004.png",
+        "keywords": [
+          "sacristia"
+        ],
+        "score": 0.1
+      },
+      {
+        "arasaacId": 6625,
+        "imagePath": "/symbol-candidates/cards/kisiler-teyze/6625.png",
+        "reviewImagePath": "../../public/symbol-candidates/cards/kisiler-teyze/6625.png",
+        "keywords": [
+          "tu",
+          "te",
+          "ti",
+          "usted",
+          "tu te"
+        ],
+        "score": 0.1
+      },
+      {
+        "arasaacId": 7290,
+        "imagePath": "/symbol-candidates/cards/kisiler-teyze/7290.png",
+        "reviewImagePath": "../../public/symbol-candidates/cards/kisiler-teyze/7290.png",
+        "keywords": [
+          "tu",
+          "te",
+          "ti",
+          "usted",
+          "tu te"
+        ],
+        "score": 0.1
+      },
+      {
+        "arasaacId": 39704,
+        "imagePath": "/symbol-candidates/cards/kisiler-teyze/39704.png",
+        "reviewImagePath": "../../public/symbol-candidates/cards/kisiler-teyze/39704.png",
+        "keywords": [
+          "inteligencia artificial",
+          "ia"
+        ],
+        "score": 0.1
+      },
+      {
+        "arasaacId": 35835,
+        "imagePath": "/symbol-candidates/cards/kisiler-teyze/35835.png",
+        "reviewImagePath": "../../public/symbol-candidates/cards/kisiler-teyze/35835.png",
+        "keywords": [
+          "camino de santiago"
+        ],
+        "score": 0.1
+      }
+    ]
+  },
+  {
+    "cardId": "kisiler-amca",
+    "label": "Amca",
+    "category": "Kişiler",
+    "emoji": "👨‍🦳",
+    "queryTerms": [
+      "uncle",
+      "tio"
+    ],
+    "usedImprovedSearchTerms": true,
+    "topCandidateScore": 0.45,
+    "candidateImagePaths": [
+      "/symbol-candidates/cards/kisiler-amca/30255.png",
+      "/symbol-candidates/cards/kisiler-amca/30256.png",
+      "/symbol-candidates/cards/kisiler-amca/30259.png",
+      "/symbol-candidates/cards/kisiler-amca/30258.png",
+      "/symbol-candidates/cards/kisiler-amca/30260.png"
+    ],
+    "candidateArasaacIds": [
+      30255,
+      30256,
+      30259,
+      30258,
+      30260
+    ],
+    "candidates": [
+      {
+        "arasaacId": 30255,
+        "imagePath": "/symbol-candidates/cards/kisiler-amca/30255.png",
+        "reviewImagePath": "../../public/symbol-candidates/cards/kisiler-amca/30255.png",
+        "keywords": [
+          "tio"
+        ],
+        "score": 0.45
+      },
+      {
+        "arasaacId": 30256,
+        "imagePath": "/symbol-candidates/cards/kisiler-amca/30256.png",
+        "reviewImagePath": "../../public/symbol-candidates/cards/kisiler-amca/30256.png",
+        "keywords": [
+          "tio"
+        ],
+        "score": 0.45
+      },
+      {
+        "arasaacId": 30259,
+        "imagePath": "/symbol-candidates/cards/kisiler-amca/30259.png",
+        "reviewImagePath": "../../public/symbol-candidates/cards/kisiler-amca/30259.png",
+        "keywords": [
+          "tio"
+        ],
+        "score": 0.45
+      },
+      {
+        "arasaacId": 30258,
+        "imagePath": "/symbol-candidates/cards/kisiler-amca/30258.png",
+        "reviewImagePath": "../../public/symbol-candidates/cards/kisiler-amca/30258.png",
+        "keywords": [
+          "tio"
+        ],
+        "score": 0.45
+      },
+      {
+        "arasaacId": 30260,
+        "imagePath": "/symbol-candidates/cards/kisiler-amca/30260.png",
+        "reviewImagePath": "../../public/symbol-candidates/cards/kisiler-amca/30260.png",
+        "keywords": [
+          "tio"
+        ],
+        "score": 0.45
+      }
+    ]
+  },
+  {
+    "cardId": "oyun-oyuncak-tren",
+    "label": "Oyuncak tren",
+    "category": "Oyun / Oyuncak",
+    "emoji": "🚂",
+    "queryTerms": [
+      "toy train",
+      "train",
+      "tren de juguete"
+    ],
+    "usedImprovedSearchTerms": true,
+    "topCandidateScore": 0.13,
+    "candidateImagePaths": [
+      "/symbol-candidates/cards/oyun-oyuncak-tren/39705.png",
+      "/symbol-candidates/cards/oyun-oyuncak-tren/39411.png",
+      "/symbol-candidates/cards/oyun-oyuncak-tren/28962.png",
+      "/symbol-candidates/cards/oyun-oyuncak-tren/6625.png",
+      "/symbol-candidates/cards/oyun-oyuncak-tren/7290.png"
+    ],
+    "candidateArasaacIds": [
+      39705,
+      39411,
+      28962,
+      6625,
+      7290
+    ],
+    "candidates": [
+      {
+        "arasaacId": 39705,
+        "imagePath": "/symbol-candidates/cards/oyun-oyuncak-tren/39705.png",
+        "reviewImagePath": "../../public/symbol-candidates/cards/oyun-oyuncak-tren/39705.png",
+        "keywords": [
+          "inteligencia artificial",
+          "ai"
+        ],
+        "score": 0.13
+      },
+      {
+        "arasaacId": 39411,
+        "imagePath": "/symbol-candidates/cards/oyun-oyuncak-tren/39411.png",
+        "reviewImagePath": "../../public/symbol-candidates/cards/oyun-oyuncak-tren/39411.png",
+        "keywords": [
+          "almacen de canoas",
+          "almacen de traineras"
+        ],
+        "score": 0.07
+      },
+      {
+        "arasaacId": 28962,
+        "imagePath": "/symbol-candidates/cards/oyun-oyuncak-tren/28962.png",
+        "reviewImagePath": "../../public/symbol-candidates/cards/oyun-oyuncak-tren/28962.png",
+        "keywords": [
+          "traineras"
+        ],
+        "score": 0.07
+      },
+      {
+        "arasaacId": 6625,
+        "imagePath": "/symbol-candidates/cards/oyun-oyuncak-tren/6625.png",
+        "reviewImagePath": "../../public/symbol-candidates/cards/oyun-oyuncak-tren/6625.png",
+        "keywords": [
+          "tu",
+          "te",
+          "ti",
+          "usted",
+          "tu te"
+        ],
+        "score": 0.07
+      },
+      {
+        "arasaacId": 7290,
+        "imagePath": "/symbol-candidates/cards/oyun-oyuncak-tren/7290.png",
+        "reviewImagePath": "../../public/symbol-candidates/cards/oyun-oyuncak-tren/7290.png",
+        "keywords": [
+          "tu",
+          "te",
+          "ti",
+          "usted",
+          "tu te"
+        ],
+        "score": 0.07
+      }
+    ]
+  },
+  {
+    "cardId": "rutinler-giyin",
+    "label": "Giyin",
+    "category": "Rutinler",
+    "emoji": "👕",
+    "queryTerms": [
+      "get dressed",
+      "dress",
+      "vestirse"
+    ],
+    "usedImprovedSearchTerms": true,
+    "topCandidateScore": 0.13,
+    "candidateImagePaths": [
+      "/symbol-candidates/cards/rutinler-giyin/6481.png",
+      "/symbol-candidates/cards/rutinler-giyin/7029.png",
+      "/symbol-candidates/cards/rutinler-giyin/7031.png",
+      "/symbol-candidates/cards/rutinler-giyin/7033.png",
+      "/symbol-candidates/cards/rutinler-giyin/31670.png"
+    ],
+    "candidateArasaacIds": [
+      6481,
+      7029,
+      7031,
+      7033,
+      31670
+    ],
+    "candidates": [
+      {
+        "arasaacId": 6481,
+        "imagePath": "/symbol-candidates/cards/rutinler-giyin/6481.png",
+        "reviewImagePath": "../../public/symbol-candidates/cards/rutinler-giyin/6481.png",
+        "keywords": [
+          "el",
+          "le",
+          "lo",
+          "si",
+          "se",
+          "el se"
+        ],
+        "score": 0.13
+      },
+      {
+        "arasaacId": 7029,
+        "imagePath": "/symbol-candidates/cards/rutinler-giyin/7029.png",
+        "reviewImagePath": "../../public/symbol-candidates/cards/rutinler-giyin/7029.png",
+        "keywords": [
+          "ella",
+          "la",
+          "lo",
+          "si",
+          "se",
+          "ella se"
+        ],
+        "score": 0.13
+      },
+      {
+        "arasaacId": 7031,
+        "imagePath": "/symbol-candidates/cards/rutinler-giyin/7031.png",
+        "reviewImagePath": "../../public/symbol-candidates/cards/rutinler-giyin/7031.png",
+        "keywords": [
+          "ellas",
+          "si",
+          "les",
+          "las",
+          "se",
+          "ellas se"
+        ],
+        "score": 0.13
+      },
+      {
+        "arasaacId": 7033,
+        "imagePath": "/symbol-candidates/cards/rutinler-giyin/7033.png",
+        "reviewImagePath": "../../public/symbol-candidates/cards/rutinler-giyin/7033.png",
+        "keywords": [
+          "ellos",
+          "si",
+          "les",
+          "los",
+          "se",
+          "ellos se"
+        ],
+        "score": 0.13
+      },
+      {
+        "arasaacId": 31670,
+        "imagePath": "/symbol-candidates/cards/rutinler-giyin/31670.png",
+        "reviewImagePath": "../../public/symbol-candidates/cards/rutinler-giyin/31670.png",
+        "keywords": [
+          "el",
+          "le",
+          "lo",
+          "si",
+          "se",
+          "el se"
+        ],
+        "score": 0.13
+      }
+    ]
+  },
+  {
+    "cardId": "rutinler-kahvalti",
+    "label": "Kahvaltı",
+    "category": "Rutinler",
+    "emoji": "🥣",
+    "queryTerms": [
+      "breakfast",
+      "desayuno"
+    ],
+    "usedImprovedSearchTerms": true,
+    "topCandidateScore": 0.1,
+    "candidateImagePaths": [
+      "/symbol-candidates/cards/rutinler-kahvalti/5526.png",
+      "/symbol-candidates/cards/rutinler-kahvalti/39149.png",
+      "/symbol-candidates/cards/rutinler-kahvalti/2627.png",
+      "/symbol-candidates/cards/rutinler-kahvalti/4889.png",
+      "/symbol-candidates/cards/rutinler-kahvalti/7291.png"
+    ],
+    "candidateArasaacIds": [
+      5526,
+      39149,
+      2627,
+      4889,
+      7291
+    ],
+    "candidates": [
+      {
+        "arasaacId": 5526,
+        "imagePath": "/symbol-candidates/cards/rutinler-kahvalti/5526.png",
+        "reviewImagePath": "../../public/symbol-candidates/cards/rutinler-kahvalti/5526.png",
+        "keywords": [
+          "no"
+        ],
+        "score": 0.1
+      },
+      {
+        "arasaacId": 39149,
+        "imagePath": "/symbol-candidates/cards/rutinler-kahvalti/39149.png",
+        "reviewImagePath": "../../public/symbol-candidates/cards/rutinler-kahvalti/39149.png",
+        "keywords": [
+          "no",
+          "negar"
+        ],
+        "score": 0.1
+      },
+      {
+        "arasaacId": 2627,
+        "imagePath": "/symbol-candidates/cards/rutinler-kahvalti/2627.png",
+        "reviewImagePath": "../../public/symbol-candidates/cards/rutinler-kahvalti/2627.png",
+        "keywords": [
+          "uno",
+          "1"
+        ],
+        "score": 0.1
+      },
+      {
+        "arasaacId": 4889,
+        "imagePath": "/symbol-candidates/cards/rutinler-kahvalti/4889.png",
+        "reviewImagePath": "../../public/symbol-candidates/cards/rutinler-kahvalti/4889.png",
+        "keywords": [
+          "uno",
+          "1"
+        ],
+        "score": 0.1
+      },
+      {
+        "arasaacId": 7291,
+        "imagePath": "/symbol-candidates/cards/rutinler-kahvalti/7291.png",
+        "reviewImagePath": "../../public/symbol-candidates/cards/rutinler-kahvalti/7291.png",
+        "keywords": [
+          "uno",
+          "1"
+        ],
+        "score": 0.1
+      }
+    ]
+  },
+  {
+    "cardId": "rutinler-eve-don",
+    "label": "Eve dön",
+    "category": "Rutinler",
+    "emoji": "🏠",
+    "queryTerms": [
+      "go home",
+      "return home",
+      "volver a casa"
+    ],
+    "usedImprovedSearchTerms": true,
+    "topCandidateScore": 0.07,
+    "candidateImagePaths": [
+      "/symbol-candidates/cards/rutinler-eve-don/6625.png",
+      "/symbol-candidates/cards/rutinler-eve-don/7290.png",
+      "/symbol-candidates/cards/rutinler-eve-don/2608.png",
+      "/symbol-candidates/cards/rutinler-eve-don/31801.png",
+      "/symbol-candidates/cards/rutinler-eve-don/7289.png"
+    ],
+    "candidateArasaacIds": [
+      6625,
+      7290,
+      2608,
+      31801,
+      7289
+    ],
+    "candidates": [
+      {
+        "arasaacId": 6625,
+        "imagePath": "/symbol-candidates/cards/rutinler-eve-don/6625.png",
+        "reviewImagePath": "../../public/symbol-candidates/cards/rutinler-eve-don/6625.png",
+        "keywords": [
+          "tu",
+          "te",
+          "ti",
+          "usted",
+          "tu te"
+        ],
+        "score": 0.07
+      },
+      {
+        "arasaacId": 7290,
+        "imagePath": "/symbol-candidates/cards/rutinler-eve-don/7290.png",
+        "reviewImagePath": "../../public/symbol-candidates/cards/rutinler-eve-don/7290.png",
+        "keywords": [
+          "tu",
+          "te",
+          "ti",
+          "usted",
+          "tu te"
+        ],
+        "score": 0.07
+      },
+      {
+        "arasaacId": 2608,
+        "imagePath": "/symbol-candidates/cards/rutinler-eve-don/2608.png",
+        "reviewImagePath": "../../public/symbol-candidates/cards/rutinler-eve-don/2608.png",
+        "keywords": [
+          "tu",
+          "usted",
+          "tu te"
+        ],
+        "score": 0.07
+      },
+      {
+        "arasaacId": 31801,
+        "imagePath": "/symbol-candidates/cards/rutinler-eve-don/31801.png",
+        "reviewImagePath": "../../public/symbol-candidates/cards/rutinler-eve-don/31801.png",
+        "keywords": [
+          "tu",
+          "usted",
+          "tu te"
+        ],
+        "score": 0.07
+      },
+      {
+        "arasaacId": 7289,
+        "imagePath": "/symbol-candidates/cards/rutinler-eve-don/7289.png",
+        "reviewImagePath": "../../public/symbol-candidates/cards/rutinler-eve-don/7289.png",
+        "keywords": [
+          "tu",
+          "usted",
+          "tu te"
+        ],
+        "score": 0.07
+      }
+    ]
+  },
+  {
+    "cardId": "rutinler-dinlen",
+    "label": "Dinlen",
+    "category": "Rutinler",
+    "emoji": "🛋️",
+    "queryTerms": [
+      "rest",
+      "relax",
+      "descansar"
+    ],
+    "usedImprovedSearchTerms": true,
+    "topCandidateScore": 0.07,
+    "candidateImagePaths": [
+      "/symbol-candidates/cards/rutinler-dinlen/27369.png",
+      "/symbol-candidates/cards/rutinler-dinlen/38205.png",
+      "/symbol-candidates/cards/rutinler-dinlen/38652.png",
+      "/symbol-candidates/cards/rutinler-dinlen/38020.png",
+      "/symbol-candidates/cards/rutinler-dinlen/38235.png"
+    ],
+    "candidateArasaacIds": [
+      27369,
+      38205,
+      38652,
+      38020,
+      38235
+    ],
+    "candidates": [
+      {
+        "arasaacId": 27369,
+        "imagePath": "/symbol-candidates/cards/rutinler-dinlen/27369.png",
+        "reviewImagePath": "../../public/symbol-candidates/cards/rutinler-dinlen/27369.png",
+        "keywords": [
+          "prestacion municipal"
+        ],
+        "score": 0.07
+      },
+      {
+        "arasaacId": 38205,
+        "imagePath": "/symbol-candidates/cards/rutinler-dinlen/38205.png",
+        "reviewImagePath": "../../public/symbol-candidates/cards/rutinler-dinlen/38205.png",
+        "keywords": [
+          "contenedor",
+          "contenedor de restos",
+          "contenedor de fraccion resto"
+        ],
+        "score": 0.07
+      },
+      {
+        "arasaacId": 38652,
+        "imagePath": "/symbol-candidates/cards/rutinler-dinlen/38652.png",
+        "reviewImagePath": "../../public/symbol-candidates/cards/rutinler-dinlen/38652.png",
+        "keywords": [
+          "restaurar",
+          "restauracion"
+        ],
+        "score": 0.07
+      },
+      {
+        "arasaacId": 38020,
+        "imagePath": "/symbol-candidates/cards/rutinler-dinlen/38020.png",
+        "reviewImagePath": "../../public/symbol-candidates/cards/rutinler-dinlen/38020.png",
+        "keywords": [
+          "restriccion"
+        ],
+        "score": 0.07
+      },
+      {
+        "arasaacId": 38235,
+        "imagePath": "/symbol-candidates/cards/rutinler-dinlen/38235.png",
+        "reviewImagePath": "../../public/symbol-candidates/cards/rutinler-dinlen/38235.png",
+        "keywords": [
+          "bar restaurante"
+        ],
+        "score": 0.07
+      }
+    ]
+  },
+  {
+    "cardId": "sosyal-ifadeler-lutfen",
+    "label": "Lütfen",
+    "category": "Sosyal İfadeler",
+    "emoji": "🙏",
+    "queryTerms": [
+      "please",
+      "por favor"
+    ],
+    "usedImprovedSearchTerms": true,
+    "topCandidateScore": 0.1,
+    "candidateImagePaths": [
+      "/symbol-candidates/cards/sosyal-ifadeler-lutfen/6481.png",
+      "/symbol-candidates/cards/sosyal-ifadeler-lutfen/7029.png",
+      "/symbol-candidates/cards/sosyal-ifadeler-lutfen/7031.png",
+      "/symbol-candidates/cards/sosyal-ifadeler-lutfen/7033.png",
+      "/symbol-candidates/cards/sosyal-ifadeler-lutfen/31670.png"
+    ],
+    "candidateArasaacIds": [
+      6481,
+      7029,
+      7031,
+      7033,
+      31670
+    ],
+    "candidates": [
+      {
+        "arasaacId": 6481,
+        "imagePath": "/symbol-candidates/cards/sosyal-ifadeler-lutfen/6481.png",
+        "reviewImagePath": "../../public/symbol-candidates/cards/sosyal-ifadeler-lutfen/6481.png",
+        "keywords": [
+          "el",
+          "le",
+          "lo",
+          "si",
+          "se",
+          "el se"
+        ],
+        "score": 0.1
+      },
+      {
+        "arasaacId": 7029,
+        "imagePath": "/symbol-candidates/cards/sosyal-ifadeler-lutfen/7029.png",
+        "reviewImagePath": "../../public/symbol-candidates/cards/sosyal-ifadeler-lutfen/7029.png",
+        "keywords": [
+          "ella",
+          "la",
+          "lo",
+          "si",
+          "se",
+          "ella se"
+        ],
+        "score": 0.1
+      },
+      {
+        "arasaacId": 7031,
+        "imagePath": "/symbol-candidates/cards/sosyal-ifadeler-lutfen/7031.png",
+        "reviewImagePath": "../../public/symbol-candidates/cards/sosyal-ifadeler-lutfen/7031.png",
+        "keywords": [
+          "ellas",
+          "si",
+          "les",
+          "las",
+          "se",
+          "ellas se"
+        ],
+        "score": 0.1
+      },
+      {
+        "arasaacId": 7033,
+        "imagePath": "/symbol-candidates/cards/sosyal-ifadeler-lutfen/7033.png",
+        "reviewImagePath": "../../public/symbol-candidates/cards/sosyal-ifadeler-lutfen/7033.png",
+        "keywords": [
+          "ellos",
+          "si",
+          "les",
+          "los",
+          "se",
+          "ellos se"
+        ],
+        "score": 0.1
+      },
+      {
+        "arasaacId": 31670,
+        "imagePath": "/symbol-candidates/cards/sosyal-ifadeler-lutfen/31670.png",
+        "reviewImagePath": "../../public/symbol-candidates/cards/sosyal-ifadeler-lutfen/31670.png",
+        "keywords": [
+          "el",
+          "le",
+          "lo",
+          "si",
+          "se",
+          "el se"
+        ],
+        "score": 0.1
+      }
+    ]
+  },
+  {
+    "cardId": "sosyal-ifadeler-tamam",
+    "label": "Tamam",
+    "category": "Sosyal İfadeler",
+    "emoji": "👌",
+    "queryTerms": [
+      "okay",
+      "ok",
+      "vale",
+      "de acuerdo"
+    ],
+    "usedImprovedSearchTerms": true,
+    "topCandidateScore": 0.05,
+    "candidateImagePaths": [
+      "/symbol-candidates/cards/sosyal-ifadeler-tamam/5565.png",
+      "/symbol-candidates/cards/sosyal-ifadeler-tamam/36163.png",
+      "/symbol-candidates/cards/sosyal-ifadeler-tamam/39542.png",
+      "/symbol-candidates/cards/sosyal-ifadeler-tamam/24649.png",
+      "/symbol-candidates/cards/sosyal-ifadeler-tamam/3182.png"
+    ],
+    "candidateArasaacIds": [
+      5565,
+      36163,
+      39542,
+      24649,
+      3182
+    ],
+    "candidates": [
+      {
+        "arasaacId": 5565,
+        "imagePath": "/symbol-candidates/cards/sosyal-ifadeler-tamam/5565.png",
+        "reviewImagePath": "../../public/symbol-candidates/cards/sosyal-ifadeler-tamam/5565.png",
+        "keywords": [
+          "roscon",
+          "roscon de san valero",
+          "roscon de reyes"
+        ],
+        "score": 0.05
+      },
+      {
+        "arasaacId": 36163,
+        "imagePath": "/symbol-candidates/cards/sosyal-ifadeler-tamam/36163.png",
+        "reviewImagePath": "../../public/symbol-candidates/cards/sosyal-ifadeler-tamam/36163.png",
+        "keywords": [
+          "valiente",
+          "valeroso",
+          "valerosa",
+          "atrevido",
+          "atrevida"
+        ],
+        "score": 0.05
+      },
+      {
+        "arasaacId": 39542,
+        "imagePath": "/symbol-candidates/cards/sosyal-ifadeler-tamam/39542.png",
+        "reviewImagePath": "../../public/symbol-candidates/cards/sosyal-ifadeler-tamam/39542.png",
+        "keywords": [
+          "wok"
+        ],
+        "score": 0.05
+      },
+      {
+        "arasaacId": 24649,
+        "imagePath": "/symbol-candidates/cards/sosyal-ifadeler-tamam/24649.png",
+        "reviewImagePath": "../../public/symbol-candidates/cards/sosyal-ifadeler-tamam/24649.png",
+        "keywords": [
+          "sala polivalente"
+        ],
+        "score": 0.05
+      },
+      {
+        "arasaacId": 3182,
+        "imagePath": "/symbol-candidates/cards/sosyal-ifadeler-tamam/3182.png",
+        "reviewImagePath": "../../public/symbol-candidates/cards/sosyal-ifadeler-tamam/3182.png",
+        "keywords": [
+          "cartas",
+          "baraja",
+          "baraja de poker"
+        ],
+        "score": 0.05
+      }
+    ]
+  },
+  {
+    "cardId": "sosyal-ifadeler-nasilsin",
+    "label": "Nasılsın?",
+    "category": "Sosyal İfadeler",
+    "emoji": "🙂",
+    "queryTerms": [
+      "how are you",
+      "como estas"
+    ],
+    "usedImprovedSearchTerms": true,
+    "topCandidateScore": 0,
+    "candidateImagePaths": [],
+    "candidateArasaacIds": [],
+    "candidates": []
+  },
+  {
+    "cardId": "duyusal-ihtiyaclar-sik-sik",
+    "label": "Sıkı sarıl",
+    "category": "Duyusal İhtiyaçlar",
+    "emoji": "🤲",
+    "queryTerms": [
+      "tight hug",
+      "deep pressure",
+      "abrazo fuerte"
+    ],
+    "usedImprovedSearchTerms": true,
+    "topCandidateScore": 0.13,
+    "candidateImagePaths": [
+      "/symbol-candidates/cards/duyusal-ihtiyaclar-sik-sik/6625.png",
+      "/symbol-candidates/cards/duyusal-ihtiyaclar-sik-sik/7290.png",
+      "/symbol-candidates/cards/duyusal-ihtiyaclar-sik-sik/12272.png",
+      "/symbol-candidates/cards/duyusal-ihtiyaclar-sik-sik/12274.png",
+      "/symbol-candidates/cards/duyusal-ihtiyaclar-sik-sik/29802.png"
+    ],
+    "candidateArasaacIds": [
+      6625,
+      7290,
+      12272,
+      12274,
+      29802
+    ],
+    "candidates": [
+      {
+        "arasaacId": 6625,
+        "imagePath": "/symbol-candidates/cards/duyusal-ihtiyaclar-sik-sik/6625.png",
+        "reviewImagePath": "../../public/symbol-candidates/cards/duyusal-ihtiyaclar-sik-sik/6625.png",
+        "keywords": [
+          "tu",
+          "te",
+          "ti",
+          "usted",
+          "tu te"
+        ],
+        "score": 0.13
+      },
+      {
+        "arasaacId": 7290,
+        "imagePath": "/symbol-candidates/cards/duyusal-ihtiyaclar-sik-sik/7290.png",
+        "reviewImagePath": "../../public/symbol-candidates/cards/duyusal-ihtiyaclar-sik-sik/7290.png",
+        "keywords": [
+          "tu",
+          "te",
+          "ti",
+          "usted",
+          "tu te"
+        ],
+        "score": 0.13
+      },
+      {
+        "arasaacId": 12272,
+        "imagePath": "/symbol-candidates/cards/duyusal-ihtiyaclar-sik-sik/12272.png",
+        "reviewImagePath": "../../public/symbol-candidates/cards/duyusal-ihtiyaclar-sik-sik/12272.png",
+        "keywords": [
+          "su",
+          "suyo",
+          "suya"
+        ],
+        "score": 0.07
+      },
+      {
+        "arasaacId": 12274,
+        "imagePath": "/symbol-candidates/cards/duyusal-ihtiyaclar-sik-sik/12274.png",
+        "reviewImagePath": "../../public/symbol-candidates/cards/duyusal-ihtiyaclar-sik-sik/12274.png",
+        "keywords": [
+          "su",
+          "suyo",
+          "suya"
+        ],
+        "score": 0.07
+      },
+      {
+        "arasaacId": 29802,
+        "imagePath": "/symbol-candidates/cards/duyusal-ihtiyaclar-sik-sik/29802.png",
+        "reviewImagePath": "../../public/symbol-candidates/cards/duyusal-ihtiyaclar-sik-sik/29802.png",
+        "keywords": [
+          "te instantaneo",
+          "te"
+        ],
+        "score": 0.07
+      }
+    ]
+  },
+  {
+    "cardId": "duyusal-ihtiyaclar-karanlik",
+    "label": "Karanlık",
+    "category": "Duyusal İhtiyaçlar",
+    "emoji": "🌘",
+    "queryTerms": [
+      "dark",
+      "oscuro"
+    ],
+    "usedImprovedSearchTerms": true,
+    "topCandidateScore": 0.45,
+    "candidateImagePaths": [
+      "/symbol-candidates/cards/duyusal-ihtiyaclar-karanlik/26266.png",
+      "/symbol-candidates/cards/duyusal-ihtiyaclar-karanlik/26993.png",
+      "/symbol-candidates/cards/duyusal-ihtiyaclar-karanlik/4710.png",
+      "/symbol-candidates/cards/duyusal-ihtiyaclar-karanlik/4887.png"
+    ],
+    "candidateArasaacIds": [
+      26266,
+      26993,
+      4710,
+      4887
+    ],
+    "candidates": [
+      {
+        "arasaacId": 26266,
+        "imagePath": "/symbol-candidates/cards/duyusal-ihtiyaclar-karanlik/26266.png",
+        "reviewImagePath": "../../public/symbol-candidates/cards/duyusal-ihtiyaclar-karanlik/26266.png",
+        "keywords": [
+          "oscuro"
+        ],
+        "score": 0.45
+      },
+      {
+        "arasaacId": 26993,
+        "imagePath": "/symbol-candidates/cards/duyusal-ihtiyaclar-karanlik/26993.png",
+        "reviewImagePath": "../../public/symbol-candidates/cards/duyusal-ihtiyaclar-karanlik/26993.png",
+        "keywords": [
+          "apagado",
+          "oscuro",
+          "apagada",
+          "oscura"
+        ],
+        "score": 0.4
+      },
+      {
+        "arasaacId": 4710,
+        "imagePath": "/symbol-candidates/cards/duyusal-ihtiyaclar-karanlik/4710.png",
+        "reviewImagePath": "../../public/symbol-candidates/cards/duyusal-ihtiyaclar-karanlik/4710.png",
+        "keywords": [
+          "oscuro",
+          "oscura"
+        ],
+        "score": 0.4
+      },
+      {
+        "arasaacId": 4887,
+        "imagePath": "/symbol-candidates/cards/duyusal-ihtiyaclar-karanlik/4887.png",
+        "reviewImagePath": "../../public/symbol-candidates/cards/duyusal-ihtiyaclar-karanlik/4887.png",
+        "keywords": [
+          "verde",
+          "verde oscuro"
+        ],
+        "score": 0.1
+      }
+    ]
+  },
+  {
+    "cardId": "duyusal-ihtiyaclar-yuksek-ses",
+    "label": "Yüksek ses",
+    "category": "Duyusal İhtiyaçlar",
+    "emoji": "🔊",
+    "queryTerms": [
+      "loud noise",
+      "noise",
+      "ruido",
+      "sonido fuerte"
+    ],
+    "usedImprovedSearchTerms": true,
+    "topCandidateScore": 0.1,
+    "candidateImagePaths": [
+      "/symbol-candidates/cards/duyusal-ihtiyaclar-yuksek-ses/5526.png",
+      "/symbol-candidates/cards/duyusal-ihtiyaclar-yuksek-ses/39149.png",
+      "/symbol-candidates/cards/duyusal-ihtiyaclar-yuksek-ses/6481.png",
+      "/symbol-candidates/cards/duyusal-ihtiyaclar-yuksek-ses/7029.png",
+      "/symbol-candidates/cards/duyusal-ihtiyaclar-yuksek-ses/7031.png"
+    ],
+    "candidateArasaacIds": [
+      5526,
+      39149,
+      6481,
+      7029,
+      7031
+    ],
+    "candidates": [
+      {
+        "arasaacId": 5526,
+        "imagePath": "/symbol-candidates/cards/duyusal-ihtiyaclar-yuksek-ses/5526.png",
+        "reviewImagePath": "../../public/symbol-candidates/cards/duyusal-ihtiyaclar-yuksek-ses/5526.png",
+        "keywords": [
+          "no"
+        ],
+        "score": 0.1
+      },
+      {
+        "arasaacId": 39149,
+        "imagePath": "/symbol-candidates/cards/duyusal-ihtiyaclar-yuksek-ses/39149.png",
+        "reviewImagePath": "../../public/symbol-candidates/cards/duyusal-ihtiyaclar-yuksek-ses/39149.png",
+        "keywords": [
+          "no",
+          "negar"
+        ],
+        "score": 0.1
+      },
+      {
+        "arasaacId": 6481,
+        "imagePath": "/symbol-candidates/cards/duyusal-ihtiyaclar-yuksek-ses/6481.png",
+        "reviewImagePath": "../../public/symbol-candidates/cards/duyusal-ihtiyaclar-yuksek-ses/6481.png",
+        "keywords": [
+          "el",
+          "le",
+          "lo",
+          "si",
+          "se",
+          "el se"
+        ],
+        "score": 0.1
+      },
+      {
+        "arasaacId": 7029,
+        "imagePath": "/symbol-candidates/cards/duyusal-ihtiyaclar-yuksek-ses/7029.png",
+        "reviewImagePath": "../../public/symbol-candidates/cards/duyusal-ihtiyaclar-yuksek-ses/7029.png",
+        "keywords": [
+          "ella",
+          "la",
+          "lo",
+          "si",
+          "se",
+          "ella se"
+        ],
+        "score": 0.1
+      },
+      {
+        "arasaacId": 7031,
+        "imagePath": "/symbol-candidates/cards/duyusal-ihtiyaclar-yuksek-ses/7031.png",
+        "reviewImagePath": "../../public/symbol-candidates/cards/duyusal-ihtiyaclar-yuksek-ses/7031.png",
+        "keywords": [
+          "ellas",
+          "si",
+          "les",
+          "las",
+          "se",
+          "ellas se"
+        ],
+        "score": 0.1
+      }
+    ]
+  },
+  {
+    "cardId": "duyusal-ihtiyaclar-sarilmak-istemiyorum",
+    "label": "Sarılmak istemiyorum",
+    "category": "Duyusal İhtiyaçlar",
+    "emoji": "🙅‍♀️",
+    "queryTerms": [
+      "no hug",
+      "don t hug",
+      "no abrazar",
+      "no quiero abrazo"
+    ],
+    "usedImprovedSearchTerms": true,
+    "topCandidateScore": 0.15,
+    "candidateImagePaths": [
+      "/symbol-candidates/cards/duyusal-ihtiyaclar-sarilmak-istemiyorum/5526.png",
+      "/symbol-candidates/cards/duyusal-ihtiyaclar-sarilmak-istemiyorum/39149.png",
+      "/symbol-candidates/cards/duyusal-ihtiyaclar-sarilmak-istemiyorum/6023.png",
+      "/symbol-candidates/cards/duyusal-ihtiyaclar-sarilmak-istemiyorum/34369.png",
+      "/symbol-candidates/cards/duyusal-ihtiyaclar-sarilmak-istemiyorum/6156.png"
+    ],
+    "candidateArasaacIds": [
+      5526,
+      39149,
+      6023,
+      34369,
+      6156
+    ],
+    "candidates": [
+      {
+        "arasaacId": 5526,
+        "imagePath": "/symbol-candidates/cards/duyusal-ihtiyaclar-sarilmak-istemiyorum/5526.png",
+        "reviewImagePath": "../../public/symbol-candidates/cards/duyusal-ihtiyaclar-sarilmak-istemiyorum/5526.png",
+        "keywords": [
+          "no"
+        ],
+        "score": 0.15
+      },
+      {
+        "arasaacId": 39149,
+        "imagePath": "/symbol-candidates/cards/duyusal-ihtiyaclar-sarilmak-istemiyorum/39149.png",
+        "reviewImagePath": "../../public/symbol-candidates/cards/duyusal-ihtiyaclar-sarilmak-istemiyorum/39149.png",
+        "keywords": [
+          "no",
+          "negar"
+        ],
+        "score": 0.15
+      },
+      {
+        "arasaacId": 6023,
+        "imagePath": "/symbol-candidates/cards/duyusal-ihtiyaclar-sarilmak-istemiyorum/6023.png",
+        "reviewImagePath": "../../public/symbol-candidates/cards/duyusal-ihtiyaclar-sarilmak-istemiyorum/6023.png",
+        "keywords": [
+          "abrazar"
+        ],
+        "score": 0.05
+      },
+      {
+        "arasaacId": 34369,
+        "imagePath": "/symbol-candidates/cards/duyusal-ihtiyaclar-sarilmak-istemiyorum/34369.png",
+        "reviewImagePath": "../../public/symbol-candidates/cards/duyusal-ihtiyaclar-sarilmak-istemiyorum/34369.png",
+        "keywords": [
+          "abrazar"
+        ],
+        "score": 0.05
+      },
+      {
+        "arasaacId": 6156,
+        "imagePath": "/symbol-candidates/cards/duyusal-ihtiyaclar-sarilmak-istemiyorum/6156.png",
+        "reviewImagePath": "../../public/symbol-candidates/cards/duyusal-ihtiyaclar-sarilmak-istemiyorum/6156.png",
+        "keywords": [
+          "yo no quiero",
+          "no querer",
+          "no quiero"
+        ],
+        "score": 0.05
+      }
+    ]
+  },
+  {
+    "cardId": "guvenlik-elimi-tut",
+    "label": "Elimi tut",
+    "category": "Güvenlik",
+    "emoji": "🤝",
+    "queryTerms": [
+      "hold my hand",
+      "hand",
+      "coger la mano",
+      "dar la mano"
+    ],
+    "usedImprovedSearchTerms": true,
+    "topCandidateScore": 0.1,
+    "candidateImagePaths": [
+      "/symbol-candidates/cards/guvenlik-elimi-tut/32848.png",
+      "/symbol-candidates/cards/guvenlik-elimi-tut/5526.png",
+      "/symbol-candidates/cards/guvenlik-elimi-tut/39149.png",
+      "/symbol-candidates/cards/guvenlik-elimi-tut/7029.png",
+      "/symbol-candidates/cards/guvenlik-elimi-tut/17044.png"
+    ],
+    "candidateArasaacIds": [
+      32848,
+      5526,
+      39149,
+      7029,
+      17044
+    ],
+    "candidates": [
+      {
+        "arasaacId": 32848,
+        "imagePath": "/symbol-candidates/cards/guvenlik-elimi-tut/32848.png",
+        "reviewImagePath": "../../public/symbol-candidates/cards/guvenlik-elimi-tut/32848.png",
+        "keywords": [
+          "antes del mediodia",
+          "a m",
+          "ante meridiem"
+        ],
+        "score": 0.1
+      },
+      {
+        "arasaacId": 5526,
+        "imagePath": "/symbol-candidates/cards/guvenlik-elimi-tut/5526.png",
+        "reviewImagePath": "../../public/symbol-candidates/cards/guvenlik-elimi-tut/5526.png",
+        "keywords": [
+          "no"
+        ],
+        "score": 0.1
+      },
+      {
+        "arasaacId": 39149,
+        "imagePath": "/symbol-candidates/cards/guvenlik-elimi-tut/39149.png",
+        "reviewImagePath": "../../public/symbol-candidates/cards/guvenlik-elimi-tut/39149.png",
+        "keywords": [
+          "no",
+          "negar"
+        ],
+        "score": 0.1
+      },
+      {
+        "arasaacId": 7029,
+        "imagePath": "/symbol-candidates/cards/guvenlik-elimi-tut/7029.png",
+        "reviewImagePath": "../../public/symbol-candidates/cards/guvenlik-elimi-tut/7029.png",
+        "keywords": [
+          "ella",
+          "la",
+          "lo",
+          "si",
+          "se",
+          "ella se"
+        ],
+        "score": 0.1
+      },
+      {
+        "arasaacId": 17044,
+        "imagePath": "/symbol-candidates/cards/guvenlik-elimi-tut/17044.png",
+        "reviewImagePath": "../../public/symbol-candidates/cards/guvenlik-elimi-tut/17044.png",
+        "keywords": [
+          "coger",
+          "tomar",
+          "recibir",
+          "aceptar",
+          "admitir"
+        ],
+        "score": 0.05
+      }
+    ]
+  },
+  {
+    "cardId": "guvenlik-bekle",
+    "label": "Geri dur",
+    "category": "Güvenlik",
+    "emoji": "✋",
+    "queryTerms": [
+      "stay back",
+      "back",
+      "wait",
+      "esperar",
+      "atras"
+    ],
+    "usedImprovedSearchTerms": true,
+    "topCandidateScore": 0.24,
+    "candidateImagePaths": [
+      "/symbol-candidates/cards/guvenlik-bekle/36914.png",
+      "/symbol-candidates/cards/guvenlik-bekle/27547.png",
+      "/symbol-candidates/cards/guvenlik-bekle/16697.png",
+      "/symbol-candidates/cards/guvenlik-bekle/8109.png",
+      "/symbol-candidates/cards/guvenlik-bekle/28677.png"
+    ],
+    "candidateArasaacIds": [
+      36914,
+      27547,
+      16697,
+      8109,
+      28677
+    ],
+    "candidates": [
+      {
+        "arasaacId": 36914,
+        "imagePath": "/symbol-candidates/cards/guvenlik-bekle/36914.png",
+        "reviewImagePath": "../../public/symbol-candidates/cards/guvenlik-bekle/36914.png",
+        "keywords": [
+          "esperar"
+        ],
+        "score": 0.24
+      },
+      {
+        "arasaacId": 27547,
+        "imagePath": "/symbol-candidates/cards/guvenlik-bekle/27547.png",
+        "reviewImagePath": "../../public/symbol-candidates/cards/guvenlik-bekle/27547.png",
+        "keywords": [
+          "esperar"
+        ],
+        "score": 0.24
+      },
+      {
+        "arasaacId": 16697,
+        "imagePath": "/symbol-candidates/cards/guvenlik-bekle/16697.png",
+        "reviewImagePath": "../../public/symbol-candidates/cards/guvenlik-bekle/16697.png",
+        "keywords": [
+          "esperar"
+        ],
+        "score": 0.24
+      },
+      {
+        "arasaacId": 8109,
+        "imagePath": "/symbol-candidates/cards/guvenlik-bekle/8109.png",
+        "reviewImagePath": "../../public/symbol-candidates/cards/guvenlik-bekle/8109.png",
+        "keywords": [
+          "esperar"
+        ],
+        "score": 0.24
+      },
+      {
+        "arasaacId": 28677,
+        "imagePath": "/symbol-candidates/cards/guvenlik-bekle/28677.png",
+        "reviewImagePath": "../../public/symbol-candidates/cards/guvenlik-bekle/28677.png",
+        "keywords": [
+          "esperar"
+        ],
+        "score": 0.24
+      }
+    ]
+  },
+  {
+    "cardId": "guvenlik-acil-yardim",
+    "label": "Acil yardım",
+    "category": "Güvenlik",
+    "emoji": "🚨",
+    "queryTerms": [
+      "emergency help",
+      "help",
+      "ayuda",
+      "emergencia"
+    ],
+    "usedImprovedSearchTerms": true,
+    "topCandidateScore": 0.22,
+    "candidateImagePaths": [
+      "/symbol-candidates/cards/guvenlik-acil-yardim/33998.png",
+      "/symbol-candidates/cards/guvenlik-acil-yardim/19524.png",
+      "/symbol-candidates/cards/guvenlik-acil-yardim/12252.png",
+      "/symbol-candidates/cards/guvenlik-acil-yardim/6481.png",
+      "/symbol-candidates/cards/guvenlik-acil-yardim/31670.png"
+    ],
+    "candidateArasaacIds": [
+      33998,
+      19524,
+      12252,
+      6481,
+      31670
+    ],
+    "candidates": [
+      {
+        "arasaacId": 33998,
+        "imagePath": "/symbol-candidates/cards/guvenlik-acil-yardim/33998.png",
+        "reviewImagePath": "../../public/symbol-candidates/cards/guvenlik-acil-yardim/33998.png",
+        "keywords": [
+          "ayuda",
+          "subvencion"
+        ],
+        "score": 0.22
+      },
+      {
+        "arasaacId": 19524,
+        "imagePath": "/symbol-candidates/cards/guvenlik-acil-yardim/19524.png",
+        "reviewImagePath": "../../public/symbol-candidates/cards/guvenlik-acil-yardim/19524.png",
+        "keywords": [
+          "ayuda",
+          "colaboracion",
+          "cooperacion"
+        ],
+        "score": 0.21
+      },
+      {
+        "arasaacId": 12252,
+        "imagePath": "/symbol-candidates/cards/guvenlik-acil-yardim/12252.png",
+        "reviewImagePath": "../../public/symbol-candidates/cards/guvenlik-acil-yardim/12252.png",
+        "keywords": [
+          "apoyo",
+          "ayuda",
+          "colaboracion",
+          "cooperacion"
+        ],
+        "score": 0.2
+      },
+      {
+        "arasaacId": 6481,
+        "imagePath": "/symbol-candidates/cards/guvenlik-acil-yardim/6481.png",
+        "reviewImagePath": "../../public/symbol-candidates/cards/guvenlik-acil-yardim/6481.png",
+        "keywords": [
+          "el",
+          "le",
+          "lo",
+          "si",
+          "se",
+          "el se"
+        ],
+        "score": 0.1
+      },
+      {
+        "arasaacId": 31670,
+        "imagePath": "/symbol-candidates/cards/guvenlik-acil-yardim/31670.png",
+        "reviewImagePath": "../../public/symbol-candidates/cards/guvenlik-acil-yardim/31670.png",
+        "keywords": [
+          "el",
+          "le",
+          "lo",
+          "si",
+          "se",
+          "el se"
+        ],
+        "score": 0.1
+      }
+    ]
+  },
+  {
+    "cardId": "zaman-hemen",
+    "label": "Hemen",
+    "category": "Zaman",
+    "emoji": "⚡",
+    "queryTerms": [
+      "right now",
+      "immediately",
+      "ahora mismo"
+    ],
+    "usedImprovedSearchTerms": true,
+    "topCandidateScore": 0.07,
+    "candidateImagePaths": [
+      "/symbol-candidates/cards/zaman-hemen/32848.png",
+      "/symbol-candidates/cards/zaman-hemen/7022.png",
+      "/symbol-candidates/cards/zaman-hemen/26799.png",
+      "/symbol-candidates/cards/zaman-hemen/5526.png",
+      "/symbol-candidates/cards/zaman-hemen/39149.png"
+    ],
+    "candidateArasaacIds": [
+      32848,
+      7022,
+      26799,
+      5526,
+      39149
+    ],
+    "candidates": [
+      {
+        "arasaacId": 32848,
+        "imagePath": "/symbol-candidates/cards/zaman-hemen/32848.png",
+        "reviewImagePath": "../../public/symbol-candidates/cards/zaman-hemen/32848.png",
+        "keywords": [
+          "antes del mediodia",
+          "a m",
+          "ante meridiem"
+        ],
+        "score": 0.07
+      },
+      {
+        "arasaacId": 7022,
+        "imagePath": "/symbol-candidates/cards/zaman-hemen/7022.png",
+        "reviewImagePath": "../../public/symbol-candidates/cards/zaman-hemen/7022.png",
+        "keywords": [
+          "dia"
+        ],
+        "score": 0.07
+      },
+      {
+        "arasaacId": 26799,
+        "imagePath": "/symbol-candidates/cards/zaman-hemen/26799.png",
+        "reviewImagePath": "../../public/symbol-candidates/cards/zaman-hemen/26799.png",
+        "keywords": [
+          "dia"
+        ],
+        "score": 0.07
+      },
+      {
+        "arasaacId": 5526,
+        "imagePath": "/symbol-candidates/cards/zaman-hemen/5526.png",
+        "reviewImagePath": "../../public/symbol-candidates/cards/zaman-hemen/5526.png",
+        "keywords": [
+          "no"
+        ],
+        "score": 0.07
+      },
+      {
+        "arasaacId": 39149,
+        "imagePath": "/symbol-candidates/cards/zaman-hemen/39149.png",
+        "reviewImagePath": "../../public/symbol-candidates/cards/zaman-hemen/39149.png",
+        "keywords": [
+          "no",
+          "negar"
+        ],
+        "score": 0.07
+      }
+    ]
+  },
+  {
+    "cardId": "gunler-sali",
+    "label": "Salı",
+    "category": "Günler",
+    "emoji": "📅",
+    "queryTerms": [
+      "tuesday",
+      "martes"
+    ],
+    "usedImprovedSearchTerms": true,
+    "topCandidateScore": 0.2,
+    "candidateImagePaths": [
+      "/symbol-candidates/cards/gunler-sali/6625.png",
+      "/symbol-candidates/cards/gunler-sali/7290.png",
+      "/symbol-candidates/cards/gunler-sali/29802.png",
+      "/symbol-candidates/cards/gunler-sali/2608.png",
+      "/symbol-candidates/cards/gunler-sali/31801.png"
+    ],
+    "candidateArasaacIds": [
+      6625,
+      7290,
+      29802,
+      2608,
+      31801
+    ],
+    "candidates": [
+      {
+        "arasaacId": 6625,
+        "imagePath": "/symbol-candidates/cards/gunler-sali/6625.png",
+        "reviewImagePath": "../../public/symbol-candidates/cards/gunler-sali/6625.png",
+        "keywords": [
+          "tu",
+          "te",
+          "ti",
+          "usted",
+          "tu te"
+        ],
+        "score": 0.2
+      },
+      {
+        "arasaacId": 7290,
+        "imagePath": "/symbol-candidates/cards/gunler-sali/7290.png",
+        "reviewImagePath": "../../public/symbol-candidates/cards/gunler-sali/7290.png",
+        "keywords": [
+          "tu",
+          "te",
+          "ti",
+          "usted",
+          "tu te"
+        ],
+        "score": 0.2
+      },
+      {
+        "arasaacId": 29802,
+        "imagePath": "/symbol-candidates/cards/gunler-sali/29802.png",
+        "reviewImagePath": "../../public/symbol-candidates/cards/gunler-sali/29802.png",
+        "keywords": [
+          "te instantaneo",
+          "te"
+        ],
+        "score": 0.1
+      },
+      {
+        "arasaacId": 2608,
+        "imagePath": "/symbol-candidates/cards/gunler-sali/2608.png",
+        "reviewImagePath": "../../public/symbol-candidates/cards/gunler-sali/2608.png",
+        "keywords": [
+          "tu",
+          "usted",
+          "tu te"
+        ],
+        "score": 0.1
+      },
+      {
+        "arasaacId": 31801,
+        "imagePath": "/symbol-candidates/cards/gunler-sali/31801.png",
+        "reviewImagePath": "../../public/symbol-candidates/cards/gunler-sali/31801.png",
+        "keywords": [
+          "tu",
+          "usted",
+          "tu te"
+        ],
+        "score": 0.1
+      }
+    ]
+  },
+  {
+    "cardId": "gunler-cumartesi",
+    "label": "Cumartesi",
+    "category": "Günler",
+    "emoji": "📅",
+    "queryTerms": [
+      "saturday",
+      "sabado"
+    ],
+    "usedImprovedSearchTerms": true,
+    "topCandidateScore": 0.1,
+    "candidateImagePaths": [
+      "/symbol-candidates/cards/gunler-cumartesi/6625.png",
+      "/symbol-candidates/cards/gunler-cumartesi/7290.png",
+      "/symbol-candidates/cards/gunler-cumartesi/2608.png",
+      "/symbol-candidates/cards/gunler-cumartesi/31801.png",
+      "/symbol-candidates/cards/gunler-cumartesi/7289.png"
+    ],
+    "candidateArasaacIds": [
+      6625,
+      7290,
+      2608,
+      31801,
+      7289
+    ],
+    "candidates": [
+      {
+        "arasaacId": 6625,
+        "imagePath": "/symbol-candidates/cards/gunler-cumartesi/6625.png",
+        "reviewImagePath": "../../public/symbol-candidates/cards/gunler-cumartesi/6625.png",
+        "keywords": [
+          "tu",
+          "te",
+          "ti",
+          "usted",
+          "tu te"
+        ],
+        "score": 0.1
+      },
+      {
+        "arasaacId": 7290,
+        "imagePath": "/symbol-candidates/cards/gunler-cumartesi/7290.png",
+        "reviewImagePath": "../../public/symbol-candidates/cards/gunler-cumartesi/7290.png",
+        "keywords": [
+          "tu",
+          "te",
+          "ti",
+          "usted",
+          "tu te"
+        ],
+        "score": 0.1
+      },
+      {
+        "arasaacId": 2608,
+        "imagePath": "/symbol-candidates/cards/gunler-cumartesi/2608.png",
+        "reviewImagePath": "../../public/symbol-candidates/cards/gunler-cumartesi/2608.png",
+        "keywords": [
+          "tu",
+          "usted",
+          "tu te"
+        ],
+        "score": 0.1
+      },
+      {
+        "arasaacId": 31801,
+        "imagePath": "/symbol-candidates/cards/gunler-cumartesi/31801.png",
+        "reviewImagePath": "../../public/symbol-candidates/cards/gunler-cumartesi/31801.png",
+        "keywords": [
+          "tu",
+          "usted",
+          "tu te"
+        ],
+        "score": 0.1
+      },
+      {
+        "arasaacId": 7289,
+        "imagePath": "/symbol-candidates/cards/gunler-cumartesi/7289.png",
+        "reviewImagePath": "../../public/symbol-candidates/cards/gunler-cumartesi/7289.png",
+        "keywords": [
+          "tu",
+          "usted",
+          "tu te"
+        ],
+        "score": 0.1
+      }
+    ]
+  },
+  {
+    "cardId": "sayilar-sifir",
+    "label": "Sıfır",
+    "category": "Sayılar",
+    "emoji": "0️⃣",
+    "queryTerms": [
+      "zero",
+      "0",
+      "cero"
+    ],
+    "usedImprovedSearchTerms": true,
+    "topCandidateScore": 0.07,
+    "candidateImagePaths": [
+      "/symbol-candidates/cards/sayilar-sifir/39393.png",
+      "/symbol-candidates/cards/sayilar-sifir/39385.png",
+      "/symbol-candidates/cards/sayilar-sifir/39383.png",
+      "/symbol-candidates/cards/sayilar-sifir/39381.png",
+      "/symbol-candidates/cards/sayilar-sifir/39379.png"
+    ],
+    "candidateArasaacIds": [
+      39393,
+      39385,
+      39383,
+      39381,
+      39379
+    ],
+    "candidates": [
+      {
+        "arasaacId": 39393,
+        "imagePath": "/symbol-candidates/cards/sayilar-sifir/39393.png",
+        "reviewImagePath": "../../public/symbol-candidates/cards/sayilar-sifir/39393.png",
+        "keywords": [
+          "ocho y cuarto",
+          "20 15h",
+          "las ocho y cuarto",
+          "las 8 y cuarto"
+        ],
+        "score": 0.07
+      },
+      {
+        "arasaacId": 39385,
+        "imagePath": "/symbol-candidates/cards/sayilar-sifir/39385.png",
+        "reviewImagePath": "../../public/symbol-candidates/cards/sayilar-sifir/39385.png",
+        "keywords": [
+          "seis y media",
+          "18 30h",
+          "las seis y media",
+          "las 6 y media"
+        ],
+        "score": 0.07
+      },
+      {
+        "arasaacId": 39383,
+        "imagePath": "/symbol-candidates/cards/sayilar-sifir/39383.png",
+        "reviewImagePath": "../../public/symbol-candidates/cards/sayilar-sifir/39383.png",
+        "keywords": [
+          "19 00h",
+          "las siete",
+          "las 7",
+          "las siete en punto",
+          "las 7 en punto"
+        ],
+        "score": 0.07
+      },
+      {
+        "arasaacId": 39381,
+        "imagePath": "/symbol-candidates/cards/sayilar-sifir/39381.png",
+        "reviewImagePath": "../../public/symbol-candidates/cards/sayilar-sifir/39381.png",
+        "keywords": [
+          "siete y media",
+          "19 30h",
+          "las siete y media",
+          "las 7 y media"
+        ],
+        "score": 0.07
+      },
+      {
+        "arasaacId": 39379,
+        "imagePath": "/symbol-candidates/cards/sayilar-sifir/39379.png",
+        "reviewImagePath": "../../public/symbol-candidates/cards/sayilar-sifir/39379.png",
+        "keywords": [
+          "20 00h",
+          "las ocho",
+          "las 8",
+          "las ocho en punto",
+          "las 8 en punto"
+        ],
+        "score": 0.07
+      }
+    ]
+  },
+  {
+    "cardId": "sayilar-iki",
+    "label": "İki",
+    "category": "Sayılar",
+    "emoji": "2️⃣",
+    "queryTerms": [
+      "two",
+      "2",
+      "dos"
+    ],
+    "usedImprovedSearchTerms": true,
+    "topCandidateScore": 0.13,
+    "candidateImagePaths": [
+      "/symbol-candidates/cards/sayilar-iki/39329.png",
+      "/symbol-candidates/cards/sayilar-iki/39328.png",
+      "/symbol-candidates/cards/sayilar-iki/39327.png",
+      "/symbol-candidates/cards/sayilar-iki/39322.png",
+      "/symbol-candidates/cards/sayilar-iki/39308.png"
+    ],
+    "candidateArasaacIds": [
+      39329,
+      39328,
+      39327,
+      39322,
+      39308
+    ],
+    "candidates": [
+      {
+        "arasaacId": 39329,
+        "imagePath": "/symbol-candidates/cards/sayilar-iki/39329.png",
+        "reviewImagePath": "../../public/symbol-candidates/cards/sayilar-iki/39329.png",
+        "keywords": [
+          "dos y cuarto",
+          "14 15h",
+          "las dos y cuarto",
+          "las 2 y cuarto"
+        ],
+        "score": 0.13
+      },
+      {
+        "arasaacId": 39328,
+        "imagePath": "/symbol-candidates/cards/sayilar-iki/39328.png",
+        "reviewImagePath": "../../public/symbol-candidates/cards/sayilar-iki/39328.png",
+        "keywords": [
+          "dos menos cuarto",
+          "13 45h",
+          "las dos menos cuarto",
+          "las 2 menos cuarto"
+        ],
+        "score": 0.13
+      },
+      {
+        "arasaacId": 39327,
+        "imagePath": "/symbol-candidates/cards/sayilar-iki/39327.png",
+        "reviewImagePath": "../../public/symbol-candidates/cards/sayilar-iki/39327.png",
+        "keywords": [
+          "14 00h",
+          "las dos",
+          "las 2",
+          "las dos en punto",
+          "las 2 en punto"
+        ],
+        "score": 0.13
+      },
+      {
+        "arasaacId": 39322,
+        "imagePath": "/symbol-candidates/cards/sayilar-iki/39322.png",
+        "reviewImagePath": "../../public/symbol-candidates/cards/sayilar-iki/39322.png",
+        "keywords": [
+          "dos y media",
+          "14 30h",
+          "las dos y media",
+          "las 2 y media"
+        ],
+        "score": 0.13
+      },
+      {
+        "arasaacId": 39308,
+        "imagePath": "/symbol-candidates/cards/sayilar-iki/39308.png",
+        "reviewImagePath": "../../public/symbol-candidates/cards/sayilar-iki/39308.png",
+        "keywords": [
+          "dos y cuarto",
+          "02 15h",
+          "las dos y cuarto",
+          "las 2 y cuarto"
+        ],
+        "score": 0.13
+      }
+    ]
+  },
+  {
+    "cardId": "sayilar-bes",
+    "label": "Beş",
+    "category": "Sayılar",
+    "emoji": "5️⃣",
+    "queryTerms": [
+      "five",
+      "5",
+      "cinco"
+    ],
+    "usedImprovedSearchTerms": true,
+    "topCandidateScore": 0.13,
+    "candidateImagePaths": [
+      "/symbol-candidates/cards/sayilar-bes/39361.png",
+      "/symbol-candidates/cards/sayilar-bes/39359.png",
+      "/symbol-candidates/cards/sayilar-bes/39358.png",
+      "/symbol-candidates/cards/sayilar-bes/39357.png",
+      "/symbol-candidates/cards/sayilar-bes/39313.png"
+    ],
+    "candidateArasaacIds": [
+      39361,
+      39359,
+      39358,
+      39357,
+      39313
+    ],
+    "candidates": [
+      {
+        "arasaacId": 39361,
+        "imagePath": "/symbol-candidates/cards/sayilar-bes/39361.png",
+        "reviewImagePath": "../../public/symbol-candidates/cards/sayilar-bes/39361.png",
+        "keywords": [
+          "cinco menos cuarto",
+          "04 45h",
+          "las cinco menos cuarto",
+          "las 5 menos cuarto"
+        ],
+        "score": 0.13
+      },
+      {
+        "arasaacId": 39359,
+        "imagePath": "/symbol-candidates/cards/sayilar-bes/39359.png",
+        "reviewImagePath": "../../public/symbol-candidates/cards/sayilar-bes/39359.png",
+        "keywords": [
+          "05 00h",
+          "las cinco",
+          "las 5",
+          "las cinco en punto",
+          "las 5 en punto"
+        ],
+        "score": 0.13
+      },
+      {
+        "arasaacId": 39358,
+        "imagePath": "/symbol-candidates/cards/sayilar-bes/39358.png",
+        "reviewImagePath": "../../public/symbol-candidates/cards/sayilar-bes/39358.png",
+        "keywords": [
+          "cinco y cuarto",
+          "05 15h",
+          "las cinco y cuarto",
+          "las 5 y cuarto"
+        ],
+        "score": 0.13
+      },
+      {
+        "arasaacId": 39357,
+        "imagePath": "/symbol-candidates/cards/sayilar-bes/39357.png",
+        "reviewImagePath": "../../public/symbol-candidates/cards/sayilar-bes/39357.png",
+        "keywords": [
+          "cinco y media",
+          "05 30h",
+          "las cinco y media",
+          "las 5 y media"
+        ],
+        "score": 0.13
+      },
+      {
+        "arasaacId": 39313,
+        "imagePath": "/symbol-candidates/cards/sayilar-bes/39313.png",
+        "reviewImagePath": "../../public/symbol-candidates/cards/sayilar-bes/39313.png",
+        "keywords": [
+          "cinco menos cuarto",
+          "16 45h",
+          "las cinco menos cuarto",
+          "las 5 menos cuarto"
+        ],
+        "score": 0.13
+      }
+    ]
+  },
+  {
+    "cardId": "sayilar-alti",
+    "label": "Altı",
+    "category": "Sayılar",
+    "emoji": "6️⃣",
+    "queryTerms": [
+      "six",
+      "6",
+      "seis"
+    ],
+    "usedImprovedSearchTerms": true,
+    "topCandidateScore": 0.13,
+    "candidateImagePaths": [
+      "/symbol-candidates/cards/sayilar-alti/39386.png",
+      "/symbol-candidates/cards/sayilar-alti/39385.png",
+      "/symbol-candidates/cards/sayilar-alti/39376.png",
+      "/symbol-candidates/cards/sayilar-alti/39356.png",
+      "/symbol-candidates/cards/sayilar-alti/39355.png"
+    ],
+    "candidateArasaacIds": [
+      39386,
+      39385,
+      39376,
+      39356,
+      39355
+    ],
+    "candidates": [
+      {
+        "arasaacId": 39386,
+        "imagePath": "/symbol-candidates/cards/sayilar-alti/39386.png",
+        "reviewImagePath": "../../public/symbol-candidates/cards/sayilar-alti/39386.png",
+        "keywords": [
+          "seis y cuarto",
+          "18 15h",
+          "las seis y cuarto",
+          "las 6 y cuarto"
+        ],
+        "score": 0.13
+      },
+      {
+        "arasaacId": 39385,
+        "imagePath": "/symbol-candidates/cards/sayilar-alti/39385.png",
+        "reviewImagePath": "../../public/symbol-candidates/cards/sayilar-alti/39385.png",
+        "keywords": [
+          "seis y media",
+          "18 30h",
+          "las seis y media",
+          "las 6 y media"
+        ],
+        "score": 0.13
+      },
+      {
+        "arasaacId": 39376,
+        "imagePath": "/symbol-candidates/cards/sayilar-alti/39376.png",
+        "reviewImagePath": "../../public/symbol-candidates/cards/sayilar-alti/39376.png",
+        "keywords": [
+          "18 00h",
+          "las seis",
+          "las 6",
+          "las seis en punto",
+          "las 6 en punto"
+        ],
+        "score": 0.13
+      },
+      {
+        "arasaacId": 39356,
+        "imagePath": "/symbol-candidates/cards/sayilar-alti/39356.png",
+        "reviewImagePath": "../../public/symbol-candidates/cards/sayilar-alti/39356.png",
+        "keywords": [
+          "seis menos cuarto",
+          "05 45h",
+          "las seis menos cuarto",
+          "las 6 menos cuarto"
+        ],
+        "score": 0.13
+      },
+      {
+        "arasaacId": 39355,
+        "imagePath": "/symbol-candidates/cards/sayilar-alti/39355.png",
+        "reviewImagePath": "../../public/symbol-candidates/cards/sayilar-alti/39355.png",
+        "keywords": [
+          "06 00h",
+          "las seis",
+          "las 6",
+          "las seis en punto",
+          "las 6 en punto"
+        ],
+        "score": 0.13
+      }
+    ]
+  },
+  {
+    "cardId": "sayilar-yedi",
+    "label": "Yedi",
+    "category": "Sayılar",
+    "emoji": "7️⃣",
+    "queryTerms": [
+      "seven",
+      "7",
+      "siete"
+    ],
+    "usedImprovedSearchTerms": true,
+    "topCandidateScore": 0.13,
+    "candidateImagePaths": [
+      "/symbol-candidates/cards/sayilar-yedi/39384.png",
+      "/symbol-candidates/cards/sayilar-yedi/39383.png",
+      "/symbol-candidates/cards/sayilar-yedi/39382.png",
+      "/symbol-candidates/cards/sayilar-yedi/39381.png",
+      "/symbol-candidates/cards/sayilar-yedi/39360.png"
+    ],
+    "candidateArasaacIds": [
+      39384,
+      39383,
+      39382,
+      39381,
+      39360
+    ],
+    "candidates": [
+      {
+        "arasaacId": 39384,
+        "imagePath": "/symbol-candidates/cards/sayilar-yedi/39384.png",
+        "reviewImagePath": "../../public/symbol-candidates/cards/sayilar-yedi/39384.png",
+        "keywords": [
+          "siete menos cuarto",
+          "18 45h",
+          "las siete menos cuarto",
+          "las 7 menos cuarto"
+        ],
+        "score": 0.13
+      },
+      {
+        "arasaacId": 39383,
+        "imagePath": "/symbol-candidates/cards/sayilar-yedi/39383.png",
+        "reviewImagePath": "../../public/symbol-candidates/cards/sayilar-yedi/39383.png",
+        "keywords": [
+          "19 00h",
+          "las siete",
+          "las 7",
+          "las siete en punto",
+          "las 7 en punto"
+        ],
+        "score": 0.13
+      },
+      {
+        "arasaacId": 39382,
+        "imagePath": "/symbol-candidates/cards/sayilar-yedi/39382.png",
+        "reviewImagePath": "../../public/symbol-candidates/cards/sayilar-yedi/39382.png",
+        "keywords": [
+          "siete y cuarto",
+          "19 15h",
+          "las siete y cuarto",
+          "las 7 y cuarto"
+        ],
+        "score": 0.13
+      },
+      {
+        "arasaacId": 39381,
+        "imagePath": "/symbol-candidates/cards/sayilar-yedi/39381.png",
+        "reviewImagePath": "../../public/symbol-candidates/cards/sayilar-yedi/39381.png",
+        "keywords": [
+          "siete y media",
+          "19 30h",
+          "las siete y media",
+          "las 7 y media"
+        ],
+        "score": 0.13
+      },
+      {
+        "arasaacId": 39360,
+        "imagePath": "/symbol-candidates/cards/sayilar-yedi/39360.png",
+        "reviewImagePath": "../../public/symbol-candidates/cards/sayilar-yedi/39360.png",
+        "keywords": [
+          "siete menos cuarto",
+          "06 45h",
+          "las siete menos cuarto",
+          "las 7 menos cuarto"
+        ],
+        "score": 0.13
+      }
+    ]
+  },
+  {
+    "cardId": "sayilar-sekiz",
+    "label": "Sekiz",
+    "category": "Sayılar",
+    "emoji": "8️⃣",
+    "queryTerms": [
+      "eight",
+      "8",
+      "ocho"
+    ],
+    "usedImprovedSearchTerms": true,
+    "topCandidateScore": 0.13,
+    "candidateImagePaths": [
+      "/symbol-candidates/cards/sayilar-sekiz/39393.png",
+      "/symbol-candidates/cards/sayilar-sekiz/39380.png",
+      "/symbol-candidates/cards/sayilar-sekiz/39379.png",
+      "/symbol-candidates/cards/sayilar-sekiz/39378.png",
+      "/symbol-candidates/cards/sayilar-sekiz/39349.png"
+    ],
+    "candidateArasaacIds": [
+      39393,
+      39380,
+      39379,
+      39378,
+      39349
+    ],
+    "candidates": [
+      {
+        "arasaacId": 39393,
+        "imagePath": "/symbol-candidates/cards/sayilar-sekiz/39393.png",
+        "reviewImagePath": "../../public/symbol-candidates/cards/sayilar-sekiz/39393.png",
+        "keywords": [
+          "ocho y cuarto",
+          "20 15h",
+          "las ocho y cuarto",
+          "las 8 y cuarto"
+        ],
+        "score": 0.13
+      },
+      {
+        "arasaacId": 39380,
+        "imagePath": "/symbol-candidates/cards/sayilar-sekiz/39380.png",
+        "reviewImagePath": "../../public/symbol-candidates/cards/sayilar-sekiz/39380.png",
+        "keywords": [
+          "ocho menos cuarto",
+          "19 45h",
+          "las ocho menos cuarto",
+          "las 8 menos cuarto"
+        ],
+        "score": 0.13
+      },
+      {
+        "arasaacId": 39379,
+        "imagePath": "/symbol-candidates/cards/sayilar-sekiz/39379.png",
+        "reviewImagePath": "../../public/symbol-candidates/cards/sayilar-sekiz/39379.png",
+        "keywords": [
+          "20 00h",
+          "las ocho",
+          "las 8",
+          "las ocho en punto",
+          "las 8 en punto"
+        ],
+        "score": 0.13
+      },
+      {
+        "arasaacId": 39378,
+        "imagePath": "/symbol-candidates/cards/sayilar-sekiz/39378.png",
+        "reviewImagePath": "../../public/symbol-candidates/cards/sayilar-sekiz/39378.png",
+        "keywords": [
+          "ocho y media",
+          "20 30h",
+          "las ocho y media",
+          "las 8 y media"
+        ],
+        "score": 0.13
+      },
+      {
+        "arasaacId": 39349,
+        "imagePath": "/symbol-candidates/cards/sayilar-sekiz/39349.png",
+        "reviewImagePath": "../../public/symbol-candidates/cards/sayilar-sekiz/39349.png",
+        "keywords": [
+          "ocho menos cuarto",
+          "07 45h",
+          "las ocho menos cuarto",
+          "las 8 menos cuarto"
+        ],
+        "score": 0.13
+      }
+    ]
+  },
+  {
+    "cardId": "sayilar-on",
+    "label": "On",
+    "category": "Sayılar",
+    "emoji": "🔟",
+    "queryTerms": [
+      "ten",
+      "10",
+      "diez"
+    ],
+    "usedImprovedSearchTerms": true,
+    "topCandidateScore": 0.13,
+    "candidateImagePaths": [
+      "/symbol-candidates/cards/sayilar-on/39372.png",
+      "/symbol-candidates/cards/sayilar-on/39371.png",
+      "/symbol-candidates/cards/sayilar-on/39370.png",
+      "/symbol-candidates/cards/sayilar-on/39369.png",
+      "/symbol-candidates/cards/sayilar-on/39352.png"
+    ],
+    "candidateArasaacIds": [
+      39372,
+      39371,
+      39370,
+      39369,
+      39352
+    ],
+    "candidates": [
+      {
+        "arasaacId": 39372,
+        "imagePath": "/symbol-candidates/cards/sayilar-on/39372.png",
+        "reviewImagePath": "../../public/symbol-candidates/cards/sayilar-on/39372.png",
+        "keywords": [
+          "diez menos cuarto",
+          "21 45h",
+          "las diez menos cuarto",
+          "las 10 menos cuarto"
+        ],
+        "score": 0.13
+      },
+      {
+        "arasaacId": 39371,
+        "imagePath": "/symbol-candidates/cards/sayilar-on/39371.png",
+        "reviewImagePath": "../../public/symbol-candidates/cards/sayilar-on/39371.png",
+        "keywords": [
+          "22 00h",
+          "las diez",
+          "las 10",
+          "las diez en punto",
+          "las 10 en punto"
+        ],
+        "score": 0.13
+      },
+      {
+        "arasaacId": 39370,
+        "imagePath": "/symbol-candidates/cards/sayilar-on/39370.png",
+        "reviewImagePath": "../../public/symbol-candidates/cards/sayilar-on/39370.png",
+        "keywords": [
+          "diez y cuarto",
+          "22 15h",
+          "las diez y cuarto",
+          "las 10 y cuarto"
+        ],
+        "score": 0.13
+      },
+      {
+        "arasaacId": 39369,
+        "imagePath": "/symbol-candidates/cards/sayilar-on/39369.png",
+        "reviewImagePath": "../../public/symbol-candidates/cards/sayilar-on/39369.png",
+        "keywords": [
+          "diez y media",
+          "22 30h",
+          "las diez y media",
+          "las 10 y media"
+        ],
+        "score": 0.13
+      },
+      {
+        "arasaacId": 39352,
+        "imagePath": "/symbol-candidates/cards/sayilar-on/39352.png",
+        "reviewImagePath": "../../public/symbol-candidates/cards/sayilar-on/39352.png",
+        "keywords": [
+          "diez y cuarto",
+          "10 15h",
+          "las diez y cuarto",
+          "las 10 y cuarto"
+        ],
+        "score": 0.13
+      }
+    ]
+  },
+  {
+    "cardId": "renkler-pembe",
+    "label": "Pembe",
+    "category": "Renkler",
+    "emoji": "🩷",
+    "queryTerms": [
+      "pink",
+      "rosa"
+    ],
+    "usedImprovedSearchTerms": true,
+    "topCandidateScore": 0.1,
+    "candidateImagePaths": [
+      "/symbol-candidates/cards/renkler-pembe/32340.png",
+      "/symbol-candidates/cards/renkler-pembe/27131.png",
+      "/symbol-candidates/cards/renkler-pembe/36163.png",
+      "/symbol-candidates/cards/renkler-pembe/32054.png",
+      "/symbol-candidates/cards/renkler-pembe/32053.png"
+    ],
+    "candidateArasaacIds": [
+      32340,
+      27131,
+      36163,
+      32054,
+      32053
+    ],
+    "candidates": [
+      {
+        "arasaacId": 32340,
+        "imagePath": "/symbol-candidates/cards/renkler-pembe/32340.png",
+        "reviewImagePath": "../../public/symbol-candidates/cards/renkler-pembe/32340.png",
+        "keywords": [
+          "agradable",
+          "sabroso",
+          "sabrosa",
+          "rico",
+          "rica",
+          "apetitoso",
+          "apetitosa",
+          "exquisito"
+        ],
+        "score": 0.1
+      },
+      {
+        "arasaacId": 27131,
+        "imagePath": "/symbol-candidates/cards/renkler-pembe/27131.png",
+        "reviewImagePath": "../../public/symbol-candidates/cards/renkler-pembe/27131.png",
+        "keywords": [
+          "vino rosado"
+        ],
+        "score": 0.1
+      },
+      {
+        "arasaacId": 36163,
+        "imagePath": "/symbol-candidates/cards/renkler-pembe/36163.png",
+        "reviewImagePath": "../../public/symbol-candidates/cards/renkler-pembe/36163.png",
+        "keywords": [
+          "valiente",
+          "valeroso",
+          "valerosa",
+          "atrevido",
+          "atrevida"
+        ],
+        "score": 0.1
+      },
+      {
+        "arasaacId": 32054,
+        "imagePath": "/symbol-candidates/cards/renkler-pembe/32054.png",
+        "reviewImagePath": "../../public/symbol-candidates/cards/renkler-pembe/32054.png",
+        "keywords": [
+          "vision borrosa"
+        ],
+        "score": 0.1
+      },
+      {
+        "arasaacId": 32053,
+        "imagePath": "/symbol-candidates/cards/renkler-pembe/32053.png",
+        "reviewImagePath": "../../public/symbol-candidates/cards/renkler-pembe/32053.png",
+        "keywords": [
+          "vision borrosa"
+        ],
+        "score": 0.1
+      }
+    ]
+  },
+  {
+    "cardId": "renkler-siyah",
+    "label": "Siyah",
+    "category": "Renkler",
+    "emoji": "⬛",
+    "queryTerms": [
+      "black",
+      "negro"
+    ],
+    "usedImprovedSearchTerms": true,
+    "topCandidateScore": 0.1,
+    "candidateImagePaths": [
+      "/symbol-candidates/cards/renkler-siyah/34599.png",
+      "/symbol-candidates/cards/renkler-siyah/39250.png",
+      "/symbol-candidates/cards/renkler-siyah/7029.png",
+      "/symbol-candidates/cards/renkler-siyah/27307.png"
+    ],
+    "candidateArasaacIds": [
+      34599,
+      39250,
+      7029,
+      27307
+    ],
+    "candidates": [
+      {
+        "arasaacId": 34599,
+        "imagePath": "/symbol-candidates/cards/renkler-siyah/34599.png",
+        "reviewImagePath": "../../public/symbol-candidates/cards/renkler-siyah/34599.png",
+        "keywords": [
+          "pacu negro"
+        ],
+        "score": 0.1
+      },
+      {
+        "arasaacId": 39250,
+        "imagePath": "/symbol-candidates/cards/renkler-siyah/39250.png",
+        "reviewImagePath": "../../public/symbol-candidates/cards/renkler-siyah/39250.png",
+        "keywords": [
+          "chocolate negro"
+        ],
+        "score": 0.1
+      },
+      {
+        "arasaacId": 7029,
+        "imagePath": "/symbol-candidates/cards/renkler-siyah/7029.png",
+        "reviewImagePath": "../../public/symbol-candidates/cards/renkler-siyah/7029.png",
+        "keywords": [
+          "ella",
+          "la",
+          "lo",
+          "si",
+          "se",
+          "ella se"
+        ],
+        "score": 0.1
+      },
+      {
+        "arasaacId": 27307,
+        "imagePath": "/symbol-candidates/cards/renkler-siyah/27307.png",
+        "reviewImagePath": "../../public/symbol-candidates/cards/renkler-siyah/27307.png",
+        "keywords": [
+          "montenegro"
+        ],
+        "score": 0.1
+      }
+    ]
+  },
+  {
+    "cardId": "renkler-beyaz",
+    "label": "Beyaz",
+    "category": "Renkler",
+    "emoji": "⬜",
+    "queryTerms": [
+      "white",
+      "blanco"
+    ],
+    "usedImprovedSearchTerms": true,
+    "topCandidateScore": 0.1,
+    "candidateImagePaths": [
+      "/symbol-candidates/cards/renkler-beyaz/39387.png",
+      "/symbol-candidates/cards/renkler-beyaz/6625.png",
+      "/symbol-candidates/cards/renkler-beyaz/7290.png",
+      "/symbol-candidates/cards/renkler-beyaz/29802.png",
+      "/symbol-candidates/cards/renkler-beyaz/38490.png"
+    ],
+    "candidateArasaacIds": [
+      39387,
+      6625,
+      7290,
+      29802,
+      38490
+    ],
+    "candidates": [
+      {
+        "arasaacId": 39387,
+        "imagePath": "/symbol-candidates/cards/renkler-beyaz/39387.png",
+        "reviewImagePath": "../../public/symbol-candidates/cards/renkler-beyaz/39387.png",
+        "keywords": [
+          "arroz",
+          "arroz blanco"
+        ],
+        "score": 0.1
+      },
+      {
+        "arasaacId": 6625,
+        "imagePath": "/symbol-candidates/cards/renkler-beyaz/6625.png",
+        "reviewImagePath": "../../public/symbol-candidates/cards/renkler-beyaz/6625.png",
+        "keywords": [
+          "tu",
+          "te",
+          "ti",
+          "usted",
+          "tu te"
+        ],
+        "score": 0.1
+      },
+      {
+        "arasaacId": 7290,
+        "imagePath": "/symbol-candidates/cards/renkler-beyaz/7290.png",
+        "reviewImagePath": "../../public/symbol-candidates/cards/renkler-beyaz/7290.png",
+        "keywords": [
+          "tu",
+          "te",
+          "ti",
+          "usted",
+          "tu te"
+        ],
+        "score": 0.1
+      },
+      {
+        "arasaacId": 29802,
+        "imagePath": "/symbol-candidates/cards/renkler-beyaz/29802.png",
+        "reviewImagePath": "../../public/symbol-candidates/cards/renkler-beyaz/29802.png",
+        "keywords": [
+          "te instantaneo",
+          "te"
+        ],
+        "score": 0.1
+      },
+      {
+        "arasaacId": 38490,
+        "imagePath": "/symbol-candidates/cards/renkler-beyaz/38490.png",
+        "reviewImagePath": "../../public/symbol-candidates/cards/renkler-beyaz/38490.png",
+        "keywords": [
+          "chocolate blanco"
+        ],
+        "score": 0.1
+      }
+    ]
+  },
+  {
+    "cardId": "kiyafetler-tisort",
+    "label": "Tişört",
+    "category": "Kıyafetler",
+    "emoji": "👕",
+    "queryTerms": [
+      "t-shirt",
+      "shirt",
+      "camiseta"
+    ],
+    "usedImprovedSearchTerms": true,
+    "topCandidateScore": 0.07,
+    "candidateImagePaths": [
+      "/symbol-candidates/cards/kiyafetler-tisort/37219.png",
+      "/symbol-candidates/cards/kiyafetler-tisort/37220.png",
+      "/symbol-candidates/cards/kiyafetler-tisort/6481.png",
+      "/symbol-candidates/cards/kiyafetler-tisort/7029.png",
+      "/symbol-candidates/cards/kiyafetler-tisort/7031.png"
+    ],
+    "candidateArasaacIds": [
+      37219,
+      37220,
+      6481,
+      7029,
+      7031
+    ],
+    "candidates": [
+      {
+        "arasaacId": 37219,
+        "imagePath": "/symbol-candidates/cards/kiyafetler-tisort/37219.png",
+        "reviewImagePath": "../../public/symbol-candidates/cards/kiyafetler-tisort/37219.png",
+        "keywords": [
+          "camiseta del reves",
+          "del reves",
+          "al reves"
+        ],
+        "score": 0.07
+      },
+      {
+        "arasaacId": 37220,
+        "imagePath": "/symbol-candidates/cards/kiyafetler-tisort/37220.png",
+        "reviewImagePath": "../../public/symbol-candidates/cards/kiyafetler-tisort/37220.png",
+        "keywords": [
+          "camiseta del reves",
+          "del reves",
+          "al reves"
+        ],
+        "score": 0.07
+      },
+      {
+        "arasaacId": 6481,
+        "imagePath": "/symbol-candidates/cards/kiyafetler-tisort/6481.png",
+        "reviewImagePath": "../../public/symbol-candidates/cards/kiyafetler-tisort/6481.png",
+        "keywords": [
+          "el",
+          "le",
+          "lo",
+          "si",
+          "se",
+          "el se"
+        ],
+        "score": 0.07
+      },
+      {
+        "arasaacId": 7029,
+        "imagePath": "/symbol-candidates/cards/kiyafetler-tisort/7029.png",
+        "reviewImagePath": "../../public/symbol-candidates/cards/kiyafetler-tisort/7029.png",
+        "keywords": [
+          "ella",
+          "la",
+          "lo",
+          "si",
+          "se",
+          "ella se"
+        ],
+        "score": 0.07
+      },
+      {
+        "arasaacId": 7031,
+        "imagePath": "/symbol-candidates/cards/kiyafetler-tisort/7031.png",
+        "reviewImagePath": "../../public/symbol-candidates/cards/kiyafetler-tisort/7031.png",
+        "keywords": [
+          "ellas",
+          "si",
+          "les",
+          "las",
+          "se",
+          "ellas se"
+        ],
+        "score": 0.07
+      }
+    ]
+  },
+  {
+    "cardId": "kiyafetler-sapka",
+    "label": "Şapka",
+    "category": "Kıyafetler",
+    "emoji": "🧢",
+    "queryTerms": [
+      "hat",
+      "cap",
+      "gorra",
+      "sombrero"
+    ],
+    "usedImprovedSearchTerms": true,
+    "topCandidateScore": 0.05,
+    "candidateImagePaths": [
+      "/symbol-candidates/cards/kiyafetler-sapka/2553.png",
+      "/symbol-candidates/cards/kiyafetler-sapka/8092.png",
+      "/symbol-candidates/cards/kiyafetler-sapka/8091.png",
+      "/symbol-candidates/cards/kiyafetler-sapka/8090.png",
+      "/symbol-candidates/cards/kiyafetler-sapka/14010.png"
+    ],
+    "candidateArasaacIds": [
+      2553,
+      8092,
+      8091,
+      8090,
+      14010
+    ],
+    "candidates": [
+      {
+        "arasaacId": 2553,
+        "imagePath": "/symbol-candidates/cards/kiyafetler-sapka/2553.png",
+        "reviewImagePath": "../../public/symbol-candidates/cards/kiyafetler-sapka/2553.png",
+        "keywords": [
+          "sacapuntas",
+          "sacaminas"
+        ],
+        "score": 0.05
+      },
+      {
+        "arasaacId": 8092,
+        "imagePath": "/symbol-candidates/cards/kiyafetler-sapka/8092.png",
+        "reviewImagePath": "../../public/symbol-candidates/cards/kiyafetler-sapka/8092.png",
+        "keywords": [
+          "discapacidad motriz"
+        ],
+        "score": 0.05
+      },
+      {
+        "arasaacId": 8091,
+        "imagePath": "/symbol-candidates/cards/kiyafetler-sapka/8091.png",
+        "reviewImagePath": "../../public/symbol-candidates/cards/kiyafetler-sapka/8091.png",
+        "keywords": [
+          "discapacidad motriz"
+        ],
+        "score": 0.05
+      },
+      {
+        "arasaacId": 8090,
+        "imagePath": "/symbol-candidates/cards/kiyafetler-sapka/8090.png",
+        "reviewImagePath": "../../public/symbol-candidates/cards/kiyafetler-sapka/8090.png",
+        "keywords": [
+          "personas con discapacidad"
+        ],
+        "score": 0.05
+      },
+      {
+        "arasaacId": 14010,
+        "imagePath": "/symbol-candidates/cards/kiyafetler-sapka/14010.png",
+        "reviewImagePath": "../../public/symbol-candidates/cards/kiyafetler-sapka/14010.png",
+        "keywords": [
+          "residencia para discapacitados"
+        ],
+        "score": 0.05
+      }
+    ]
+  },
+  {
+    "cardId": "kiyafetler-kazak",
+    "label": "Kazak",
+    "category": "Kıyafetler",
+    "emoji": "🧶",
+    "queryTerms": [
+      "sweater",
+      "jumper",
+      "jersey"
+    ],
+    "usedImprovedSearchTerms": true,
+    "topCandidateScore": 0.07,
+    "candidateImagePaths": [
+      "/symbol-candidates/cards/kiyafetler-kazak/6625.png",
+      "/symbol-candidates/cards/kiyafetler-kazak/7290.png",
+      "/symbol-candidates/cards/kiyafetler-kazak/29802.png",
+      "/symbol-candidates/cards/kiyafetler-kazak/6481.png",
+      "/symbol-candidates/cards/kiyafetler-kazak/7029.png"
+    ],
+    "candidateArasaacIds": [
+      6625,
+      7290,
+      29802,
+      6481,
+      7029
+    ],
+    "candidates": [
+      {
+        "arasaacId": 6625,
+        "imagePath": "/symbol-candidates/cards/kiyafetler-kazak/6625.png",
+        "reviewImagePath": "../../public/symbol-candidates/cards/kiyafetler-kazak/6625.png",
+        "keywords": [
+          "tu",
+          "te",
+          "ti",
+          "usted",
+          "tu te"
+        ],
+        "score": 0.07
+      },
+      {
+        "arasaacId": 7290,
+        "imagePath": "/symbol-candidates/cards/kiyafetler-kazak/7290.png",
+        "reviewImagePath": "../../public/symbol-candidates/cards/kiyafetler-kazak/7290.png",
+        "keywords": [
+          "tu",
+          "te",
+          "ti",
+          "usted",
+          "tu te"
+        ],
+        "score": 0.07
+      },
+      {
+        "arasaacId": 29802,
+        "imagePath": "/symbol-candidates/cards/kiyafetler-kazak/29802.png",
+        "reviewImagePath": "../../public/symbol-candidates/cards/kiyafetler-kazak/29802.png",
+        "keywords": [
+          "te instantaneo",
+          "te"
+        ],
+        "score": 0.07
+      },
+      {
+        "arasaacId": 6481,
+        "imagePath": "/symbol-candidates/cards/kiyafetler-kazak/6481.png",
+        "reviewImagePath": "../../public/symbol-candidates/cards/kiyafetler-kazak/6481.png",
+        "keywords": [
+          "el",
+          "le",
+          "lo",
+          "si",
+          "se",
+          "el se"
+        ],
+        "score": 0.07
+      },
+      {
+        "arasaacId": 7029,
+        "imagePath": "/symbol-candidates/cards/kiyafetler-kazak/7029.png",
+        "reviewImagePath": "../../public/symbol-candidates/cards/kiyafetler-kazak/7029.png",
+        "keywords": [
+          "ella",
+          "la",
+          "lo",
+          "si",
+          "se",
+          "ella se"
+        ],
+        "score": 0.07
+      }
+    ]
+  },
+  {
+    "cardId": "kiyafetler-etek",
+    "label": "Etek",
+    "category": "Kıyafetler",
+    "emoji": "👚",
+    "queryTerms": [
+      "skirt",
+      "falda"
+    ],
+    "usedImprovedSearchTerms": true,
+    "topCandidateScore": 0.1,
+    "candidateImagePaths": [
+      "/symbol-candidates/cards/kiyafetler-etek/37066.png",
+      "/symbol-candidates/cards/kiyafetler-etek/37067.png",
+      "/symbol-candidates/cards/kiyafetler-etek/37055.png",
+      "/symbol-candidates/cards/kiyafetler-etek/15513.png",
+      "/symbol-candidates/cards/kiyafetler-etek/38239.png"
+    ],
+    "candidateArasaacIds": [
+      37066,
+      37067,
+      37055,
+      15513,
+      38239
+    ],
+    "candidates": [
+      {
+        "arasaacId": 37066,
+        "imagePath": "/symbol-candidates/cards/kiyafetler-etek/37066.png",
+        "reviewImagePath": "../../public/symbol-candidates/cards/kiyafetler-etek/37066.png",
+        "keywords": [
+          "juego de falda",
+          "cantar una nana",
+          "jugar con el bebe",
+          "entretener al bebe"
+        ],
+        "score": 0.1
+      },
+      {
+        "arasaacId": 37067,
+        "imagePath": "/symbol-candidates/cards/kiyafetler-etek/37067.png",
+        "reviewImagePath": "../../public/symbol-candidates/cards/kiyafetler-etek/37067.png",
+        "keywords": [
+          "juego de falda",
+          "cantar una nana",
+          "jugar con el bebe",
+          "entretener al bebe"
+        ],
+        "score": 0.1
+      },
+      {
+        "arasaacId": 37055,
+        "imagePath": "/symbol-candidates/cards/kiyafetler-etek/37055.png",
+        "reviewImagePath": "../../public/symbol-candidates/cards/kiyafetler-etek/37055.png",
+        "keywords": [
+          "juego de falda",
+          "cantar una nana",
+          "jugar con el bebe",
+          "entretener al bebe"
+        ],
+        "score": 0.1
+      },
+      {
+        "arasaacId": 15513,
+        "imagePath": "/symbol-candidates/cards/kiyafetler-etek/15513.png",
+        "reviewImagePath": "../../public/symbol-candidates/cards/kiyafetler-etek/15513.png",
+        "keywords": [
+          "subir la falda",
+          "subir la pollera"
+        ],
+        "score": 0.1
+      },
+      {
+        "arasaacId": 38239,
+        "imagePath": "/symbol-candidates/cards/kiyafetler-etek/38239.png",
+        "reviewImagePath": "../../public/symbol-candidates/cards/kiyafetler-etek/38239.png",
+        "keywords": [
+          "subir la falda",
+          "subir la pollera"
+        ],
+        "score": 0.1
+      }
+    ]
+  },
+  {
+    "cardId": "hava-durumu-firtina",
+    "label": "Fırtına",
+    "category": "Hava Durumu",
+    "emoji": "⛈️",
+    "queryTerms": [
+      "storm",
+      "thunderstorm",
+      "tormenta"
+    ],
+    "usedImprovedSearchTerms": true,
+    "topCandidateScore": 0.13,
+    "candidateImagePaths": [
+      "/symbol-candidates/cards/hava-durumu-firtina/11659.png"
+    ],
+    "candidateArasaacIds": [
+      11659
+    ],
+    "candidates": [
+      {
+        "arasaacId": 11659,
+        "imagePath": "/symbol-candidates/cards/hava-durumu-firtina/11659.png",
+        "reviewImagePath": "../../public/symbol-candidates/cards/hava-durumu-firtina/11659.png",
+        "keywords": [
+          "sto",
+          "servicio de terapia ocupacional"
+        ],
+        "score": 0.13
+      }
+    ]
+  },
+  {
+    "cardId": "hava-durumu-sisli",
+    "label": "Sisli",
+    "category": "Hava Durumu",
+    "emoji": "🌫️",
+    "queryTerms": [
+      "foggy",
+      "fog",
+      "niebla"
+    ],
+    "usedImprovedSearchTerms": true,
+    "topCandidateScore": 0.07,
+    "candidateImagePaths": [
+      "/symbol-candidates/cards/hava-durumu-sisli/7029.png"
+    ],
+    "candidateArasaacIds": [
+      7029
+    ],
+    "candidates": [
+      {
+        "arasaacId": 7029,
+        "imagePath": "/symbol-candidates/cards/hava-durumu-sisli/7029.png",
+        "reviewImagePath": "../../public/symbol-candidates/cards/hava-durumu-sisli/7029.png",
+        "keywords": [
+          "ella",
+          "la",
+          "lo",
+          "si",
+          "se",
+          "ella se"
+        ],
+        "score": 0.07
+      }
+    ]
+  },
+  {
+    "cardId": "hava-durumu-gokkusagi",
+    "label": "Gökkuşağı",
+    "category": "Hava Durumu",
+    "emoji": "🌈",
+    "queryTerms": [
+      "rainbow",
+      "arco iris",
+      "arcoiris"
+    ],
+    "usedImprovedSearchTerms": true,
+    "topCandidateScore": 0.07,
+    "candidateImagePaths": [
+      "/symbol-candidates/cards/hava-durumu-gokkusagi/29720.png",
+      "/symbol-candidates/cards/hava-durumu-gokkusagi/37486.png",
+      "/symbol-candidates/cards/hava-durumu-gokkusagi/39705.png",
+      "/symbol-candidates/cards/hava-durumu-gokkusagi/6572.png",
+      "/symbol-candidates/cards/hava-durumu-gokkusagi/2381.png"
+    ],
+    "candidateArasaacIds": [
+      29720,
+      37486,
+      39705,
+      6572,
+      2381
+    ],
+    "candidates": [
+      {
+        "arasaacId": 29720,
+        "imagePath": "/symbol-candidates/cards/hava-durumu-gokkusagi/29720.png",
+        "reviewImagePath": "../../public/symbol-candidates/cards/hava-durumu-gokkusagi/29720.png",
+        "keywords": [
+          "escuchar musica",
+          "oir musica",
+          "escuchar",
+          "oir"
+        ],
+        "score": 0.07
+      },
+      {
+        "arasaacId": 37486,
+        "imagePath": "/symbol-candidates/cards/hava-durumu-gokkusagi/37486.png",
+        "reviewImagePath": "../../public/symbol-candidates/cards/hava-durumu-gokkusagi/37486.png",
+        "keywords": [
+          "escuchar musica",
+          "oir musica",
+          "escuchar",
+          "oir"
+        ],
+        "score": 0.07
+      },
+      {
+        "arasaacId": 39705,
+        "imagePath": "/symbol-candidates/cards/hava-durumu-gokkusagi/39705.png",
+        "reviewImagePath": "../../public/symbol-candidates/cards/hava-durumu-gokkusagi/39705.png",
+        "keywords": [
+          "inteligencia artificial",
+          "ai"
+        ],
+        "score": 0.07
+      },
+      {
+        "arasaacId": 6572,
+        "imagePath": "/symbol-candidates/cards/hava-durumu-gokkusagi/6572.png",
+        "reviewImagePath": "../../public/symbol-candidates/cards/hava-durumu-gokkusagi/6572.png",
+        "keywords": [
+          "oir",
+          "escuchar"
+        ],
+        "score": 0.07
+      },
+      {
+        "arasaacId": 2381,
+        "imagePath": "/symbol-candidates/cards/hava-durumu-gokkusagi/2381.png",
+        "reviewImagePath": "../../public/symbol-candidates/cards/hava-durumu-gokkusagi/2381.png",
+        "keywords": [
+          "oir",
+          "escuchar"
+        ],
+        "score": 0.07
+      }
+    ]
+  },
+  {
+    "cardId": "hava-durumu-serin",
+    "label": "Serin",
+    "category": "Hava Durumu",
+    "emoji": "🍃",
+    "queryTerms": [
+      "cool weather",
+      "fresh",
+      "fresco"
+    ],
+    "usedImprovedSearchTerms": true,
+    "topCandidateScore": 0.27,
+    "candidateImagePaths": [
+      "/symbol-candidates/cards/hava-durumu-serin/26865.png",
+      "/symbol-candidates/cards/hava-durumu-serin/38046.png",
+      "/symbol-candidates/cards/hava-durumu-serin/4732.png"
+    ],
+    "candidateArasaacIds": [
+      26865,
+      38046,
+      4732
+    ],
+    "candidates": [
+      {
+        "arasaacId": 26865,
+        "imagePath": "/symbol-candidates/cards/hava-durumu-serin/26865.png",
+        "reviewImagePath": "../../public/symbol-candidates/cards/hava-durumu-serin/26865.png",
+        "keywords": [
+          "frio",
+          "fria",
+          "fresco",
+          "fresca"
+        ],
+        "score": 0.27
+      },
+      {
+        "arasaacId": 38046,
+        "imagePath": "/symbol-candidates/cards/hava-durumu-serin/38046.png",
+        "reviewImagePath": "../../public/symbol-candidates/cards/hava-durumu-serin/38046.png",
+        "keywords": [
+          "queso fresco"
+        ],
+        "score": 0.07
+      },
+      {
+        "arasaacId": 4732,
+        "imagePath": "/symbol-candidates/cards/hava-durumu-serin/4732.png",
+        "reviewImagePath": "../../public/symbol-candidates/cards/hava-durumu-serin/4732.png",
+        "keywords": [
+          "refresco"
+        ],
+        "score": 0.07
+      }
+    ]
+  },
+  {
+    "cardId": "tasitlar-ambulans",
+    "label": "Ambulans",
+    "category": "Taşıtlar",
+    "emoji": "🚑",
+    "queryTerms": [
+      "ambulance",
+      "ambulancia"
+    ],
+    "usedImprovedSearchTerms": true,
+    "topCandidateScore": 0.2,
+    "candidateImagePaths": [
+      "/symbol-candidates/cards/tasitlar-ambulans/7029.png",
+      "/symbol-candidates/cards/tasitlar-ambulans/39704.png"
+    ],
+    "candidateArasaacIds": [
+      7029,
+      39704
+    ],
+    "candidates": [
+      {
+        "arasaacId": 7029,
+        "imagePath": "/symbol-candidates/cards/tasitlar-ambulans/7029.png",
+        "reviewImagePath": "../../public/symbol-candidates/cards/tasitlar-ambulans/7029.png",
+        "keywords": [
+          "ella",
+          "la",
+          "lo",
+          "si",
+          "se",
+          "ella se"
+        ],
+        "score": 0.2
+      },
+      {
+        "arasaacId": 39704,
+        "imagePath": "/symbol-candidates/cards/tasitlar-ambulans/39704.png",
+        "reviewImagePath": "../../public/symbol-candidates/cards/tasitlar-ambulans/39704.png",
+        "keywords": [
+          "inteligencia artificial",
+          "ia"
+        ],
+        "score": 0.1
+      }
+    ]
+  },
+  {
+    "cardId": "spor-ilgi-mac",
+    "label": "Maç",
+    "category": "Spor / İlgi",
+    "emoji": "🏟️",
+    "queryTerms": [
+      "match",
+      "game",
+      "football match",
+      "partido"
+    ],
+    "usedImprovedSearchTerms": true,
+    "topCandidateScore": 0.05,
+    "candidateImagePaths": [
+      "/symbol-candidates/cards/spor-ilgi-mac/6625.png",
+      "/symbol-candidates/cards/spor-ilgi-mac/7290.png",
+      "/symbol-candidates/cards/spor-ilgi-mac/31184.png"
+    ],
+    "candidateArasaacIds": [
+      6625,
+      7290,
+      31184
+    ],
+    "candidates": [
+      {
+        "arasaacId": 6625,
+        "imagePath": "/symbol-candidates/cards/spor-ilgi-mac/6625.png",
+        "reviewImagePath": "../../public/symbol-candidates/cards/spor-ilgi-mac/6625.png",
+        "keywords": [
+          "tu",
+          "te",
+          "ti",
+          "usted",
+          "tu te"
+        ],
+        "score": 0.05
+      },
+      {
+        "arasaacId": 7290,
+        "imagePath": "/symbol-candidates/cards/spor-ilgi-mac/7290.png",
+        "reviewImagePath": "../../public/symbol-candidates/cards/spor-ilgi-mac/7290.png",
+        "keywords": [
+          "tu",
+          "te",
+          "ti",
+          "usted",
+          "tu te"
+        ],
+        "score": 0.05
+      },
+      {
+        "arasaacId": 31184,
+        "imagePath": "/symbol-candidates/cards/spor-ilgi-mac/31184.png",
+        "reviewImagePath": "../../public/symbol-candidates/cards/spor-ilgi-mac/31184.png",
+        "keywords": [
+          "partido politico"
+        ],
+        "score": 0.05
+      }
+    ]
+  },
+  {
+    "cardId": "spor-ilgi-forma",
+    "label": "Forma",
+    "category": "Spor / İlgi",
+    "emoji": "👕",
+    "queryTerms": [
+      "jersey",
+      "uniform",
+      "camiseta"
+    ],
+    "usedImprovedSearchTerms": true,
+    "topCandidateScore": 0.13,
+    "candidateImagePaths": [
+      "/symbol-candidates/cards/spor-ilgi-forma/6481.png",
+      "/symbol-candidates/cards/spor-ilgi-forma/7029.png",
+      "/symbol-candidates/cards/spor-ilgi-forma/7031.png",
+      "/symbol-candidates/cards/spor-ilgi-forma/7033.png",
+      "/symbol-candidates/cards/spor-ilgi-forma/31670.png"
+    ],
+    "candidateArasaacIds": [
+      6481,
+      7029,
+      7031,
+      7033,
+      31670
+    ],
+    "candidates": [
+      {
+        "arasaacId": 6481,
+        "imagePath": "/symbol-candidates/cards/spor-ilgi-forma/6481.png",
+        "reviewImagePath": "../../public/symbol-candidates/cards/spor-ilgi-forma/6481.png",
+        "keywords": [
+          "el",
+          "le",
+          "lo",
+          "si",
+          "se",
+          "el se"
+        ],
+        "score": 0.13
+      },
+      {
+        "arasaacId": 7029,
+        "imagePath": "/symbol-candidates/cards/spor-ilgi-forma/7029.png",
+        "reviewImagePath": "../../public/symbol-candidates/cards/spor-ilgi-forma/7029.png",
+        "keywords": [
+          "ella",
+          "la",
+          "lo",
+          "si",
+          "se",
+          "ella se"
+        ],
+        "score": 0.13
+      },
+      {
+        "arasaacId": 7031,
+        "imagePath": "/symbol-candidates/cards/spor-ilgi-forma/7031.png",
+        "reviewImagePath": "../../public/symbol-candidates/cards/spor-ilgi-forma/7031.png",
+        "keywords": [
+          "ellas",
+          "si",
+          "les",
+          "las",
+          "se",
+          "ellas se"
+        ],
+        "score": 0.13
+      },
+      {
+        "arasaacId": 7033,
+        "imagePath": "/symbol-candidates/cards/spor-ilgi-forma/7033.png",
+        "reviewImagePath": "../../public/symbol-candidates/cards/spor-ilgi-forma/7033.png",
+        "keywords": [
+          "ellos",
+          "si",
+          "les",
+          "los",
+          "se",
+          "ellos se"
+        ],
+        "score": 0.13
+      },
+      {
+        "arasaacId": 31670,
+        "imagePath": "/symbol-candidates/cards/spor-ilgi-forma/31670.png",
+        "reviewImagePath": "../../public/symbol-candidates/cards/spor-ilgi-forma/31670.png",
+        "keywords": [
+          "el",
+          "le",
+          "lo",
+          "si",
+          "se",
+          "el se"
+        ],
+        "score": 0.13
+      }
+    ]
+  },
+  {
+    "cardId": "hayvanlar-kedi",
+    "label": "Kedi",
+    "category": "Hayvanlar",
+    "emoji": "🐱",
+    "queryTerms": [
+      "cat",
+      "gato"
+    ],
+    "usedImprovedSearchTerms": true,
+    "topCandidateScore": 0.1,
+    "candidateImagePaths": [
+      "/symbol-candidates/cards/hayvanlar-kedi/8009.png",
+      "/symbol-candidates/cards/hayvanlar-kedi/23741.png",
+      "/symbol-candidates/cards/hayvanlar-kedi/27640.png",
+      "/symbol-candidates/cards/hayvanlar-kedi/32720.png",
+      "/symbol-candidates/cards/hayvanlar-kedi/38395.png"
+    ],
+    "candidateArasaacIds": [
+      8009,
+      23741,
+      27640,
+      32720,
+      38395
+    ],
+    "candidates": [
+      {
+        "arasaacId": 8009,
+        "imagePath": "/symbol-candidates/cards/hayvanlar-kedi/8009.png",
+        "reviewImagePath": "../../public/symbol-candidates/cards/hayvanlar-kedi/8009.png",
+        "keywords": [
+          "aguacate",
+          "palta"
+        ],
+        "score": 0.1
+      },
+      {
+        "arasaacId": 23741,
+        "imagePath": "/symbol-candidates/cards/hayvanlar-kedi/23741.png",
+        "reviewImagePath": "../../public/symbol-candidates/cards/hayvanlar-kedi/23741.png",
+        "keywords": [
+          "andador",
+          "tacata"
+        ],
+        "score": 0.1
+      },
+      {
+        "arasaacId": 27640,
+        "imagePath": "/symbol-candidates/cards/hayvanlar-kedi/27640.png",
+        "reviewImagePath": "../../public/symbol-candidates/cards/hayvanlar-kedi/27640.png",
+        "keywords": [
+          "cacatua"
+        ],
+        "score": 0.1
+      },
+      {
+        "arasaacId": 32720,
+        "imagePath": "/symbol-candidates/cards/hayvanlar-kedi/32720.png",
+        "reviewImagePath": "../../public/symbol-candidates/cards/hayvanlar-kedi/32720.png",
+        "keywords": [
+          "educacion basica obligatoria",
+          "ebo"
+        ],
+        "score": 0.1
+      },
+      {
+        "arasaacId": 38395,
+        "imagePath": "/symbol-candidates/cards/hayvanlar-kedi/38395.png",
+        "reviewImagePath": "../../public/symbol-candidates/cards/hayvanlar-kedi/38395.png",
+        "keywords": [
+          "insecto palo",
+          "palote",
+          "zacaton",
+          "campamocha",
+          "mariapalito"
+        ],
+        "score": 0.1
+      }
+    ]
+  },
+  {
+    "cardId": "hayvanlar-kus",
+    "label": "Kuş",
+    "category": "Hayvanlar",
+    "emoji": "🐦",
+    "queryTerms": [
+      "bird",
+      "pajaro",
+      "ave"
+    ],
+    "usedImprovedSearchTerms": true,
+    "topCandidateScore": 0.27,
+    "candidateImagePaths": [
+      "/symbol-candidates/cards/hayvanlar-kus/21399.png",
+      "/symbol-candidates/cards/hayvanlar-kus/6163.png",
+      "/symbol-candidates/cards/hayvanlar-kus/7191.png",
+      "/symbol-candidates/cards/hayvanlar-kus/35343.png",
+      "/symbol-candidates/cards/hayvanlar-kus/38266.png"
+    ],
+    "candidateArasaacIds": [
+      21399,
+      6163,
+      7191,
+      35343,
+      38266
+    ],
+    "candidates": [
+      {
+        "arasaacId": 21399,
+        "imagePath": "/symbol-candidates/cards/hayvanlar-kus/21399.png",
+        "reviewImagePath": "../../public/symbol-candidates/cards/hayvanlar-kus/21399.png",
+        "keywords": [
+          "tren de alta velocidad",
+          "tren",
+          "ave"
+        ],
+        "score": 0.27
+      },
+      {
+        "arasaacId": 6163,
+        "imagePath": "/symbol-candidates/cards/hayvanlar-kus/6163.png",
+        "reviewImagePath": "../../public/symbol-candidates/cards/hayvanlar-kus/6163.png",
+        "keywords": [
+          "paja",
+          "paca"
+        ],
+        "score": 0.07
+      },
+      {
+        "arasaacId": 7191,
+        "imagePath": "/symbol-candidates/cards/hayvanlar-kus/7191.png",
+        "reviewImagePath": "../../public/symbol-candidates/cards/hayvanlar-kus/7191.png",
+        "keywords": [
+          "platillo volador",
+          "ovni",
+          "nave espacial"
+        ],
+        "score": 0.07
+      },
+      {
+        "arasaacId": 35343,
+        "imagePath": "/symbol-candidates/cards/hayvanlar-kus/35343.png",
+        "reviewImagePath": "../../public/symbol-candidates/cards/hayvanlar-kus/35343.png",
+        "keywords": [
+          "medicacion intravenosa"
+        ],
+        "score": 0.07
+      },
+      {
+        "arasaacId": 38266,
+        "imagePath": "/symbol-candidates/cards/hayvanlar-kus/38266.png",
+        "reviewImagePath": "../../public/symbol-candidates/cards/hayvanlar-kus/38266.png",
+        "keywords": [
+          "trastada",
+          "picia",
+          "travesura",
+          "hacer travesuras",
+          "hacer una trastada"
+        ],
+        "score": 0.07
+      }
+    ]
+  },
+  {
+    "cardId": "hayvanlar-koyun",
+    "label": "Koyun",
+    "category": "Hayvanlar",
+    "emoji": "🐑",
+    "queryTerms": [
+      "sheep",
+      "oveja"
+    ],
+    "usedImprovedSearchTerms": true,
+    "topCandidateScore": 0.1,
+    "candidateImagePaths": [
+      "/symbol-candidates/cards/hayvanlar-koyun/35761.png",
+      "/symbol-candidates/cards/hayvanlar-koyun/37451.png"
+    ],
+    "candidateArasaacIds": [
+      35761,
+      37451
+    ],
+    "candidates": [
+      {
+        "arasaacId": 35761,
+        "imagePath": "/symbol-candidates/cards/hayvanlar-koyun/35761.png",
+        "reviewImagePath": "../../public/symbol-candidates/cards/hayvanlar-koyun/35761.png",
+        "keywords": [
+          "queso de oveja"
+        ],
+        "score": 0.1
+      },
+      {
+        "arasaacId": 37451,
+        "imagePath": "/symbol-candidates/cards/hayvanlar-koyun/37451.png",
+        "reviewImagePath": "../../public/symbol-candidates/cards/hayvanlar-koyun/37451.png",
+        "keywords": [
+          "oveja de chocolate"
+        ],
+        "score": 0.1
+      }
+    ]
+  },
+  {
+    "cardId": "hayvanlar-kaplumbaga",
+    "label": "Kaplumbağa",
+    "category": "Hayvanlar",
+    "emoji": "🐢",
+    "queryTerms": [
+      "turtle",
+      "tortoise",
+      "tortuga"
+    ],
+    "usedImprovedSearchTerms": true,
+    "topCandidateScore": 0.13,
+    "candidateImagePaths": [
+      "/symbol-candidates/cards/hayvanlar-kaplumbaga/6625.png",
+      "/symbol-candidates/cards/hayvanlar-kaplumbaga/7290.png",
+      "/symbol-candidates/cards/hayvanlar-kaplumbaga/2608.png",
+      "/symbol-candidates/cards/hayvanlar-kaplumbaga/31801.png",
+      "/symbol-candidates/cards/hayvanlar-kaplumbaga/7289.png"
+    ],
+    "candidateArasaacIds": [
+      6625,
+      7290,
+      2608,
+      31801,
+      7289
+    ],
+    "candidates": [
+      {
+        "arasaacId": 6625,
+        "imagePath": "/symbol-candidates/cards/hayvanlar-kaplumbaga/6625.png",
+        "reviewImagePath": "../../public/symbol-candidates/cards/hayvanlar-kaplumbaga/6625.png",
+        "keywords": [
+          "tu",
+          "te",
+          "ti",
+          "usted",
+          "tu te"
+        ],
+        "score": 0.13
+      },
+      {
+        "arasaacId": 7290,
+        "imagePath": "/symbol-candidates/cards/hayvanlar-kaplumbaga/7290.png",
+        "reviewImagePath": "../../public/symbol-candidates/cards/hayvanlar-kaplumbaga/7290.png",
+        "keywords": [
+          "tu",
+          "te",
+          "ti",
+          "usted",
+          "tu te"
+        ],
+        "score": 0.13
+      },
+      {
+        "arasaacId": 2608,
+        "imagePath": "/symbol-candidates/cards/hayvanlar-kaplumbaga/2608.png",
+        "reviewImagePath": "../../public/symbol-candidates/cards/hayvanlar-kaplumbaga/2608.png",
+        "keywords": [
+          "tu",
+          "usted",
+          "tu te"
+        ],
+        "score": 0.13
+      },
+      {
+        "arasaacId": 31801,
+        "imagePath": "/symbol-candidates/cards/hayvanlar-kaplumbaga/31801.png",
+        "reviewImagePath": "../../public/symbol-candidates/cards/hayvanlar-kaplumbaga/31801.png",
+        "keywords": [
+          "tu",
+          "usted",
+          "tu te"
+        ],
+        "score": 0.13
+      },
+      {
+        "arasaacId": 7289,
+        "imagePath": "/symbol-candidates/cards/hayvanlar-kaplumbaga/7289.png",
+        "reviewImagePath": "../../public/symbol-candidates/cards/hayvanlar-kaplumbaga/7289.png",
+        "keywords": [
+          "tu",
+          "usted",
+          "tu te"
+        ],
+        "score": 0.13
+      }
+    ]
+  },
+  {
+    "cardId": "hayvanlar-kelebek",
+    "label": "Kelebek",
+    "category": "Hayvanlar",
+    "emoji": "🦋",
+    "queryTerms": [
+      "butterfly",
+      "mariposa"
+    ],
+    "usedImprovedSearchTerms": true,
+    "topCandidateScore": 0.1,
+    "candidateImagePaths": [
+      "/symbol-candidates/cards/hayvanlar-kelebek/6625.png",
+      "/symbol-candidates/cards/hayvanlar-kelebek/7290.png",
+      "/symbol-candidates/cards/hayvanlar-kelebek/29802.png"
+    ],
+    "candidateArasaacIds": [
+      6625,
+      7290,
+      29802
+    ],
+    "candidates": [
+      {
+        "arasaacId": 6625,
+        "imagePath": "/symbol-candidates/cards/hayvanlar-kelebek/6625.png",
+        "reviewImagePath": "../../public/symbol-candidates/cards/hayvanlar-kelebek/6625.png",
+        "keywords": [
+          "tu",
+          "te",
+          "ti",
+          "usted",
+          "tu te"
+        ],
+        "score": 0.1
+      },
+      {
+        "arasaacId": 7290,
+        "imagePath": "/symbol-candidates/cards/hayvanlar-kelebek/7290.png",
+        "reviewImagePath": "../../public/symbol-candidates/cards/hayvanlar-kelebek/7290.png",
+        "keywords": [
+          "tu",
+          "te",
+          "ti",
+          "usted",
+          "tu te"
+        ],
+        "score": 0.1
+      },
+      {
+        "arasaacId": 29802,
+        "imagePath": "/symbol-candidates/cards/hayvanlar-kelebek/29802.png",
+        "reviewImagePath": "../../public/symbol-candidates/cards/hayvanlar-kelebek/29802.png",
+        "keywords": [
+          "te instantaneo",
+          "te"
+        ],
+        "score": 0.1
+      }
+    ]
+  },
+  {
+    "cardId": "banyo-sampuan",
+    "label": "Şampuan",
+    "category": "Banyo",
+    "emoji": "🧴",
+    "queryTerms": [
+      "shampoo",
+      "champu"
+    ],
+    "usedImprovedSearchTerms": true,
+    "topCandidateScore": 0,
+    "candidateImagePaths": [],
+    "candidateArasaacIds": [],
+    "candidates": []
+  },
+  {
+    "cardId": "banyo-tarak",
+    "label": "Tarak",
+    "category": "Banyo",
+    "emoji": "🪮",
+    "queryTerms": [
+      "comb",
+      "peine"
+    ],
+    "usedImprovedSearchTerms": true,
+    "topCandidateScore": 0.1,
+    "candidateImagePaths": [
+      "/symbol-candidates/cards/banyo-tarak/36380.png",
+      "/symbol-candidates/cards/banyo-tarak/36590.png",
+      "/symbol-candidates/cards/banyo-tarak/4876.png",
+      "/symbol-candidates/cards/banyo-tarak/9007.png",
+      "/symbol-candidates/cards/banyo-tarak/25311.png"
+    ],
+    "candidateArasaacIds": [
+      36380,
+      36590,
+      4876,
+      9007,
+      25311
+    ],
+    "candidates": [
+      {
+        "arasaacId": 36380,
+        "imagePath": "/symbol-candidates/cards/banyo-tarak/36380.png",
+        "reviewImagePath": "../../public/symbol-candidates/cards/banyo-tarak/36380.png",
+        "keywords": [
+          "hacer la peineta",
+          "sacar el dedo",
+          "corte de mangas",
+          "hacer un corte de mangas"
+        ],
+        "score": 0.1
+      },
+      {
+        "arasaacId": 36590,
+        "imagePath": "/symbol-candidates/cards/banyo-tarak/36590.png",
+        "reviewImagePath": "../../public/symbol-candidates/cards/banyo-tarak/36590.png",
+        "keywords": [
+          "sacar el peine"
+        ],
+        "score": 0.1
+      },
+      {
+        "arasaacId": 4876,
+        "imagePath": "/symbol-candidates/cards/banyo-tarak/4876.png",
+        "reviewImagePath": "../../public/symbol-candidates/cards/banyo-tarak/4876.png",
+        "keywords": [
+          "nevera",
+          "frigorifico",
+          "frigorifico combi"
+        ],
+        "score": 0.1
+      },
+      {
+        "arasaacId": 9007,
+        "imagePath": "/symbol-candidates/cards/banyo-tarak/9007.png",
+        "reviewImagePath": "../../public/symbol-candidates/cards/banyo-tarak/9007.png",
+        "keywords": [
+          "luchar",
+          "pelear",
+          "combatir"
+        ],
+        "score": 0.1
+      },
+      {
+        "arasaacId": 25311,
+        "imagePath": "/symbol-candidates/cards/banyo-tarak/25311.png",
+        "reviewImagePath": "../../public/symbol-candidates/cards/banyo-tarak/25311.png",
+        "keywords": [
+          "peine para caballos"
+        ],
+        "score": 0.1
+      }
+    ]
+  },
+  {
+    "cardId": "uyku-ninni",
+    "label": "Ninni",
+    "category": "Uyku",
+    "emoji": "🎵",
+    "queryTerms": [
+      "lullaby",
+      "song",
+      "cancion de cuna"
+    ],
+    "usedImprovedSearchTerms": true,
+    "topCandidateScore": 0.07,
+    "candidateImagePaths": [
+      "/symbol-candidates/cards/uyku-ninni/24791.png",
+      "/symbol-candidates/cards/uyku-ninni/24795.png",
+      "/symbol-candidates/cards/uyku-ninni/7029.png",
+      "/symbol-candidates/cards/uyku-ninni/38000.png"
+    ],
+    "candidateArasaacIds": [
+      24791,
+      24795,
+      7029,
+      38000
+    ],
+    "candidates": [
+      {
+        "arasaacId": 24791,
+        "imagePath": "/symbol-candidates/cards/uyku-ninni/24791.png",
+        "reviewImagePath": "../../public/symbol-candidates/cards/uyku-ninni/24791.png",
+        "keywords": [
+          "musica",
+          "composicion",
+          "partitura",
+          "pentagrama",
+          "cancion"
+        ],
+        "score": 0.07
+      },
+      {
+        "arasaacId": 24795,
+        "imagePath": "/symbol-candidates/cards/uyku-ninni/24795.png",
+        "reviewImagePath": "../../public/symbol-candidates/cards/uyku-ninni/24795.png",
+        "keywords": [
+          "musica",
+          "composicion",
+          "partitura",
+          "pentagrama",
+          "cancion"
+        ],
+        "score": 0.07
+      },
+      {
+        "arasaacId": 7029,
+        "imagePath": "/symbol-candidates/cards/uyku-ninni/7029.png",
+        "reviewImagePath": "../../public/symbol-candidates/cards/uyku-ninni/7029.png",
+        "keywords": [
+          "ella",
+          "la",
+          "lo",
+          "si",
+          "se",
+          "ella se"
+        ],
+        "score": 0.07
+      },
+      {
+        "arasaacId": 38000,
+        "imagePath": "/symbol-candidates/cards/uyku-ninni/38000.png",
+        "reviewImagePath": "../../public/symbol-candidates/cards/uyku-ninni/38000.png",
+        "keywords": [
+          "himno",
+          "cancion"
+        ],
+        "score": 0.07
+      }
+    ]
+  },
+  {
+    "cardId": "uyku-ruya",
+    "label": "Rüya",
+    "category": "Uyku",
+    "emoji": "💭",
+    "queryTerms": [
+      "dream",
+      "sueno"
+    ],
+    "usedImprovedSearchTerms": true,
+    "topCandidateScore": 0.1,
+    "candidateImagePaths": [
+      "/symbol-candidates/cards/uyku-ruya/5526.png",
+      "/symbol-candidates/cards/uyku-ruya/39149.png",
+      "/symbol-candidates/cards/uyku-ruya/12272.png",
+      "/symbol-candidates/cards/uyku-ruya/12274.png"
+    ],
+    "candidateArasaacIds": [
+      5526,
+      39149,
+      12272,
+      12274
+    ],
+    "candidates": [
+      {
+        "arasaacId": 5526,
+        "imagePath": "/symbol-candidates/cards/uyku-ruya/5526.png",
+        "reviewImagePath": "../../public/symbol-candidates/cards/uyku-ruya/5526.png",
+        "keywords": [
+          "no"
+        ],
+        "score": 0.1
+      },
+      {
+        "arasaacId": 39149,
+        "imagePath": "/symbol-candidates/cards/uyku-ruya/39149.png",
+        "reviewImagePath": "../../public/symbol-candidates/cards/uyku-ruya/39149.png",
+        "keywords": [
+          "no",
+          "negar"
+        ],
+        "score": 0.1
+      },
+      {
+        "arasaacId": 12272,
+        "imagePath": "/symbol-candidates/cards/uyku-ruya/12272.png",
+        "reviewImagePath": "../../public/symbol-candidates/cards/uyku-ruya/12272.png",
+        "keywords": [
+          "su",
+          "suyo",
+          "suya"
+        ],
+        "score": 0.1
+      },
+      {
+        "arasaacId": 12274,
+        "imagePath": "/symbol-candidates/cards/uyku-ruya/12274.png",
+        "reviewImagePath": "../../public/symbol-candidates/cards/uyku-ruya/12274.png",
+        "keywords": [
+          "su",
+          "suyo",
+          "suya"
+        ],
+        "score": 0.1
+      }
+    ]
+  },
+  {
+    "cardId": "uyku-uykum-var",
+    "label": "Uykum var",
+    "category": "Uyku",
+    "emoji": "🥱",
+    "queryTerms": [
+      "sleepy",
+      "tired",
+      "tengo sueno"
+    ],
+    "usedImprovedSearchTerms": true,
+    "topCandidateScore": 0.13,
+    "candidateImagePaths": [
+      "/symbol-candidates/cards/uyku-uykum-var/6625.png",
+      "/symbol-candidates/cards/uyku-uykum-var/7290.png",
+      "/symbol-candidates/cards/uyku-uykum-var/5526.png",
+      "/symbol-candidates/cards/uyku-uykum-var/39149.png",
+      "/symbol-candidates/cards/uyku-uykum-var/12272.png"
+    ],
+    "candidateArasaacIds": [
+      6625,
+      7290,
+      5526,
+      39149,
+      12272
+    ],
+    "candidates": [
+      {
+        "arasaacId": 6625,
+        "imagePath": "/symbol-candidates/cards/uyku-uykum-var/6625.png",
+        "reviewImagePath": "../../public/symbol-candidates/cards/uyku-uykum-var/6625.png",
+        "keywords": [
+          "tu",
+          "te",
+          "ti",
+          "usted",
+          "tu te"
+        ],
+        "score": 0.13
+      },
+      {
+        "arasaacId": 7290,
+        "imagePath": "/symbol-candidates/cards/uyku-uykum-var/7290.png",
+        "reviewImagePath": "../../public/symbol-candidates/cards/uyku-uykum-var/7290.png",
+        "keywords": [
+          "tu",
+          "te",
+          "ti",
+          "usted",
+          "tu te"
+        ],
+        "score": 0.13
+      },
+      {
+        "arasaacId": 5526,
+        "imagePath": "/symbol-candidates/cards/uyku-uykum-var/5526.png",
+        "reviewImagePath": "../../public/symbol-candidates/cards/uyku-uykum-var/5526.png",
+        "keywords": [
+          "no"
+        ],
+        "score": 0.07
+      },
+      {
+        "arasaacId": 39149,
+        "imagePath": "/symbol-candidates/cards/uyku-uykum-var/39149.png",
+        "reviewImagePath": "../../public/symbol-candidates/cards/uyku-uykum-var/39149.png",
+        "keywords": [
+          "no",
+          "negar"
+        ],
+        "score": 0.07
+      },
+      {
+        "arasaacId": 12272,
+        "imagePath": "/symbol-candidates/cards/uyku-uykum-var/12272.png",
+        "reviewImagePath": "../../public/symbol-candidates/cards/uyku-uykum-var/12272.png",
+        "keywords": [
+          "su",
+          "suyo",
+          "suya"
+        ],
+        "score": 0.07
+      }
+    ]
+  },
+  {
+    "cardId": "uyku-gozlerim-kapali",
+    "label": "Gözlerim kapalı",
+    "category": "Uyku",
+    "emoji": "😌",
+    "queryTerms": [
+      "closed eyes",
+      "eyes closed",
+      "ojos cerrados"
+    ],
+    "usedImprovedSearchTerms": true,
+    "topCandidateScore": 0.13,
+    "candidateImagePaths": [
+      "/symbol-candidates/cards/uyku-gozlerim-kapali/6481.png",
+      "/symbol-candidates/cards/uyku-gozlerim-kapali/7029.png",
+      "/symbol-candidates/cards/uyku-gozlerim-kapali/7031.png",
+      "/symbol-candidates/cards/uyku-gozlerim-kapali/7033.png",
+      "/symbol-candidates/cards/uyku-gozlerim-kapali/31670.png"
+    ],
+    "candidateArasaacIds": [
+      6481,
+      7029,
+      7031,
+      7033,
+      31670
+    ],
+    "candidates": [
+      {
+        "arasaacId": 6481,
+        "imagePath": "/symbol-candidates/cards/uyku-gozlerim-kapali/6481.png",
+        "reviewImagePath": "../../public/symbol-candidates/cards/uyku-gozlerim-kapali/6481.png",
+        "keywords": [
+          "el",
+          "le",
+          "lo",
+          "si",
+          "se",
+          "el se"
+        ],
+        "score": 0.13
+      },
+      {
+        "arasaacId": 7029,
+        "imagePath": "/symbol-candidates/cards/uyku-gozlerim-kapali/7029.png",
+        "reviewImagePath": "../../public/symbol-candidates/cards/uyku-gozlerim-kapali/7029.png",
+        "keywords": [
+          "ella",
+          "la",
+          "lo",
+          "si",
+          "se",
+          "ella se"
+        ],
+        "score": 0.13
+      },
+      {
+        "arasaacId": 7031,
+        "imagePath": "/symbol-candidates/cards/uyku-gozlerim-kapali/7031.png",
+        "reviewImagePath": "../../public/symbol-candidates/cards/uyku-gozlerim-kapali/7031.png",
+        "keywords": [
+          "ellas",
+          "si",
+          "les",
+          "las",
+          "se",
+          "ellas se"
+        ],
+        "score": 0.13
+      },
+      {
+        "arasaacId": 7033,
+        "imagePath": "/symbol-candidates/cards/uyku-gozlerim-kapali/7033.png",
+        "reviewImagePath": "../../public/symbol-candidates/cards/uyku-gozlerim-kapali/7033.png",
+        "keywords": [
+          "ellos",
+          "si",
+          "les",
+          "los",
+          "se",
+          "ellos se"
+        ],
+        "score": 0.13
+      },
+      {
+        "arasaacId": 31670,
+        "imagePath": "/symbol-candidates/cards/uyku-gozlerim-kapali/31670.png",
+        "reviewImagePath": "../../public/symbol-candidates/cards/uyku-gozlerim-kapali/31670.png",
+        "keywords": [
+          "el",
+          "le",
+          "lo",
+          "si",
+          "se",
+          "el se"
+        ],
+        "score": 0.13
+      }
+    ]
+  },
+  {
+    "cardId": "uyku-sessiz-oda",
+    "label": "Sessiz oda",
+    "category": "Uyku",
+    "emoji": "🤫",
+    "queryTerms": [
+      "quiet room",
+      "silence",
+      "habitacion silenciosa"
+    ],
+    "usedImprovedSearchTerms": true,
+    "topCandidateScore": 0.13,
+    "candidateImagePaths": [
+      "/symbol-candidates/cards/uyku-sessiz-oda/5584.png",
+      "/symbol-candidates/cards/uyku-sessiz-oda/6481.png",
+      "/symbol-candidates/cards/uyku-sessiz-oda/7029.png",
+      "/symbol-candidates/cards/uyku-sessiz-oda/7031.png",
+      "/symbol-candidates/cards/uyku-sessiz-oda/7033.png"
+    ],
+    "candidateArasaacIds": [
+      5584,
+      6481,
+      7029,
+      7031,
+      7033
+    ],
+    "candidates": [
+      {
+        "arasaacId": 5584,
+        "imagePath": "/symbol-candidates/cards/uyku-sessiz-oda/5584.png",
+        "reviewImagePath": "../../public/symbol-candidates/cards/uyku-sessiz-oda/5584.png",
+        "keywords": [
+          "si"
+        ],
+        "score": 0.13
+      },
+      {
+        "arasaacId": 6481,
+        "imagePath": "/symbol-candidates/cards/uyku-sessiz-oda/6481.png",
+        "reviewImagePath": "../../public/symbol-candidates/cards/uyku-sessiz-oda/6481.png",
+        "keywords": [
+          "el",
+          "le",
+          "lo",
+          "si",
+          "se",
+          "el se"
+        ],
+        "score": 0.13
+      },
+      {
+        "arasaacId": 7029,
+        "imagePath": "/symbol-candidates/cards/uyku-sessiz-oda/7029.png",
+        "reviewImagePath": "../../public/symbol-candidates/cards/uyku-sessiz-oda/7029.png",
+        "keywords": [
+          "ella",
+          "la",
+          "lo",
+          "si",
+          "se",
+          "ella se"
+        ],
+        "score": 0.13
+      },
+      {
+        "arasaacId": 7031,
+        "imagePath": "/symbol-candidates/cards/uyku-sessiz-oda/7031.png",
+        "reviewImagePath": "../../public/symbol-candidates/cards/uyku-sessiz-oda/7031.png",
+        "keywords": [
+          "ellas",
+          "si",
+          "les",
+          "las",
+          "se",
+          "ellas se"
+        ],
+        "score": 0.13
+      },
+      {
+        "arasaacId": 7033,
+        "imagePath": "/symbol-candidates/cards/uyku-sessiz-oda/7033.png",
+        "reviewImagePath": "../../public/symbol-candidates/cards/uyku-sessiz-oda/7033.png",
+        "keywords": [
+          "ellos",
+          "si",
+          "les",
+          "los",
+          "se",
+          "ellos se"
+        ],
+        "score": 0.13
+      }
+    ]
+  },
+  {
+    "cardId": "uyku-dinlen",
+    "label": "Dinlenme zamanı",
+    "category": "Uyku",
+    "emoji": "🛌",
+    "queryTerms": [
+      "rest",
+      "relax",
+      "descansar"
+    ],
+    "usedImprovedSearchTerms": true,
+    "topCandidateScore": 0.07,
+    "candidateImagePaths": [
+      "/symbol-candidates/cards/uyku-dinlen/27369.png",
+      "/symbol-candidates/cards/uyku-dinlen/38205.png",
+      "/symbol-candidates/cards/uyku-dinlen/38652.png",
+      "/symbol-candidates/cards/uyku-dinlen/38020.png",
+      "/symbol-candidates/cards/uyku-dinlen/38235.png"
+    ],
+    "candidateArasaacIds": [
+      27369,
+      38205,
+      38652,
+      38020,
+      38235
+    ],
+    "candidates": [
+      {
+        "arasaacId": 27369,
+        "imagePath": "/symbol-candidates/cards/uyku-dinlen/27369.png",
+        "reviewImagePath": "../../public/symbol-candidates/cards/uyku-dinlen/27369.png",
+        "keywords": [
+          "prestacion municipal"
+        ],
+        "score": 0.07
+      },
+      {
+        "arasaacId": 38205,
+        "imagePath": "/symbol-candidates/cards/uyku-dinlen/38205.png",
+        "reviewImagePath": "../../public/symbol-candidates/cards/uyku-dinlen/38205.png",
+        "keywords": [
+          "contenedor",
+          "contenedor de restos",
+          "contenedor de fraccion resto"
+        ],
+        "score": 0.07
+      },
+      {
+        "arasaacId": 38652,
+        "imagePath": "/symbol-candidates/cards/uyku-dinlen/38652.png",
+        "reviewImagePath": "../../public/symbol-candidates/cards/uyku-dinlen/38652.png",
+        "keywords": [
+          "restaurar",
+          "restauracion"
+        ],
+        "score": 0.07
+      },
+      {
+        "arasaacId": 38020,
+        "imagePath": "/symbol-candidates/cards/uyku-dinlen/38020.png",
+        "reviewImagePath": "../../public/symbol-candidates/cards/uyku-dinlen/38020.png",
+        "keywords": [
+          "restriccion"
+        ],
+        "score": 0.07
+      },
+      {
+        "arasaacId": 38235,
+        "imagePath": "/symbol-candidates/cards/uyku-dinlen/38235.png",
+        "reviewImagePath": "../../public/symbol-candidates/cards/uyku-dinlen/38235.png",
+        "keywords": [
+          "bar restaurante"
+        ],
+        "score": 0.07
+      }
+    ]
+  },
+  {
+    "cardId": "disari-cimen",
+    "label": "Çimen",
+    "category": "Dışarı",
+    "emoji": "🌱",
+    "queryTerms": [
+      "grass",
+      "cesped"
+    ],
+    "usedImprovedSearchTerms": true,
+    "topCandidateScore": 0.1,
+    "candidateImagePaths": [
+      "/symbol-candidates/cards/disari-cimen/10280.png"
+    ],
+    "candidateArasaacIds": [
+      10280
+    ],
+    "candidates": [
+      {
+        "arasaacId": 10280,
+        "imagePath": "/symbol-candidates/cards/disari-cimen/10280.png",
+        "reviewImagePath": "../../public/symbol-candidates/cards/disari-cimen/10280.png",
+        "keywords": [
+          "cortacesped"
+        ],
+        "score": 0.1
+      }
+    ]
+  },
+  {
+    "cardId": "disari-cicek",
+    "label": "Çiçek",
+    "category": "Dışarı",
+    "emoji": "🌸",
+    "queryTerms": [
+      "flower",
+      "flor"
+    ],
+    "usedImprovedSearchTerms": true,
+    "topCandidateScore": 0.2,
+    "candidateImagePaths": [
+      "/symbol-candidates/cards/disari-cicek/6481.png",
+      "/symbol-candidates/cards/disari-cicek/7029.png",
+      "/symbol-candidates/cards/disari-cicek/31670.png",
+      "/symbol-candidates/cards/disari-cicek/39267.png",
+      "/symbol-candidates/cards/disari-cicek/11264.png"
+    ],
+    "candidateArasaacIds": [
+      6481,
+      7029,
+      31670,
+      39267,
+      11264
+    ],
+    "candidates": [
+      {
+        "arasaacId": 6481,
+        "imagePath": "/symbol-candidates/cards/disari-cicek/6481.png",
+        "reviewImagePath": "../../public/symbol-candidates/cards/disari-cicek/6481.png",
+        "keywords": [
+          "el",
+          "le",
+          "lo",
+          "si",
+          "se",
+          "el se"
+        ],
+        "score": 0.2
+      },
+      {
+        "arasaacId": 7029,
+        "imagePath": "/symbol-candidates/cards/disari-cicek/7029.png",
+        "reviewImagePath": "../../public/symbol-candidates/cards/disari-cicek/7029.png",
+        "keywords": [
+          "ella",
+          "la",
+          "lo",
+          "si",
+          "se",
+          "ella se"
+        ],
+        "score": 0.2
+      },
+      {
+        "arasaacId": 31670,
+        "imagePath": "/symbol-candidates/cards/disari-cicek/31670.png",
+        "reviewImagePath": "../../public/symbol-candidates/cards/disari-cicek/31670.png",
+        "keywords": [
+          "el",
+          "le",
+          "lo",
+          "si",
+          "se",
+          "el se"
+        ],
+        "score": 0.2
+      },
+      {
+        "arasaacId": 39267,
+        "imagePath": "/symbol-candidates/cards/disari-cicek/39267.png",
+        "reviewImagePath": "../../public/symbol-candidates/cards/disari-cicek/39267.png",
+        "keywords": [
+          "coliflor con patata"
+        ],
+        "score": 0.1
+      },
+      {
+        "arasaacId": 11264,
+        "imagePath": "/symbol-candidates/cards/disari-cicek/11264.png",
+        "reviewImagePath": "../../public/symbol-candidates/cards/disari-cicek/11264.png",
+        "keywords": [
+          "floreado",
+          "floreada"
+        ],
+        "score": 0.1
+      }
+    ]
+  },
+  {
+    "cardId": "disari-deniz",
+    "label": "Deniz",
+    "category": "Dışarı",
+    "emoji": "🌊",
+    "queryTerms": [
+      "sea",
+      "ocean",
+      "mar"
+    ],
+    "usedImprovedSearchTerms": true,
+    "topCandidateScore": 0.13,
+    "candidateImagePaths": [
+      "/symbol-candidates/cards/disari-deniz/38286.png",
+      "/symbol-candidates/cards/disari-deniz/39586.png",
+      "/symbol-candidates/cards/disari-deniz/2463.png",
+      "/symbol-candidates/cards/disari-deniz/5359.png",
+      "/symbol-candidates/cards/disari-deniz/6878.png"
+    ],
+    "candidateArasaacIds": [
+      38286,
+      39586,
+      2463,
+      5359,
+      6878
+    ],
+    "candidates": [
+      {
+        "arasaacId": 38286,
+        "imagePath": "/symbol-candidates/cards/disari-deniz/38286.png",
+        "reviewImagePath": "../../public/symbol-candidates/cards/disari-deniz/38286.png",
+        "keywords": [
+          "pasear por el campo",
+          "caminar por el campo",
+          "tomar el aire"
+        ],
+        "score": 0.13
+      },
+      {
+        "arasaacId": 39586,
+        "imagePath": "/symbol-candidates/cards/disari-deniz/39586.png",
+        "reviewImagePath": "../../public/symbol-candidates/cards/disari-deniz/39586.png",
+        "keywords": [
+          "taller de carpinteria",
+          "taller de marqueteria"
+        ],
+        "score": 0.07
+      },
+      {
+        "arasaacId": 2463,
+        "imagePath": "/symbol-candidates/cards/disari-deniz/2463.png",
+        "reviewImagePath": "../../public/symbol-candidates/cards/disari-deniz/2463.png",
+        "keywords": [
+          "maracas"
+        ],
+        "score": 0.07
+      },
+      {
+        "arasaacId": 5359,
+        "imagePath": "/symbol-candidates/cards/disari-deniz/5359.png",
+        "reviewImagePath": "../../public/symbol-candidates/cards/disari-deniz/5359.png",
+        "keywords": [
+          "acercar",
+          "aproximar"
+        ],
+        "score": 0.07
+      },
+      {
+        "arasaacId": 6878,
+        "imagePath": "/symbol-candidates/cards/disari-deniz/6878.png",
+        "reviewImagePath": "../../public/symbol-candidates/cards/disari-deniz/6878.png",
+        "keywords": [
+          "acercar",
+          "aproximar"
+        ],
+        "score": 0.07
+      }
+    ]
+  },
+  {
+    "cardId": "disari-golge",
+    "label": "Gölge",
+    "category": "Dışarı",
+    "emoji": "🌴",
+    "queryTerms": [
+      "shade",
+      "shadow",
+      "sombra"
+    ],
+    "usedImprovedSearchTerms": true,
+    "topCandidateScore": 0,
+    "candidateImagePaths": [],
+    "candidateArasaacIds": [],
+    "candidates": []
+  },
+  {
+    "cardId": "teknoloji-uzaktan-kumanda",
+    "label": "Uzaktan kumanda",
+    "category": "Teknoloji",
+    "emoji": "🎛️",
+    "queryTerms": [
+      "remote control",
+      "mando",
+      "control remoto"
+    ],
+    "usedImprovedSearchTerms": true,
+    "topCandidateScore": 0.13,
+    "candidateImagePaths": [
+      "/symbol-candidates/cards/teknoloji-uzaktan-kumanda/7064.png",
+      "/symbol-candidates/cards/teknoloji-uzaktan-kumanda/37909.png",
+      "/symbol-candidates/cards/teknoloji-uzaktan-kumanda/6625.png",
+      "/symbol-candidates/cards/teknoloji-uzaktan-kumanda/7290.png",
+      "/symbol-candidates/cards/teknoloji-uzaktan-kumanda/29802.png"
+    ],
+    "candidateArasaacIds": [
+      7064,
+      37909,
+      6625,
+      7290,
+      29802
+    ],
+    "candidates": [
+      {
+        "arasaacId": 7064,
+        "imagePath": "/symbol-candidates/cards/teknoloji-uzaktan-kumanda/7064.png",
+        "reviewImagePath": "../../public/symbol-candidates/cards/teknoloji-uzaktan-kumanda/7064.png",
+        "keywords": [
+          "con"
+        ],
+        "score": 0.13
+      },
+      {
+        "arasaacId": 37909,
+        "imagePath": "/symbol-candidates/cards/teknoloji-uzaktan-kumanda/37909.png",
+        "reviewImagePath": "../../public/symbol-candidates/cards/teknoloji-uzaktan-kumanda/37909.png",
+        "keywords": [
+          "control",
+          "control de seguridad"
+        ],
+        "score": 0.13
+      },
+      {
+        "arasaacId": 6625,
+        "imagePath": "/symbol-candidates/cards/teknoloji-uzaktan-kumanda/6625.png",
+        "reviewImagePath": "../../public/symbol-candidates/cards/teknoloji-uzaktan-kumanda/6625.png",
+        "keywords": [
+          "tu",
+          "te",
+          "ti",
+          "usted",
+          "tu te"
+        ],
+        "score": 0.07
+      },
+      {
+        "arasaacId": 7290,
+        "imagePath": "/symbol-candidates/cards/teknoloji-uzaktan-kumanda/7290.png",
+        "reviewImagePath": "../../public/symbol-candidates/cards/teknoloji-uzaktan-kumanda/7290.png",
+        "keywords": [
+          "tu",
+          "te",
+          "ti",
+          "usted",
+          "tu te"
+        ],
+        "score": 0.07
+      },
+      {
+        "arasaacId": 29802,
+        "imagePath": "/symbol-candidates/cards/teknoloji-uzaktan-kumanda/29802.png",
+        "reviewImagePath": "../../public/symbol-candidates/cards/teknoloji-uzaktan-kumanda/29802.png",
+        "keywords": [
+          "te instantaneo",
+          "te"
+        ],
+        "score": 0.07
+      }
+    ]
+  },
+  {
+    "cardId": "teknoloji-kamera",
+    "label": "Kamera",
+    "category": "Teknoloji",
+    "emoji": "📷",
+    "queryTerms": [
+      "camera",
+      "camara"
+    ],
+    "usedImprovedSearchTerms": true,
+    "topCandidateScore": 0.1,
+    "candidateImagePaths": [
+      "/symbol-candidates/cards/teknoloji-kamera/30180.png",
+      "/symbol-candidates/cards/teknoloji-kamera/30181.png",
+      "/symbol-candidates/cards/teknoloji-kamera/30182.png"
+    ],
+    "candidateArasaacIds": [
+      30180,
+      30181,
+      30182
+    ],
+    "candidates": [
+      {
+        "arasaacId": 30180,
+        "imagePath": "/symbol-candidates/cards/teknoloji-kamera/30180.png",
+        "reviewImagePath": "../../public/symbol-candidates/cards/teknoloji-kamera/30180.png",
+        "keywords": [
+          "medicacion con camara"
+        ],
+        "score": 0.1
+      },
+      {
+        "arasaacId": 30181,
+        "imagePath": "/symbol-candidates/cards/teknoloji-kamera/30181.png",
+        "reviewImagePath": "../../public/symbol-candidates/cards/teknoloji-kamera/30181.png",
+        "keywords": [
+          "medicacion con camara"
+        ],
+        "score": 0.1
+      },
+      {
+        "arasaacId": 30182,
+        "imagePath": "/symbol-candidates/cards/teknoloji-kamera/30182.png",
+        "reviewImagePath": "../../public/symbol-candidates/cards/teknoloji-kamera/30182.png",
+        "keywords": [
+          "medicacion con camara"
+        ],
+        "score": 0.1
+      }
+    ]
+  }
+]

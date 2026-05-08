@@ -1,26 +1,35 @@
 import type { VisualCard } from '../types'
+import verifiedCardSymbolMap from '../../scripts/verified-card-symbol-map.json'
 
 const ARASAAC_ATTRIBUTION =
   'ARASAAC pictogram by Sergio Palao, Government of Aragón, CC BY-NC-SA'
 
-const arasaacCardIds: Record<string, number> = {
-  'kisiler-ogretmen': 6556,
-  'okul-defter': 2359,
-  'okul-kalem': 2282,
-  'okul-canta': 2475,
+type VerifiedCardSymbol = {
+  cardId: string
+  source: 'arasaac'
+  symbolId: number
+  image: string
 }
 
-function withArasaacSupport(card: VisualCard): VisualCard {
-  const arasaacId = arasaacCardIds[card.id] ?? card.arasaacId
+const verifiedCardSymbols = new Map(
+  (verifiedCardSymbolMap as VerifiedCardSymbol[]).map((entry) => [
+    entry.cardId,
+    entry,
+  ]),
+)
 
-  if (!arasaacId) {
+function withArasaacSupport(card: VisualCard): VisualCard {
+  const verifiedSymbol = verifiedCardSymbols.get(card.id)
+  const arasaacId = verifiedSymbol?.symbolId ?? card.arasaacId
+
+  if (!verifiedSymbol || verifiedSymbol.source !== 'arasaac' || !arasaacId) {
     return card
   }
 
   return {
     ...card,
     arasaacId,
-    image: `/symbols/arasaac/cards/${card.id}.png`,
+    image: verifiedSymbol.image,
     imageAlt: `${card.label} görseli`,
     attribution: ARASAAC_ATTRIBUTION,
   }
@@ -188,6 +197,8 @@ const rawCards: VisualCard[] = [
   { id: 'sosyal-ifadeler-tamam', label: 'Tamam', category: 'Sosyal İfadeler', emoji: '👌', textToSpeak: 'Tamam.' },
   { id: 'sosyal-ifadeler-bilmiyorum', label: 'Bilmiyorum', category: 'Sosyal İfadeler', emoji: '🤷', textToSpeak: 'Bilmiyorum.' },
   { id: 'sosyal-ifadeler-nasilsin', label: 'Nasılsın?', category: 'Sosyal İfadeler', emoji: '🙂', textToSpeak: 'Nasılsın?' },
+  { id: 'sosyal-ifadeler-gunaydin', label: 'Günaydın', category: 'Sosyal İfadeler', emoji: '🌅👋', textToSpeak: 'Günaydın.', searchTerms: ['good morning', 'buenos dias'] },
+  { id: 'sosyal-ifadeler-iyi-geceler', label: 'İyi geceler', category: 'Sosyal İfadeler', emoji: '🌙👋', textToSpeak: 'İyi geceler.', searchTerms: ['good night', 'buenas noches'] },
 
   { id: 'duyusal-ihtiyaclar-sessiz', label: 'Sessiz', category: 'Duyusal İhtiyaçlar', emoji: '🤫', textToSpeak: 'Sessiz istiyorum.' },
   { id: 'duyusal-ihtiyaclar-kulaklik', label: 'Kulaklık', category: 'Duyusal İhtiyaçlar', emoji: '🎧', textToSpeak: 'Kulaklık istiyorum.' },
@@ -213,14 +224,22 @@ const rawCards: VisualCard[] = [
 
   { id: 'zaman-simdi', label: 'Şimdi', category: 'Zaman', emoji: '⏱️', textToSpeak: 'Şimdi.' },
   { id: 'zaman-sonra', label: 'Sonra', category: 'Zaman', emoji: '➡️', textToSpeak: 'Sonra.' },
-  { id: 'zaman-bugun', label: 'Bugün', category: 'Zaman', emoji: '📅', textToSpeak: 'Bugün.' },
-  { id: 'zaman-yarin', label: 'Yarın', category: 'Zaman', emoji: '🌤️', textToSpeak: 'Yarın.' },
   { id: 'zaman-sabah', label: 'Sabah', category: 'Zaman', emoji: '🌅', textToSpeak: 'Sabah.' },
   { id: 'zaman-ogle', label: 'Öğle', category: 'Zaman', emoji: '☀️', textToSpeak: 'Öğle.' },
   { id: 'zaman-aksam', label: 'Akşam', category: 'Zaman', emoji: '🌆', textToSpeak: 'Akşam.' },
   { id: 'zaman-gece', label: 'Gece', category: 'Zaman', emoji: '🌙', textToSpeak: 'Gece.' },
-  { id: 'zaman-dun', label: 'Dün', category: 'Zaman', emoji: '↩️', textToSpeak: 'Dün.' },
   { id: 'zaman-hemen', label: 'Hemen', category: 'Zaman', emoji: '⚡', textToSpeak: 'Hemen.' },
+
+  { id: 'zaman-bugun', label: 'Bugün', category: 'Günler', emoji: '📅⭐', textToSpeak: 'Bugün.', searchTerms: ['today', 'hoy'] },
+  { id: 'zaman-dun', label: 'Dün', category: 'Günler', emoji: '📅⬅️', textToSpeak: 'Dün.', searchTerms: ['yesterday', 'ayer'] },
+  { id: 'zaman-yarin', label: 'Yarın', category: 'Günler', emoji: '📅➡️', textToSpeak: 'Yarın.', searchTerms: ['tomorrow', 'manana', 'mañana'] },
+  { id: 'gunler-pazartesi', label: 'Pazartesi', category: 'Günler', emoji: '📅', textToSpeak: 'Pazartesi.', searchTerms: ['monday', 'lunes'] },
+  { id: 'gunler-sali', label: 'Salı', category: 'Günler', emoji: '📅', textToSpeak: 'Salı.', searchTerms: ['tuesday', 'martes'] },
+  { id: 'gunler-carsamba', label: 'Çarşamba', category: 'Günler', emoji: '📅', textToSpeak: 'Çarşamba.', searchTerms: ['wednesday', 'miercoles', 'miércoles'] },
+  { id: 'gunler-persembe', label: 'Perşembe', category: 'Günler', emoji: '📅', textToSpeak: 'Perşembe.', searchTerms: ['thursday', 'jueves'] },
+  { id: 'gunler-cuma', label: 'Cuma', category: 'Günler', emoji: '📅', textToSpeak: 'Cuma.', searchTerms: ['friday', 'viernes'] },
+  { id: 'gunler-cumartesi', label: 'Cumartesi', category: 'Günler', emoji: '📅', textToSpeak: 'Cumartesi.', searchTerms: ['saturday', 'sabado', 'sábado'] },
+  { id: 'gunler-pazar', label: 'Pazar', category: 'Günler', emoji: '📅', textToSpeak: 'Pazar.', searchTerms: ['sunday', 'domingo'] },
 
   { id: 'sayilar-sifir', label: 'Sıfır', category: 'Sayılar', emoji: '0️⃣', textToSpeak: 'Sıfır.' },
   { id: 'sayilar-bir', label: 'Bir', category: 'Sayılar', emoji: '1️⃣', textToSpeak: 'Bir.' },
@@ -277,6 +296,14 @@ const rawCards: VisualCard[] = [
   { id: 'tasitlar-taksi', label: 'Taksi', category: 'Taşıtlar', emoji: '🚕', textToSpeak: 'Taksi istiyorum.' },
   { id: 'tasitlar-ambulans', label: 'Ambulans', category: 'Taşıtlar', emoji: '🚑', textToSpeak: 'Ambulans geliyor.' },
   { id: 'tasitlar-traktor', label: 'Traktör', category: 'Taşıtlar', emoji: '🚜', textToSpeak: 'Traktör görüyorum.' },
+
+  { id: 'spor-ilgi-futbol', label: 'Futbol', category: 'Spor / İlgi', emoji: '⚽', textToSpeak: 'Futbol oynamak istiyorum.', searchTerms: ['football', 'soccer', 'futbol', 'fútbol'] },
+  { id: 'spor-ilgi-top', label: 'Top', category: 'Spor / İlgi', emoji: '⚽', textToSpeak: 'Top istiyorum.', searchTerms: ['ball', 'pelota'] },
+  { id: 'spor-ilgi-mac', label: 'Maç', category: 'Spor / İlgi', emoji: '🏟️', textToSpeak: 'Maç izlemek istiyorum.', searchTerms: ['match', 'game', 'partido'] },
+  { id: 'spor-ilgi-gol', label: 'Gol', category: 'Spor / İlgi', emoji: '🥅', textToSpeak: 'Gol oldu.', searchTerms: ['goal', 'gol', 'gool'] },
+  { id: 'spor-ilgi-forma', label: 'Forma', category: 'Spor / İlgi', emoji: '👕', textToSpeak: 'Formayı istiyorum.', searchTerms: ['jersey', 'uniform', 'camiseta'] },
+  { id: 'spor-ilgi-aslan', label: 'Aslan', category: 'Spor / İlgi', emoji: '🦁', textToSpeak: 'Aslan.', searchTerms: ['lion', 'leon', 'león'] },
+  { id: 'spor-ilgi-galatasaray', label: 'Galatasaray', category: 'Spor / İlgi', emoji: '🦁🟡🔴', textToSpeak: 'Galatasaray.', searchTerms: ['lion', 'football', 'red yellow'] },
 
   { id: 'hayvanlar-kedi', label: 'Kedi', category: 'Hayvanlar', emoji: '🐱', textToSpeak: 'Kedi görüyorum.' },
   { id: 'hayvanlar-kopek', label: 'Köpek', category: 'Hayvanlar', emoji: '🐶', textToSpeak: 'Köpek görüyorum.' },

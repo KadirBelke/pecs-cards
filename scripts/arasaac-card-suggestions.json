@@ -4730,6 +4730,72 @@
     ]
   },
   {
+    "cardId": "sosyal-ifadeler-gunaydin",
+    "label": "Günaydın",
+    "category": "Sosyal İfadeler",
+    "query": [
+      "gunaydin",
+      "good morning",
+      "buenos dias"
+    ],
+    "candidates": [
+      {
+        "arasaacId": 7022,
+        "keywords": [
+          "dia"
+        ],
+        "score": 0.07
+      },
+      {
+        "arasaacId": 26799,
+        "keywords": [
+          "dia"
+        ],
+        "score": 0.07
+      },
+      {
+        "arasaacId": 5526,
+        "keywords": [
+          "no"
+        ],
+        "score": 0.07
+      }
+    ]
+  },
+  {
+    "cardId": "sosyal-ifadeler-iyi-geceler",
+    "label": "İyi geceler",
+    "category": "Sosyal İfadeler",
+    "query": [
+      "iyi geceler",
+      "good night",
+      "buenas noches"
+    ],
+    "candidates": [
+      {
+        "arasaacId": 35789,
+        "keywords": [
+          "noche"
+        ],
+        "score": 0.07
+      },
+      {
+        "arasaacId": 7181,
+        "keywords": [
+          "noche"
+        ],
+        "score": 0.07
+      },
+      {
+        "arasaacId": 26997,
+        "keywords": [
+          "noche"
+        ],
+        "score": 0.07
+      }
+    ]
+  },
+  {
     "cardId": "duyusal-ihtiyaclar-sessiz",
     "label": "Sessiz",
     "category": "Duyusal İhtiyaçlar",
@@ -5490,41 +5556,6 @@
     ]
   },
   {
-    "cardId": "zaman-bugun",
-    "label": "Bugün",
-    "category": "Zaman",
-    "query": [
-      "bugun",
-      "today",
-      "hoy"
-    ],
-    "candidates": [
-      {
-        "arasaacId": 7131,
-        "keywords": [
-          "hoy"
-        ],
-        "score": 0.33
-      },
-      {
-        "arasaacId": 38276,
-        "keywords": [
-          "hoy"
-        ],
-        "score": 0.33
-      }
-    ]
-  },
-  {
-    "cardId": "zaman-yarin",
-    "label": "Yarın",
-    "category": "Zaman",
-    "query": [
-      "yarin"
-    ],
-    "candidates": []
-  },
-  {
     "cardId": "zaman-sabah",
     "label": "Sabah",
     "category": "Zaman",
@@ -5663,15 +5694,6 @@
     ]
   },
   {
-    "cardId": "zaman-dun",
-    "label": "Dün",
-    "category": "Zaman",
-    "query": [
-      "dun"
-    ],
-    "candidates": []
-  },
-  {
     "cardId": "zaman-hemen",
     "label": "Hemen",
     "category": "Zaman",
@@ -5679,6 +5701,376 @@
       "hemen"
     ],
     "candidates": []
+  },
+  {
+    "cardId": "zaman-bugun",
+    "label": "Bugün",
+    "category": "Günler",
+    "query": [
+      "bugun",
+      "today",
+      "hoy"
+    ],
+    "candidates": [
+      {
+        "arasaacId": 7131,
+        "keywords": [
+          "hoy"
+        ],
+        "score": 0.33
+      },
+      {
+        "arasaacId": 38276,
+        "keywords": [
+          "hoy"
+        ],
+        "score": 0.33
+      }
+    ]
+  },
+  {
+    "cardId": "zaman-dun",
+    "label": "Dün",
+    "category": "Günler",
+    "query": [
+      "dun",
+      "yesterday",
+      "ayer"
+    ],
+    "candidates": [
+      {
+        "arasaacId": 38272,
+        "keywords": [
+          "antes de ayer",
+          "anteayer"
+        ],
+        "score": 0.07
+      },
+      {
+        "arasaacId": 6625,
+        "keywords": [
+          "tu",
+          "te",
+          "ti",
+          "usted",
+          "tu te"
+        ],
+        "score": 0.07
+      },
+      {
+        "arasaacId": 7290,
+        "keywords": [
+          "tu",
+          "te",
+          "ti",
+          "usted",
+          "tu te"
+        ],
+        "score": 0.07
+      }
+    ]
+  },
+  {
+    "cardId": "zaman-yarin",
+    "label": "Yarın",
+    "category": "Günler",
+    "query": [
+      "yarin",
+      "tomorrow",
+      "manana"
+    ],
+    "candidates": [
+      {
+        "arasaacId": 7152,
+        "keywords": [
+          "manana"
+        ],
+        "score": 0.33
+      },
+      {
+        "arasaacId": 25704,
+        "keywords": [
+          "manana",
+          "temprano"
+        ],
+        "score": 0.28
+      },
+      {
+        "arasaacId": 38278,
+        "keywords": [
+          "manana",
+          "siguiente dia",
+          "dia siguiente",
+          "proximo dia"
+        ],
+        "score": 0.27
+      }
+    ]
+  },
+  {
+    "cardId": "gunler-pazartesi",
+    "label": "Pazartesi",
+    "category": "Günler",
+    "query": [
+      "pazartesi",
+      "monday",
+      "lunes"
+    ],
+    "candidates": [
+      {
+        "arasaacId": 6625,
+        "keywords": [
+          "tu",
+          "te",
+          "ti",
+          "usted",
+          "tu te"
+        ],
+        "score": 0.07
+      },
+      {
+        "arasaacId": 7290,
+        "keywords": [
+          "tu",
+          "te",
+          "ti",
+          "usted",
+          "tu te"
+        ],
+        "score": 0.07
+      },
+      {
+        "arasaacId": 29802,
+        "keywords": [
+          "te instantaneo",
+          "te"
+        ],
+        "score": 0.07
+      }
+    ]
+  },
+  {
+    "cardId": "gunler-sali",
+    "label": "Salı",
+    "category": "Günler",
+    "query": [
+      "sali",
+      "tuesday",
+      "martes"
+    ],
+    "candidates": [
+      {
+        "arasaacId": 6625,
+        "keywords": [
+          "tu",
+          "te",
+          "ti",
+          "usted",
+          "tu te"
+        ],
+        "score": 0.13
+      },
+      {
+        "arasaacId": 7290,
+        "keywords": [
+          "tu",
+          "te",
+          "ti",
+          "usted",
+          "tu te"
+        ],
+        "score": 0.13
+      },
+      {
+        "arasaacId": 33042,
+        "keywords": [
+          "salina"
+        ],
+        "score": 0.07
+      }
+    ]
+  },
+  {
+    "cardId": "gunler-carsamba",
+    "label": "Çarşamba",
+    "category": "Günler",
+    "query": [
+      "carsamba",
+      "wednesday",
+      "miercoles"
+    ],
+    "candidates": [
+      {
+        "arasaacId": 39726,
+        "keywords": [
+          "miercoles pasado",
+          "miercoles anterior",
+          "anterior miercoles"
+        ],
+        "score": 0.07
+      },
+      {
+        "arasaacId": 6481,
+        "keywords": [
+          "el",
+          "le",
+          "lo",
+          "si",
+          "se",
+          "el se"
+        ],
+        "score": 0.07
+      },
+      {
+        "arasaacId": 7031,
+        "keywords": [
+          "ellas",
+          "si",
+          "les",
+          "las",
+          "se",
+          "ellas se"
+        ],
+        "score": 0.07
+      }
+    ]
+  },
+  {
+    "cardId": "gunler-persembe",
+    "label": "Perşembe",
+    "category": "Günler",
+    "query": [
+      "persembe",
+      "thursday",
+      "jueves"
+    ],
+    "candidates": [
+      {
+        "arasaacId": 6536,
+        "keywords": [
+          "jueves"
+        ],
+        "score": 0.33
+      },
+      {
+        "arasaacId": 37728,
+        "keywords": [
+          "jueves"
+        ],
+        "score": 0.33
+      },
+      {
+        "arasaacId": 39725,
+        "keywords": [
+          "jueves pasado",
+          "jueves anterior",
+          "anterior jueves"
+        ],
+        "score": 0.07
+      }
+    ]
+  },
+  {
+    "cardId": "gunler-cuma",
+    "label": "Cuma",
+    "category": "Günler",
+    "query": [
+      "cuma",
+      "friday",
+      "viernes"
+    ],
+    "candidates": [
+      {
+        "arasaacId": 39721,
+        "keywords": [
+          "viernes pasado",
+          "viernes anterior",
+          "anterior viernes"
+        ],
+        "score": 0.07
+      }
+    ]
+  },
+  {
+    "cardId": "gunler-cumartesi",
+    "label": "Cumartesi",
+    "category": "Günler",
+    "query": [
+      "cumartesi",
+      "saturday",
+      "sabado"
+    ],
+    "candidates": [
+      {
+        "arasaacId": 6625,
+        "keywords": [
+          "tu",
+          "te",
+          "ti",
+          "usted",
+          "tu te"
+        ],
+        "score": 0.13
+      },
+      {
+        "arasaacId": 7290,
+        "keywords": [
+          "tu",
+          "te",
+          "ti",
+          "usted",
+          "tu te"
+        ],
+        "score": 0.13
+      },
+      {
+        "arasaacId": 29802,
+        "keywords": [
+          "te instantaneo",
+          "te"
+        ],
+        "score": 0.07
+      }
+    ]
+  },
+  {
+    "cardId": "gunler-pazar",
+    "label": "Pazar",
+    "category": "Günler",
+    "query": [
+      "pazar",
+      "sunday",
+      "domingo"
+    ],
+    "candidates": [
+      {
+        "arasaacId": 12272,
+        "keywords": [
+          "su",
+          "suyo",
+          "suya"
+        ],
+        "score": 0.07
+      },
+      {
+        "arasaacId": 12274,
+        "keywords": [
+          "su",
+          "suyo",
+          "suya"
+        ],
+        "score": 0.07
+      },
+      {
+        "arasaacId": 39718,
+        "keywords": [
+          "domingo pasado",
+          "domingo anterior",
+          "anterior domingo"
+        ],
+        "score": 0.07
+      }
+    ]
   },
   {
     "cardId": "sayilar-sifir",
@@ -7200,6 +7592,268 @@
       "traktor"
     ],
     "candidates": []
+  },
+  {
+    "cardId": "spor-ilgi-futbol",
+    "label": "Futbol",
+    "category": "Spor / İlgi",
+    "query": [
+      "futbol",
+      "football",
+      "soccer"
+    ],
+    "candidates": [
+      {
+        "arasaacId": 16743,
+        "keywords": [
+          "futbol",
+          "jugar al futbol"
+        ],
+        "score": 0.28
+      },
+      {
+        "arasaacId": 8610,
+        "keywords": [
+          "jugador de futbol americano"
+        ],
+        "score": 0.07
+      },
+      {
+        "arasaacId": 39851,
+        "keywords": [
+          "balon de futbol americano"
+        ],
+        "score": 0.07
+      }
+    ]
+  },
+  {
+    "cardId": "spor-ilgi-top",
+    "label": "Top",
+    "category": "Spor / İlgi",
+    "query": [
+      "top",
+      "ball",
+      "pelota"
+    ],
+    "candidates": [
+      {
+        "arasaacId": 39702,
+        "keywords": [
+          "top"
+        ],
+        "score": 0.33
+      },
+      {
+        "arasaacId": 3241,
+        "keywords": [
+          "pelota",
+          "pelota de playa"
+        ],
+        "score": 0.28
+      },
+      {
+        "arasaacId": 27627,
+        "keywords": [
+          "equitacion",
+          "montar a caballo"
+        ],
+        "score": 0.07
+      }
+    ]
+  },
+  {
+    "cardId": "spor-ilgi-mac",
+    "label": "Maç",
+    "category": "Spor / İlgi",
+    "query": [
+      "mac",
+      "match",
+      "game",
+      "partido"
+    ],
+    "candidates": [
+      {
+        "arasaacId": 2455,
+        "keywords": [
+          "macarrones"
+        ],
+        "score": 0.05
+      },
+      {
+        "arasaacId": 3126,
+        "keywords": [
+          "maceta"
+        ],
+        "score": 0.05
+      },
+      {
+        "arasaacId": 3313,
+        "keywords": [
+          "farmacia"
+        ],
+        "score": 0.05
+      }
+    ]
+  },
+  {
+    "cardId": "spor-ilgi-gol",
+    "label": "Gol",
+    "category": "Spor / İlgi",
+    "query": [
+      "gol",
+      "goal",
+      "gool"
+    ],
+    "candidates": [
+      {
+        "arasaacId": 6007,
+        "keywords": [
+          "gol",
+          "marcar gol",
+          "marcar"
+        ],
+        "score": 0.27
+      },
+      {
+        "arasaacId": 6977,
+        "keywords": [
+          "golpear",
+          "chutar",
+          "patear"
+        ],
+        "score": 0.07
+      },
+      {
+        "arasaacId": 37139,
+        "keywords": [
+          "golpear la puerta",
+          "patear la puerta"
+        ],
+        "score": 0.07
+      }
+    ]
+  },
+  {
+    "cardId": "spor-ilgi-forma",
+    "label": "Forma",
+    "category": "Spor / İlgi",
+    "query": [
+      "forma",
+      "jersey",
+      "uniform",
+      "camiseta"
+    ],
+    "candidates": [
+      {
+        "arasaacId": 6481,
+        "keywords": [
+          "el",
+          "le",
+          "lo",
+          "si",
+          "se",
+          "el se"
+        ],
+        "score": 0.1
+      },
+      {
+        "arasaacId": 7029,
+        "keywords": [
+          "ella",
+          "la",
+          "lo",
+          "si",
+          "se",
+          "ella se"
+        ],
+        "score": 0.1
+      },
+      {
+        "arasaacId": 7031,
+        "keywords": [
+          "ellas",
+          "si",
+          "les",
+          "las",
+          "se",
+          "ellas se"
+        ],
+        "score": 0.1
+      }
+    ]
+  },
+  {
+    "cardId": "spor-ilgi-aslan",
+    "label": "Aslan",
+    "category": "Spor / İlgi",
+    "query": [
+      "aslan",
+      "lion",
+      "leon"
+    ],
+    "candidates": [
+      {
+        "arasaacId": 2449,
+        "keywords": [
+          "leon"
+        ],
+        "score": 0.33
+      },
+      {
+        "arasaacId": 25187,
+        "keywords": [
+          "leon"
+        ],
+        "score": 0.33
+      },
+      {
+        "arasaacId": 35009,
+        "keywords": [
+          "yacimiento paleontologico"
+        ],
+        "score": 0.07
+      }
+    ]
+  },
+  {
+    "cardId": "spor-ilgi-galatasaray",
+    "label": "Galatasaray",
+    "category": "Spor / İlgi",
+    "query": [
+      "galatasaray",
+      "lion",
+      "football",
+      "red yellow"
+    ],
+    "candidates": [
+      {
+        "arasaacId": 7029,
+        "keywords": [
+          "ella",
+          "la",
+          "lo",
+          "si",
+          "se",
+          "ella se"
+        ],
+        "score": 0.1
+      },
+      {
+        "arasaacId": 6205,
+        "keywords": [
+          "red"
+        ],
+        "score": 0.05
+      },
+      {
+        "arasaacId": 6545,
+        "keywords": [
+          "lata"
+        ],
+        "score": 0.05
+      }
+    ]
   },
   {
     "cardId": "hayvanlar-kedi",

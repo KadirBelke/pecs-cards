@@ -1,0 +1,3022 @@
+[
+  {
+    "cardId": "istekler-yardim",
+    "label": "Yardım",
+    "category": "İstekler",
+    "searchTerms": [
+      "help",
+      "ayuda",
+      "need help",
+      "emergency"
+    ]
+  },
+  {
+    "cardId": "istekler-mola",
+    "label": "Mola",
+    "category": "İstekler",
+    "searchTerms": [
+      "break",
+      "rest",
+      "descanso",
+      "pausa"
+    ]
+  },
+  {
+    "cardId": "istekler-saril",
+    "label": "Sarıl",
+    "category": "İstekler",
+    "searchTerms": [
+      "hug",
+      "abrazar",
+      "abrazo"
+    ]
+  },
+  {
+    "cardId": "istekler-bir-daha",
+    "label": "Bir daha",
+    "category": "İstekler",
+    "searchTerms": [
+      "again",
+      "more",
+      "otra vez",
+      "de nuevo",
+      "mas"
+    ]
+  },
+  {
+    "cardId": "istekler-bitti",
+    "label": "Bitti",
+    "category": "İstekler",
+    "searchTerms": [
+      "finished",
+      "all done",
+      "terminado",
+      "fin"
+    ]
+  },
+  {
+    "cardId": "istekler-bekle",
+    "label": "Bekle",
+    "category": "İstekler",
+    "searchTerms": [
+      "wait",
+      "esperar",
+      "stop"
+    ]
+  },
+  {
+    "cardId": "istekler-ac",
+    "label": "Aç",
+    "category": "İstekler",
+    "searchTerms": [
+      "open",
+      "abrir"
+    ]
+  },
+  {
+    "cardId": "istekler-kapat",
+    "label": "Kapat",
+    "category": "İstekler",
+    "searchTerms": [
+      "close",
+      "cerrar"
+    ]
+  },
+  {
+    "cardId": "istekler-istiyorum",
+    "label": "İstiyorum",
+    "category": "İstekler",
+    "searchTerms": [
+      "want",
+      "I want",
+      "quiero",
+      "pedir"
+    ]
+  },
+  {
+    "cardId": "istekler-istemiyorum",
+    "label": "İstemiyorum",
+    "category": "İstekler",
+    "searchTerms": [
+      "don't want",
+      "no quiero",
+      "no",
+      "reject"
+    ]
+  },
+  {
+    "cardId": "yiyecek-elma",
+    "label": "Elma",
+    "category": "Yiyecek",
+    "searchTerms": [
+      "apple",
+      "manzana"
+    ]
+  },
+  {
+    "cardId": "yiyecek-muz",
+    "label": "Muz",
+    "category": "Yiyecek",
+    "searchTerms": [
+      "banana",
+      "platano",
+      "plátano"
+    ]
+  },
+  {
+    "cardId": "yiyecek-ekmek",
+    "label": "Ekmek",
+    "category": "Yiyecek",
+    "searchTerms": [
+      "bread",
+      "pan"
+    ]
+  },
+  {
+    "cardId": "yiyecek-corba",
+    "label": "Çorba",
+    "category": "Yiyecek",
+    "searchTerms": [
+      "soup",
+      "sopa"
+    ]
+  },
+  {
+    "cardId": "yiyecek-pilav",
+    "label": "Pilav",
+    "category": "Yiyecek",
+    "searchTerms": [
+      "rice",
+      "arroz"
+    ]
+  },
+  {
+    "cardId": "yiyecek-peynir",
+    "label": "Peynir",
+    "category": "Yiyecek",
+    "searchTerms": [
+      "cheese",
+      "queso"
+    ]
+  },
+  {
+    "cardId": "yiyecek-yogurt",
+    "label": "Yoğurt",
+    "category": "Yiyecek",
+    "searchTerms": [
+      "yogurt",
+      "yogur"
+    ]
+  },
+  {
+    "cardId": "yiyecek-tavuk",
+    "label": "Tavuk",
+    "category": "Yiyecek",
+    "searchTerms": [
+      "chicken",
+      "pollo"
+    ]
+  },
+  {
+    "cardId": "yiyecek-kofte",
+    "label": "Köfte",
+    "category": "Yiyecek",
+    "searchTerms": [
+      "meatball",
+      "albóndiga",
+      "albondiga"
+    ]
+  },
+  {
+    "cardId": "yiyecek-makarna",
+    "label": "Makarna",
+    "category": "Yiyecek",
+    "searchTerms": [
+      "pasta",
+      "macaroni",
+      "macarrones"
+    ]
+  },
+  {
+    "cardId": "yiyecek-patates",
+    "label": "Patates",
+    "category": "Yiyecek",
+    "searchTerms": [
+      "potato",
+      "patata",
+      "papa"
+    ]
+  },
+  {
+    "cardId": "yiyecek-domates",
+    "label": "Domates",
+    "category": "Yiyecek",
+    "searchTerms": [
+      "tomato",
+      "tomate"
+    ]
+  },
+  {
+    "cardId": "yiyecek-salatalik",
+    "label": "Salatalık",
+    "category": "Yiyecek",
+    "searchTerms": [
+      "cucumber",
+      "pepino"
+    ]
+  },
+  {
+    "cardId": "yiyecek-portakal",
+    "label": "Portakal",
+    "category": "Yiyecek",
+    "searchTerms": [
+      "orange",
+      "naranja"
+    ]
+  },
+  {
+    "cardId": "yiyecek-cilek",
+    "label": "Çilek",
+    "category": "Yiyecek",
+    "searchTerms": [
+      "strawberry",
+      "fresa"
+    ]
+  },
+  {
+    "cardId": "yiyecek-biskuvi",
+    "label": "Bisküvi",
+    "category": "Yiyecek",
+    "searchTerms": [
+      "cookie",
+      "biscuit",
+      "galleta"
+    ]
+  },
+  {
+    "cardId": "icecek-su",
+    "label": "Su",
+    "category": "İçecek",
+    "searchTerms": [
+      "water",
+      "agua"
+    ]
+  },
+  {
+    "cardId": "icecek-sut",
+    "label": "Süt",
+    "category": "İçecek",
+    "searchTerms": [
+      "milk",
+      "leche"
+    ]
+  },
+  {
+    "cardId": "icecek-meyve-suyu",
+    "label": "Meyve suyu",
+    "category": "İçecek",
+    "searchTerms": [
+      "juice",
+      "zumo",
+      "jugo"
+    ]
+  },
+  {
+    "cardId": "icecek-ayran",
+    "label": "Ayran",
+    "category": "İçecek",
+    "searchTerms": [
+      "yogurt drink",
+      "drink",
+      "bebida",
+      "yogur"
+    ]
+  },
+  {
+    "cardId": "icecek-cay",
+    "label": "Çay",
+    "category": "İçecek",
+    "searchTerms": [
+      "tea",
+      "té",
+      "infusion"
+    ]
+  },
+  {
+    "cardId": "icecek-ic",
+    "label": "İçmek",
+    "category": "İçecek",
+    "searchTerms": [
+      "drink",
+      "beber",
+      "tomar"
+    ]
+  },
+  {
+    "cardId": "icecek-kakao",
+    "label": "Kakao",
+    "category": "İçecek",
+    "searchTerms": [
+      "cocoa",
+      "cacao",
+      "hot chocolate",
+      "chocolate"
+    ]
+  },
+  {
+    "cardId": "icecek-limonata",
+    "label": "Limonata",
+    "category": "İçecek",
+    "searchTerms": [
+      "lemonade",
+      "limonada"
+    ]
+  },
+  {
+    "cardId": "icecek-sicak-cikolata",
+    "label": "Sıcak çikolata",
+    "category": "İçecek",
+    "searchTerms": [
+      "hot chocolate",
+      "chocolate caliente",
+      "cacao"
+    ]
+  },
+  {
+    "cardId": "icecek-gazoz",
+    "label": "Gazoz",
+    "category": "İçecek",
+    "searchTerms": [
+      "soda",
+      "soft drink",
+      "gaseosa",
+      "refresco"
+    ]
+  },
+  {
+    "cardId": "duygular-mutlu",
+    "label": "Mutlu",
+    "category": "Duygular",
+    "searchTerms": [
+      "happy",
+      "feliz",
+      "contento"
+    ]
+  },
+  {
+    "cardId": "duygular-uzgun",
+    "label": "Üzgün",
+    "category": "Duygular",
+    "searchTerms": [
+      "sad",
+      "triste"
+    ]
+  },
+  {
+    "cardId": "duygular-kizgin",
+    "label": "Kızgın",
+    "category": "Duygular",
+    "searchTerms": [
+      "angry",
+      "enfadado",
+      "enojado"
+    ]
+  },
+  {
+    "cardId": "duygular-korktum",
+    "label": "Korktum",
+    "category": "Duygular",
+    "searchTerms": [
+      "afraid",
+      "scared",
+      "miedo",
+      "asustado"
+    ]
+  },
+  {
+    "cardId": "duygular-sakin",
+    "label": "Sakin",
+    "category": "Duygular",
+    "searchTerms": [
+      "calm",
+      "quiet",
+      "tranquilo"
+    ]
+  },
+  {
+    "cardId": "duygular-heyecanli",
+    "label": "Heyecanlı",
+    "category": "Duygular",
+    "searchTerms": [
+      "excited",
+      "emocionado",
+      "ilusionado"
+    ]
+  },
+  {
+    "cardId": "duygular-saskin",
+    "label": "Şaşkın",
+    "category": "Duygular",
+    "searchTerms": [
+      "surprised",
+      "sorprendido"
+    ]
+  },
+  {
+    "cardId": "duygular-sikildim",
+    "label": "Sıkıldım",
+    "category": "Duygular",
+    "searchTerms": [
+      "bored",
+      "aburrido"
+    ]
+  },
+  {
+    "cardId": "duygular-utandim",
+    "label": "Utandım",
+    "category": "Duygular",
+    "searchTerms": [
+      "embarrassed",
+      "shy",
+      "vergüenza",
+      "avergonzado"
+    ]
+  },
+  {
+    "cardId": "duygular-merakli",
+    "label": "Meraklı",
+    "category": "Duygular",
+    "searchTerms": [
+      "curious",
+      "curioso"
+    ]
+  },
+  {
+    "cardId": "beden-saglik-bas",
+    "label": "Başım",
+    "category": "Beden / Sağlık",
+    "searchTerms": [
+      "head",
+      "cabeza",
+      "headache",
+      "dolor de cabeza"
+    ]
+  },
+  {
+    "cardId": "beden-saglik-karin",
+    "label": "Karnım",
+    "category": "Beden / Sağlık",
+    "searchTerms": [
+      "belly",
+      "stomach",
+      "barriga",
+      "dolor de barriga"
+    ]
+  },
+  {
+    "cardId": "beden-saglik-dis",
+    "label": "Dişim",
+    "category": "Beden / Sağlık",
+    "searchTerms": [
+      "tooth",
+      "teeth",
+      "diente",
+      "dolor de muelas"
+    ]
+  },
+  {
+    "cardId": "beden-saglik-el",
+    "label": "Elim",
+    "category": "Beden / Sağlık",
+    "searchTerms": [
+      "hand",
+      "mano"
+    ]
+  },
+  {
+    "cardId": "beden-saglik-yorgun",
+    "label": "Yorgunum",
+    "category": "Beden / Sağlık",
+    "searchTerms": [
+      "tired",
+      "cansado"
+    ]
+  },
+  {
+    "cardId": "beden-saglik-aciktim",
+    "label": "Acıktım",
+    "category": "Beden / Sağlık",
+    "searchTerms": [
+      "hungry",
+      "hunger",
+      "hambre"
+    ]
+  },
+  {
+    "cardId": "beden-saglik-susadim",
+    "label": "Susadım",
+    "category": "Beden / Sağlık",
+    "searchTerms": [
+      "thirsty",
+      "sed",
+      "drink water"
+    ]
+  },
+  {
+    "cardId": "beden-saglik-ayagim",
+    "label": "Ayağım",
+    "category": "Beden / Sağlık",
+    "searchTerms": [
+      "foot",
+      "pie"
+    ]
+  },
+  {
+    "cardId": "beden-saglik-bogazim",
+    "label": "Boğazım",
+    "category": "Beden / Sağlık",
+    "searchTerms": [
+      "throat",
+      "garganta",
+      "sore throat",
+      "dolor de garganta"
+    ]
+  },
+  {
+    "cardId": "beden-saglik-gozum",
+    "label": "Gözüm",
+    "category": "Beden / Sağlık",
+    "searchTerms": [
+      "eye",
+      "ojo"
+    ]
+  },
+  {
+    "cardId": "beden-saglik-kulagim",
+    "label": "Kulağım",
+    "category": "Beden / Sağlık",
+    "searchTerms": [
+      "ear",
+      "oreja"
+    ]
+  },
+  {
+    "cardId": "beden-saglik-usuyorum",
+    "label": "Üşüyorum",
+    "category": "Beden / Sağlık",
+    "searchTerms": [
+      "cold",
+      "frio",
+      "frío"
+    ]
+  },
+  {
+    "cardId": "tuvalet-hijyen-tuvalet",
+    "label": "Tuvalet",
+    "category": "Tuvalet / Hijyen",
+    "searchTerms": [
+      "toilet",
+      "bathroom",
+      "wc",
+      "aseo",
+      "baño",
+      "retrete"
+    ]
+  },
+  {
+    "cardId": "tuvalet-hijyen-cis",
+    "label": "Çiş",
+    "category": "Tuvalet / Hijyen",
+    "searchTerms": [
+      "pee",
+      "urinate",
+      "orinar",
+      "pis"
+    ]
+  },
+  {
+    "cardId": "tuvalet-hijyen-kaka",
+    "label": "Kaka",
+    "category": "Tuvalet / Hijyen",
+    "searchTerms": [
+      "poop",
+      "feces",
+      "caca",
+      "hacer caca"
+    ]
+  },
+  {
+    "cardId": "tuvalet-hijyen-el-yika",
+    "label": "El yıka",
+    "category": "Tuvalet / Hijyen",
+    "searchTerms": [
+      "wash hands",
+      "lavar manos",
+      "lavarse las manos"
+    ]
+  },
+  {
+    "cardId": "tuvalet-hijyen-dis-fircala",
+    "label": "Diş fırçala",
+    "category": "Tuvalet / Hijyen",
+    "searchTerms": [
+      "brush teeth",
+      "cepillar dientes",
+      "lavarse los dientes"
+    ]
+  },
+  {
+    "cardId": "tuvalet-hijyen-banyo",
+    "label": "Duş al",
+    "category": "Tuvalet / Hijyen",
+    "searchTerms": [
+      "shower",
+      "ducha",
+      "bath",
+      "baño"
+    ]
+  },
+  {
+    "cardId": "tuvalet-hijyen-sac-tara",
+    "label": "Saç tara",
+    "category": "Tuvalet / Hijyen",
+    "searchTerms": [
+      "comb hair",
+      "peinar",
+      "peine"
+    ]
+  },
+  {
+    "cardId": "tuvalet-hijyen-sabun",
+    "label": "Sabun",
+    "category": "Tuvalet / Hijyen",
+    "searchTerms": [
+      "soap",
+      "jabon",
+      "jabón"
+    ]
+  },
+  {
+    "cardId": "tuvalet-hijyen-havlu",
+    "label": "Havlu",
+    "category": "Tuvalet / Hijyen",
+    "searchTerms": [
+      "towel",
+      "toalla"
+    ]
+  },
+  {
+    "cardId": "tuvalet-hijyen-tuvalet-kagidi",
+    "label": "Tuvalet kağıdı",
+    "category": "Tuvalet / Hijyen",
+    "searchTerms": [
+      "toilet paper",
+      "papel higienico",
+      "papel higiénico"
+    ]
+  },
+  {
+    "cardId": "eylemler-otur",
+    "label": "Otur",
+    "category": "Eylemler",
+    "searchTerms": [
+      "sit",
+      "sit down",
+      "sentar",
+      "sentarse"
+    ]
+  },
+  {
+    "cardId": "eylemler-kalk",
+    "label": "Kalk",
+    "category": "Eylemler",
+    "searchTerms": [
+      "stand up",
+      "get up",
+      "levantarse"
+    ]
+  },
+  {
+    "cardId": "eylemler-kos",
+    "label": "Koş",
+    "category": "Eylemler",
+    "searchTerms": [
+      "run",
+      "correr"
+    ]
+  },
+  {
+    "cardId": "eylemler-yuru",
+    "label": "Yürü",
+    "category": "Eylemler",
+    "searchTerms": [
+      "walk",
+      "caminar",
+      "andar"
+    ]
+  },
+  {
+    "cardId": "eylemler-oku",
+    "label": "Oku",
+    "category": "Eylemler",
+    "searchTerms": [
+      "read",
+      "leer"
+    ]
+  },
+  {
+    "cardId": "eylemler-uyu",
+    "label": "Uyu",
+    "category": "Eylemler",
+    "searchTerms": [
+      "sleep",
+      "dormir"
+    ]
+  },
+  {
+    "cardId": "eylemler-yaz",
+    "label": "Yaz",
+    "category": "Eylemler",
+    "searchTerms": [
+      "write",
+      "escribir"
+    ]
+  },
+  {
+    "cardId": "eylemler-oyna",
+    "label": "Oyna",
+    "category": "Eylemler",
+    "searchTerms": [
+      "play",
+      "jugar"
+    ]
+  },
+  {
+    "cardId": "eylemler-dinle",
+    "label": "Dinle",
+    "category": "Eylemler",
+    "searchTerms": [
+      "listen",
+      "hear",
+      "escuchar",
+      "oir"
+    ]
+  },
+  {
+    "cardId": "eylemler-bak",
+    "label": "Bak",
+    "category": "Eylemler",
+    "searchTerms": [
+      "look",
+      "see",
+      "mirar",
+      "ver"
+    ]
+  },
+  {
+    "cardId": "kisiler-anne",
+    "label": "Anne",
+    "category": "Kişiler",
+    "searchTerms": [
+      "mother",
+      "mom",
+      "madre",
+      "mama"
+    ]
+  },
+  {
+    "cardId": "kisiler-baba",
+    "label": "Baba",
+    "category": "Kişiler",
+    "searchTerms": [
+      "father",
+      "dad",
+      "padre",
+      "papa"
+    ]
+  },
+  {
+    "cardId": "kisiler-abla",
+    "label": "Abla",
+    "category": "Kişiler",
+    "searchTerms": [
+      "sister",
+      "hermana",
+      "big sister"
+    ]
+  },
+  {
+    "cardId": "kisiler-abi",
+    "label": "Abi",
+    "category": "Kişiler",
+    "searchTerms": [
+      "brother",
+      "hermano",
+      "big brother"
+    ]
+  },
+  {
+    "cardId": "kisiler-arkadas",
+    "label": "Arkadaş",
+    "category": "Kişiler",
+    "searchTerms": [
+      "friend",
+      "amigo",
+      "amiga"
+    ]
+  },
+  {
+    "cardId": "kisiler-ogretmen",
+    "label": "Öğretmen",
+    "category": "Kişiler",
+    "searchTerms": [
+      "teacher",
+      "maestro",
+      "profesor"
+    ]
+  },
+  {
+    "cardId": "kisiler-teyze",
+    "label": "Teyze",
+    "category": "Kişiler",
+    "searchTerms": [
+      "aunt",
+      "tia",
+      "tía"
+    ]
+  },
+  {
+    "cardId": "kisiler-amca",
+    "label": "Amca",
+    "category": "Kişiler",
+    "searchTerms": [
+      "uncle",
+      "tio",
+      "tío"
+    ]
+  },
+  {
+    "cardId": "kisiler-buyukanne",
+    "label": "Büyükanne",
+    "category": "Kişiler",
+    "searchTerms": [
+      "grandmother",
+      "grandma",
+      "abuela"
+    ]
+  },
+  {
+    "cardId": "kisiler-buyukbaba",
+    "label": "Büyükbaba",
+    "category": "Kişiler",
+    "searchTerms": [
+      "grandfather",
+      "grandpa",
+      "abuelo"
+    ]
+  },
+  {
+    "cardId": "yerler-ev",
+    "label": "Ev",
+    "category": "Yerler",
+    "searchTerms": [
+      "home",
+      "house",
+      "casa"
+    ]
+  },
+  {
+    "cardId": "yerler-okul",
+    "label": "Okul",
+    "category": "Yerler",
+    "searchTerms": [
+      "school",
+      "escuela",
+      "colegio"
+    ]
+  },
+  {
+    "cardId": "yerler-park",
+    "label": "Park",
+    "category": "Yerler",
+    "searchTerms": [
+      "park",
+      "parque"
+    ]
+  },
+  {
+    "cardId": "yerler-market",
+    "label": "Market",
+    "category": "Yerler",
+    "searchTerms": [
+      "supermarket",
+      "market",
+      "mercado",
+      "supermercado"
+    ]
+  },
+  {
+    "cardId": "yerler-araba",
+    "label": "Arabaya",
+    "category": "Yerler",
+    "searchTerms": [
+      "car",
+      "coche",
+      "auto"
+    ]
+  },
+  {
+    "cardId": "yerler-bahce",
+    "label": "Bahçe",
+    "category": "Yerler",
+    "searchTerms": [
+      "garden",
+      "jardin",
+      "jardín"
+    ]
+  },
+  {
+    "cardId": "yerler-oyun-alani",
+    "label": "Oyun alanı",
+    "category": "Yerler",
+    "searchTerms": [
+      "playground",
+      "play area",
+      "parque infantil",
+      "patio"
+    ]
+  },
+  {
+    "cardId": "yerler-kutuphane",
+    "label": "Kütüphane",
+    "category": "Yerler",
+    "searchTerms": [
+      "library",
+      "biblioteca"
+    ]
+  },
+  {
+    "cardId": "yerler-yol",
+    "label": "Yol",
+    "category": "Yerler",
+    "searchTerms": [
+      "road",
+      "path",
+      "camino",
+      "carretera"
+    ]
+  },
+  {
+    "cardId": "yerler-restoran",
+    "label": "Restoran",
+    "category": "Yerler",
+    "searchTerms": [
+      "restaurant",
+      "restaurante"
+    ]
+  },
+  {
+    "cardId": "ev-yatak",
+    "label": "Yatak",
+    "category": "Ev",
+    "searchTerms": [
+      "bed",
+      "cama"
+    ]
+  },
+  {
+    "cardId": "ev-masa",
+    "label": "Masa",
+    "category": "Ev",
+    "searchTerms": [
+      "table",
+      "mesa"
+    ]
+  },
+  {
+    "cardId": "ev-koltuk",
+    "label": "Koltuk",
+    "category": "Ev",
+    "searchTerms": [
+      "sofa",
+      "armchair",
+      "sillon",
+      "sillón"
+    ]
+  },
+  {
+    "cardId": "ev-mutfak",
+    "label": "Mutfak",
+    "category": "Ev",
+    "searchTerms": [
+      "kitchen",
+      "cocina"
+    ]
+  },
+  {
+    "cardId": "ev-kapi",
+    "label": "Kapı",
+    "category": "Ev",
+    "searchTerms": [
+      "door",
+      "puerta"
+    ]
+  },
+  {
+    "cardId": "ev-isik",
+    "label": "Lamba",
+    "category": "Ev",
+    "searchTerms": [
+      "lamp",
+      "light",
+      "luz",
+      "lampara",
+      "lámpara"
+    ]
+  },
+  {
+    "cardId": "ev-hali",
+    "label": "Halı",
+    "category": "Ev",
+    "searchTerms": [
+      "carpet",
+      "rug",
+      "alfombra"
+    ]
+  },
+  {
+    "cardId": "ev-pencere",
+    "label": "Pencere",
+    "category": "Ev",
+    "searchTerms": [
+      "window",
+      "ventana"
+    ]
+  },
+  {
+    "cardId": "ev-televizyon",
+    "label": "Televizyon",
+    "category": "Ev",
+    "searchTerms": [
+      "television",
+      "tv",
+      "televisor"
+    ]
+  },
+  {
+    "cardId": "ev-dolap",
+    "label": "Dolap",
+    "category": "Ev",
+    "searchTerms": [
+      "wardrobe",
+      "closet",
+      "cupboard",
+      "armario"
+    ]
+  },
+  {
+    "cardId": "okul-defter",
+    "label": "Defter",
+    "category": "Okul",
+    "searchTerms": [
+      "notebook",
+      "cuaderno"
+    ]
+  },
+  {
+    "cardId": "okul-kalem",
+    "label": "Kalem",
+    "category": "Okul",
+    "searchTerms": [
+      "pencil",
+      "pen",
+      "lapiz",
+      "lápiz"
+    ]
+  },
+  {
+    "cardId": "okul-sinif",
+    "label": "Sınıf",
+    "category": "Okul",
+    "searchTerms": [
+      "classroom",
+      "class",
+      "aula",
+      "clase"
+    ]
+  },
+  {
+    "cardId": "okul-teneffus",
+    "label": "Teneffüs",
+    "category": "Okul",
+    "searchTerms": [
+      "recess",
+      "break",
+      "recreo"
+    ]
+  },
+  {
+    "cardId": "okul-boya",
+    "label": "Boya",
+    "category": "Okul",
+    "searchTerms": [
+      "paint",
+      "coloring",
+      "pintura"
+    ]
+  },
+  {
+    "cardId": "okul-canta",
+    "label": "Çanta",
+    "category": "Okul",
+    "searchTerms": [
+      "school bag",
+      "backpack",
+      "mochila"
+    ]
+  },
+  {
+    "cardId": "okul-silgi",
+    "label": "Silgi",
+    "category": "Okul",
+    "searchTerms": [
+      "eraser",
+      "rubber",
+      "goma",
+      "borrador"
+    ]
+  },
+  {
+    "cardId": "okul-kitap",
+    "label": "Kitap",
+    "category": "Okul",
+    "searchTerms": [
+      "book",
+      "libro"
+    ]
+  },
+  {
+    "cardId": "okul-makas",
+    "label": "Makas",
+    "category": "Okul",
+    "searchTerms": [
+      "scissors",
+      "tijeras"
+    ]
+  },
+  {
+    "cardId": "okul-cetvel",
+    "label": "Cetvel",
+    "category": "Okul",
+    "searchTerms": [
+      "ruler",
+      "regla"
+    ]
+  },
+  {
+    "cardId": "oyun-oyuncak-top",
+    "label": "Top",
+    "category": "Oyun / Oyuncak",
+    "searchTerms": [
+      "ball",
+      "pelota"
+    ]
+  },
+  {
+    "cardId": "oyun-oyuncak-bebek",
+    "label": "Bebek",
+    "category": "Oyun / Oyuncak",
+    "searchTerms": [
+      "doll",
+      "baby doll",
+      "muñeca",
+      "bebe"
+    ]
+  },
+  {
+    "cardId": "oyun-oyuncak-araba",
+    "label": "Oyuncak araba",
+    "category": "Oyun / Oyuncak",
+    "searchTerms": [
+      "toy car",
+      "coche de juguete"
+    ]
+  },
+  {
+    "cardId": "oyun-oyuncak-yapboz",
+    "label": "Yapboz",
+    "category": "Oyun / Oyuncak",
+    "searchTerms": [
+      "puzzle",
+      "jigsaw puzzle",
+      "puzle",
+      "rompecabezas"
+    ]
+  },
+  {
+    "cardId": "oyun-oyuncak-lego",
+    "label": "Lego",
+    "category": "Oyun / Oyuncak",
+    "searchTerms": [
+      "blocks",
+      "building blocks",
+      "bloques",
+      "lego"
+    ]
+  },
+  {
+    "cardId": "oyun-oyuncak-salincak",
+    "label": "Salıncak",
+    "category": "Oyun / Oyuncak",
+    "searchTerms": [
+      "swing",
+      "columpio"
+    ]
+  },
+  {
+    "cardId": "oyun-oyuncak-bloklar",
+    "label": "Bloklar",
+    "category": "Oyun / Oyuncak",
+    "searchTerms": [
+      "blocks",
+      "building blocks",
+      "bloques"
+    ]
+  },
+  {
+    "cardId": "oyun-oyuncak-tren",
+    "label": "Oyuncak tren",
+    "category": "Oyun / Oyuncak",
+    "searchTerms": [
+      "toy train",
+      "train",
+      "tren de juguete"
+    ]
+  },
+  {
+    "cardId": "oyun-oyuncak-kukla",
+    "label": "Kukla",
+    "category": "Oyun / Oyuncak",
+    "searchTerms": [
+      "puppet",
+      "marioneta",
+      "titere"
+    ]
+  },
+  {
+    "cardId": "oyun-oyuncak-balon",
+    "label": "Balon",
+    "category": "Oyun / Oyuncak",
+    "searchTerms": [
+      "balloon",
+      "globo",
+      "balon"
+    ]
+  },
+  {
+    "cardId": "rutinler-uyan",
+    "label": "Uyan",
+    "category": "Rutinler",
+    "searchTerms": [
+      "wake up",
+      "despertar",
+      "despertarse"
+    ]
+  },
+  {
+    "cardId": "rutinler-giyin",
+    "label": "Giyin",
+    "category": "Rutinler",
+    "searchTerms": [
+      "get dressed",
+      "dress",
+      "vestirse"
+    ]
+  },
+  {
+    "cardId": "rutinler-kahvalti",
+    "label": "Kahvaltı",
+    "category": "Rutinler",
+    "searchTerms": [
+      "breakfast",
+      "desayuno"
+    ]
+  },
+  {
+    "cardId": "rutinler-okula-git",
+    "label": "Okula git",
+    "category": "Rutinler",
+    "searchTerms": [
+      "go to school",
+      "ir al colegio",
+      "ir a la escuela"
+    ]
+  },
+  {
+    "cardId": "rutinler-eve-don",
+    "label": "Eve dön",
+    "category": "Rutinler",
+    "searchTerms": [
+      "go home",
+      "return home",
+      "volver a casa"
+    ]
+  },
+  {
+    "cardId": "rutinler-ders",
+    "label": "Ders",
+    "category": "Rutinler",
+    "searchTerms": [
+      "lesson",
+      "class",
+      "leccion",
+      "clase"
+    ]
+  },
+  {
+    "cardId": "rutinler-oyun-zamani",
+    "label": "Oyun zamanı",
+    "category": "Rutinler",
+    "searchTerms": [
+      "play time",
+      "time to play",
+      "jugar"
+    ]
+  },
+  {
+    "cardId": "rutinler-aksam",
+    "label": "Akşam rutini",
+    "category": "Rutinler",
+    "searchTerms": [
+      "evening routine",
+      "evening",
+      "noche"
+    ]
+  },
+  {
+    "cardId": "rutinler-dinlen",
+    "label": "Dinlen",
+    "category": "Rutinler",
+    "searchTerms": [
+      "rest",
+      "relax",
+      "descansar"
+    ]
+  },
+  {
+    "cardId": "rutinler-yat",
+    "label": "Yat",
+    "category": "Rutinler",
+    "searchTerms": [
+      "go to bed",
+      "bedtime",
+      "acostarse"
+    ]
+  },
+  {
+    "cardId": "sosyal-ifadeler-merhaba",
+    "label": "Merhaba",
+    "category": "Sosyal İfadeler",
+    "searchTerms": [
+      "hello",
+      "hi",
+      "hola"
+    ]
+  },
+  {
+    "cardId": "sosyal-ifadeler-gule-gule",
+    "label": "Hoşça kal",
+    "category": "Sosyal İfadeler",
+    "searchTerms": [
+      "goodbye",
+      "bye",
+      "adios",
+      "adiós"
+    ]
+  },
+  {
+    "cardId": "sosyal-ifadeler-lutfen",
+    "label": "Lütfen",
+    "category": "Sosyal İfadeler",
+    "searchTerms": [
+      "please",
+      "por favor"
+    ]
+  },
+  {
+    "cardId": "sosyal-ifadeler-tesekkurler",
+    "label": "Teşekkür ederim",
+    "category": "Sosyal İfadeler",
+    "searchTerms": [
+      "thank you",
+      "thanks",
+      "gracias"
+    ]
+  },
+  {
+    "cardId": "sosyal-ifadeler-ozur-dilerim",
+    "label": "Özür dilerim",
+    "category": "Sosyal İfadeler",
+    "searchTerms": [
+      "sorry",
+      "lo siento",
+      "perdon"
+    ]
+  },
+  {
+    "cardId": "sosyal-ifadeler-evet",
+    "label": "Evet",
+    "category": "Sosyal İfadeler",
+    "searchTerms": [
+      "yes",
+      "si",
+      "sí"
+    ]
+  },
+  {
+    "cardId": "sosyal-ifadeler-hayir",
+    "label": "Hayır",
+    "category": "Sosyal İfadeler",
+    "searchTerms": [
+      "no"
+    ]
+  },
+  {
+    "cardId": "sosyal-ifadeler-tamam",
+    "label": "Tamam",
+    "category": "Sosyal İfadeler",
+    "searchTerms": [
+      "okay",
+      "ok",
+      "vale",
+      "de acuerdo"
+    ]
+  },
+  {
+    "cardId": "sosyal-ifadeler-bilmiyorum",
+    "label": "Bilmiyorum",
+    "category": "Sosyal İfadeler",
+    "searchTerms": [
+      "I don't know",
+      "no sé",
+      "no lo se"
+    ]
+  },
+  {
+    "cardId": "sosyal-ifadeler-nasilsin",
+    "label": "Nasılsın?",
+    "category": "Sosyal İfadeler",
+    "searchTerms": [
+      "how are you",
+      "como estas",
+      "cómo estás"
+    ]
+  },
+  {
+    "cardId": "sosyal-ifadeler-gunaydin",
+    "label": "Günaydın",
+    "category": "Sosyal İfadeler",
+    "searchTerms": [
+      "good morning",
+      "buenos dias",
+      "buenos días"
+    ]
+  },
+  {
+    "cardId": "sosyal-ifadeler-iyi-geceler",
+    "label": "İyi geceler",
+    "category": "Sosyal İfadeler",
+    "searchTerms": [
+      "good night",
+      "buenas noches"
+    ]
+  },
+  {
+    "cardId": "duyusal-ihtiyaclar-sessiz",
+    "label": "Sessiz",
+    "category": "Duyusal İhtiyaçlar",
+    "searchTerms": [
+      "quiet",
+      "silence",
+      "silencio",
+      "callar"
+    ]
+  },
+  {
+    "cardId": "duyusal-ihtiyaclar-kulaklik",
+    "label": "Kulaklık",
+    "category": "Duyusal İhtiyaçlar",
+    "searchTerms": [
+      "headphones",
+      "auriculares",
+      "cascos"
+    ]
+  },
+  {
+    "cardId": "duyusal-ihtiyaclar-sik-sik",
+    "label": "Sıkı sarıl",
+    "category": "Duyusal İhtiyaçlar",
+    "searchTerms": [
+      "tight hug",
+      "deep pressure",
+      "abrazo fuerte"
+    ]
+  },
+  {
+    "cardId": "duyusal-ihtiyaclar-zipla",
+    "label": "Zıpla",
+    "category": "Duyusal İhtiyaçlar",
+    "searchTerms": [
+      "jump",
+      "saltar"
+    ]
+  },
+  {
+    "cardId": "duyusal-ihtiyaclar-sallan",
+    "label": "Sallan",
+    "category": "Duyusal İhtiyaçlar",
+    "searchTerms": [
+      "swing",
+      "rocking",
+      "balancear",
+      "columpiar"
+    ]
+  },
+  {
+    "cardId": "duyusal-ihtiyaclar-karanlik",
+    "label": "Karanlık",
+    "category": "Duyusal İhtiyaçlar",
+    "searchTerms": [
+      "dark",
+      "oscuro"
+    ]
+  },
+  {
+    "cardId": "duyusal-ihtiyaclar-yuksek-ses",
+    "label": "Yüksek ses",
+    "category": "Duyusal İhtiyaçlar",
+    "searchTerms": [
+      "loud noise",
+      "noise",
+      "ruido",
+      "sonido fuerte"
+    ]
+  },
+  {
+    "cardId": "duyusal-ihtiyaclar-parlak-isik",
+    "label": "Parlak ışık",
+    "category": "Duyusal İhtiyaçlar",
+    "searchTerms": [
+      "bright light",
+      "light",
+      "luz brillante"
+    ]
+  },
+  {
+    "cardId": "duyusal-ihtiyaclar-kalabalik",
+    "label": "Kalabalık",
+    "category": "Duyusal İhtiyaçlar",
+    "searchTerms": [
+      "crowd",
+      "crowded",
+      "multitud",
+      "aglomeracion"
+    ]
+  },
+  {
+    "cardId": "duyusal-ihtiyaclar-sarilmak-istemiyorum",
+    "label": "Sarılmak istemiyorum",
+    "category": "Duyusal İhtiyaçlar",
+    "searchTerms": [
+      "no hug",
+      "don't hug",
+      "no abrazar",
+      "no quiero abrazo"
+    ]
+  },
+  {
+    "cardId": "guvenlik-dur",
+    "label": "Dur",
+    "category": "Güvenlik",
+    "searchTerms": [
+      "stop",
+      "parar",
+      "alto"
+    ]
+  },
+  {
+    "cardId": "guvenlik-yavas",
+    "label": "Yavaş",
+    "category": "Güvenlik",
+    "searchTerms": [
+      "slow",
+      "slowly",
+      "despacio",
+      "lento"
+    ]
+  },
+  {
+    "cardId": "guvenlik-elimi-tut",
+    "label": "Elimi tut",
+    "category": "Güvenlik",
+    "searchTerms": [
+      "hold my hand",
+      "hand",
+      "coger la mano",
+      "dar la mano"
+    ]
+  },
+  {
+    "cardId": "guvenlik-bekle",
+    "label": "Geri dur",
+    "category": "Güvenlik",
+    "searchTerms": [
+      "stay back",
+      "back",
+      "wait",
+      "esperar",
+      "atras"
+    ]
+  },
+  {
+    "cardId": "guvenlik-tehlike",
+    "label": "Tehlike",
+    "category": "Güvenlik",
+    "searchTerms": [
+      "danger",
+      "warning",
+      "peligro"
+    ]
+  },
+  {
+    "cardId": "guvenlik-kemer",
+    "label": "Kemer tak",
+    "category": "Güvenlik",
+    "searchTerms": [
+      "seat belt",
+      "belt",
+      "cinturon",
+      "cinturón de seguridad"
+    ]
+  },
+  {
+    "cardId": "guvenlik-acil-yardim",
+    "label": "Acil yardım",
+    "category": "Güvenlik",
+    "searchTerms": [
+      "emergency help",
+      "help",
+      "ayuda",
+      "emergencia"
+    ]
+  },
+  {
+    "cardId": "guvenlik-sicak",
+    "label": "Sıcak",
+    "category": "Güvenlik",
+    "searchTerms": [
+      "hot",
+      "caliente"
+    ]
+  },
+  {
+    "cardId": "guvenlik-soguk",
+    "label": "Soğuk",
+    "category": "Güvenlik",
+    "searchTerms": [
+      "cold",
+      "frio",
+      "frío"
+    ]
+  },
+  {
+    "cardId": "guvenlik-kayboldum",
+    "label": "Kayboldum",
+    "category": "Güvenlik",
+    "searchTerms": [
+      "lost",
+      "perdido",
+      "desorientado"
+    ]
+  },
+  {
+    "cardId": "zaman-simdi",
+    "label": "Şimdi",
+    "category": "Zaman",
+    "searchTerms": [
+      "now",
+      "ahora"
+    ]
+  },
+  {
+    "cardId": "zaman-sonra",
+    "label": "Sonra",
+    "category": "Zaman",
+    "searchTerms": [
+      "later",
+      "after",
+      "despues",
+      "después"
+    ]
+  },
+  {
+    "cardId": "zaman-sabah",
+    "label": "Sabah",
+    "category": "Zaman",
+    "searchTerms": [
+      "morning",
+      "mañana"
+    ]
+  },
+  {
+    "cardId": "zaman-ogle",
+    "label": "Öğle",
+    "category": "Zaman",
+    "searchTerms": [
+      "noon",
+      "midday",
+      "mediodia",
+      "mediodía"
+    ]
+  },
+  {
+    "cardId": "zaman-aksam",
+    "label": "Akşam",
+    "category": "Zaman",
+    "searchTerms": [
+      "evening",
+      "night",
+      "tarde",
+      "noche"
+    ]
+  },
+  {
+    "cardId": "zaman-gece",
+    "label": "Gece",
+    "category": "Zaman",
+    "searchTerms": [
+      "night",
+      "noche"
+    ]
+  },
+  {
+    "cardId": "zaman-hemen",
+    "label": "Hemen",
+    "category": "Zaman",
+    "searchTerms": [
+      "right now",
+      "immediately",
+      "ahora mismo"
+    ]
+  },
+  {
+    "cardId": "zaman-bugun",
+    "label": "Bugün",
+    "category": "Günler",
+    "searchTerms": [
+      "today",
+      "hoy"
+    ]
+  },
+  {
+    "cardId": "zaman-dun",
+    "label": "Dün",
+    "category": "Günler",
+    "searchTerms": [
+      "yesterday",
+      "ayer"
+    ]
+  },
+  {
+    "cardId": "zaman-yarin",
+    "label": "Yarın",
+    "category": "Günler",
+    "searchTerms": [
+      "tomorrow",
+      "mañana"
+    ]
+  },
+  {
+    "cardId": "gunler-pazartesi",
+    "label": "Pazartesi",
+    "category": "Günler",
+    "searchTerms": [
+      "monday",
+      "lunes"
+    ]
+  },
+  {
+    "cardId": "gunler-sali",
+    "label": "Salı",
+    "category": "Günler",
+    "searchTerms": [
+      "tuesday",
+      "martes"
+    ]
+  },
+  {
+    "cardId": "gunler-carsamba",
+    "label": "Çarşamba",
+    "category": "Günler",
+    "searchTerms": [
+      "wednesday",
+      "miercoles",
+      "miércoles"
+    ]
+  },
+  {
+    "cardId": "gunler-persembe",
+    "label": "Perşembe",
+    "category": "Günler",
+    "searchTerms": [
+      "thursday",
+      "jueves"
+    ]
+  },
+  {
+    "cardId": "gunler-cuma",
+    "label": "Cuma",
+    "category": "Günler",
+    "searchTerms": [
+      "friday",
+      "viernes"
+    ]
+  },
+  {
+    "cardId": "gunler-cumartesi",
+    "label": "Cumartesi",
+    "category": "Günler",
+    "searchTerms": [
+      "saturday",
+      "sabado",
+      "sábado"
+    ]
+  },
+  {
+    "cardId": "gunler-pazar",
+    "label": "Pazar",
+    "category": "Günler",
+    "searchTerms": [
+      "sunday",
+      "domingo"
+    ]
+  },
+  {
+    "cardId": "sayilar-sifir",
+    "label": "Sıfır",
+    "category": "Sayılar",
+    "searchTerms": [
+      "zero",
+      "0",
+      "cero"
+    ]
+  },
+  {
+    "cardId": "sayilar-bir",
+    "label": "Bir",
+    "category": "Sayılar",
+    "searchTerms": [
+      "one",
+      "1",
+      "uno"
+    ]
+  },
+  {
+    "cardId": "sayilar-iki",
+    "label": "İki",
+    "category": "Sayılar",
+    "searchTerms": [
+      "two",
+      "2",
+      "dos"
+    ]
+  },
+  {
+    "cardId": "sayilar-uc",
+    "label": "Üç",
+    "category": "Sayılar",
+    "searchTerms": [
+      "three",
+      "3",
+      "tres"
+    ]
+  },
+  {
+    "cardId": "sayilar-dort",
+    "label": "Dört",
+    "category": "Sayılar",
+    "searchTerms": [
+      "four",
+      "4",
+      "cuatro"
+    ]
+  },
+  {
+    "cardId": "sayilar-bes",
+    "label": "Beş",
+    "category": "Sayılar",
+    "searchTerms": [
+      "five",
+      "5",
+      "cinco"
+    ]
+  },
+  {
+    "cardId": "sayilar-alti",
+    "label": "Altı",
+    "category": "Sayılar",
+    "searchTerms": [
+      "six",
+      "6",
+      "seis"
+    ]
+  },
+  {
+    "cardId": "sayilar-yedi",
+    "label": "Yedi",
+    "category": "Sayılar",
+    "searchTerms": [
+      "seven",
+      "7",
+      "siete"
+    ]
+  },
+  {
+    "cardId": "sayilar-sekiz",
+    "label": "Sekiz",
+    "category": "Sayılar",
+    "searchTerms": [
+      "eight",
+      "8",
+      "ocho"
+    ]
+  },
+  {
+    "cardId": "sayilar-dokuz",
+    "label": "Dokuz",
+    "category": "Sayılar",
+    "searchTerms": [
+      "nine",
+      "9",
+      "nueve"
+    ]
+  },
+  {
+    "cardId": "sayilar-on",
+    "label": "On",
+    "category": "Sayılar",
+    "searchTerms": [
+      "ten",
+      "10",
+      "diez"
+    ]
+  },
+  {
+    "cardId": "renkler-kirmizi",
+    "label": "Kırmızı",
+    "category": "Renkler",
+    "searchTerms": [
+      "red",
+      "rojo"
+    ]
+  },
+  {
+    "cardId": "renkler-mavi",
+    "label": "Mavi",
+    "category": "Renkler",
+    "searchTerms": [
+      "blue",
+      "azul"
+    ]
+  },
+  {
+    "cardId": "renkler-sari",
+    "label": "Sarı",
+    "category": "Renkler",
+    "searchTerms": [
+      "yellow",
+      "amarillo"
+    ]
+  },
+  {
+    "cardId": "renkler-yesil",
+    "label": "Yeşil",
+    "category": "Renkler",
+    "searchTerms": [
+      "green",
+      "verde"
+    ]
+  },
+  {
+    "cardId": "renkler-turuncu",
+    "label": "Turuncu",
+    "category": "Renkler",
+    "searchTerms": [
+      "orange color",
+      "naranja",
+      "anaranjado"
+    ]
+  },
+  {
+    "cardId": "renkler-mor",
+    "label": "Mor",
+    "category": "Renkler",
+    "searchTerms": [
+      "purple",
+      "violet",
+      "morado",
+      "violeta"
+    ]
+  },
+  {
+    "cardId": "renkler-pembe",
+    "label": "Pembe",
+    "category": "Renkler",
+    "searchTerms": [
+      "pink",
+      "rosa"
+    ]
+  },
+  {
+    "cardId": "renkler-siyah",
+    "label": "Siyah",
+    "category": "Renkler",
+    "searchTerms": [
+      "black",
+      "negro"
+    ]
+  },
+  {
+    "cardId": "renkler-beyaz",
+    "label": "Beyaz",
+    "category": "Renkler",
+    "searchTerms": [
+      "white",
+      "blanco"
+    ]
+  },
+  {
+    "cardId": "renkler-kahverengi",
+    "label": "Kahverengi",
+    "category": "Renkler",
+    "searchTerms": [
+      "brown",
+      "marron",
+      "marrón"
+    ]
+  },
+  {
+    "cardId": "kiyafetler-tisort",
+    "label": "Tişört",
+    "category": "Kıyafetler",
+    "searchTerms": [
+      "t-shirt",
+      "shirt",
+      "camiseta"
+    ]
+  },
+  {
+    "cardId": "kiyafetler-pantolon",
+    "label": "Pantolon",
+    "category": "Kıyafetler",
+    "searchTerms": [
+      "pants",
+      "trousers",
+      "pantalon",
+      "pantalón"
+    ]
+  },
+  {
+    "cardId": "kiyafetler-corap",
+    "label": "Çorap",
+    "category": "Kıyafetler",
+    "searchTerms": [
+      "socks",
+      "calcetines"
+    ]
+  },
+  {
+    "cardId": "kiyafetler-ayakkabi",
+    "label": "Ayakkabı",
+    "category": "Kıyafetler",
+    "searchTerms": [
+      "shoes",
+      "zapatos"
+    ]
+  },
+  {
+    "cardId": "kiyafetler-mont",
+    "label": "Mont",
+    "category": "Kıyafetler",
+    "searchTerms": [
+      "coat",
+      "jacket",
+      "abrigo",
+      "chaqueta"
+    ]
+  },
+  {
+    "cardId": "kiyafetler-sapka",
+    "label": "Şapka",
+    "category": "Kıyafetler",
+    "searchTerms": [
+      "hat",
+      "cap",
+      "gorra",
+      "sombrero"
+    ]
+  },
+  {
+    "cardId": "kiyafetler-kazak",
+    "label": "Kazak",
+    "category": "Kıyafetler",
+    "searchTerms": [
+      "sweater",
+      "jumper",
+      "jersey"
+    ]
+  },
+  {
+    "cardId": "kiyafetler-elbise",
+    "label": "Elbise",
+    "category": "Kıyafetler",
+    "searchTerms": [
+      "dress",
+      "vestido"
+    ]
+  },
+  {
+    "cardId": "kiyafetler-etek",
+    "label": "Etek",
+    "category": "Kıyafetler",
+    "searchTerms": [
+      "skirt",
+      "falda"
+    ]
+  },
+  {
+    "cardId": "kiyafetler-pijama",
+    "label": "Pijama",
+    "category": "Kıyafetler",
+    "searchTerms": [
+      "pajamas",
+      "pyjamas",
+      "pijama"
+    ]
+  },
+  {
+    "cardId": "hava-durumu-gunesli",
+    "label": "Güneşli",
+    "category": "Hava Durumu",
+    "searchTerms": [
+      "sunny",
+      "sun",
+      "sol",
+      "soleado"
+    ]
+  },
+  {
+    "cardId": "hava-durumu-bulutlu",
+    "label": "Bulutlu",
+    "category": "Hava Durumu",
+    "searchTerms": [
+      "cloudy",
+      "cloud",
+      "nublado",
+      "nube"
+    ]
+  },
+  {
+    "cardId": "hava-durumu-yagmurlu",
+    "label": "Yağmurlu",
+    "category": "Hava Durumu",
+    "searchTerms": [
+      "rainy",
+      "rain",
+      "lluvia",
+      "lluvioso"
+    ]
+  },
+  {
+    "cardId": "hava-durumu-karli",
+    "label": "Karlı",
+    "category": "Hava Durumu",
+    "searchTerms": [
+      "snowy",
+      "snow",
+      "nieve",
+      "nevado"
+    ]
+  },
+  {
+    "cardId": "hava-durumu-ruzgarli",
+    "label": "Rüzgarlı",
+    "category": "Hava Durumu",
+    "searchTerms": [
+      "windy",
+      "wind",
+      "viento"
+    ]
+  },
+  {
+    "cardId": "hava-durumu-firtina",
+    "label": "Fırtına",
+    "category": "Hava Durumu",
+    "searchTerms": [
+      "storm",
+      "thunderstorm",
+      "tormenta"
+    ]
+  },
+  {
+    "cardId": "hava-durumu-sisli",
+    "label": "Sisli",
+    "category": "Hava Durumu",
+    "searchTerms": [
+      "foggy",
+      "fog",
+      "niebla"
+    ]
+  },
+  {
+    "cardId": "hava-durumu-gok-gurultusu",
+    "label": "Gök gürültüsü",
+    "category": "Hava Durumu",
+    "searchTerms": [
+      "thunder",
+      "thunderstorm",
+      "trueno"
+    ]
+  },
+  {
+    "cardId": "hava-durumu-gokkusagi",
+    "label": "Gökkuşağı",
+    "category": "Hava Durumu",
+    "searchTerms": [
+      "rainbow",
+      "arco iris",
+      "arcoiris"
+    ]
+  },
+  {
+    "cardId": "hava-durumu-serin",
+    "label": "Serin",
+    "category": "Hava Durumu",
+    "searchTerms": [
+      "cool weather",
+      "fresh",
+      "fresco"
+    ]
+  },
+  {
+    "cardId": "tasitlar-araba",
+    "label": "Araba",
+    "category": "Taşıtlar",
+    "searchTerms": [
+      "car",
+      "coche",
+      "auto"
+    ]
+  },
+  {
+    "cardId": "tasitlar-otobus",
+    "label": "Otobüs",
+    "category": "Taşıtlar",
+    "searchTerms": [
+      "bus",
+      "autobus",
+      "autobús"
+    ]
+  },
+  {
+    "cardId": "tasitlar-tren",
+    "label": "Tren",
+    "category": "Taşıtlar",
+    "searchTerms": [
+      "train",
+      "tren"
+    ]
+  },
+  {
+    "cardId": "tasitlar-ucak",
+    "label": "Uçak",
+    "category": "Taşıtlar",
+    "searchTerms": [
+      "airplane",
+      "plane",
+      "avion",
+      "avión"
+    ]
+  },
+  {
+    "cardId": "tasitlar-bisiklet",
+    "label": "Bisiklet",
+    "category": "Taşıtlar",
+    "searchTerms": [
+      "bicycle",
+      "bike",
+      "bicicleta"
+    ]
+  },
+  {
+    "cardId": "tasitlar-gemi",
+    "label": "Gemi",
+    "category": "Taşıtlar",
+    "searchTerms": [
+      "ship",
+      "boat",
+      "barco"
+    ]
+  },
+  {
+    "cardId": "tasitlar-motosiklet",
+    "label": "Motosiklet",
+    "category": "Taşıtlar",
+    "searchTerms": [
+      "motorcycle",
+      "moto"
+    ]
+  },
+  {
+    "cardId": "tasitlar-taksi",
+    "label": "Taksi",
+    "category": "Taşıtlar",
+    "searchTerms": [
+      "taxi"
+    ]
+  },
+  {
+    "cardId": "tasitlar-ambulans",
+    "label": "Ambulans",
+    "category": "Taşıtlar",
+    "searchTerms": [
+      "ambulance",
+      "ambulancia"
+    ]
+  },
+  {
+    "cardId": "tasitlar-traktor",
+    "label": "Traktör",
+    "category": "Taşıtlar",
+    "searchTerms": [
+      "tractor"
+    ]
+  },
+  {
+    "cardId": "spor-ilgi-futbol",
+    "label": "Futbol",
+    "category": "Spor / İlgi",
+    "searchTerms": [
+      "football",
+      "soccer",
+      "fútbol",
+      "futbol"
+    ]
+  },
+  {
+    "cardId": "spor-ilgi-top",
+    "label": "Top",
+    "category": "Spor / İlgi",
+    "searchTerms": [
+      "ball",
+      "football ball",
+      "pelota"
+    ]
+  },
+  {
+    "cardId": "spor-ilgi-mac",
+    "label": "Maç",
+    "category": "Spor / İlgi",
+    "searchTerms": [
+      "match",
+      "game",
+      "football match",
+      "partido"
+    ]
+  },
+  {
+    "cardId": "spor-ilgi-gol",
+    "label": "Gol",
+    "category": "Spor / İlgi",
+    "searchTerms": [
+      "goal",
+      "gol"
+    ]
+  },
+  {
+    "cardId": "spor-ilgi-forma",
+    "label": "Forma",
+    "category": "Spor / İlgi",
+    "searchTerms": [
+      "jersey",
+      "uniform",
+      "camiseta"
+    ]
+  },
+  {
+    "cardId": "spor-ilgi-aslan",
+    "label": "Aslan",
+    "category": "Spor / İlgi",
+    "searchTerms": [
+      "lion",
+      "leon",
+      "león"
+    ]
+  },
+  {
+    "cardId": "spor-ilgi-galatasaray",
+    "label": "Galatasaray",
+    "category": "Spor / İlgi",
+    "searchTerms": [
+      "lion",
+      "football",
+      "red yellow",
+      "leon",
+      "fútbol"
+    ]
+  },
+  {
+    "cardId": "hayvanlar-kedi",
+    "label": "Kedi",
+    "category": "Hayvanlar",
+    "searchTerms": [
+      "cat",
+      "gato"
+    ]
+  },
+  {
+    "cardId": "hayvanlar-kopek",
+    "label": "Köpek",
+    "category": "Hayvanlar",
+    "searchTerms": [
+      "dog",
+      "perro"
+    ]
+  },
+  {
+    "cardId": "hayvanlar-kus",
+    "label": "Kuş",
+    "category": "Hayvanlar",
+    "searchTerms": [
+      "bird",
+      "pajaro",
+      "pájaro",
+      "ave"
+    ]
+  },
+  {
+    "cardId": "hayvanlar-balik",
+    "label": "Balık",
+    "category": "Hayvanlar",
+    "searchTerms": [
+      "fish",
+      "pez"
+    ]
+  },
+  {
+    "cardId": "hayvanlar-tavsan",
+    "label": "Tavşan",
+    "category": "Hayvanlar",
+    "searchTerms": [
+      "rabbit",
+      "conejo"
+    ]
+  },
+  {
+    "cardId": "hayvanlar-at",
+    "label": "At",
+    "category": "Hayvanlar",
+    "searchTerms": [
+      "horse",
+      "caballo"
+    ]
+  },
+  {
+    "cardId": "hayvanlar-inek",
+    "label": "İnek",
+    "category": "Hayvanlar",
+    "searchTerms": [
+      "cow",
+      "vaca"
+    ]
+  },
+  {
+    "cardId": "hayvanlar-koyun",
+    "label": "Koyun",
+    "category": "Hayvanlar",
+    "searchTerms": [
+      "sheep",
+      "oveja"
+    ]
+  },
+  {
+    "cardId": "hayvanlar-kaplumbaga",
+    "label": "Kaplumbağa",
+    "category": "Hayvanlar",
+    "searchTerms": [
+      "turtle",
+      "tortoise",
+      "tortuga"
+    ]
+  },
+  {
+    "cardId": "hayvanlar-kelebek",
+    "label": "Kelebek",
+    "category": "Hayvanlar",
+    "searchTerms": [
+      "butterfly",
+      "mariposa"
+    ]
+  },
+  {
+    "cardId": "mutfak-tabak",
+    "label": "Tabak",
+    "category": "Mutfak",
+    "searchTerms": [
+      "plate",
+      "dish",
+      "plato"
+    ]
+  },
+  {
+    "cardId": "mutfak-kasik",
+    "label": "Kaşık",
+    "category": "Mutfak",
+    "searchTerms": [
+      "spoon",
+      "cuchara"
+    ]
+  },
+  {
+    "cardId": "mutfak-catal",
+    "label": "Çatal",
+    "category": "Mutfak",
+    "searchTerms": [
+      "fork",
+      "tenedor"
+    ]
+  },
+  {
+    "cardId": "mutfak-bicak",
+    "label": "Bıçak",
+    "category": "Mutfak",
+    "searchTerms": [
+      "knife",
+      "cuchillo"
+    ]
+  },
+  {
+    "cardId": "mutfak-bardak",
+    "label": "Bardak",
+    "category": "Mutfak",
+    "searchTerms": [
+      "glass",
+      "cup",
+      "vaso"
+    ]
+  },
+  {
+    "cardId": "mutfak-tencere",
+    "label": "Tencere",
+    "category": "Mutfak",
+    "searchTerms": [
+      "pot",
+      "saucepan",
+      "olla",
+      "cacerola"
+    ]
+  },
+  {
+    "cardId": "mutfak-tava",
+    "label": "Tava",
+    "category": "Mutfak",
+    "searchTerms": [
+      "pan",
+      "frying pan",
+      "sarten",
+      "sartén"
+    ]
+  },
+  {
+    "cardId": "mutfak-buzdolabi",
+    "label": "Buzdolabı",
+    "category": "Mutfak",
+    "searchTerms": [
+      "fridge",
+      "refrigerator",
+      "nevera",
+      "frigorifico"
+    ]
+  },
+  {
+    "cardId": "mutfak-firin",
+    "label": "Fırın",
+    "category": "Mutfak",
+    "searchTerms": [
+      "oven",
+      "horno"
+    ]
+  },
+  {
+    "cardId": "mutfak-ocak",
+    "label": "Ocak",
+    "category": "Mutfak",
+    "searchTerms": [
+      "stove",
+      "cooker",
+      "hornilla",
+      "cocina"
+    ]
+  },
+  {
+    "cardId": "banyo-kuvet",
+    "label": "Küvet",
+    "category": "Banyo",
+    "searchTerms": [
+      "bathtub",
+      "bath",
+      "bañera"
+    ]
+  },
+  {
+    "cardId": "banyo-dus-basligi",
+    "label": "Duş başlığı",
+    "category": "Banyo",
+    "searchTerms": [
+      "shower head",
+      "ducha"
+    ]
+  },
+  {
+    "cardId": "banyo-lavabo",
+    "label": "Lavabo",
+    "category": "Banyo",
+    "searchTerms": [
+      "sink",
+      "washbasin",
+      "lavabo"
+    ]
+  },
+  {
+    "cardId": "banyo-ayna",
+    "label": "Ayna",
+    "category": "Banyo",
+    "searchTerms": [
+      "mirror",
+      "espejo"
+    ]
+  },
+  {
+    "cardId": "banyo-dis-macunu",
+    "label": "Diş macunu",
+    "category": "Banyo",
+    "searchTerms": [
+      "toothpaste",
+      "pasta de dientes"
+    ]
+  },
+  {
+    "cardId": "banyo-sampuan",
+    "label": "Şampuan",
+    "category": "Banyo",
+    "searchTerms": [
+      "shampoo",
+      "champu",
+      "champú"
+    ]
+  },
+  {
+    "cardId": "banyo-sabunluk",
+    "label": "Sabunluk",
+    "category": "Banyo",
+    "searchTerms": [
+      "soap dish",
+      "soap",
+      "jabonera",
+      "jabon"
+    ]
+  },
+  {
+    "cardId": "banyo-tarak",
+    "label": "Tarak",
+    "category": "Banyo",
+    "searchTerms": [
+      "comb",
+      "peine"
+    ]
+  },
+  {
+    "cardId": "banyo-kirli-sepeti",
+    "label": "Kirli sepeti",
+    "category": "Banyo",
+    "searchTerms": [
+      "laundry basket",
+      "basket",
+      "cesto de ropa",
+      "cesta"
+    ]
+  },
+  {
+    "cardId": "banyo-musluk",
+    "label": "Musluk",
+    "category": "Banyo",
+    "searchTerms": [
+      "tap",
+      "faucet",
+      "grifo"
+    ]
+  },
+  {
+    "cardId": "uyku-uyku-zamani",
+    "label": "Uyku zamanı",
+    "category": "Uyku",
+    "searchTerms": [
+      "sleep time",
+      "bedtime",
+      "dormir"
+    ]
+  },
+  {
+    "cardId": "uyku-yastik",
+    "label": "Yastık",
+    "category": "Uyku",
+    "searchTerms": [
+      "pillow",
+      "almohada"
+    ]
+  },
+  {
+    "cardId": "uyku-battaniye",
+    "label": "Battaniye",
+    "category": "Uyku",
+    "searchTerms": [
+      "blanket",
+      "manta"
+    ]
+  },
+  {
+    "cardId": "uyku-gece-lambasi",
+    "label": "Gece lambası",
+    "category": "Uyku",
+    "searchTerms": [
+      "night light",
+      "lamp",
+      "luz nocturna",
+      "lampara"
+    ]
+  },
+  {
+    "cardId": "uyku-ninni",
+    "label": "Ninni",
+    "category": "Uyku",
+    "searchTerms": [
+      "lullaby",
+      "song",
+      "cancion de cuna"
+    ]
+  },
+  {
+    "cardId": "uyku-ruya",
+    "label": "Rüya",
+    "category": "Uyku",
+    "searchTerms": [
+      "dream",
+      "sueño"
+    ]
+  },
+  {
+    "cardId": "uyku-uykum-var",
+    "label": "Uykum var",
+    "category": "Uyku",
+    "searchTerms": [
+      "sleepy",
+      "tired",
+      "tengo sueño"
+    ]
+  },
+  {
+    "cardId": "uyku-gozlerim-kapali",
+    "label": "Gözlerim kapalı",
+    "category": "Uyku",
+    "searchTerms": [
+      "closed eyes",
+      "eyes closed",
+      "ojos cerrados"
+    ]
+  },
+  {
+    "cardId": "uyku-sessiz-oda",
+    "label": "Sessiz oda",
+    "category": "Uyku",
+    "searchTerms": [
+      "quiet room",
+      "silence",
+      "habitacion silenciosa"
+    ]
+  },
+  {
+    "cardId": "uyku-dinlen",
+    "label": "Dinlenme zamanı",
+    "category": "Uyku",
+    "searchTerms": [
+      "rest",
+      "relax",
+      "descansar"
+    ]
+  },
+  {
+    "cardId": "disari-yuruyus",
+    "label": "Yürüyüş",
+    "category": "Dışarı",
+    "searchTerms": [
+      "walk",
+      "walking",
+      "paseo",
+      "caminar"
+    ]
+  },
+  {
+    "cardId": "disari-kaydirak",
+    "label": "Kaydırak",
+    "category": "Dışarı",
+    "searchTerms": [
+      "slide",
+      "tobogan",
+      "tobogán"
+    ]
+  },
+  {
+    "cardId": "disari-kum-havuzu",
+    "label": "Kum havuzu",
+    "category": "Dışarı",
+    "searchTerms": [
+      "sandbox",
+      "sandpit",
+      "arenero"
+    ]
+  },
+  {
+    "cardId": "disari-cimen",
+    "label": "Çimen",
+    "category": "Dışarı",
+    "searchTerms": [
+      "grass",
+      "cesped",
+      "césped"
+    ]
+  },
+  {
+    "cardId": "disari-cicek",
+    "label": "Çiçek",
+    "category": "Dışarı",
+    "searchTerms": [
+      "flower",
+      "flor"
+    ]
+  },
+  {
+    "cardId": "disari-agac",
+    "label": "Ağaç",
+    "category": "Dışarı",
+    "searchTerms": [
+      "tree",
+      "arbol",
+      "árbol"
+    ]
+  },
+  {
+    "cardId": "disari-bank",
+    "label": "Bank",
+    "category": "Dışarı",
+    "searchTerms": [
+      "bench",
+      "banco"
+    ]
+  },
+  {
+    "cardId": "disari-piknik",
+    "label": "Piknik",
+    "category": "Dışarı",
+    "searchTerms": [
+      "picnic"
+    ]
+  },
+  {
+    "cardId": "disari-deniz",
+    "label": "Deniz",
+    "category": "Dışarı",
+    "searchTerms": [
+      "sea",
+      "ocean",
+      "mar"
+    ]
+  },
+  {
+    "cardId": "disari-golge",
+    "label": "Gölge",
+    "category": "Dışarı",
+    "searchTerms": [
+      "shade",
+      "shadow",
+      "sombra"
+    ]
+  },
+  {
+    "cardId": "teknoloji-tablet",
+    "label": "Tablet",
+    "category": "Teknoloji",
+    "searchTerms": [
+      "tablet"
+    ]
+  },
+  {
+    "cardId": "teknoloji-telefon",
+    "label": "Telefon",
+    "category": "Teknoloji",
+    "searchTerms": [
+      "phone",
+      "telephone",
+      "telefono",
+      "teléfono"
+    ]
+  },
+  {
+    "cardId": "teknoloji-bilgisayar",
+    "label": "Bilgisayar",
+    "category": "Teknoloji",
+    "searchTerms": [
+      "computer",
+      "ordenador",
+      "computadora"
+    ]
+  },
+  {
+    "cardId": "teknoloji-ekran",
+    "label": "Ekran",
+    "category": "Teknoloji",
+    "searchTerms": [
+      "screen",
+      "monitor",
+      "pantalla"
+    ]
+  },
+  {
+    "cardId": "teknoloji-klavye",
+    "label": "Klavye",
+    "category": "Teknoloji",
+    "searchTerms": [
+      "keyboard",
+      "teclado"
+    ]
+  },
+  {
+    "cardId": "teknoloji-fare",
+    "label": "Fare aygıtı",
+    "category": "Teknoloji",
+    "searchTerms": [
+      "computer mouse",
+      "mouse",
+      "raton",
+      "ratón"
+    ]
+  },
+  {
+    "cardId": "teknoloji-sarj-cihazi",
+    "label": "Şarj cihazı",
+    "category": "Teknoloji",
+    "searchTerms": [
+      "charger",
+      "charging cable",
+      "cargador"
+    ]
+  },
+  {
+    "cardId": "teknoloji-hoparlor",
+    "label": "Hoparlör",
+    "category": "Teknoloji",
+    "searchTerms": [
+      "speaker",
+      "altavoz"
+    ]
+  },
+  {
+    "cardId": "teknoloji-uzaktan-kumanda",
+    "label": "Uzaktan kumanda",
+    "category": "Teknoloji",
+    "searchTerms": [
+      "remote control",
+      "mando",
+      "control remoto"
+    ]
+  },
+  {
+    "cardId": "teknoloji-kamera",
+    "label": "Kamera",
+    "category": "Teknoloji",
+    "searchTerms": [
+      "camera",
+      "camara",
+      "cámara"
+    ]
+  }
+]
